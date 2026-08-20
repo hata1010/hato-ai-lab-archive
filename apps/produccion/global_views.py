@@ -1,7 +1,6 @@
 """Vistas de Métricas Globales Oficiales, exclusivas para ROOT."""
 
 from django.core.exceptions import PermissionDenied
-from django.db.models import Count
 from django.shortcuts import get_object_or_404, redirect, render
 from django.views.decorators.http import require_POST
 
@@ -39,6 +38,7 @@ def crear_editar_metrica_global(request, metrica_id=None):
             metrica = form.save(commit=False)
             # Inviolable: una métrica administrada por esta vista nunca pertenece a una finca.
             metrica.finca = None
+            # El formulario ya persistió motor_referencia en la instancia.
             metrica.save()
             return redirect("produccion:metricas_globales_lista")
     else:
@@ -52,16 +52,28 @@ def crear_editar_metrica_global(request, metrica_id=None):
 
 
 def _evaluar_global_en_finca(metrica, finca):
-    """Ejecuta únicamente motores V1 registrados; no finge ejecutar fórmulas AST no soportadas."""
+    """Evalúa una métrica global mediante su motor V1 de referencia persistido."""
+    codigo_motor = metrica.motor_referencia or metrica.codigo
+
     try:
-        definicion = obtener_metrica_v1(metrica.codigo)
+        definicion = obtener_metrica_v1(codigo_motor)
     except ValueError:
-        return {"es_valido": False, "valor": None, "unidad": metrica.unidad_resultado, "error": "La métrica no está registrada en el catálogo Motor V1."}
+        return {
+            "es_valido": False,
+            "valor": None,
+            "unidad": metrica.unidad_resultado,
+            "error": f"El motor de referencia '{codigo_motor}' no está registrado en el catálogo Motor V1.",
+        }
 
     if definicion.familia in ("poblacion", "peso"):
         datos = Animal.objects.filter(finca=finca)
     else:
-        return {"es_valido": False, "valor": None, "unidad": metrica.unidad_resultado, "error": "Familia V1 no conectada al contraste global."}
+        return {
+            "es_valido": False,
+            "valor": None,
+            "unidad": metrica.unidad_resultado,
+            "error": "Familia V1 no conectada al contraste global.",
+        }
 
     try:
         resultado = EjecutorMotorV1().ejecutar(definicion, datos, contexto={})
@@ -72,7 +84,12 @@ def _evaluar_global_en_finca(metrica, finca):
             "error": getattr(resultado, "error", None),
         }
     except Exception as exc:
-        return {"es_valido": False, "valor": None, "unidad": metrica.unidad_resultado, "error": str(exc)}
+        return {
+            "es_valido": False,
+            "valor": None,
+            "unidad": metrica.unidad_resultado,
+            "error": str(exc),
+        }
 
 
 def contraste_global_metrica(request, metrica_id):
