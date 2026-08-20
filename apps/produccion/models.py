@@ -25,10 +25,6 @@ class Metrica(models.Model):
         ("otro", "Otro"),
     ]
 
-    # ========================================================
-    # PERIODICIDAD
-    # ========================================================
-
     PERIODICIDAD_CHOICES = [
         ("diaria", "Diaria"),
         ("semanal", "Semanal"),
@@ -38,10 +34,6 @@ class Metrica(models.Model):
         ("anual", "Anual"),
         ("variable", "Variable"),
     ]
-
-    # ========================================================
-    # TIPO DE RESULTADO
-    # ========================================================
 
     TIPO_RESULTADO_CHOICES = [
         ("numero", "Número"),
@@ -54,10 +46,6 @@ class Metrica(models.Model):
         ("booleano", "Verdadero / Falso"),
     ]
 
-    # ========================================================
-    # PERTENENCIA EMPRESARIAL
-    # ========================================================
-
     finca = models.ForeignKey(
         Finca,
         on_delete=models.PROTECT,
@@ -65,37 +53,18 @@ class Metrica(models.Model):
         null=True,
         blank=True,
         verbose_name="Finca",
-        help_text=(
-            "Finca propietaria de esta definición de métrica."
-        ),
+        help_text="Finca propietaria de esta definición de métrica.",
     )
 
-    # ========================================================
-    # IDENTIDAD DE LA MÉTRICA
-    # ========================================================
-
-    nombre = models.CharField(
-        max_length=200,
-        verbose_name="Nombre",
-    )
+    nombre = models.CharField(max_length=200, verbose_name="Nombre")
 
     codigo = models.CharField(
         max_length=50,
         verbose_name="Código",
-        help_text=(
-            "Identificador utilizado por el motor de métricas. "
-            "Ejemplo: GDP"
-        ),
+        help_text="Identificador utilizado por el motor de métricas. Ejemplo: GDP",
     )
 
-    descripcion = models.TextField(
-        blank=True,
-        verbose_name="Descripción",
-    )
-
-    # ========================================================
-    # CLASIFICACIÓN
-    # ========================================================
+    descripcion = models.TextField(blank=True, verbose_name="Descripción")
 
     categoria = models.CharField(
         max_length=30,
@@ -108,10 +77,7 @@ class Metrica(models.Model):
         max_length=50,
         blank=True,
         verbose_name="Unidad del resultado",
-        help_text=(
-            "Ejemplo: kg/animal/día, litros, %, "
-            "animales, COP."
-        ),
+        help_text="Ejemplo: kg/animal/día, litros, %, animales, COP.",
     )
 
     periodicidad = models.CharField(
@@ -128,80 +94,41 @@ class Metrica(models.Model):
         verbose_name="Tipo de resultado",
     )
 
-    # ========================================================
-    # DEFINICIÓN DEL CÁLCULO
-    # ========================================================
-
     formula = models.TextField(
         blank=True,
         verbose_name="Fórmula",
-        help_text=(
-            "Expresión que define el cálculo de la métrica. "
-            "Ejemplo: "
-            "(PESO_FINAL - PESO_INICIAL) / DIAS"
-        ),
+        help_text="Expresión que define el cálculo de la métrica. Ejemplo: (PESO_FINAL - PESO_INICIAL) / DIAS",
     )
 
-    # ========================================================
-    # CONTROL
-    # ========================================================
-
-    activa = models.BooleanField(
-        default=True,
-        verbose_name="Activa",
+    # Código del motor V1 que debe ejecutar esta definición global.
+    # Se persiste explícitamente porque el código global (p. ej.
+    # PESO_PROMEDIO_GLOBAL) no tiene por qué existir como función V1.
+    motor_referencia = models.CharField(
+        max_length=50,
+        blank=True,
+        verbose_name="Motor base de referencia",
+        help_text="Código del motor V1 utilizado para evaluar esta métrica global.",
     )
 
-    version = models.PositiveIntegerField(
-        default=1,
-        verbose_name="Versión",
-    )
+    activa = models.BooleanField(default=True, verbose_name="Activa")
 
-    # ========================================================
-    # AUDITORÍA
-    # ========================================================
+    version = models.PositiveIntegerField(default=1, verbose_name="Versión")
 
-    created_at = models.DateTimeField(
-        auto_now_add=True,
-        verbose_name="Fecha de creación",
-    )
-
-    updated_at = models.DateTimeField(
-        auto_now=True,
-        verbose_name="Última actualización",
-    )
-
-    # ========================================================
-    # META
-    # ========================================================
+    created_at = models.DateTimeField(auto_now_add=True, verbose_name="Fecha de creación")
+    updated_at = models.DateTimeField(auto_now=True, verbose_name="Última actualización")
 
     class Meta:
         ordering = ["categoria", "nombre"]
-
         verbose_name = "Métrica"
         verbose_name_plural = "Métricas"
-
         constraints = [
-            models.UniqueConstraint(
-                fields=["finca", "codigo"],
-                name="metrica_codigo_unico_por_finca",
-            ),
-            models.UniqueConstraint(
-                fields=["finca", "nombre"],
-                name="metrica_nombre_unico_por_finca",
-            ),
+            models.UniqueConstraint(fields=["finca", "codigo"], name="metrica_codigo_unico_por_finca"),
+            models.UniqueConstraint(fields=["finca", "nombre"], name="metrica_nombre_unico_por_finca"),
         ]
-
-    # ========================================================
-    # REPRESENTACIÓN
-    # ========================================================
 
     def __str__(self):
         if self.finca:
-            return (
-                f"{self.finca.nombre} → "
-                f"{self.codigo} - {self.nombre}"
-            )
-
+            return f"{self.finca.nombre} → {self.codigo} - {self.nombre}"
         return f"{self.codigo} - {self.nombre}"
 
 
@@ -210,20 +137,11 @@ class Metrica(models.Model):
 # ============================================================
 
 class VariableMetrica(models.Model):
-
-    # ========================================================
-    # TIPO DE VARIABLE
-    # ========================================================
-
     TIPO_CHOICES = [
         ("dato", "Dato"),
         ("calculada", "Calculada"),
         ("parametro", "Parámetro"),
     ]
-
-    # ========================================================
-    # REGLA PARA OBTENER EL VALOR
-    # ========================================================
 
     REGLA_CHOICES = [
         ("directo", "Valor directo"),
@@ -233,15 +151,8 @@ class VariableMetrica(models.Model):
         ("suma", "Suma"),
         ("minimo", "Mínimo"),
         ("maximo", "Máximo"),
-        (
-            "diferencia_fechas",
-            "Diferencia entre fechas",
-        ),
+        ("diferencia_fechas", "Diferencia entre fechas"),
     ]
-
-    # ========================================================
-    # RELACIÓN CON LA MÉTRICA
-    # ========================================================
 
     metrica = models.ForeignKey(
         Metrica,
@@ -250,108 +161,43 @@ class VariableMetrica(models.Model):
         verbose_name="Métrica",
     )
 
-    # ========================================================
-    # IDENTIDAD
-    # ========================================================
-
-    nombre = models.CharField(
-        max_length=100,
-        verbose_name="Nombre",
-    )
+    nombre = models.CharField(max_length=100, verbose_name="Nombre")
 
     codigo = models.CharField(
         max_length=50,
         verbose_name="Código",
-        help_text=(
-            "Nombre utilizado dentro de la fórmula. "
-            "Ejemplo: PESO_INICIAL"
-        ),
+        help_text="Nombre utilizado dentro de la fórmula. Ejemplo: PESO_INICIAL",
     )
 
-    # ========================================================
-    # TIPO
-    # ========================================================
-
-    tipo = models.CharField(
-        max_length=20,
-        choices=TIPO_CHOICES,
-        default="dato",
-        verbose_name="Tipo",
-    )
-
-    # ========================================================
-    # ORIGEN DEL DATO
-    # ========================================================
+    tipo = models.CharField(max_length=20, choices=TIPO_CHOICES, default="dato", verbose_name="Tipo")
 
     fuente = models.CharField(
         max_length=100,
         blank=True,
         verbose_name="Fuente",
-        help_text=(
-            "Modelo o fuente de donde se obtiene el dato. "
-            "Ejemplo: PesajeAnimal"
-        ),
+        help_text="Modelo o fuente de donde se obtiene el dato. Ejemplo: PesajeAnimal",
     )
 
     campo = models.CharField(
         max_length=100,
         blank=True,
         verbose_name="Campo",
-        help_text=(
-            "Campo de la fuente utilizado. "
-            "Ejemplo: peso_kg"
-        ),
+        help_text="Campo de la fuente utilizado. Ejemplo: peso_kg",
     )
 
-    # ========================================================
-    # REGLA DE OBTENCIÓN
-    # ========================================================
+    regla = models.CharField(max_length=30, choices=REGLA_CHOICES, default="directo", verbose_name="Regla")
 
-    regla = models.CharField(
-        max_length=30,
-        choices=REGLA_CHOICES,
-        default="directo",
-        verbose_name="Regla",
-    )
+    orden = models.PositiveIntegerField(default=0, verbose_name="Orden")
 
-    # ========================================================
-    # ORDEN
-    # ========================================================
-
-    orden = models.PositiveIntegerField(
-        default=0,
-        verbose_name="Orden",
-    )
-
-    # ========================================================
-    # CONTROL
-    # ========================================================
-
-    activa = models.BooleanField(
-        default=True,
-        verbose_name="Activa",
-    )
-
-    # ========================================================
-    # META
-    # ========================================================
+    activa = models.BooleanField(default=True, verbose_name="Activa")
 
     class Meta:
         ordering = ["orden", "codigo"]
-
         verbose_name = "Variable de Métrica"
         verbose_name_plural = "Variables de Métrica"
-
         constraints = [
-            models.UniqueConstraint(
-                fields=["metrica", "codigo"],
-                name="variable_codigo_unico_por_metrica",
-            )
+            models.UniqueConstraint(fields=["metrica", "codigo"], name="variable_codigo_unico_por_metrica")
         ]
-
-    # ========================================================
-    # REPRESENTACIÓN
-    # ========================================================
 
     def __str__(self):
         return f"{self.metrica.codigo} → {self.codigo}"
