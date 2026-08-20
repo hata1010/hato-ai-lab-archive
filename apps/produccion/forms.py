@@ -78,6 +78,12 @@ class MetricaGlobalForm(forms.ModelForm):
             "activa": forms.CheckboxInput(attrs={"class": "form-check-input"}),
         }
 
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        # Al editar una global existente, mostrar la relación persistida.
+        if self.instance and self.instance.motor_referencia:
+            self.fields["motor_referencia"].initial = self.instance.motor_referencia
+
     def clean_codigo(self):
         codigo = self.cleaned_data.get("codigo", "").strip().upper()
         if not codigo:
@@ -88,3 +94,12 @@ class MetricaGlobalForm(forms.ModelForm):
         if qs.exists():
             raise forms.ValidationError(f"Ya existe una métrica global oficial con el código '{codigo}'.")
         return codigo
+
+    def save(self, commit=True):
+        """Persiste también el motor V1 seleccionado en el registro global."""
+        metrica = super().save(commit=False)
+        metrica.motor_referencia = self.cleaned_data.get("motor_referencia", "") or ""
+        if commit:
+            metrica.save()
+            self.save_m2m()
+        return metrica
