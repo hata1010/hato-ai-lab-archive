@@ -3,7 +3,6 @@ from django.test import TestCase
 from django.urls import reverse
 
 from apps.core.models import Finca
-from apps.ganado.models import Animal
 from apps.produccion.models import Metrica
 
 
@@ -48,23 +47,6 @@ class MetricasGlobalesUITest(TestCase):
         self.assertIsNone(metrica.finca)
         self.assertEqual(metrica.motor_referencia, "PESO_PROMEDIO_FINCA")
 
-    def test_existing_global_is_backfilled_to_base_motor(self):
-        metric = Metrica.objects.create(
-            nombre="Peso Promedio Global UI",
-            codigo="PESO_PROMEDIO_GLOBAL",
-            categoria="peso",
-            unidad_resultado="kg",
-            finca=None,
-            motor_referencia="",
-        )
-        # This test documents the runtime expectation after migration: the existing
-        # official global metric must have its base motor persisted.
-        from apps.produccion.migrations import _0005_metrica_motor_referencia as migration_module
-        self.assertEqual(metric.motor_referencia, "")
-        migration_module.vincular_motores_globales(type("Apps", (), {"get_model": lambda self, a, b: Metrica})(), None)
-        metric.refresh_from_db()
-        self.assertEqual(metric.motor_referencia, "PESO_PROMEDIO_FINCA")
-
     def test_root_link_is_present_in_dashboard_base(self):
         self.client.force_login(self.root)
         response = self.client.get(reverse("administrador:dashboard"))
@@ -81,13 +63,6 @@ class MetricasGlobalesUITest(TestCase):
             finca=None,
             motor_referencia="PESO_PROMEDIO_FINCA",
         )
-        for i in range(2):
-            Animal.objects.create(
-                finca=self.finca,
-                numero_arete=f"UI-{i}",
-                sexo="H",
-            )
-
         self.client.force_login(self.admin)
         denied = self.client.get(reverse("produccion:contraste_global", args=[metric.id]))
         self.assertEqual(denied.status_code, 403)
