@@ -18,6 +18,7 @@ from apps.produccion.engine import (
     EjecutorMotorV1,
     obtener_metrica_v1,
     METRICAS_V1,
+    DefinicionMetrica,
 )
 from apps.produccion.global_views import (
     metricas_globales_lista,
@@ -104,6 +105,7 @@ def crear_editar_metrica(request, metrica_id=None):
 
 
 def probar_metrica(request, metrica_id=None):
+    """Laboratorio interactivo de prueba en vivo con resolución robusta de métricas."""
     finca = obtener_finca_activa(request)
     fincas_disponibles = obtener_fincas_usuario(request.user)
     if getattr(request.user, "is_superuser", False):
@@ -116,15 +118,18 @@ def probar_metrica(request, metrica_id=None):
             metricas_disponibles = Metrica.objects.filter(Q(finca=finca) | Q(finca__isnull=True), activa=True)
         else:
             metricas_disponibles = Metrica.objects.filter(finca__isnull=True, activa=True)
+
     id_seleccionada = request.GET.get("metrica_id") or metrica_id
     metrica_db = None
     if id_seleccionada:
         metrica_db = metricas_disponibles.filter(id=id_seleccionada).first()
     if not metrica_db:
         metrica_db = metricas_disponibles.first()
+
     if metrica_db and metrica_db.finca and not finca:
         if verificar_acceso_finca(request.user, metrica_db.finca):
             finca = metrica_db.finca
+
     sexo = request.GET.get("sexo", "")
     nombres_filtro = {"": "Todos", "H": "Hembras (H)", "M": "Machos (M)"}
     filtro_nombre = nombres_filtro.get(sexo, "Todos")
@@ -132,33 +137,30 @@ def probar_metrica(request, metrica_id=None):
     resultado = None
     error = None
     def_v1 = None
+
     if metrica_db and finca:
-        codigo_catalogo = metrica_db.codigo
-        try:
-            def_v1 = obtener_metrica_v1(codigo_catalogo)
-        except ValueError:
-            def_v1 = None
-        if def_v1:
-            ejecutor = EjecutorMotorV1()
-            if def_v1.familia in ("poblacion", "peso"):
-                datos_fuente = Animal.objects.filter(finca=finca)
-                if sexo in ("H", "M"):
-                    datos_fuente = datos_fuente.filter(sexo=sexo)
-            elif def_v1.familia == "territorial":
-                datos_fuente = [p.area_hectareas for p in Potrero.objects.filter(finca=finca, is_active=True)]
-            elif def_v1.familia == "crecimiento":
-                datos_fuente = Animal.objects.filter(finca=finca, pesajes__isnull=False).distinct().first()
-            elif def_v1.familia == "capacidad_carga":
-                total_anim = Animal.objects.filter(finca=finca, estado="activo").count()
-                total_ha = sum(p.area_hectareas for p in Potrero.objects.filter(finca=finca, is_active=True) if p.area_hectareas)
-                datos_fuente = {"animales": total_anim, "hectareas": total_ha}
-            else:
-                datos_fuente = Animal.objects.filter(finca=finca)
-            resultado = ejecutor.ejecutar(def_v1, datos_fuente, contexto=contexto_eval)
+        def_v1 = DefinicionMetrica.desde_modelo(metrica_db)
+        ejecutor = EjecutorMotorV1()
+
+        if def_v1.familia in ("poblacion", "peso", "ganado"):
+            datos_fuente = Animal.objects.filter(finca=finca)
+            if sexo in ("H", "M"):
+                datos_fuente = datos_fuente.filter(sexo=sexo)
+        elif def_v1.familia in ("territorial", "potreros"):
+            datos_fuente = [p.area_hectareas for p in Potrero.objects.filter(finca=finca, is_active=True)]
+        elif def_v1.familia == "crecimiento":
+            datos_fuente = Animal.objects.filter(finca=finca, pesajes__isnull=False).distinct().first()
+        elif def_v1.familia in ("capacidad_carga", "productividad", "sostenibilidad"):
+            total_anim = Animal.objects.filter(finca=finca, estado="activo").count()
+            total_ha = sum(p.area_hectareas for p in Potrero.objects.filter(finca=finca, is_active=True) if p.area_hectareas)
+            datos_fuente = {"animales": total_anim, "hectareas": total_ha}
         else:
-            error = f"El código '{codigo_catalogo}' no tiene una función registrada en el catálogo V1."
+            datos_fuente = Animal.objects.filter(finca=finca)
+
+        resultado = ejecutor.ejecutar(def_v1, datos_fuente, contexto=contexto_eval)
     elif not metrica_db:
         error = "No existen métricas activas para evaluar en esta finca."
+
     contexto = {
         "finca": finca,
         "fincas_disponibles": fincas_disponibles,
