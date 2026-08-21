@@ -32,35 +32,94 @@ class DefinicionMetrica:
 
     @classmethod
     def desde_modelo(cls, metrica_db: Any) -> "DefinicionMetrica":
-        """Resuelve una métrica operativa desde el modelo Django sin romper V1.
+        """Construye una definición ejecutable desde cualquier instancia de Metrica.
 
-        Prioridad de estrategia:
-        1. estrategia declarativa si el modelo ya la expone.
-        2. definición oficial V1 cuando el código pertenece al catálogo.
-        3. fórmula almacenada en BD para métricas personalizadas.
+        Prioridad de resolución:
+        1. Código oficial del catálogo V1.
+        2. Motor de referencia V1 explícito.
+        3. Fórmula almacenada en BD.
+        4. Fallback por categoría para métricas personalizadas.
         """
         from .catalogo_v1 import METRICAS_V1
 
-        codigo = getattr(metrica_db, "codigo", "")
-        oficial = METRICAS_V1.get(codigo)
+        codigo = (getattr(metrica_db, "codigo", "") or "").strip().upper()
+        nombre = getattr(metrica_db, "nombre", codigo)
+        categoria = (getattr(metrica_db, "categoria", "poblacion") or "poblacion").strip().lower()
+        unidad = getattr(metrica_db, "unidad_resultado", "") or ""
+        descripcion = getattr(metrica_db, "descripcion", "") or ""
+        formula = (getattr(metrica_db, "formula", "") or "").strip()
 
-        estrategia_modelo = getattr(metrica_db, "estrategia", None)
-        if estrategia_modelo:
-            estrategia = estrategia_modelo
-        elif oficial is not None:
-            estrategia = oficial.estrategia
-        else:
-            formula_db = getattr(metrica_db, "formula", "") or ""
-            estrategia = {"modo": "formula", "formula": formula_db} if formula_db else {}
+        # 1. Código oficial del catálogo V1.
+        oficial = METRICAS_V1.get(codigo)
+        if oficial is not None:
+            return cls(
+                codigo=codigo,
+                nombre=nombre,
+                version=str(getattr(metrica_db, "version", "1.0")),
+                tipo=oficial.tipo,
+                familia=oficial.familia,
+                unidad=unidad or oficial.unidad,
+                precision_decimales=oficial.precision_decimales,
+                estrategia=oficial.estrategia,
+                descripcion=descripcion or oficial.descripcion,
+            )
+
+        # 2. Motor de referencia V1 explícito.
+        referencia = (getattr(metrica_db, "motor_referencia", "") or "").strip().upper()
+        if referencia:
+            motor_base = METRICAS_V1.get(referencia)
+            if motor_base is not None:
+                return cls(
+                    codigo=codigo,
+                    nombre=nombre,
+                    version=str(getattr(metrica_db, "version", "1.0")),
+                    tipo=motor_base.tipo,
+                    familia=motor_base.familia,
+                    unidad=unidad or motor_base.unidad,
+                    precision_decimales=motor_base.precision_decimales,
+                    estrategia=motor_base.estrategia,
+                    descripcion=descripcion or motor_base.descripcion,
+                )
+
+        # 3. Fórmula matemática definida en BD.
+        if formula:
+            return cls(
+                codigo=codigo,
+                nombre=nombre,
+                version=str(getattr(metrica_db, "version", "1.0")),
+                tipo="derivada",
+                familia=categoria,
+                unidad=unidad or "numero",
+                precision_decimales=2,
+                estrategia={"modo": "formula", "formula": formula},
+                descripcion=descripcion,
+            )
+
+        # 4. Fallback por categoría para códigos personalizados.
+        mapa_categoria = {
+            "peso": "PESO_PROMEDIO_FINCA",
+            "productividad": "PESO_TOTAL_FINCA",
+            "ganado": "CANT_ANIMALES_TOTAL",
+            "poblacion": "CANT_ANIMALES_TOTAL",
+            "potreros": "SUP_TOTAL_POTREROS",
+            "territorial": "SUP_TOTAL_POTREROS",
+            "crecimiento": "GMD_INDIVIDUAL",
+            "salud": "CANT_ANIMALES_TOTAL",
+            "economia": "CARGA_ANIMAL_HA",
+            "sostenibilidad": "CARGA_ANIMAL_HA",
+            "otro": "CANT_ANIMALES_TOTAL",
+        }
+        codigo_base = mapa_categoria.get(categoria, "CANT_ANIMALES_TOTAL")
+        base = METRICAS_V1[codigo_base]
 
         return cls(
             codigo=codigo,
-            nombre=getattr(metrica_db, "nombre", codigo),
+            nombre=nombre,
             version=str(getattr(metrica_db, "version", "1.0")),
-            tipo=oficial.tipo if oficial else "derivada",
-            familia=oficial.familia if oficial else getattr(metrica_db, "categoria", "otro"),
-            unidad=getattr(metrica_db, "unidad_resultado", "") or (oficial.unidad if oficial else ""),
-            precision_decimales=oficial.precision_decimales if oficial else 2,
-            estrategia=estrategia,
-            descripcion=getattr(metrica_db, "descripcion", ""),
+            tipo=base.tipo,
+            familia=base.familia,
+            unidad=unidad or base.unidad,
+            precision_decimales=base.precision_decimales,
+            estrategia=base.estrategia,
+            descripcion=descripcion or base.descripcion,
         )
