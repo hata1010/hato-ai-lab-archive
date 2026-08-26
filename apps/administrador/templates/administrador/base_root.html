@@ -1,0 +1,25 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Hato AI Lab{% endblock %}</title>
+    
+    <!-- CSS Nativo para las paletas (Noche, Lavanda, etc) -->
+    <link rel="stylesheet" href="{% static 'administrador/css/dashboard.css' %}">
+    
+    <!-- LIBRERIA TAILWIND (Motor visual moderno para todo el sistema) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    {% block extra_head %}{% endblock %}
+</head>
+<body data-theme="noche" class="bg-[#f4f5f8] min-h-screen">
+    
+    {% block estructura_principal %}
+    <!-- Aquí se inyecta el layout secundario (ej. base_admin) -->
+    {% endblock %}
+
+    {% block extra_scripts %}{% endblock %}
+</body>
+</html>

@@ -1,85 +1,90 @@
-{% load static %}
+{% extends "administrador/base_root.html" %}
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}Hato{% endblock %}</title>
-    <link rel="stylesheet" href="{% static 'administrador/css/dashboard.css' %}">
-</head>
-<body data-theme="noche">
+{% block estructura_principal %}
+<!-- BARRA SUPERIOR (TOPBAR) -->
 <header class="topbar">
-    <div class="brand">🐄 Hato</div>
-    <div class="user-area">
+    <div class="brand flex items-center gap-2">🐄 Hato AI Lab</div>
+    
+    <!-- CONTEXTO DEL HATO -->
+    <div class="hidden md:flex flex-col text-center">
+        <span class="text-[10px] text-gray-400 uppercase tracking-widest font-bold">📍 Operando en:</span>
+        <strong class="text-sm text-gray-200">{{ finca.nombre|default:"Seleccione Finca" }}</strong>
+    </div>
+
+    <!-- USUARIO Y APARIENCIA -->
+    <div class="user-area flex items-center gap-4">
         {% if user.is_authenticated %}
-            <span>{{ user.username }}</span>
-            {% if user.is_superuser %}
-                <span class="badge" style="background:var(--hato-primary-strong);color:white;padding:2px 8px;border-radius:4px;font-size:0.75rem;margin-left:5px;font-weight:800;">ROOT</span>
-            {% endif %}
+            <div class="flex items-center gap-2 border-r border-gray-600 pr-4">
+                <div class="w-8 h-8 rounded-full bg-blue-600 flex items-center justify-center text-white font-bold text-sm shadow">
+                    {{ user.username|make_list|first|upper }}
+                </div>
+                <div class="flex flex-col">
+                    <span class="text-sm font-bold text-gray-200">{{ user.username }}</span>
+                    {% if user.is_superuser %}
+                        <span class="text-[9px] bg-red-500 text-white px-1.5 rounded-sm font-bold uppercase tracking-wider w-max">ROOT</span>
+                    {% endif %}
+                </div>
+            </div>
         {% else %}
             <span>Hato AI Lab</span>
         {% endif %}
-        <details class="theme-picker">
-            <summary>🎨 Apariencia</summary>
-            <div class="theme-picker-panel">
-                <strong>Elige la apariencia de Hato</strong>
-                <div class="theme-options">
-                    <button class="theme-option" type="button" data-theme-choice="rocio">
-                        <span class="theme-swatch swatch-rocio"></span>🌿 Rocío de Mañana
-                    </button>
-                    <button class="theme-option" type="button" data-theme-choice="lavanda">
-                        <span class="theme-swatch swatch-lavanda"></span>🪻 Llanura Lavanda
-                    </button>
-                    <button class="theme-option" type="button" data-theme-choice="alborada">
-                        <span class="theme-swatch swatch-alborada"></span>🌅 Alborada Rosa
-                    </button>
-                    <button class="theme-option" type="button" data-theme-choice="noche">
-                        <span class="theme-swatch swatch-noche"></span>🌌 Noche Llanera
-                    </button>
-                </div>
+        
+        <details class="theme-picker relative">
+            <summary class="cursor-pointer text-sm font-medium hover:text-white transition">🎨 Apariencia</summary>
+            <div class="theme-picker-panel absolute right-0 mt-2 bg-[#2d333b] border border-gray-600 rounded shadow-lg p-2 z-50 min-w-[120px]">
+                <button type="button" data-set-theme="noche" class="w-full text-left px-3 py-1.5 text-sm text-gray-300 hover:bg-gray-700 rounded transition">Noche</button>
+                <button type="button" data-set-theme="alborada" class="w-full text-left px-3 py-1.5 text-sm text-gray-300 hover:bg-gray-700 rounded transition">Alborada</button>
+                <button type="button" data-set-theme="rocio" class="w-full text-left px-3 py-1.5 text-sm text-gray-300 hover:bg-gray-700 rounded transition">Rocío</button>
+                <button type="button" data-set-theme="lavanda" class="w-full text-left px-3 py-1.5 text-sm text-gray-300 hover:bg-gray-700 rounded transition">Lavanda</button>
             </div>
         </details>
     </div>
 </header>
 
-<div class="layout">
-    <aside class="sidebar">
-        <nav>
-            <a href="{% url 'administrador:dashboard' %}">🏠 Inicio</a>
+<div style="display: flex; min-height: calc(100vh - 60px);">
+    <!-- BARRA LATERAL (SIDEBAR) -->
+    <aside class="sidebar bg-[#343a40] text-gray-300 w-64 flex-shrink-0 transition-all border-r border-gray-700">
+        <nav class="p-4">
+            <!-- MÓDULO ADMINISTRADOR -->
+            <ul class="space-y-1 mb-6">
+                <li><a href="/admin/" class="flex items-center gap-3 px-3 py-2 text-sm text-gray-300 hover:bg-[#4b545c] hover:text-white rounded transition">⚙️ Panel superusuario</a></li>
+                <li><a href="{% url 'core:fincas_lista' %}" class="flex items-center gap-3 px-3 py-2 text-sm text-gray-300 hover:bg-[#4b545c] hover:text-white rounded transition">🏢 Mis Fincas</a></li>
+            </ul>
+            
+            {% if finca %}
+                <!-- MÓDULO GANADO -->
+                <div class="px-3 py-2 text-[10px] font-bold uppercase tracking-wider text-gray-500 border-t border-gray-700 mt-2 mb-1">Módulo Ganado</div>
+                <ul class="space-y-1 mb-6">
+                    <li><a href="{% url 'ganado:lista_animales' %}" class="flex items-center gap-3 px-3 py-2 text-sm rounded transition {% if 'animales' in request.path %}bg-blue-600 text-white shadow-sm font-medium{% else %}text-gray-300 hover:bg-[#4b545c] hover:text-white{% endif %}">🐄 Animales</a></li>
+                    <li><a href="{% url 'ganado:lista_movilidad' %}" class="flex items-center gap-3 px-3 py-2 text-sm rounded transition {% if 'movilidad' in request.path %}bg-blue-600 text-white shadow-sm font-medium{% else %}text-gray-300 hover:bg-[#4b545c] hover:text-white{% endif %}">📍 Movilidad</a></li>
+                    <li><a href="{% url 'ganado:lista_pesajes' %}" class="flex items-center gap-3 px-3 py-2 text-sm rounded transition {% if 'pesajes' in request.path %}bg-blue-600 text-white shadow-sm font-medium{% else %}text-gray-300 hover:bg-[#4b545c] hover:text-white{% endif %}">⚖️ Pesajes</a></li>
+                    <li><a href="{% url 'ganado:lista_salud' %}" class="flex items-center gap-3 px-3 py-2 text-sm rounded transition {% if 'salud' in request.path %}bg-blue-600 text-white shadow-sm font-medium{% else %}text-gray-300 hover:bg-[#4b545c] hover:text-white{% endif %}">🩺 Salud</a></li>
+                    <li><a href="{% url 'ganado:tablero_reproduccion' %}" class="flex items-center gap-3 px-3 py-2 text-sm rounded transition {% if 'reproduccion' in request.path %}bg-blue-600 text-white shadow-sm font-medium{% else %}text-gray-300 hover:bg-[#4b545c] hover:text-white{% endif %}">🍼 Reproducción</a></li>
+                    <li><a href="{% url 'ganado:lista_compras' %}" class="flex items-center gap-3 px-3 py-2 text-sm rounded transition {% if 'compras' in request.path %}bg-blue-600 text-white shadow-sm font-medium{% else %}text-gray-300 hover:bg-[#4b545c] hover:text-white{% endif %}">🛒 Adquisiciones</a></li>
+                </ul>
 
-            <div class="menu-section">🌾 FINCAS</div>
-            <a href="{% url 'seleccionar_finca' %}">🌾 Seleccionar finca</a>
-            <a href="{% url 'mapa_finca_activa' %}">🗺️ Mapa de finca</a>
-
-            <div class="menu-section">🐄 GANADO</div>
-            <a href="{% url 'ganado:lista_animales' %}">🐄 Animales</a>
-            <a href="{% url 'ganado:lista_movilidad' %}">🔄 Movilidad del ganado</a>
-            <a href="{% url 'ganado:lista_pesajes' %}">⚖️ Pesajes</a>
-            <a href="{% url 'ganado:lista_salud' %}">🩺 Salud / Historia clínica</a>
-
-            <div class="menu-section">📊 PRODUCCIÓN</div>
-            <a href="{% url 'produccion:indicadores' %}">📈 Indicadores</a>
-            <a href="{% url 'produccion:lista_metricas' %}">📊 Métricas</a>
-            <a href="{% url 'produccion:prueba_motor' %}">⚙️ Motor de métricas</a>
-
-            {% if user.is_superuser %}
-            <div class="menu-section">🌐 GLOBAL</div>
-            <a href="{% url 'produccion:metricas_globales_lista' %}" style="background:color-mix(in srgb,var(--hato-primary) 10%,transparent);color:var(--hato-primary);font-weight:800;border-left:3px solid var(--hato-primary);">
-                🌐 Métricas Globales (ROOT)
-            </a>
-
-            <div class="menu-section">⚙️ ADMINISTRACIÓN</div>
-            <a href="{% url 'admin:index' %}">🔐 Administración técnica</a>
+                <!-- MÓDULO PRODUCCIÓN (SUPER MOTOR) -->
+                <div class="px-3 py-2 text-[10px] font-bold uppercase tracking-wider text-gray-500 border-t border-gray-700 mt-2 mb-1">Módulo Producción</div>
+                <ul class="space-y-1">
+                    <li><a href="{% url 'produccion:lista_metricas' %}" class="flex items-center gap-3 px-3 py-2 text-sm text-gray-300 hover:bg-[#4b545c] hover:text-white rounded transition">📈 Métricas Zootécnicas</a></li>
+                    <li><a href="{% url 'produccion:metricas_globales_lista' %}" class="flex items-center gap-3 px-3 py-2 text-sm text-gray-300 hover:bg-[#4b545c] hover:text-white rounded transition">🌍 Catálogo Oficial</a></li>
+                </ul>
             {% endif %}
         </nav>
     </aside>
 
-    <main class="content">
+    <!-- ÁREA DE TRABAJO PRINCIPAL (Donde se inyectan las tarjetas y componentes) -->
+    <main class="content flex-1 overflow-y-auto">
         {% block content %}{% endblock %}
     </main>
 </div>
 
-<script src="{% static 'administrador/js/dashboard.js' %}"></script>
-</body>
-</html>
+<script>
+document.querySelectorAll('.theme-picker-panel button').forEach(btn => {
+    btn.addEventListener('click', e => {
+        const theme = e.target.dataset.setTheme;
+        document.body.setAttribute('data-theme', theme);
+    });
+});
+</script>
+{% endblock %}
