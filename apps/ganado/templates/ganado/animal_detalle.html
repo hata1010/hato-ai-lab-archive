@@ -1,71 +1,218 @@
 {% extends "administrador/base.html" %}
 
-{% block title %}Ficha {{ animal.numero_arete }} · {{ finca.nombre }}{% endblock %}
+{% block title %}Animal {{ animal.numero_arete }} · {{ finca.nombre }}{% endblock %}
 
 {% block content %}
-<div style="display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;">
-    <div><h1>🐄 {{ animal.numero_arete }}</h1><p>{{ animal.nombre_propio|default:"Sin nombre" }} · {{ finca.nombre }}</p></div>
-    <div><a href="{% url 'ganado:lista_animales' %}">← Animales</a>{% if puede_gestionar %} · <a href="{% url 'ganado:editar_animal' animal.id %}">✏️ Editar</a>{% endif %}</div>
+<div class="max-w-7xl mx-auto space-y-6 p-4 md:p-8 font-sans">
+
+    <!-- 1. HEADER Y NAVEGACIÓN -->
+    <div class="bg-white rounded-xl shadow-sm border border-slate-200 p-6 flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+        <div class="flex items-center gap-4">
+            <div class="w-16 h-16 bg-blue-50 rounded-full flex items-center justify-center text-blue-600 text-3xl font-bold border border-blue-100">
+                {% if animal.sexo == 'M' %}🐂{% else %}🐄{% endif %}
+            </div>
+            <div>
+                <h1 class="text-3xl font-bold text-slate-800 tracking-tight">{{ animal.numero_arete }} <span class="text-lg font-normal text-slate-500 ml-2">{{ animal.nombre_propio|default:"" }}</span></h1>
+                <div class="flex flex-wrap items-center gap-2 mt-2 text-sm text-slate-600 font-medium">
+                    {% if animal.estado == 'activo' %}
+                        <span class="px-2.5 py-0.5 rounded-full bg-green-100 text-green-800 text-xs font-bold uppercase tracking-wider">Activo</span>
+                    {% else %}
+                        <span class="px-2.5 py-0.5 rounded-full bg-slate-100 text-slate-800 text-xs font-bold uppercase tracking-wider">{{ animal.get_estado_display }}</span>
+                    {% endif %}
+                    <span>{{ animal.categoria|default:"Sin Categoría" }}</span>
+                    <span class="text-slate-300">|</span>
+                    <span>Finca: {{ finca.nombre }}</span>
+                </div>
+            </div>
+        </div>
+        <div class="flex flex-wrap gap-2">
+            <a href="{% url 'ganado:lista_animales' %}" class="bg-slate-200 text-slate-700 px-4 py-2 rounded-lg hover:bg-slate-300 font-medium text-sm transition flex items-center gap-2 shadow-sm">← Inventario</a>
+            {% if puede_gestionar %}
+            <a href="{% url 'ganado:editar_animal' animal.id %}" class="bg-white border border-slate-300 text-slate-700 px-4 py-2 rounded-lg hover:bg-slate-50 font-medium text-sm transition shadow-sm">✏️ Editar Ficha</a>
+            <a href="{% url 'ganado:lista_pesajes' %}?q={{ animal.numero_arete }}" class="bg-indigo-600 text-white px-4 py-2 rounded-lg hover:bg-indigo-700 font-medium text-sm transition shadow-sm">⚖️ Pesajes</a>
+            <a href="{% url 'ganado:lista_salud' %}?q={{ animal.numero_arete }}" class="bg-teal-600 text-white px-4 py-2 rounded-lg hover:bg-teal-700 font-medium text-sm transition shadow-sm">🩺 Salud</a>
+            <a href="{% url 'ganado:lista_movilidad' %}?q={{ animal.numero_arete }}" class="bg-orange-500 text-white px-4 py-2 rounded-lg hover:bg-orange-600 font-medium text-sm transition shadow-sm">📍 Movilidad</a>
+            {% endif %}
+        </div>
+    </div>
+
+    <!-- 2. GRID PRINCIPAL (Tarjetas) -->
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+
+        <!-- Tarjeta A: Identidad Biológica y Origen -->
+        <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden col-span-1 lg:col-span-2 flex flex-col">
+            <div class="bg-slate-50 border-b border-slate-200 px-4 py-3 flex justify-between items-center">
+                <h2 class="font-bold text-slate-800 text-sm uppercase tracking-wider">🧬 Identidad Biológica y Genética</h2>
+            </div>
+            <div class="p-6 grid grid-cols-2 md:grid-cols-3 gap-6 flex-1">
+                <div>
+                    <p class="text-xs text-slate-500 uppercase font-bold tracking-wider mb-1">Sexo</p>
+                    <p class="text-sm font-semibold text-slate-900">{{ animal.get_sexo_display }}</p>
+                </div>
+                <div>
+                    <p class="text-xs text-slate-500 uppercase font-bold tracking-wider mb-1">Especie y Raza</p>
+                    <p class="text-sm font-semibold text-slate-900">{{ animal.especie.nombre|default:"-" }} / {{ animal.raza_declarada.nombre|default:"-" }}</p>
+                </div>
+                <div>
+                    <p class="text-xs text-slate-500 uppercase font-bold tracking-wider mb-1">Fecha Nacimiento</p>
+                    <p class="text-sm font-semibold text-slate-900">{{ animal.fecha_nacimiento|date:"d/m/Y"|default:"Desconocida" }}</p>
+                </div>
+                
+                <div class="col-span-2 md:col-span-3 border-t border-slate-100 pt-4 mt-2">
+                    <p class="text-xs text-slate-500 uppercase font-bold tracking-wider mb-3">Genealogía Confirmada</p>
+                    <div class="flex flex-col md:flex-row gap-4">
+                        <div class="bg-blue-50/50 text-blue-900 p-3 rounded-lg border border-blue-100 text-sm w-full flex items-center justify-between">
+                            <span class="font-bold">Padre:</span>
+                            {% if animal.padre %}
+                                <a href="{% url 'ganado:detalle_animal' animal.padre.id %}" class="text-blue-600 hover:underline font-semibold">{{ animal.padre.numero_arete }}</a>
+                            {% else %}
+                                <span class="text-slate-400">Desconocido</span>
+                            {% endif %}
+                        </div>
+                        <div class="bg-pink-50/50 text-pink-900 p-3 rounded-lg border border-pink-100 text-sm w-full flex items-center justify-between">
+                            <span class="font-bold">Madre:</span>
+                            {% if animal.madre %}
+                                <a href="{% url 'ganado:detalle_animal' animal.madre.id %}" class="text-pink-600 hover:underline font-semibold">{{ animal.madre.numero_arete }}</a>
+                            {% else %}
+                                <span class="text-slate-400">Desconocida</span>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-span-2 md:col-span-3 border-t border-slate-100 pt-4 mt-2">
+                    <p class="text-xs text-slate-500 uppercase font-bold tracking-wider mb-3">📍 Origen y Procedencia</p>
+                    {% if animal.procedencia %}
+                        <div class="flex flex-wrap gap-x-6 gap-y-2 text-sm text-slate-800">
+                            <p><strong>Vía:</strong> {{ animal.procedencia.get_tipo_display }}</p>
+                            <p><strong>Fecha:</strong> {{ animal.procedencia.fecha|date:"d/m/Y"|default:"—" }}</p>
+                            <p><strong>Origen:</strong> {{ animal.procedencia.origen_nombre|default:"—" }}</p>
+                        </div>
+                        {% if animal.adquisicion %}
+                            <div class="mt-3 bg-green-50 p-3 rounded-lg border border-green-100 text-sm text-green-900">
+                                <strong>Compra:</strong> {{ animal.adquisicion.adquisicion }} <br>
+                                <strong>Precio individual:</strong> {{ animal.adquisicion.precio_individual|default:"—" }} <br>
+                                <strong>Proveedor:</strong> {{ animal.adquisicion.adquisicion.proveedor }}
+                            </div>
+                        {% endif %}
+                        {% if animal.nacimiento_reproductivo %}
+                            <div class="mt-3 bg-indigo-50 p-3 rounded-lg border border-indigo-100 text-sm text-indigo-900">
+                                <strong>Nacimiento (Parto):</strong> {{ animal.nacimiento_reproductivo.parto.fecha|date:"d/m/Y" }} <br>
+                                <strong>Madre del parto:</strong> {{ animal.nacimiento_reproductivo.parto.animal.numero_arete }} <br>
+                                <strong>Toro registrado:</strong> {{ animal.nacimiento_reproductivo.parto.toro|default:"No registrado" }}
+                            </div>
+                        {% endif %}
+                    {% else %}
+                        <p class="text-sm text-slate-500 italic">Sin procedencia registrada.</p>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+
+        <!-- Tarjeta B: Estado en Finca -->
+        <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden flex flex-col">
+            <div class="bg-slate-50 border-b border-slate-200 px-4 py-3">
+                <h2 class="font-bold text-slate-800 text-sm uppercase tracking-wider">📊 Estado Zootécnico</h2>
+            </div>
+            <div class="p-6 space-y-6 flex-1">
+                <!-- Potrero (Movimientos) -->
+                <div class="flex items-start gap-4">
+                    <div class="text-orange-500 text-2xl mt-0.5">📍</div>
+                    <div class="flex-1">
+                        <p class="text-xs text-slate-500 uppercase font-bold tracking-wider mb-1">Ubicación Actual</p>
+                        {% with mov_actual=movimientos.first %}
+                            {% if mov_actual and mov_actual.activo %}
+                                <p class="text-sm font-bold text-slate-900">{{ mov_actual.potrero.nombre }}</p>
+                                <p class="text-xs text-slate-500 mt-1">Desde: {{ mov_actual.fecha_entrada|date:"d/m/Y H:i" }}</p>
+                            {% else %}
+                                <p class="text-sm text-slate-500 italic">Sin ubicación activa</p>
+                            {% endif %}
+                        {% endwith %}
+                    </div>
+                </div>
+                
+                <!-- Pesaje -->
+                <div class="flex items-start gap-4 border-t border-slate-100 pt-5">
+                    <div class="text-indigo-500 text-2xl mt-0.5">⚖️</div>
+                    <div class="flex-1">
+                        <p class="text-xs text-slate-500 uppercase font-bold tracking-wider mb-1">Registro de Peso</p>
+                        {% with ultimo_peso=pesajes.first %}
+                            {% if ultimo_peso %}
+                                <p class="text-sm font-bold text-slate-900">{{ ultimo_peso.peso_kg }} Kg</p>
+                                <p class="text-xs text-slate-500 mt-1">Pesado el {{ ultimo_peso.fecha|date:"d/m/Y" }}</p>
+                            {% else %}
+                                <p class="text-sm text-slate-500 italic">Sin pesajes registrados</p>
+                            {% endif %}
+                        {% endwith %}
+                    </div>
+                </div>
+
+                <!-- Marcas -->
+                <div class="flex items-start gap-4 border-t border-slate-100 pt-5">
+                    <div class="text-gray-500 text-2xl mt-0.5">🏷️</div>
+                    <div class="flex-1">
+                        <p class="text-xs text-slate-500 uppercase font-bold tracking-wider mb-1">Marcas Físicas</p>
+                        <p class="text-sm text-slate-800"><strong>Microchip:</strong> {{ animal.microchip|default:"—" }}</p>
+                        <p class="text-sm text-slate-800"><strong>Tatuaje:</strong> {{ animal.tatuaje|default:"—" }}</p>
+                        <p class="text-sm text-slate-800"><strong>Reg. Gen.:</strong> {{ animal.registro_genealogico|default:"—" }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 3. HISTORIALES (TABLAS INFERIORES) -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        
+        <!-- Salud -->
+        <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+            <div class="bg-slate-50 border-b border-slate-200 px-4 py-3 flex justify-between items-center">
+                <h2 class="font-bold text-slate-800 text-sm uppercase tracking-wider">🩺 Salud Reciente</h2>
+                <a href="{% url 'ganado:historia_salud_animal' animal.id %}" class="text-xs text-blue-600 font-bold hover:underline">Ver todo</a>
+            </div>
+            <div class="overflow-x-auto">
+                <table class="min-w-full divide-y divide-slate-200">
+                    <tbody class="bg-white divide-y divide-slate-200">
+                        {% for e in eventos_salud|slice:":3" %}
+                        <tr class="hover:bg-slate-50">
+                            <td class="px-4 py-3 whitespace-nowrap text-sm text-slate-600">{{ e.fecha|date:"d/m/Y" }}</td>
+                            <td class="px-4 py-3 whitespace-nowrap text-sm font-bold text-slate-800">{{ e.get_tipo_display }}</td>
+                            <td class="px-4 py-3 whitespace-nowrap text-sm text-slate-600">{{ e.producto|default:"—" }}</td>
+                        </tr>
+                        {% empty %}
+                        <tr><td colspan="3" class="px-4 py-4 text-center text-sm text-slate-500">Sin eventos de salud</td></tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Movimientos -->
+        <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+            <div class="bg-slate-50 border-b border-slate-200 px-4 py-3 flex justify-between items-center">
+                <h2 class="font-bold text-slate-800 text-sm uppercase tracking-wider">🔄 Movimientos Recientes</h2>
+                <a href="{% url 'ganado:historial_movilidad_animal' animal.id %}" class="text-xs text-blue-600 font-bold hover:underline">Ver todo</a>
+            </div>
+            <div class="overflow-x-auto">
+                <table class="min-w-full divide-y divide-slate-200">
+                    <tbody class="bg-white divide-y divide-slate-200">
+                        {% for m in movimientos|slice:":3" %}
+                        <tr class="hover:bg-slate-50">
+                            <td class="px-4 py-3 whitespace-nowrap text-sm font-bold text-slate-800">{{ m.potrero }}</td>
+                            <td class="px-4 py-3 whitespace-nowrap text-sm text-slate-600">{{ m.fecha_entrada|date:"d/m/Y" }}</td>
+                            <td class="px-4 py-3 whitespace-nowrap text-center">
+                                {% if m.activo %}<span class="px-2 py-0.5 rounded bg-green-100 text-green-800 text-xs font-bold">Activo</span>{% else %}<span class="px-2 py-0.5 rounded bg-slate-100 text-slate-600 text-xs font-bold">Cerrado</span>{% endif %}
+                            </td>
+                        </tr>
+                        {% empty %}
+                        <tr><td colspan="3" class="px-4 py-4 text-center text-sm text-slate-500">Sin movimientos</td></tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+    </div>
+
 </div>
-
-<section>
-<h2>Identidad</h2>
-<p><strong>Especie:</strong> {{ animal.especie }}</p>
-<p><strong>Raza:</strong> {{ animal.raza_declarada|default:"No especificada" }}</p>
-<p><strong>Sexo:</strong> {{ animal.get_sexo_display }}</p>
-<p><strong>Fecha de nacimiento:</strong> {{ animal.fecha_nacimiento|default:"No registrada" }}</p>
-<p><strong>Categoría:</strong> {{ animal.categoria|default:"No registrada" }}</p>
-<p><strong>Estado:</strong> {{ animal.get_estado_display }}{% if not animal.is_active %} · Inactivo{% endif %}</p>
-</section>
-
-<section>
-<h2>📍 Origen del animal</h2>
-{% if animal.procedencia %}
-<p><strong>Procedencia:</strong> {{ animal.procedencia.get_tipo_display }}</p>
-<p><strong>Fecha:</strong> {{ animal.procedencia.fecha|default:"—" }}</p>
-<p><strong>Origen:</strong> {{ animal.procedencia.origen_nombre|default:"—" }}</p>
-{% else %}
-<p>Sin procedencia registrada.</p>
-{% endif %}
-{% if animal.adquisicion %}
-<p><strong>Compra:</strong> {{ animal.adquisicion.adquisicion }} · Precio individual: {{ animal.adquisicion.precio_individual|default:"—" }}</p>
-<p><strong>Proveedor:</strong> {{ animal.adquisicion.adquisicion.proveedor }} · Documento: {{ animal.adquisicion.adquisicion.numero_documento|default:"—" }}</p>
-{% endif %}
-{% if animal.nacimiento_reproductivo %}
-<p><strong>Nacimiento:</strong> parto de {{ animal.nacimiento_reproductivo.parto.animal }} · {{ animal.nacimiento_reproductivo.parto.fecha }}</p>
-<p><strong>Padre registrado en el parto:</strong> {{ animal.nacimiento_reproductivo.parto.toro|default:"No registrado" }}</p>
-{% endif %}
-</section>
-
-<section>
-<h2>🧬 Identificación y genealogía</h2>
-<p><strong>Microchip:</strong> {{ animal.microchip|default:"—" }} · <strong>Tatuaje:</strong> {{ animal.tatuaje|default:"—" }}</p>
-<p><strong>Registro genealógico:</strong> {{ animal.registro_genealogico|default:"—" }}</p>
-<p><strong>Padre:</strong> {{ animal.padre|default:"—" }} · <strong>Madre:</strong> {{ animal.madre|default:"—" }}</p>
-<p><strong>Observaciones:</strong> {{ animal.observaciones|default:"—" }}</p>
-</section>
-
-<section>
-<div style="display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;">
-    <h2>🔄 Movilidad</h2>
-    <div><a href="{% url 'ganado:historial_movilidad_animal' animal.id %}">Ver historial completo</a>{% if puede_gestionar %} · <a href="{% url 'ganado:crear_movimiento' %}?animal={{ animal.id }}">➕ Registrar entrada / cambio</a>{% endif %}</div>
-</div>
-{% if movimientos %}<table><tr><th>Potrero</th><th>Entrada</th><th>Salida</th><th>Estado</th></tr>{% for m in movimientos|slice:":5" %}<tr><td>{{ m.potrero }}</td><td>{{ m.fecha_entrada }}</td><td>{{ m.fecha_salida|default:"—" }}</td><td>{% if m.activo %}🟢 Activo{% else %}⚪ Cerrado{% endif %}</td></tr>{% endfor %}</table>{% else %}<p>Sin movimientos registrados.</p>{% endif %}
-</section>
-
-<section>
-<div style="display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;">
-    <h2>⚖️ Pesajes</h2>
-    <div><a href="{% url 'ganado:historial_pesajes_animal' animal.id %}">Ver historial completo</a>{% if puede_gestionar %} · <a href="{% url 'ganado:crear_pesaje' %}?animal={{ animal.id }}">➕ Registrar pesaje</a>{% endif %}</div>
-</div>
-{% if pesajes %}<table><tr><th>Fecha</th><th>Peso</th><th>Observaciones</th></tr>{% for p in pesajes|slice:":5" %}<tr><td>{{ p.fecha }}</td><td>{{ p.peso_kg }} kg</td><td>{{ p.observaciones|default:"—" }}</td></tr>{% endfor %}</table>{% else %}<p>Sin pesajes registrados.</p>{% endif %}
-</section>
-
-<section>
-<div style="display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;">
-    <h2>🩺 Salud</h2>
-    <div><a href="{% url 'ganado:historia_salud_animal' animal.id %}">Ver historia clínica completa</a>{% if puede_gestionar %} · <a href="{% url 'ganado:crear_evento_salud' %}?animal={{ animal.id }}">➕ Registrar evento</a>{% endif %}</div>
-</div>
-{% if eventos_salud %}<table><tr><th>Fecha</th><th>Evento</th><th>Producto</th><th>Dosis</th><th>Veterinario</th></tr>{% for e in eventos_salud|slice:":5" %}<tr><td>{{ e.fecha }}</td><td>{{ e.get_tipo_display }}</td><td>{{ e.producto|default:"—" }}</td><td>{{ e.dosis|default:"—" }}</td><td>{{ e.nombre_veterinario|default:"—" }}</td></tr>{% endfor %}</table>{% else %}<p>Sin eventos de salud registrados.</p>{% endif %}
-</section>
 {% endblock %}
