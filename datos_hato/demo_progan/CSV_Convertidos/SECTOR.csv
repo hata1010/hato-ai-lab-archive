@@ -1,0 +1,3 @@
+SECTOR,NOMSECTOR,COMSECTOR
+FICT,FICTICIO,"Este Sector es usado para registrar el Potrero 'FICT', este es usado para registro de animales solo para referencia,  los cuales no se presentaran en sus Inventarios"
+SECTOR-MODELO,Sector Modelo,"Sector Modelo, El sector puede ser un negocio ganadero independiente o un area especifica de la Finca o Rancho, registre los sectores que correspondan a su entorno"
