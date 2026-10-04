@@ -1,0 +1,13 @@
+CODPROBLE,DESCPROBLE,COMDIAG,TIPODIAG
+BRUCELOSIS,Brucelosis Bovina (BB),"Es una enfermedad bacteriana, infectocontagiosa, producida por la Brucella abortus.",No Reproductivo
+MASTITIS,Mastitis,"Consiste en la inflamaci¢n de las gl ndulas mamarias o la ubre, que genera dolor y estrs a las vacas, ocasionando disminuci¢n en la producci¢n y en la calidad de la leche",No Reproductivo
+FIEBRE AFTOSA,Fiebre Aftosa,"Es una enfermedad viral muy contagiosa que afecta a animales de doble pezu¤a. Se caracteriza por fiebre y ampollas en boca, nariz, pezones y patas",No Reproductivo
+ANAPLASMOSIS,Anaplasmosis,"La anaplasmosis bovina es una enfermedad infecciosa, aguda a cr¢nica, caracterizada por presentar anemia, ictericia y fiebre.",No Reproductivo
+DIARREA VIRAL BOVINA,Diarrea Viral Bovina (DVB),Es una infecci¢n del ganado bovino causada por un pestivirus que presenta varias formas cl¡nicas,No Reproductivo
+LEPTOSPIROSIS,Leptospirosis,"Es una zoonosis bacteriana que provoca abortos, mortinatos, infertilidad y disminuci¢n en la producci¢n lechera",No Reproductivo
+NEOSPOROSIS,Neosporosis Bovina,"Es una enfermedad parasitaria emergente producida por Neospora caninum, un protozoo, capaz de provocar subfertilidad, prdidas tempranas de la gestaci¢n",No Reproductivo
+HIPOPLASIA OVARICA,Hipoplasia Ovarica,"Es una malformaci¢n de tipo congnito, que se caracteriza por la falta de un crecimiento y desarrollo adecuado de los ovarios",Reproductivo
+METRITIS,Metritis,Es la inflamaci¢n del £tero originada por la entrada y proliferaci¢n de bacterias en el tracto reproductivo,Reproductivo
+NEUMONIA BOVINA,Neumonia Bovina,Es una infecci¢n del pulm¢n. Se caracteriza por la multiplicaci¢n de microorganismos en el interior de las cavidades,No Reproductivo
+OVARIO QUISTICO,Ovario Quistico,Es una importante disfunci¢n ov rica y una de las mayores causas de problemas reproductivo,Reproductivo
+RINOTRAQUEITIS,Rinotraqueitis Infecciosa Bovina (IBR),Es una enfermedad respiratoria aguda y contagiosa del ganado bovino causada por el herpesvirus,No Reproductivo

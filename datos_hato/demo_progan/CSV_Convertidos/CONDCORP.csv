@@ -1,0 +1,10 @@
+CODCCORP,DESCCORP,COMCCORP
+ECC1,Flaco,"Los huesos de la espalda, costillas, dorso, caderas y anca son puntiagudos y fácilmente visibles. Hay pérdida de la musculatura"
+ECC2,Muy Delgado,"Depósitos grasos imperceptibles; sin embargo, se observa algo de musculatura en los cuartos posteriores. La espina dorsal es puntiaguda y se pueden observar fácilmente los espacios entre las protuberancias."
+ECC3,Delgado,"La columna vertebral es bastante visible. Las protuberancias de la espina dorsal pueden ser identificadas individualmente al tacto, o aun verse. Los espacios entre las protuberancias son menos notorios."
+ECC4,Regular,"Las costillas anteriores no se notan visualmente, pero las dos últimas (12 y 13) se notan claramente, especialmente en ganado con amplio arco de costillas y costillas bien separadas"
+ECC5,Moderado,Las costillas 12 y 13 no se observan. Las protuberancias laterales de la espina dorsal no son visibles; pueden identificarse al tacto con fuerte presión y se notan redondeadas
+ECC6,Bueno,Las costillas no son visibles; aparecen totalmente cubiertas. Los cuartos posteriores se observan bien desarrollados (llenos y redondeados)
+ECC7,Muy Bueno,Las puntas de la espina dorsal pueden notarse solamente con fuerte presión y los espacios entre las protuberancias laterales difícilmente pueden distinguirse
+ECC8,Gordo,"La apariencia del animal es compacta, redondeada y la estructura ósea no se observa. La grasa de cobertura es gruesa y esponjosa en partes"
+ECC9,Muy Gordo,La estructura ósea no se observa o se palpa con dificultad. La base de la cola totalmente cubierta de grasa. La movilidad del animal se dificulta debido al exceso de grasa

@@ -1,0 +1,3 @@
+POTRERO,CODSECTOR,NOMPOTRE,CMPOTRE,HECTAREAS,PASTO,CARMAX
+FICT,FICT,FICTICIO,"En este Potrero se registraran animales de referencia, estos no se presentaran en sus inventarios, por ejemplo codigos de 'Pajuelas' y animales que no le pertenecen pero cuyos datos se usaran para los arboles genealogicos",1.0,,1
+POT-MODELO,SECTOR-MODELO,Potrero Modelo,"Potrero Modelo, el animal debe estar vinculado a un Potrero, registre los que considere o puede crear un Potrero Unico para el Ingreso de sus Animales",0.0,,0
