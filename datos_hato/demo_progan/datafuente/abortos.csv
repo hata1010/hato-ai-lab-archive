@@ -1,0 +1,40 @@
+id,nro_animal,fecha_aborto,obs
+1,1089,2023-03-06 00:00:00,
+2,3015,2023-06-08 00:00:00,
+3,3026A,2023-07-10 00:00:00,
+4,3108,2023-06-28 00:00:00,
+5,406,2023-07-01 00:00:00,
+6,9037,2023-03-31 00:00:00,
+7,BU023,2023-05-05 00:00:00,
+8,S/Ni,2022-11-29 00:00:00,
+10,0215A,2023-10-24 00:00:00,
+11,4122,2023-10-13 00:00:00,
+12,9082,2023-10-31 00:00:00,
+13,BU023,2023-12-11 00:00:00,
+14,20,2023-12-30 00:00:00,
+15,7049,2023-04-15 00:00:00,
+16,9110A,2023-08-22 00:00:00,
+17,2028A,2024-01-11 00:00:00,
+18,5111,2024-01-24 00:00:00,
+20,0284,2024-02-17 00:00:00,aborto a término
+21,0340A,2024-03-04 00:00:00,aborto en Caño Arenas
+22,0215A,2024-05-23 00:00:00,borto en Caño Arenas
+23,BU340,2024-08-08 00:00:00,
+24,2023,2024-08-18 00:00:00,
+25,xxx,2024-08-18 00:00:00,en laguna SS/ x determinar madre
+26,0355,2024-09-28 00:00:00,
+27,406,2024-08-15 00:00:00,
+28,9073,2024-11-01 00:00:00,SE DETERMINO POR PRESENTAR RESTOS DE PLACENTA COLGANDO
+29,9018B,2024-09-15 00:00:00,fecha aborto calculado dada la distancia entre fecha de Dx.
+30,9121,2025-02-10 00:00:00,aborto en Caño Arena
+31,2034,2024-11-15 00:00:00,fecha de aborto estimada
+32,9104,2024-06-10 00:00:00,se estimó la fecha
+33,80841,2025-01-15 00:00:00,se estimó la fecha
+34,BU329,2025-07-03 00:00:00,
+35,J8705,2025-07-26 00:00:00,aparecio en potrero con restos en la vagina
+36,8054,2025-08-08 00:00:00,se penso que tenia la cria oculta  aborto en mod 02
+37,3119,2025-09-10 00:00:00,aborto en mod 2 reporto Abraham
+38,23017,2026-07-08 00:00:00,reportada por Alberto
+39,9071,2026-04-15 00:00:00,se reporto aborto en fecha diferida jun 2026
+40,6020,2026-02-15 00:00:00,"fecha estimada, ppor descarte"
+41,9006,2026-08-26 00:00:00,"reportado por Ruben, en mod 04, no dio la id de  la vaca"

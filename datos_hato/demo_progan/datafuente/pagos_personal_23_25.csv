@@ -1,0 +1,1172 @@
+id,codigo,fecha,nombre_receptor,cedula_nro,concepto,monto,moneda,en_letras
+1,Junior,2023-12-18 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono nocturno guardia de pollos lote 03-23,10.0,USD,diez
+2,Marlyn,2023-12-18 00:00:00,Moreno Yurma  Marlenny,22887969.0,prestamo  pagadero enero 2024,40.0,USD,cuarenta
+3,Marlyn,2023-12-18 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono cierre de lote 03-23 de pollos,20.0,USD,veinte
+4,José,2023-12-15 00:00:00,Moreno Manuel,25509266.0,"amance ""susana""  ""9007""",15.0,USD,quince
+5,Junior,2023-12-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,"amance ""tigresa""  ""1109A""",15.0,USD,quince
+6,Claudio,2023-12-15 00:00:00,Claudio Rodriguez,0.0,bono incremento ordeño PM 2qna dic23,15.0,USD,quince
+7,Junior,2023-12-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono incremento ordeño PM 2qna dic23,15.0,USD,quince
+8,Carlos,2023-12-15 00:00:00,Carlos Rodriguez,22882274.0,bono incremento ordeño PM 2qna dic23,15.0,USD,quince
+9,José,2023-12-15 00:00:00,Moreno Manuel,25509266.0,bono incremento ordeño PM 2qna dic23,15.0,USD,quince
+10,José,2023-12-15 00:00:00,Moreno Manuel,25509266.0,bono llanero 1era qna dic23,10.0,USD,diez
+11,Carlos,2023-12-15 00:00:00,Carlos Rodriguez,22882274.0,bono llanero 1era qna dic23,10.0,USD,diez
+12,José,2023-12-15 00:00:00,Moreno Manuel,25509266.0,bono de producciòn 1era qna dic 23,20.0,USD,veinte
+13,Junior,2023-12-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono de producciòn 1era qna dic 23,20.0,USD,veinte
+14,Claudio,2023-12-15 00:00:00,Claudio Rodriguez,0.0,bono de producciòn 1era qna dic 23,20.0,USD,veinte
+15,Carlos,2023-12-15 00:00:00,Carlos Rodriguez,22882274.0,bono de producciòn 1era qna dic 23,20.0,USD,veinte
+16,Junior,2023-12-13 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono nocturno guardia de pollos,10.0,USD,diez
+17,Junior,2023-12-13 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,incremento bono producción ordeño de la tarde,15.0,USD,quince
+18,José,2023-12-13 00:00:00,Moreno Manuel,25509266.0,incremento bono producción ordeño de la tarde,15.0,USD,quince
+19,Claudio,2023-12-13 00:00:00,Claudio Rodriguez,0.0,incremento bono producción ordeño de la tarde,15.0,USD,quince
+20,Carlos,2023-12-13 00:00:00,Carlos Rodriguez,22882274.0,incremento bono producción ordeño de la tarde,15.0,USD,quince
+21,Carlos,2023-12-13 00:00:00,Carlos Rodriguez,22882274.0,"amance ""guariqueña Nro 8033""; ""ardilla Nro 2""",30.0,USD,treinta
+22,Junior,2023-12-13 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,"amance novilla ""4057""",15.0,USD,quince
+23,Claudio,2023-11-30 00:00:00,Claudio Rodriguez,0.0,"amance novilla ""0018""",15.0,USD,quince
+24,José,2023-11-30 00:00:00,Moreno Manuel,25509266.0,trabajo especial de llanero 2da qna de nov,10.0,USD,diez
+25,Junior,2023-11-30 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,trabajo especial de llanero 2da qna de nov,10.0,USD,diez
+26,Claudio,2023-11-30 00:00:00,Claudio Rodriguez,0.0,bono nocturno guardia de pollos,10.0,USD,diez
+27,Carlos,2023-11-30 00:00:00,Carlos Rodriguez,22882274.0,trabajo especial de llanero 2da qna de nov,10.0,USD,diez
+28,Marlyn,2023-11-30 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono produccion2do lote de pollos,20.0,USD,veinte
+29,José,2023-11-30 00:00:00,Moreno Manuel,25509266.0,bonoproducción 2da qna de nov,20.0,USD,veinte
+30,Claudio,2023-11-30 00:00:00,Claudio Rodriguez,0.0,bonoproducción 2da qna de nov,20.0,USD,veinte
+31,Carlos,2023-11-30 00:00:00,Carlos Rodriguez,22882274.0,bonoproducción 2da qna de nov,20.0,USD,veinte
+32,Junior,2023-11-30 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bonoproducción 2da qna de nov,20.0,USD,veinte
+33,Alberto,2023-11-30 00:00:00,Alberto Linares,0.0,bonoproduccion 2da qna de nov,50.0,USD,cincuenta
+34,Alberto,2023-11-15 00:00:00,Alberto Linares,0.0,bonoproduccion 1era qna de nov,50.0,USD,cincuenta
+35,José,2023-11-15 00:00:00,Moreno Manuel,25509266.0,bonoproduccion 1era qna de nov. Prorata,6.0,USD,seis
+36,Junior,2023-11-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,trabajo especial de llanero 1er qna de nov,10.0,USD,diez
+37,Carlos,2023-11-15 00:00:00,Carlos Rodriguez,22882274.0,trabajo especial de llanero 1er qna de nov,10.0,USD,diez
+38,Nelson,2023-11-15 00:00:00,Nelson Jose Romero,16797061.0,bonoproduccion 1era qna de noviembre,20.0,USD,veinte
+39,Claudio,2023-11-15 00:00:00,Claudio Rodriguez,0.0,bonoproduccion 1era qna de noviembre,20.0,USD,veinte
+40,Junior,2023-11-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bonoproduccion 1era qna de noviembre,20.0,USD,veinte
+41,Carlos,2023-11-15 00:00:00,Carlos Rodriguez,22882274.0,bonoproduccion 1era qna de noviembre,20.0,USD,veinte
+42,Claudio,2023-11-03 00:00:00,Claudio Rodriguez,0.0,"amance novilla ""manchita""",15.0,USD,quince
+43,Marlyn,2023-11-02 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono produccion 1er lote de pollos,20.0,USD,veinte
+44,Claudio,2023-11-02 00:00:00,Claudio Rodriguez,0.0,amance novila Andrea nro 4072,15.0,USD,quince
+45,Junior,2023-11-02 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bonoproduccion 2da qna de octubre,20.0,USD,veinte
+46,Nelson,2023-11-02 00:00:00,Nelson Jose Romero,16797061.0,bonoproduccion 2da qna de octubre,20.0,USD,veinte
+47,Carlos,2023-11-02 00:00:00,Carlos Rodriguez,22882274.0,bonoproduccion 2da qna de octubre,20.0,USD,veinte
+48,Carlos,2023-11-02 00:00:00,Carlos Rodriguez,22882274.0,trabajo especial de llanero 2da qna de octubre,10.0,USD,diez
+49,Angel,2023-11-02 00:00:00,Angel Logan,31360137.0,trabajo especial de llanero 2da qna de octubre,10.0,USD,diez
+50,Junior,2023-11-02 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,trabajo especial de llanero 2da qna de octubre,10.0,USD,diez
+51,Angel,2023-11-02 00:00:00,Angel Logan,31360137.0,"1/2 amance de 4057, 0128, 4043,  20 dolares  + 100 bs",22.5,USD,veintidos quinientos
+52,Angel,2023-10-23 00:00:00,Angel Logan,31360137.0,"8 dias de bono de producción   10,67 dolares mas 8 dias de trabajo de llanero 5,33 dolares total 16 USD  (desde 16 oct hasta 23 de oct)",16.0,USD,diez y seis
+53,Abraham,2023-10-16 00:00:00,Abraham Ruiz Solorsano,0.0,dia feriado 12 octubre 2023,5.0,USD,cinco
+54,Junior,2023-10-16 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,dia feriado 12 octubre 2023,5.0,USD,cinco
+55,Nelson,2023-10-16 00:00:00,Nelson Jose Romero,16797061.0,dia feriado 12 octubre 2023,5.0,USD,cinco
+56,Angel,2023-10-16 00:00:00,Angel Logan,31360137.0,dia feriado 12 octubre 2023,5.0,USD,cinco
+57,Carlos,2023-10-16 00:00:00,Carlos Rodriguez,22882274.0,dia feriado 12 octubre 2023,5.0,USD,cinco
+58,Carlos,2023-10-16 00:00:00,Carlos Rodriguez,22882274.0,trabajo especial de llanero 1er qna de octubre,10.0,USD,diez
+59,Angel,2023-10-16 00:00:00,Angel Logan,31360137.0,trabajo especial de llanero 1er qna de octubre,10.0,USD,diez
+60,Junior,2023-10-16 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,trabajo especial de llanero 1er qna de octubre,10.0,USD,diez
+61,Junior,2023-10-16 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bonoproduccion 1era qna de octubre,20.0,USD,veinte
+62,Nelson,2023-10-16 00:00:00,Nelson Jose Romero,16797061.0,bonoproduccion 1era qna de octubre,20.0,USD,veinte
+63,Carlos,2023-10-16 00:00:00,Carlos Rodriguez,22882274.0,bonoproduccion 1era qna de octubre,20.0,USD,veinte
+64,Angel,2023-10-16 00:00:00,Angel Logan,31360137.0,bonoproduccion 1era qna de octubre,20.0,USD,veinte
+65,Junior,2023-09-29 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono producción 1ra semana de trabajo,10.0,USD,diez
+66,Nelson,2023-09-29 00:00:00,Nelson Jose Romero,16797061.0,amance novillas: nro 8046 princesa; 9040 ; ,30.0,USD,treinta
+67,Carlos,2023-09-29 00:00:00,Carlos Rodriguez,22882274.0,amance novillas: nro7007 puerto rico; 6010 tembladora; 9020 pato real; berenjena 6021,60.0,USD,sesenta
+68,Carlos,2023-09-29 00:00:00,Carlos Rodriguez,22882274.0,trabajo a destajo de llanero 2da qna sep,10.0,USD,diez
+69,Angel,2023-09-29 00:00:00,Angel Logan,31360137.0,trabajo a destajo de llanero  2da qna sep,10.0,USD,diez
+70,Carlos,2023-09-29 00:00:00,Carlos Rodriguez,22882274.0,bono producción 2da Qna sep,20.0,USD,veinte
+71,Nelson,2023-09-29 00:00:00,Nelson Jose Romero,16797061.0,bono producción 2da Qna sep,20.0,USD,veinte
+72,Angel,2023-09-29 00:00:00,Angel Logan,31360137.0,bono producción 2da Qna sep,20.0,USD,veinte
+73,Yonaiker,2023-09-26 00:00:00,yoneiker Garcia,31724188.0,trabajo a destajo (cuidado de pollos BB),20.0,USD,veinte
+74,jesus,2023-09-20 00:00:00,Jesus Manuel Balderrama,23953667.0,trabajo a destajo como llanero,7.0,USD,siete
+75,Angel,2023-09-15 00:00:00,Angel Logan,31360137.0,suplencia de Antonio 01/09/23,5.0,USD,cinco
+76,Carlos,2023-09-15 00:00:00,Carlos Rodriguez,22882274.0,trabajo a destajo de llanero,10.0,USD,diez
+77,Angel,2023-09-15 00:00:00,Angel Logan,31360137.0,trabajo a destajo de llanero,10.0,USD,diez
+78,Nelson,2023-09-15 00:00:00,Nelson Jose Romero,16797061.0,bono produccion 1era qna de sept,20.0,USD,veinte
+79,Carlos,2023-09-15 00:00:00,Carlos Rodriguez,22882274.0,bono produccion 1era qna de sept,20.0,USD,veinte
+80,Angel,2023-09-15 00:00:00,Angel Logan,31360137.0,bono produccion 1era qna de sept,20.0,USD,veinte
+81,Antonio,2023-08-16 00:00:00,Antonio Manuel Acevedo Blanco,25888224.0,diferencia de pago de quincena (por error de calculo al pasar de llanero a ordeñador),10.0,USD,diez
+82,Antonio,2023-08-31 00:00:00,Antonio Manuel Acevedo Blanco,25888224.0,amance de novillas: nro: 8019 ropa sucia-9051 garcita-nro 7 espejito 5076 anais (vaca machirra mal amanzada `por walter),60.0,USD,sesenta
+83,Nelson,2023-08-31 00:00:00,Nelson Jose Romero,16797061.0,amance de novillas: 5079-7076,30.0,USD,treinta
+84,Angel,2023-08-31 00:00:00,Angel Logan,31360137.0,"amance de novillas : mina de oro, nro: 7033",15.0,USD,quince
+85,Carlos,2023-08-31 00:00:00,Carlos Rodriguez,22882274.0,"amance de novillas : Frescolita, nro: 8045",15.0,USD,quince
+86,Carlos,2023-08-30 00:00:00,Carlos Rodriguez,22882274.0,trabajo especial de llanero,20.0,UD$,veinte
+87,Carlos,2023-08-30 00:00:00,Carlos Rodriguez,22882274.0,bono produccion 2da Qna agosto,20.0,UD$,veinte
+88,Antonio,2023-08-30 00:00:00,Antonio Manuel Acevedo Blanco,25888224.0,trabajo especial de llanero,20.0,UD$,veinte
+89,Antonio,2023-08-30 00:00:00,Antonio Manuel Acevedo Blanco,25888224.0,bono produccion 2da Qna agosto,20.0,UD$,veinte
+90,Nelson,2023-08-30 00:00:00,Nelson Jose Romero,16797061.0,bono produccion 2da Qna agosto,20.0,UD$,veinte
+91,Angel,2023-08-30 00:00:00,Angel Logan,31360137.0,trabajo especial de llanero,20.0,UD$,veinte
+92,Angel,2023-08-30 00:00:00,Angel Logan,31360137.0,bono produccion 2da Qna de agosto,20.0,UD$,veinte
+93,Abraham,2023-08-30 00:00:00,Abraham Ruiz Solorsano,0.0,"amance yegua, chocolate, rucio moro",70.0,UD$,setenta
+94,Angel,2023-08-28 00:00:00,Angel Logan,31360137.0,"amance de caballos:  café con leche, paraulata, macho, castrado",70.0,UD$,setenta
+95,Antonio,2023-08-28 00:00:00,Antonio Manuel Acevedo Blanco,25888224.0,"amance de caballos: rey david, doña isabela, la campesina, café con leche",210.0,UD$,docientos diez
+96,Carlos,2023-08-15 00:00:00,Carlos Rodriguez,22882274.0,suplencia 02/08/23,5.0,UD$,cinco
+97,Angel,2023-08-15 00:00:00,Angel Logan,31360137.0,suplencia 03 y 11  de ago 2023 ,10.0,UD$,diez
+98,Antonio,2023-08-15 00:00:00,Antonio Manuel Acevedo Blanco,25888224.0,Bono  producción 1ra qna Agosto,20.0,UD$,veinte
+99,Nelson,2023-08-15 00:00:00,Nelson Jose Romero,16797061.0,Bono  producción 1ra qna Agosto,20.0,UD$,veinte
+100,Carlos,2023-08-15 00:00:00,Carlos Rodriguez,22882274.0,Bono  producción 1ra qna Agosto,20.0,UD$,veinte
+101,Angel,2023-08-15 00:00:00,Angel Logan,31360137.0,Bono  producción 1ra qna Agosto,20.0,UD$,veinte
+102,Luis,2023-08-01 00:00:00,Quiche Naspe,27623769.0,bono producción 2da quincena de julio,15.0,UD$,quince
+103,Carlos,2023-08-01 00:00:00,Carlos Rodriguez,22882274.0,bono producción 2da quincena de julio,20.0,UD$,veinte
+104,Angel,2023-08-01 00:00:00,Angel Logan,31360137.0,bono producción 2da quincena de julio,20.0,UD$,veinte
+105,Nelson,2023-08-01 00:00:00,Nelson Jose Romero,16797061.0,bono producción 2da quincena de julio,20.0,UD$,veinte
+106,Walter,2023-08-01 00:00:00,Walter Beomon,22384363.0,bono producción 2da quincena de julio,20.0,UD$,veinte
+107,Nelson,2023-08-01 00:00:00,Nelson Jose Romero,16797061.0,amance novilla: 4008.,15.0,UD$,quince
+108,Carlos,2023-08-01 00:00:00,Carlos Rodriguez,22882274.0,amance novilla: 8043;8050,30.0,UD$,treinta
+109,Angel,2023-08-01 00:00:00,Angel Logan,31360137.0,amance novillas: 7074;8087;8093;8048;8086;5146.,90.0,UD$,noventa
+110,Walter,2023-08-01 00:00:00,Walter Beomon,22384363.0,amance novillas nro 5076;8077;9040,45.0,UD$,cuarenta y cinco
+111,Ronny,2023-01-05 00:00:00,Ronny Jaramillo,20887400.0,4 dias de trabajo,20.0,US$,veinte
+112,Claudio,2023-01-05 00:00:00,Claudio Rodriguez,0.0,dias festivos,15.0,US$,quince
+113,Carlos,2023-01-06 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion y dias festivos,60.0,US$,sesenta
+114,Yeiser,2023-01-06 00:00:00,yeiser Campos,27580800.0,bono de produccion y dias festivos,40.0,US$,cuarenta
+115,Nelson,2023-01-07 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion y dias festivos,40.0,US$,cuarenta
+116,Ruben,2023-01-07 00:00:00,Ruben Rodriguez,0.0,trabajo a destajo,15.0,US$,quince
+117,Claudio,2023-01-17 00:00:00,Claudio Rodriguez,0.0,4 amances ,20.0,US$,veinte
+118,Angel,2023-01-30 00:00:00,Angel Logan,31360137.0,bono mes febrero,20.0,US$,veinte
+119,Camargo,2023-02-28 00:00:00,Jose Camargo,0.0,2da qna feb 2023,30.0,US$,treinta
+120,Camargo,2023-02-28 00:00:00,Jose Camargo,0.0,bono de produccion mes feb,20.0,US$,veinte
+121,Anibal,2023-02-28 00:00:00,Anibal Ojeda,26029081.0,2 dias de trabajo (por camargo enfermo),10.0,US$,diez
+122,Carlos,2023-02-28 00:00:00,Carlos Rodriguez,22882274.0,2  dias de trabajo adicional (sistema peso),10.0,US$,diez
+123,Carlos,2023-02-28 00:00:00,Carlos Rodriguez,22882274.0,bono prod. 1-15 feb,20.0,US$,veinte
+124,Nelson,2023-03-06 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion ,20.0,US$,veinte
+125,Carlos,2023-03-08 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion 15-28 feb,20.0,US$,veinte
+126,Yeiser,2023-03-22 00:00:00,yeiser Campos,27580800.0,trabajo a destajo 2 dias,10.0,US$,diez
+127,Angel,2023-03-31 00:00:00,Angel Logan,31360137.0,bono de produccion ,20.0,US$,veinte
+128,Nelson,2023-03-31 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion  ,20.0,US$,veinte
+129,Ramon Q,2023-03-31 00:00:00,Ramon Quintana,18446067.0,bono de produccion  ,10.0,US$,diez
+130,Angel,2023-03-31 00:00:00,Angel Logan,31360137.0,bono prod 15-30 mar,20.0,US$,veinte
+131,Ramon Q,2023-04-14 00:00:00,Ramon Quintana,18446067.0,bono prod 10+ 10 dias feriados (10 dscto bono),20.0,US$,veinte
+132,Yeiser,2023-04-14 00:00:00,yeiser Campos,27580800.0,2 dias de trabajo,10.0,US$,diez
+133,Angel,2023-04-15 00:00:00,Angel Logan,31360137.0,bono produccion  + dias feriados,30.0,US$,treinta
+134,Carlos,2023-04-17 00:00:00,Carlos Rodriguez,22882274.0,bono produccion  + dias feriados+ descanso  de Nelson,35.0,US$,treinta y cinco
+135,Nelson,2023-04-17 00:00:00,Nelson Jose Romero,16797061.0,bono prod prorata 11-15 abr,10.0,US$,diez
+136,Ramon Q,2023-04-26 00:00:00,Ramon Quintana,18446067.0,3 dias de trabajo (logan lesionado),15.0,US$,quince
+137,Angel,2023-04-30 00:00:00,Angel Logan,31360137.0,bono de produccion 15-30 abr,20.0,US$,veinte
+138,Nelson,2023-04-30 00:00:00,Nelson Jose Romero,16797061.0,bono prod  15-30 abr,20.0,US$,veinte
+139,Ramon Q,2023-05-02 00:00:00,Ramon Quintana,18446067.0,destajo 02/05/23,5.0,US$,cinco
+140,Carlos,2023-05-05 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion 15-30 abr,20.0,US$,veinte
+141,Walter,2023-05-06 00:00:00,Walter Beomon,22384363.0,prestamo(ik15715024A),20.0,US$,veinte
+142,Nelson,2023-05-15 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion  ,20.0,US$,veinte
+143,Angel,2023-05-15 00:00:00,Angel Logan,31360137.0,bono de produccion  + dia feriado,25.0,US$,veiticinco
+144,Carlos,2023-05-15 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion  + dia feriado,25.0,US$,veiticinco
+145,Walter,2023-05-15 00:00:00,Walter Beomon,22384363.0,bono de produccion  + dia feriado,25.0,US$,veiticinco
+146,Angel,2023-05-19 00:00:00,Angel Logan,31360137.0,prestamo,20.0,US$,veinte
+147,Walter,2023-05-19 00:00:00,Walter Beomon,22384363.0,prestamo,10.0,US$,diez
+148,Walter,2023-05-26 00:00:00,Walter Beomon,22384363.0,bono de produccion ,20.0,US$,veinte
+149,Walter,2023-05-26 00:00:00,Walter Beomon,22384363.0,prestamo,20.0,US$,veinte
+150,Walter,2023-05-31 00:00:00,Walter Beomon,22384363.0,bono de produccion mes mayo,20.0,US$,veinte
+151,Nelson,2023-05-31 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion mes mayo,20.0,US$,veinte
+152,Angel,2023-05-31 00:00:00,Angel Logan,31360137.0,bono de produccion mes mayo,20.0,US$,veinte
+153,Carlos,2023-05-31 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion mes mayo,20.0,US$,veinte
+154,Ramon Q,2023-05-31 00:00:00,Ramon Quintana,18446067.0,trabajo a destajo 30 y 31 mayo 2023,10.0,US$,diez
+155,Ramon Q,2023-05-31 00:00:00,Ramon Quintana,18446067.0,"trabajo a destajo dias 02,03,04 y 05 de junio 2023",20.0,US$,veinte
+156,Angel,2023-06-03 00:00:00,Angel Logan y Carlos Rodriguez,31360137.0,pago amance 10 novillas/ 1091A:80882;7017;7077;809;8028;8030;5052;5077;9238,150.0,US$,ciento cincuenta
+157,Walter,2023-06-15 00:00:00,Walter Beomon,22384363.0,bono de produccion  1era 5na  junio,20.0,US$,veinte
+158,Nelson,2023-06-15 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion  1era 5na  junio,20.0,US$,veinte
+159,Angel,2023-06-15 00:00:00,Angel Logan,31360137.0,bono de produccion  1era 5na  junio,20.0,US$,veinte
+160,Carlos,2023-06-15 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion  1era 5na  junio,20.0,US$,veinte
+161,Walter,2023-06-29 00:00:00,Walter Beomon,22384363.0,bono de produccion  2da 5na  junio,20.0,US$,veinte
+162,Nelson,2023-06-29 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion  2da 5na  junio,20.0,US$,veinte
+163,Angel,2023-06-29 00:00:00,Angel Logan,31360137.0,bono de produccion  2da 5na  junio,20.0,US$,veinte
+164,Carlos,2023-06-29 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion  2da 5na  junio,20.0,US$,veinte
+165,Walter,2023-06-23 00:00:00,Walter Beomon,22384363.0,prestamo ,10.0,US$,diez
+166,Angel,2023-07-05 00:00:00,Angel Logan,31360137.0,amance 11 novillas ,165.0,US$,ciento sesenta y cinco
+167,Walter,2023-07-15 00:00:00,Walter Beomon,22384363.0,bono de produccion  1era 15na  julio,20.0,US$,veinte
+168,Nelson,2023-07-15 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion  1era 15na  julio,20.0,US$,veinte
+169,Angel,2023-07-15 00:00:00,Angel Logan,31360137.0,bono de produccion  1era 15na  julio,20.0,US$,veinte
+170,Carlos,2023-07-15 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion  1era 15na  julio,20.0,US$,veinte
+171,Walter,2023-07-20 00:00:00,Walter Beomon,22384363.0,trabajo a destajo (en su dia libre) 17/07/23. y 5 jul  suplencia a llanero.,10.0,US$,diez
+172,Alberto,2023-12-31 00:00:00,Alberto Linares,0.0,trabajo dias festivos 31 y 01 dic ,10.0,USD,diez
+173,Oliver,2023-12-31 00:00:00,Oliver Jose Tabare Parica,28754203.0,trabajo dias festivos 31 y 01 dic ,10.0,USD,diez
+174,José,2023-12-31 00:00:00,Moreno Manuel,25509266.0,trabajo dias festivos 31 y 01 dic ,10.0,USD,diez
+175,Claudio,2023-12-31 00:00:00,Claudio Rodriguez,0.0,trabajo dias festivos 31 y 01 dic ,10.0,USD,diez
+176,Alberto,2023-12-31 00:00:00,Alberto Linares,0.0,trabajo dias festivos 24 y 25 dic 23,10.0,USD,diez
+177,Oliver,2023-12-31 00:00:00,Oliver Jose Tabare Parica,28754203.0,trabajo dias festivos 24 y 25 dic 23,10.0,USD,diez
+178,José,2023-12-31 00:00:00,Moreno Manuel,25509266.0,trabajo dias festivos 24 y 25 dic 23,10.0,USD,diez
+179,Carlos,2023-12-31 00:00:00,Carlos Rodriguez,22882274.0,trabajo dias festivos 24 y 25 dic 23,10.0,USD,diez
+180,Alexander,2023-12-31 00:00:00,Dimir Alexander Kuippers Martinez,13643378.0,guardia de pollos dias festivos 24 y 25 dic,10.0,USD,diez
+181,Alexander,2023-12-31 00:00:00,Dimir Alexander Kuippers Martinez,13643378.0,guardia de pollos dia festivos 31 y 01 ene,10.0,USD,diez
+182,Ederson,2023-12-31 00:00:00,ederson hijastro de Alexander,0.0,aprendiz en ordeño,20.0,USD,veinte
+183,Alberto,2023-12-31 00:00:00,Alberto Linares,0.0,bono produccion 2da qna dic 23,50.0,USD,cincuenta
+184,Claudio,2023-12-31 00:00:00,Claudio Rodriguez,0.0,bono produccion 2da qna dic 23,20.0,USD,veinte
+185,Oliver,2023-12-31 00:00:00,Oliver Jose Tabare Parica,28754203.0,incremento bono producción ordeño de la tarde (2da qna dic 23),15.0,USD,quince
+186,José,2023-12-31 00:00:00,Moreno Manuel,25509266.0,incremento bono producción ordeño de la tarde (2da qna dic 23),15.0,USD,quince
+187,Claudio,2023-12-31 00:00:00,Claudio Rodriguez,0.0,incremento bono producción ordeño de la tarde (2da qna dic 23),15.0,USD,quince
+188,Carlos,2023-12-31 00:00:00,Carlos Rodriguez,22882274.0,incremento bono producción ordeño de la tarde (2da qna dic 23),15.0,USD,quince
+189,Oliver,2023-12-31 00:00:00,Oliver Jose Tabare Parica,28754203.0,trabajo especial de llanero 2da qna dic 23,10.0,USD,diez
+190,José,2023-12-31 00:00:00,Moreno Manuel,25509266.0,trabajo especial de llanero 2da qna dic 23,10.0,USD,diez
+191,Carlos,2023-12-31 00:00:00,Carlos Rodriguez,22882274.0,trabajo especial de llanero 2da qna dic 23,10.0,USD,diez
+192,Oliver,2023-12-31 00:00:00,Oliver Jose Tabare Parica,28754203.0,bono de producciòn 2da qna dic 23,20.0,USD,veinte
+193,José,2023-12-31 00:00:00,Moreno Manuel,25509266.0,bono de producciòn 2da qna dic 23,20.0,USD,veinte
+194,Carlos,2023-12-31 00:00:00,Carlos Rodriguez,22882274.0,bono de producciòn 2da qna dic 23,20.0,USD,veinte
+195,Junior,2024-01-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,suplencia al sr Alberto desde 06/01/24 hasta 15/01/24,45.0,USD,cuarenta y cinco
+196,Alexander,2024-01-15 00:00:00,Dimir Alexander Kuippers Martinez,13643378.0,bono saque de pollo lote 04-23,20.0,USD,veinte
+197,Marlyn,2024-01-15 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono produccion  lote 04-23 de pollos,20.0,USD,veinte
+198,Claudio,2024-01-15 00:00:00,Claudio Rodriguez,0.0,incremento bono producción ordeño de la tarde (1ra ene 24),15.0,USD,quince
+199,Carlos,2024-01-15 00:00:00,Carlos Rodriguez,22882274.0,incremento bono producción ordeño de la tarde (1ra ene 24),15.0,USD,quince
+200,José,2024-01-15 00:00:00,Moreno Manuel,25509266.0,incremento bono producción ordeño de la tarde (1ra ene 24),15.0,USD,quince
+201,Oliver,2024-01-15 00:00:00,Oliver Jose Tabare Parica,28754203.0,incremento bono producción ordeño de la tarde (1ra ene 24),15.0,USD,quince
+202,Oliver,2024-01-15 00:00:00,Oliver Jose Tabare Parica,28754203.0,trabajo especial de llanero 1er qna de ene 24,10.0,USD,diez
+203,José,2024-01-15 00:00:00,Moreno Manuel,25509266.0,trabajo especial de llanero 1er qna de ene 24,10.0,USD,diez
+204,Carlos,2024-01-15 00:00:00,Carlos Rodriguez,22882274.0,trabajo especial de llanero 1er qna de ene 24,10.0,USD,diez
+205,Claudio,2024-01-15 00:00:00,Claudio Rodriguez,0.0,trabajo especial de llanero 1er qna de ene 24,10.0,USD,diez
+206,Alberto,2024-01-15 00:00:00,Alberto Linares,0.0,bono de producciòn 1era qna ene 24,25.0,USD,veiticinco
+207,José,2024-01-15 00:00:00,Moreno Manuel,25509266.0,bono de producciòn 1era qna ene 24,20.0,USD,veinte
+208,Oliver,2024-01-15 00:00:00,Oliver Jose Tabare Parica,28754203.0,bono de producciòn 1era qna ene 24,20.0,USD,veinte
+209,Claudio,2024-01-15 00:00:00,Claudio Rodriguez,0.0,bono de producciòn 1era qna ene 24,20.0,USD,veinte
+210,Carlos,2024-01-15 00:00:00,Carlos Rodriguez,22882274.0,bono de producciòn 1era qna ene 24,20.0,USD,veinte
+211,Alberto,2023-12-21 00:00:00,Alberto Linares,0.0,bono navideño 2023,50.0,USD,cincuenta
+212,Claudio,2023-12-21 00:00:00,Claudio Rodriguez,0.0,bono navideño 2023,50.0,USD,cincuenta
+213,Carlos,2023-12-21 00:00:00,Carlos Rodriguez,22882274.0,bono navideño 2023,150.0,USD,ciento cincuenta
+214,Oliver,2024-01-30 00:00:00,Oliver Jose Tabare Parica,28754203.0,amance novilla (caroreña/91242; almendron/0298A),30.0,USD,treinta
+215,Junior,2024-01-30 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,apoyo llanero,12.0,USD,doce
+216,Oliver,2024-01-30 00:00:00,Oliver Jose Tabare Parica,28754203.0,aumento prod leche ordeño pm 2da qna ene24,15.0,USD,quince
+217,Claudio,2024-01-30 00:00:00,Claudio Rodriguez,0.0,aumento prod leche ordeño pm 2da qna ene24,15.0,USD,quince
+218,José,2024-01-30 00:00:00,Moreno Manuel,25509266.0,aumento prod leche ordeño pm 2da qna ene24,15.0,USD,quince
+219,Carlos,2024-01-30 00:00:00,Carlos Rodriguez,22882274.0,aumento prod leche ordeño pm 2da qna ene24,15.0,USD,quince
+220,José,2024-01-30 00:00:00,Moreno Manuel,25509266.0,llanero 2da qna ene24,10.0,USD,diez
+221,Carlos,2024-01-30 00:00:00,Carlos Rodriguez,22882274.0,llanero 2da qna ene24,10.0,USD,diez
+222,Oliver,2024-01-30 00:00:00,Oliver Jose Tabare Parica,28754203.0,llanero 2da qna ene24,10.0,USD,diez
+223,Oliver,2024-01-30 00:00:00,Oliver Jose Tabare Parica,28754203.0,bono de producción 2da qna ene24,20.0,USD,veinte
+224,Claudio,2024-01-30 00:00:00,Claudio Rodriguez,0.0,bono de producción 2da qna ene24,20.0,USD,veinte
+225,José,2024-01-30 00:00:00,Moreno Manuel,25509266.0,bono de producción 2da qna ene24,20.0,USD,veinte
+226,Carlos,2024-01-30 00:00:00,Carlos Rodriguez,22882274.0,bono de producción 2da qna ene24,20.0,USD,veinte
+227,Alberto,2024-01-30 00:00:00,Alberto Linares,0.0,bono de producción 2da qna ene24,50.0,USD,cincuenta
+228,Carlos,2024-01-30 00:00:00,Carlos Rodriguez,22882274.0,amance novillas (COLIFLOR),15.0,USD,quince
+229,Claudio,2024-01-30 00:00:00,Claudio Rodriguez,0.0,amance novillas (lote 01-24),60.0,USD,sesenta
+230,José,2024-01-30 00:00:00,Moreno Manuel,25509266.0,amance novillas (lote 01-24),60.0,USD,sesenta
+231,Carlos,2024-01-30 00:00:00,Carlos Rodriguez,22882274.0,amance novillas (lote 01-24),60.0,USD,sesenta
+232,Alberto,2024-01-30 00:00:00,Alberto Linares,0.0,amance novillas lote 01-24(abrana/8061;anita/7038;año nuevo/9058;cara de queso/8062;caramelo/2051;domitila/0338;golondrina/9125;hato grande/7022;la guara/0272;mireya/9113;navidad/0229;olivia/91262;panorama/1078A;tamañua/7032;yorgelis/8076;chachita/9116B,60.0,USD,sesenta
+233,Oliver,2024-02-15 00:00:00,Oliver Jose Tabare Parica,28754203.0,llanero,10.0,USD,diez
+234,Carlos,2024-02-15 00:00:00,Carlos Rodriguez,22882274.0,llanero,10.0,USD,diez
+235,José,2024-02-15 00:00:00,Moreno Manuel,25509266.0,llanero,10.0,USD,diez
+236,Alberto,2024-02-15 00:00:00,Alberto Linares,0.0,dias feridos carnaval,10.0,USD,diez
+237,Alberto,2024-02-15 00:00:00,Alberto Linares,0.0,bono de producccion 1era qna feb 24,50.0,USD,cincuenta
+238,Junior,2024-02-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,(bono prod +bono ordeño pm)  prorata,40.0,USD,cuarenta
+239,Junior,2024-02-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,lunes y martes carnaval,10.0,USD,diez
+240,José,2024-02-15 00:00:00,Moreno Manuel,25509266.0,lunes y martes carnaval,10.0,USD,diez
+241,Oliver,2024-02-15 00:00:00,Oliver Jose Tabare Parica,28754203.0,lunes y martes carnaval,10.0,USD,diez
+242,Oliver,2024-02-15 00:00:00,Oliver Jose Tabare Parica,28754203.0,aumento prod leche ordeño pm 1ra qna feb24,15.0,USD,quince
+243,José,2024-02-15 00:00:00,Moreno Manuel,25509266.0,aumento prod leche ordeño pm 1ra qna feb24,15.0,USD,quince
+244,Carlos,2024-02-15 00:00:00,Carlos Rodriguez,22882274.0,aumento prod leche ordeño pm 1ra qna feb24,15.0,USD,quince
+245,Carlos,2024-02-15 00:00:00,Carlos Rodriguez,22882274.0,bono produccion 1era qna febrero,20.0,USD,veinte
+246,Oliver,2024-02-15 00:00:00,Oliver Jose Tabare Parica,28754203.0,bono produccion 1era qna febrero,20.0,USD,veinte
+247,José,2024-02-15 00:00:00,Moreno Manuel,25509266.0,bono produccion 1era qna febrero,20.0,USD,veinte
+248,Eleixi,2024-02-26 00:00:00,Diaz Antonio Eleixi,30103478.0,prorrata bono produccion,5.0,USD,cinco
+249,Manuel,2024-02-02 00:00:00,Herrera Manuel Alexander,16030786.0,bono de rendimiento,50.0,USD,cincuenta
+251,Marlyn,2024-02-29 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono pollos ,40.0,USD,cuarenta
+252,Alberto,2024-02-29 00:00:00,Alberto Linares,0.0,bono de producción 2da qna de feb,100.0,USD,cien
+253,Tapiquen,2024-02-29 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,llanero 2da qna feb,10.0,USD,diez
+254,Ronald,2024-02-29 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,llanero 2da qna feb,8.0,USD,ocho
+255,José,2024-02-29 00:00:00,Moreno Manuel,25509266.0,llanero 2da qna feb,10.0,USD,diez
+256,Junior,2024-02-29 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,llanero 2da qna feb,10.0,USD,diez
+257,Carlos,2024-02-29 00:00:00,Carlos Rodriguez,22882274.0,llanero 2da qna feb,10.0,USD,diez
+258,Ronald,2024-02-29 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,aumento prod leche ordeño pm 2da qna feb24,15.0,USD,quince
+259,José,2024-02-29 00:00:00,Moreno Manuel,25509266.0,aumento prod leche ordeño pm 2da qna feb24,15.0,USD,quince
+260,Junior,2024-02-29 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,aumento prod leche ordeño pm 2da qna feb24,15.0,USD,quince
+261,Carlos,2024-02-29 00:00:00,Carlos Rodriguez,22882274.0,aumento prod leche ordeño pm 2da qna feb24,15.0,USD,quince
+262,Tapiquen,2024-02-29 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono produccíon 2da qna feb/,20.0,USD,veinte
+263,Ronald,2024-02-29 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,bono produccíon 2da qna feb/,20.0,USD,veinte
+264,José,2024-02-29 00:00:00,Moreno Manuel,25509266.0,bono produccíon 2da qna feb/,20.0,USD,veinte
+265,Junior,2024-02-29 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono produccíon 2da qna feb/,20.0,USD,veinte
+266,Carlos,2024-02-29 00:00:00,Carlos Rodriguez,22882274.0,bono produccíon 2da qna feb/,20.0,USD,veinte
+267,Manuel,2024-02-29 00:00:00,Herrera Manuel Alexander,16030786.0,bono de rendimiento 2da qna feb,50.0,USD,cincuenta
+268,José,2024-02-29 00:00:00,Moreno Manuel,25509266.0,amance novillas (lote 02-24)  = ( EMB 2-josefa/ 20334 media luna/ 7061-sofia  /9099 -la china/  0343-dodge/ 9036- abuela/ 0201-patrona/ 0202-berta/ 0231A-paola/ 0333-veronica/ 32-karina),55.0,USD,cincuenta y cinco
+269,Carlos,2024-02-29 00:00:00,Carlos Rodriguez,22882274.0,amance novillas (lote 02-24)  = ( EMB 2-josefa/ 20334 media luna/ 7061-sofia  /9099 -la china/  0343-dodge/ 9036- abuela/ 0201-patrona/ 0202-berta/ 0231A-paola/ 0333-veronica/ 32-karina),55.0,USD,cincuenta y cinco
+270,Manuel,2024-03-19 00:00:00,Herrera Manuel Alexander,16030786.0,bono producción  1ara qna marz,50.0,USD,cincuenta
+271,Abraham,2024-03-17 00:00:00,Abraham Ruiz Solorsano,0.0, amance novillas (lote 03-24) ,30.0,USD,treinta
+272,Abraham,2024-03-17 00:00:00,Abraham Ruiz Solorsano,0.0,bono 1era qna marz  pastoreo,20.0,USD,veinte
+273,Alberto,2024-03-17 00:00:00,Alberto Linares,0.0,bono de producción 1era qna marzo,100.0,USD,cien
+274,Alberto,2024-03-17 00:00:00,Alberto Linares,0.0, amance novillas (lote 03-24) ,30.0,USD,treinta
+275,Tapiquen,2024-03-17 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0, amance novillas (lote 03-24) ,30.0,USD,treinta
+276,Ronald,2024-03-17 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0, amance novillas (lote 03-24) ,30.0,USD,treinta
+277,José,2024-03-17 00:00:00,Moreno Manuel,25509266.0, amance novillas (lote 03-24) ,30.0,USD,treinta
+278,Junior,2024-03-17 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0, amance novillas (lote 03-24) ,30.0,USD,treinta
+279,Carlos,2024-03-17 00:00:00,Carlos Rodriguez,22882274.0," amance novillas (lote 03-24)  = ( sulimar, sambita,lula, manto negro, yirbeli, bonita, camasita, cocoemono, girasol, candida, carevieja, carmen luisa, olga lucia, marisol, paturra, ruza, esperanza)",30.0,USD,treinta
+280,Tapiquen,2024-03-17 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono producción 1era qna marzo,45.0,USD,cuarenta y cinco
+281,Ronald,2024-03-17 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,bono producción 1era qna marzo,45.0,USD,cuarenta y cinco
+282,José,2024-03-17 00:00:00,Moreno Manuel,25509266.0,bono producción 1era qna marzo,45.0,USD,cuarenta y cinco
+283,Junior,2024-03-17 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono producción 1era qna marzo,45.0,USD,cuarenta y cinco
+284,Carlos,2024-03-17 00:00:00,Carlos Rodriguez,22882274.0,bono producción 1era qna marzo,45.0,USD,cuarenta y cinco
+285,Manuel,2024-03-31 00:00:00,Herrera Manuel Alexander,16030786.0,bono produccción ,50.0,USD,cincuenta
+286,Tapiquen,2024-03-31 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,amance de novillas lote 04-24,20.0,USD,veinte
+287,Ronald,2024-03-31 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,amance de novillas lote 04-24,20.0,USD,veinte
+288,José,2024-03-31 00:00:00,Moreno Manuel,25509266.0,amance de novillas lote 04-24,20.0,USD,veinte
+289,Junior,2024-03-31 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,amance de novillas lote 04-24,20.0,USD,veinte
+290,Carlos,2024-03-31 00:00:00,Carlos Rodriguez,22882274.0,amance de novillas lote 04-24,20.0,USD,veinte
+291,Alberto,2024-03-31 00:00:00,Alberto Linares,0.0,"amance de novillas lote 04-24  (0329 culebra-9053 s/n-9042 cuara cua cua-1004 s/n-8037 amapola-9015 diabla-0284 girasol- 0226 candidita) ""fe de erratas"" en lote 03-24 se registró erroneamente la vaca mirasol confundida con girasol.",20.0,USD,veinte
+292,Elie,2024-03-31 00:00:00,Elie José Valderrama ruiz,0.0,bono plus jueves y viernes,10.0,USD,diez
+293,Marlyn,2024-03-31 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono plus jueves y viernes,10.0,USD,diez
+294,Abraham,2024-03-31 00:00:00,Abraham Ruiz Solorsano,0.0,bono plus jueves y viernes,10.0,USD,diez
+295,Tapiquen,2024-03-31 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono plus jueves y viernes,10.0,USD,diez
+296,Ronald,2024-03-31 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,bono plus jueves y viernes,5.0,USD,cinco
+297,José,2024-03-31 00:00:00,Moreno Manuel,25509266.0,bono plus jueves y viernes,10.0,USD,diez
+298,Junior,2024-03-31 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono plus jueves y viernes,10.0,USD,diez
+299,Carlos,2024-03-31 00:00:00,Carlos Rodriguez,22882274.0,bono plus jueves y viernes,10.0,USD,diez
+300,Alberto,2024-03-31 00:00:00,Alberto Linares,0.0,bono plus jueves y viernes,10.0,USD,diez
+301,Abraham,2024-03-31 00:00:00,Abraham Ruiz Solorsano,0.0,bono produccción ,20.0,USD,veinte
+302,Elie,2024-03-31 00:00:00,Elie José Valderrama ruiz,0.0,bono produccción ,10.0,USD,diez
+303,Yeiser,2024-03-31 00:00:00,yeiser Campos,27580800.0,bono produccción ,20.0,USD,veinte
+304,Marlyn,2024-03-31 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono produccción ,40.0,USD,cuarenta
+305,Tapiquen,2024-03-31 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono produccción ,45.0,USD,cuarenta y cinco
+306,Ronald,2024-03-31 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,bono produccción ,45.0,USD,cuarenta y cinco
+307,José,2024-03-31 00:00:00,Moreno Manuel,25509266.0,bono produccción ,45.0,USD,cuarenta y cinco
+308,Junior,2024-03-31 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono produccción ,45.0,USD,cuarenta y cinco
+309,Carlos,2024-03-31 00:00:00,Carlos Rodriguez,22882274.0,bono produccción ,45.0,USD,cuarenta y cinco
+310,Alberto,2024-03-31 00:00:00,Alberto Linares,0.0,bono produccción ,100.0,USD,cien
+317,Manuel,2024-04-15 00:00:00,Herrera Manuel Alexander,16030786.0,bono USD 50,50.0,USD,cincuenta
+318,Elie,2024-04-15 00:00:00,Elie José Valderrama ruiz,30728640.0,bono USD 20/ ,20.0,USD,veinte
+319,Abraham,2024-04-15 00:00:00,Abraham Ruiz Solorsano,0.0,bono USD 20/  beneficio domingo USD 5,25.0,USD,veiticinco
+320,Yeiser,2024-04-15 00:00:00,yeiser Campos,27580800.0,bono USD 10,10.0,USD,diez
+321,Marlyn,2024-04-15 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono USD 20,20.0,USD,veinte
+322,Ronald,2024-04-15 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,bono USD 45/ apagar incendio domingo 10USD/ amance USD35,90.0,USD,noventa
+323,Tapiquen,2024-04-15 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono USD 45/ apagar incendio domingo 10USD/ amance USD35,90.0,USD,noventa
+324,José,2024-04-15 00:00:00,Moreno Manuel,25509266.0,bono USD 45/ beneficio domingo USD 5/ amance USD35,90.0,USD,noventa
+325,Junior,2024-04-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono USD 45/ apagar incendio domingo 10USD amance USD35,90.0,USD,noventa
+326,Carlos,2024-04-15 00:00:00,Carlos Rodriguez,22882274.0,bono USD 45/ amance USD35,80.0,USD,ochenta
+327,Alberto,2024-04-15 00:00:00,Alberto Linares,0.0,bono USD 100/ beneficio domingo USD 5/ amance USD35,140.0,USD,ciento cuarenta
+358,Yeiser,2024-05-01 00:00:00,yeiser Campos,27580800.0,bono producción 5 + 19 abr día  5,10.0,USD,diez
+359,Abraham,2024-05-01 00:00:00,Abraham Ruiz Solorsano,0.0,bono producción 20+ 5 19abr día+ 50 amance caballo,75.0,USD,setenta y cinco
+360,Manuel,2024-05-01 00:00:00,Herrera Manuel Alexander,16030786.0,bono producción ,50.0,USD,cincuenta
+361,José,2024-05-01 00:00:00,Moreno Manuel,25509266.0,bono producción 45+ 5 dia 19 abr+50 amance caballo,100.0,USD,cien
+362,Elie,2024-05-01 00:00:00,Elie José Valderrama ruiz,30728640.0,bono producción,20.0,USD,veinte
+363,Marlyn,2024-05-01 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono producción 20 + 5 (19 abr día)+ 5 extra,30.0,USD,treinta
+364,Ronald,2024-05-01 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,bono producción 45 + 5 (19 abr día),50.0,USD,cincuenta
+365,Tapiquen,2024-05-01 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono producción 45 más 5 (19 abr día),50.0,USD,cincuenta
+366,Junior,2024-05-01 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono producción 45 más 5 (19 abr día),50.0,USD,cincuenta
+367,Carlos,2024-05-01 00:00:00,Carlos Rodriguez,22882274.0,bono producción 45 más 5 (19 abr día),50.0,USD,cincuenta
+368,Alberto,2024-05-01 00:00:00,Alberto Linares,0.0,"bono producción 100 mas 19abrdia ,mas amance de un caballo",175.0,USD,ciento setenta y cinco
+374,José,2024-06-15 00:00:00,Moreno Manuel,25509266.0,bono,45.0,USD,cuarenta y cinco
+375,Alberto,2024-06-15 00:00:00,Alberto Linares,0.0,bono,100.0,USD,cien
+376,Manuel,2024-06-15 00:00:00,Herrera Manuel Alexander,16030786.0,bono,50.0,USD,cincuenta
+377,Tapiquen,2024-06-15 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono,45.0,USD,cuarenta y cinco
+378,Junior,2024-06-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono,45.0,USD,cuarenta y cinco
+379,Carlos,2024-06-15 00:00:00,Carlos Rodriguez,22882274.0,bono,45.0,USD,cuarenta y cinco
+380,Ronald,2024-06-15 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,bono,45.0,USD,cuarenta y cinco
+381,Marlyn,2024-06-15 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono,30.0,USD,treinta
+382,Abraham,2024-06-15 00:00:00,Abraham Ruiz Solorsano,0.0,bono,20.0,USD,veinte
+383,Elie,2024-06-15 00:00:00,Elie José Valderrama ruiz,30728640.0,bono,20.0,USD,veinte
+384,Anthony,2024-06-15 00:00:00,Hernandez Anthony Joel,21574740.0,bono,10.0,USD,diez
+385,Junior,2023-12-18 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono nocturno guardia de pollos lote 03-23,10.0,USD,diez
+386,Marlyn,2023-12-18 00:00:00,Moreno Yurma  Marlenny,22887969.0,prestamo  pagadero enero 2024,40.0,USD,cuarenta
+387,Marlyn,2023-12-18 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono cierre de lote 03-23 de pollos,20.0,USD,veinte
+388,José,2023-12-15 00:00:00,Moreno Manuel,25509266.0,"amance ""susana""  ""9007""",15.0,USD,quince
+389,Junior,2023-12-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,"amance ""tigresa""  ""1109A""",15.0,USD,quince
+390,Claudio,2023-12-15 00:00:00,Claudio Rodriguez,0.0,bono incremento ordeño PM 2qna dic23,15.0,USD,quince
+391,Junior,2023-12-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono incremento ordeño PM 2qna dic23,15.0,USD,quince
+392,Carlos,2023-12-15 00:00:00,Carlos Rodriguez,22882274.0,bono incremento ordeño PM 2qna dic23,15.0,USD,quince
+393,José,2023-12-15 00:00:00,Moreno Manuel,25509266.0,bono incremento ordeño PM 2qna dic23,15.0,USD,quince
+394,José,2023-12-15 00:00:00,Moreno Manuel,25509266.0,bono llanero 1era qna dic23,10.0,USD,diez
+395,Carlos,2023-12-15 00:00:00,Carlos Rodriguez,22882274.0,bono llanero 1era qna dic23,10.0,USD,diez
+396,José,2023-12-15 00:00:00,Moreno Manuel,25509266.0,bono de producciòn 1era qna dic 23,20.0,USD,veinte
+397,Junior,2023-12-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono de producciòn 1era qna dic 23,20.0,USD,veinte
+398,Claudio,2023-12-15 00:00:00,Claudio Rodriguez,0.0,bono de producciòn 1era qna dic 23,20.0,USD,veinte
+399,Carlos,2023-12-15 00:00:00,Carlos Rodriguez,22882274.0,bono de producciòn 1era qna dic 23,20.0,USD,veinte
+400,Junior,2023-12-13 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono nocturno guardia de pollos,10.0,USD,diez
+401,Junior,2023-12-13 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,incremento bono producción ordeño de la tarde,15.0,USD,quince
+402,José,2023-12-13 00:00:00,Moreno Manuel,25509266.0,incremento bono producción ordeño de la tarde,15.0,USD,quince
+403,Claudio,2023-12-13 00:00:00,Claudio Rodriguez,0.0,incremento bono producción ordeño de la tarde,15.0,USD,quince
+404,Carlos,2023-12-13 00:00:00,Carlos Rodriguez,22882274.0,incremento bono producción ordeño de la tarde,15.0,USD,quince
+405,Carlos,2023-12-13 00:00:00,Carlos Rodriguez,22882274.0,"amance ""guariqueña Nro 8033""; ""ardilla Nro 2""",30.0,USD,treinta
+406,Junior,2023-12-13 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,"amance novilla ""4057""",15.0,USD,quince
+407,Claudio,2023-01-15 00:00:00,Claudio Rodriguez,0.0,"amance novilla ""0018""",15.0,USD,quince
+408,José,2023-11-30 00:00:00,Moreno Manuel,25509266.0,trabajo especial de llanero 2da qna de nov,10.0,USD,diez
+409,Junior,2023-11-30 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,trabajo especial de llanero 2da qna de nov,10.0,USD,diez
+410,Claudio,2023-11-30 00:00:00,Claudio Rodriguez,0.0,bono nocturno guardia de pollos,10.0,USD,diez
+411,Carlos,2023-11-30 00:00:00,Carlos Rodriguez,22882274.0,trabajo especial de llanero 2da qna de nov,10.0,USD,diez
+412,Marlyn,2023-11-30 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono produccion2do lote de pollos,20.0,USD,veinte
+413,José,2023-11-30 00:00:00,Moreno Manuel,25509266.0,bonoproducción 2da qna de nov,20.0,USD,veinte
+414,Claudio,2023-11-30 00:00:00,Claudio Rodriguez,0.0,bonoproducción 2da qna de nov,20.0,USD,veinte
+415,Carlos,2023-11-30 00:00:00,Carlos Rodriguez,22882274.0,bonoproducción 2da qna de nov,20.0,USD,veinte
+416,Junior,2023-11-30 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bonoproducción 2da qna de nov,20.0,USD,veinte
+417,Alberto,2023-11-30 00:00:00,Alberto Linares,0.0,bonoproduccion 2da qna de nov,50.0,USD,cincuenta
+418,Alberto,2023-11-15 00:00:00,Alberto Linares,0.0,bonoproduccion 1era qna de nov,50.0,USD,cincuenta
+419,José,2023-11-15 00:00:00,Moreno Manuel,25509266.0,bonoproduccion 1era qna de nov. Prorata,6.0,USD,seis
+420,Junior,2023-11-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,trabajo especial de llanero 1er qna de nov,10.0,USD,diez
+421,Carlos,2023-11-15 00:00:00,Carlos Rodriguez,22882274.0,trabajo especial de llanero 1er qna de nov,10.0,USD,diez
+422,Nelson,2023-11-15 00:00:00,Nelson Jose Romero,16797061.0,bonoproduccion 1era qna de noviembre,20.0,USD,veinte
+423,Claudio,2023-11-15 00:00:00,Claudio Rodriguez,0.0,bonoproduccion 1era qna de noviembre,20.0,USD,veinte
+424,Junior,2023-11-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bonoproduccion 1era qna de noviembre,20.0,USD,veinte
+425,Carlos,2023-11-15 00:00:00,Carlos Rodriguez,22882274.0,bonoproduccion 1era qna de noviembre,20.0,USD,veinte
+426,Claudio,2023-11-03 00:00:00,Claudio Rodriguez,0.0,"amance novilla ""manchita""",15.0,USD,quince
+427,Marlyn,2023-11-02 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono produccion 1er lote de pollos,20.0,USD,veinte
+428,Claudio,2023-11-02 00:00:00,Claudio Rodriguez,0.0,amance novila Andrea nro 4072,15.0,USD,quince
+429,Junior,2023-11-02 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bonoproduccion 2da qna de octubre,20.0,USD,veinte
+430,Nelson,2023-11-02 00:00:00,Nelson Jose Romero,16797061.0,bonoproduccion 2da qna de octubre,20.0,USD,veinte
+431,Carlos,2023-11-02 00:00:00,Carlos Rodriguez,22882274.0,bonoproduccion 2da qna de octubre,20.0,USD,veinte
+432,Carlos,2023-11-02 00:00:00,Carlos Rodriguez,22882274.0,trabajo especial de llanero 2da qna de octubre,10.0,USD,diez
+433,Angel,2023-11-02 00:00:00,Angel Logan,31360137.0,trabajo especial de llanero 2da qna de octubre,10.0,USD,diez
+434,Junior,2023-11-02 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,trabajo especial de llanero 2da qna de octubre,10.0,USD,diez
+435,Angel,2023-11-02 00:00:00,Angel Logan,31360137.0,"1/2 amance de 4057, 0128, 4043,  20 dolares  + 100 bs",22.5,USD,veintidos quinientos
+436,Angel,2023-10-23 00:00:00,Angel Logan,31360137.0,"8 dias de bono de producción   10,67 dolares mas 8 dias de trabajo de llanero 5,33 dolares total 16 USD  (desde 16 oct hasta 23 de oct)",16.0,USD,diez y seis
+437,Abraham,2023-10-16 00:00:00,Abraham Ruiz Solorsano,0.0,dia feriado 12 octubre 2023,5.0,USD,cinco
+438,Junior,2023-10-16 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,dia feriado 12 octubre 2023,5.0,USD,cinco
+439,Nelson,2023-10-16 00:00:00,Nelson Jose Romero,16797061.0,dia feriado 12 octubre 2023,5.0,USD,cinco
+440,Angel,2023-10-16 00:00:00,Angel Logan,31360137.0,dia feriado 12 octubre 2023,5.0,USD,cinco
+441,Carlos,2023-10-16 00:00:00,Carlos Rodriguez,22882274.0,dia feriado 12 octubre 2023,5.0,USD,cinco
+442,Carlos,2023-10-16 00:00:00,Carlos Rodriguez,22882274.0,trabajo especial de llanero 1er qna de octubre,10.0,USD,diez
+443,Angel,2023-10-16 00:00:00,Angel Logan,31360137.0,trabajo especial de llanero 1er qna de octubre,10.0,USD,diez
+444,Junior,2023-10-16 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,trabajo especial de llanero 1er qna de octubre,10.0,USD,diez
+445,Junior,2023-10-16 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bonoproduccion 1era qna de octubre,20.0,USD,veinte
+446,Nelson,2023-10-16 00:00:00,Nelson Jose Romero,16797061.0,bonoproduccion 1era qna de octubre,20.0,USD,veinte
+447,Carlos,2023-10-16 00:00:00,Carlos Rodriguez,22882274.0,bonoproduccion 1era qna de octubre,20.0,USD,veinte
+448,Angel,2023-10-16 00:00:00,Angel Logan,31360137.0,bonoproduccion 1era qna de octubre,20.0,USD,veinte
+449,Junior,2023-09-29 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono producción 1ra semana de trabajo,10.0,USD,diez
+450,Nelson,2023-09-29 00:00:00,Nelson Jose Romero,16797061.0,amance novillas: nro 8046 princesa; 9040 ; ,30.0,USD,treinta
+451,Carlos,2023-09-29 00:00:00,Carlos Rodriguez,22882274.0,amance novillas: nro7007 puerto rico; 6010 tembladora; 9020 pato real; berenjena 6021,60.0,USD,sesenta
+452,Carlos,2023-09-29 00:00:00,Carlos Rodriguez,22882274.0,trabajo a destajo de llanero 2da qna sep,10.0,USD,diez
+453,Angel,2023-09-29 00:00:00,Angel Logan,31360137.0,trabajo a destajo de llanero  2da qna sep,10.0,USD,diez
+454,Carlos,2023-09-29 00:00:00,Carlos Rodriguez,22882274.0,bono producción 2da Qna sep,20.0,USD,veinte
+455,Nelson,2023-09-29 00:00:00,Nelson Jose Romero,16797061.0,bono producción 2da Qna sep,20.0,USD,veinte
+456,Angel,2023-09-29 00:00:00,Angel Logan,31360137.0,bono producción 2da Qna sep,20.0,USD,veinte
+457,Yonaiker,2023-09-26 00:00:00,yoneiker Garcia,31724188.0,trabajo a destajo (cuidado de pollos BB),20.0,USD,veinte
+458,jesus,2023-09-20 00:00:00,Jesus Manuel Balderrama,23953667.0,trabajo a destajo como llanero,7.0,USD,siete
+459,Angel,2023-09-15 00:00:00,Angel Logan,31360137.0,suplencia de Antonio 01/09/23,5.0,USD,cinco
+460,Carlos,2023-09-15 00:00:00,Carlos Rodriguez,22882274.0,trabajo a destajo de llanero,10.0,USD,diez
+461,Angel,2023-09-15 00:00:00,Angel Logan,31360137.0,trabajo a destajo de llanero,10.0,USD,diez
+462,Nelson,2023-09-15 00:00:00,Nelson Jose Romero,16797061.0,bono produccion 1era qna de sept,20.0,USD,veinte
+463,Carlos,2023-09-15 00:00:00,Carlos Rodriguez,22882274.0,bono produccion 1era qna de sept,20.0,USD,veinte
+464,Angel,2023-09-15 00:00:00,Angel Logan,31360137.0,bono produccion 1era qna de sept,20.0,USD,veinte
+465,Antonio,2023-08-16 00:00:00,Antonio Manuel Acevedo Blanco,25888224.0,diferencia de pago de quincena (por error de calculo al pasar de llanero a ordeñador),10.0,USD,diez
+466,Antonio,2023-08-31 00:00:00,Antonio Manuel Acevedo Blanco,25888224.0,amance de novillas: nro: 8019 ropa sucia-9051 garcita-nro 7 espejito 5076 anais (vaca machirra mal amanzada `por walter),60.0,USD,sesenta
+467,Nelson,2023-08-31 00:00:00,Nelson Jose Romero,16797061.0,amance de novillas: 5079-7076,30.0,USD,treinta
+468,Angel,2023-08-31 00:00:00,Angel Logan,31360137.0,"amance de novillas : mina de oro, nro: 7033",15.0,USD,quince
+469,Carlos,2023-08-31 00:00:00,Carlos Rodriguez,22882274.0,"amance de novillas : Frescolita, nro: 8045",15.0,USD,quince
+470,Carlos,2023-08-30 00:00:00,Carlos Rodriguez,22882274.0,trabajo especial de llanero,20.0,UD$,veinte
+471,Carlos,2023-08-30 00:00:00,Carlos Rodriguez,22882274.0,bono produccion 2da Qna agosto,20.0,UD$,veinte
+472,Antonio,2023-08-30 00:00:00,Antonio Manuel Acevedo Blanco,25888224.0,trabajo especial de llanero,20.0,UD$,veinte
+473,Antonio,2023-08-30 00:00:00,Antonio Manuel Acevedo Blanco,25888224.0,bono produccion 2da Qna agosto,20.0,UD$,veinte
+474,Nelson,2023-08-30 00:00:00,Nelson Jose Romero,16797061.0,bono produccion 2da Qna agosto,20.0,UD$,veinte
+475,Angel,2023-08-30 00:00:00,Angel Logan,31360137.0,trabajo especial de llanero,20.0,UD$,veinte
+476,Angel,2023-08-30 00:00:00,Angel Logan,31360137.0,bono produccion 2da Qna de agosto,20.0,UD$,veinte
+477,Abraham,2023-08-30 00:00:00,Abraham Ruiz Solorsano,0.0,"amance yegua, chocolate, rucio moro",70.0,UD$,setenta
+478,Angel,2023-08-28 00:00:00,Angel Logan,31360137.0,"amance de caballos:  café con leche, paraulata, macho, castrado",70.0,UD$,setenta
+479,Antonio,2023-08-28 00:00:00,Antonio Manuel Acevedo Blanco,25888224.0,"amance de caballos: rey david, doña isabela, la campesina, café con leche",210.0,UD$,docientos diez
+480,Carlos,2023-08-15 00:00:00,Carlos Rodriguez,22882274.0,suplencia 02/08/23,5.0,UD$,cinco
+481,Angel,2023-08-15 00:00:00,Angel Logan,31360137.0,suplencia 03 y 11  de ago 2023 ,10.0,UD$,diez
+482,Antonio,2023-08-15 00:00:00,Antonio Manuel Acevedo Blanco,25888224.0,Bono  producción 1ra qna Agosto,20.0,UD$,veinte
+483,Nelson,2023-08-15 00:00:00,Nelson Jose Romero,16797061.0,Bono  producción 1ra qna Agosto,20.0,UD$,veinte
+484,Carlos,2023-08-15 00:00:00,Carlos Rodriguez,22882274.0,Bono  producción 1ra qna Agosto,20.0,UD$,veinte
+485,Angel,2023-08-15 00:00:00,Angel Logan,31360137.0,Bono  producción 1ra qna Agosto,20.0,UD$,veinte
+486,Luis,2023-08-01 00:00:00,Quiche Naspe,27623769.0,bono producción 2da quincena de julio,15.0,UD$,quince
+487,Carlos,2023-08-01 00:00:00,Carlos Rodriguez,22882274.0,bono producción 2da quincena de julio,20.0,UD$,veinte
+488,Angel,2023-08-01 00:00:00,Angel Logan,31360137.0,bono producción 2da quincena de julio,20.0,UD$,veinte
+489,Nelson,2023-08-01 00:00:00,Nelson Jose Romero,16797061.0,bono producción 2da quincena de julio,20.0,UD$,veinte
+490,Walter,2023-08-01 00:00:00,Walter Beomon,22384363.0,bono producción 2da quincena de julio,20.0,UD$,veinte
+491,Nelson,2023-08-01 00:00:00,Nelson Jose Romero,16797061.0,amance novilla: 4008.,15.0,UD$,quince
+492,Carlos,2023-08-01 00:00:00,Carlos Rodriguez,22882274.0,amance novilla: 8043;8050,30.0,UD$,treinta
+493,Angel,2023-08-01 00:00:00,Angel Logan,31360137.0,amance novillas: 7074;8087;8093;8048;8086;5146.,90.0,UD$,noventa
+494,Walter,2023-08-01 00:00:00,Walter Beomon,22384363.0,amance novillas nro 5076;8077;9040,45.0,UD$,cuarenta y cinco
+495,Ronny,2023-01-05 00:00:00,Ronny Jaramillo,20887400.0,4 dias de trabajo,20.0,US$,veinte
+496,Claudio,2023-01-05 00:00:00,Claudio Rodriguez,0.0,dias festivos,15.0,US$,quince
+497,Carlos,2023-01-06 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion y dias festivos,60.0,US$,sesenta
+498,Yeiser,2023-01-06 00:00:00,yeiser Campos,27580800.0,bono de produccion y dias festivos,40.0,US$,cuarenta
+499,Nelson,2023-01-07 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion y dias festivos,40.0,US$,cuarenta
+500,Ruben,2023-01-07 00:00:00,Ruben Rodriguez,0.0,trabajo a destajo,15.0,US$,quince
+501,Claudio,2023-01-17 00:00:00,Claudio Rodriguez,0.0,4 amances ,20.0,US$,veinte
+502,Angel,2023-01-30 00:00:00,Angel Logan,31360137.0,bono mes febrero,20.0,US$,veinte
+503,Camargo,2023-02-28 00:00:00,Jose Camargo,0.0,2da qna feb 2023,30.0,US$,treinta
+504,Camargo,2023-02-28 00:00:00,Jose Camargo,0.0,bono de produccion mes feb,20.0,US$,veinte
+505,Anibal,2023-02-28 00:00:00,Anibal Ojeda,26029081.0,2 dias de trabajo (por camargo enfermo),10.0,US$,diez
+506,Carlos,2023-02-28 00:00:00,Carlos Rodriguez,22882274.0,2  dias de trabajo adicional (sistema peso),10.0,US$,diez
+507,Carlos,2023-02-28 00:00:00,Carlos Rodriguez,22882274.0,bono prod. 1-15 feb,20.0,US$,veinte
+508,Nelson,2023-03-06 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion ,20.0,US$,veinte
+509,Carlos,2023-03-08 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion 15-28 feb,20.0,US$,veinte
+510,Yeiser,2023-03-22 00:00:00,yeiser Campos,27580800.0,trabajo a destajo 2 dias,10.0,US$,diez
+511,Angel,2023-03-31 00:00:00,Angel Logan,31360137.0,bono de produccion ,20.0,US$,veinte
+512,Nelson,2023-03-31 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion  ,20.0,US$,veinte
+513,Ramon Q,2023-03-31 00:00:00,Ramon Quintana,18446067.0,bono de produccion  ,10.0,US$,diez
+514,Angel,2023-03-31 00:00:00,Angel Logan,31360137.0,bono prod 15-30 mar,20.0,US$,veinte
+515,Ramon Q,2023-04-14 00:00:00,Ramon Quintana,18446067.0,bono prod 10+ 10 dias feriados (10 dscto bono),20.0,US$,veinte
+516,Yeiser,2023-04-14 00:00:00,yeiser Campos,27580800.0,2 dias de trabajo,10.0,US$,diez
+517,Angel,2023-04-15 00:00:00,Angel Logan,31360137.0,bono produccion  + dias feriados,30.0,US$,treinta
+518,Carlos,2023-04-17 00:00:00,Carlos Rodriguez,22882274.0,bono produccion  + dias feriados+ descanso  de Nelson,35.0,US$,treinta y cinco
+519,Nelson,2023-04-17 00:00:00,Nelson Jose Romero,16797061.0,bono prod prorata 11-15 abr,10.0,US$,diez
+520,Ramon Q,2023-04-26 00:00:00,Ramon Quintana,18446067.0,3 dias de trabajo (logan lesionado),15.0,US$,quince
+521,Angel,2023-04-30 00:00:00,Angel Logan,31360137.0,bono de produccion 15-30 abr,20.0,US$,veinte
+522,Nelson,2023-04-30 00:00:00,Nelson Jose Romero,16797061.0,bono prod  15-30 abr,20.0,US$,veinte
+523,Ramon Q,2023-05-02 00:00:00,Ramon Quintana,18446067.0,destajo 02/05/23,5.0,US$,cinco
+524,Carlos,2023-05-05 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion 15-30 abr,20.0,US$,veinte
+525,Walter,2023-05-06 00:00:00,Walter Beomon,22384363.0,prestamo(ik15715024A),20.0,US$,veinte
+526,Nelson,2023-05-15 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion  ,20.0,US$,veinte
+527,Angel,2023-05-15 00:00:00,Angel Logan,31360137.0,bono de produccion  + dia feriado,25.0,US$,veiticinco
+528,Carlos,2023-05-15 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion  + dia feriado,25.0,US$,veiticinco
+529,Walter,2023-05-15 00:00:00,Walter Beomon,22384363.0,bono de produccion  + dia feriado,25.0,US$,veiticinco
+530,Angel,2023-05-19 00:00:00,Angel Logan,31360137.0,prestamo,20.0,US$,veinte
+531,Walter,2023-05-19 00:00:00,Walter Beomon,22384363.0,prestamo,10.0,US$,diez
+532,Walter,2023-05-26 00:00:00,Walter Beomon,22384363.0,bono de produccion ,20.0,US$,veinte
+533,Walter,2023-05-26 00:00:00,Walter Beomon,22384363.0,prestamo,20.0,US$,veinte
+534,Walter,2023-05-31 00:00:00,Walter Beomon,22384363.0,bono de produccion mes mayo,20.0,US$,veinte
+535,Nelson,2023-05-31 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion mes mayo,20.0,US$,veinte
+536,Angel,2023-05-31 00:00:00,Angel Logan,31360137.0,bono de produccion mes mayo,20.0,US$,veinte
+537,Carlos,2023-05-31 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion mes mayo,20.0,US$,veinte
+538,Ramon Q,2023-05-31 00:00:00,Ramon Quintana,18446067.0,trabajo a destajo 30 y 31 mayo 2023,10.0,US$,diez
+539,Ramon Q,2023-05-31 00:00:00,Ramon Quintana,18446067.0,"trabajo a destajo dias 02,03,04 y 05 de junio 2023",20.0,US$,veinte
+540,Angel,2023-06-03 00:00:00,Angel Logan y Carlos Rodriguez,31360137.0,pago amance 10 novillas/ 1091A:80882;7017;7077;809;8028;8030;5052;5077;9238,150.0,US$,ciento cincuenta
+541,Walter,2023-06-15 00:00:00,Walter Beomon,22384363.0,bono de produccion  1era 5na  junio,20.0,US$,veinte
+542,Nelson,2023-06-15 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion  1era 5na  junio,20.0,US$,veinte
+543,Angel,2023-06-15 00:00:00,Angel Logan,31360137.0,bono de produccion  1era 5na  junio,20.0,US$,veinte
+544,Carlos,2023-06-15 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion  1era 5na  junio,20.0,US$,veinte
+545,Walter,2023-06-29 00:00:00,Walter Beomon,22384363.0,bono de produccion  2da 5na  junio,20.0,US$,veinte
+546,Nelson,2023-06-29 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion  2da 5na  junio,20.0,US$,veinte
+547,Angel,2023-06-29 00:00:00,Angel Logan,31360137.0,bono de produccion  2da 5na  junio,20.0,US$,veinte
+548,Carlos,2023-06-29 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion  2da 5na  junio,20.0,US$,veinte
+549,Walter,2023-06-23 00:00:00,Walter Beomon,22384363.0,prestamo ,10.0,US$,diez
+550,Angel,2023-07-05 00:00:00,Angel Logan,31360137.0,amance 11 novillas ,165.0,US$,ciento sesenta y cinco
+551,Walter,2023-07-15 00:00:00,Walter Beomon,22384363.0,bono de produccion  1era 15na  julio,20.0,US$,veinte
+552,Nelson,2023-07-15 00:00:00,Nelson Jose Romero,16797061.0,bono de produccion  1era 15na  julio,20.0,US$,veinte
+553,Angel,2023-07-15 00:00:00,Angel Logan,31360137.0,bono de produccion  1era 15na  julio,20.0,US$,veinte
+554,Carlos,2023-07-15 00:00:00,Carlos Rodriguez,22882274.0,bono de produccion  1era 15na  julio,20.0,US$,veinte
+555,Walter,2023-07-20 00:00:00,Walter Beomon,22384363.0,trabajo a destajo (en su dia libre) 17/07/23. y 5 jul  suplencia a llanero.,10.0,US$,diez
+556,Manuel,2024-05-30 00:00:00,Herrera Manuel Alexander,16030786.0,bono producción,50.0,USD,cincuenta
+557,Abraham,2024-05-30 00:00:00,Abraham Ruiz Solorsano,0.0,bono producción,20.0,USD,veinte
+558,Elie,2024-05-30 00:00:00,Elie José Valderrama ruiz,30728640.0,bono producción,20.0,USD,veinte
+559,Anthony,2024-05-30 00:00:00,Hernandez Anthony Joel,21574740.0,bono producción,10.0,USD,diez
+560,Marlyn,2024-05-30 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono producción,30.0,USD,treinta
+561,José,2024-05-30 00:00:00,Moreno Manuel,25509266.0,bono producción+ apoyo plan sanit+ apoyo dia libre,60.0,USD,sesenta
+562,Tapiquen,2024-05-30 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono producción + apoyo plan sanitario,55.0,USD,cincuenta y cinco
+563,Junior,2024-05-30 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono producción + apoyo plan sanitario,55.0,USD,cincuenta y cinco
+564,Carlos,2024-05-30 00:00:00,Carlos Rodriguez,22882274.0,bono producción + apoyo plan sanitario,55.0,USD,cincuenta y cinco
+565,Ronald,2024-05-30 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,bono producción + apoyo plan sanitario,55.0,USD,cincuenta y cinco
+566,Alberto,2024-05-30 00:00:00,Alberto Linares,0.0,bono producción,100.0,USD,cien
+576,Vitico,2024-06-30 00:00:00,Gonzalez Victor Manuel,11561203.0,bono produción suplencia Marly,20.0,USD,veinte
+577,Anthony,2024-06-30 00:00:00,Hernandez Anthony Joel,21574740.0,bono produción,20.0,USD,veinte
+578,Gilberto,2024-06-30 00:00:00,Valderrama Ruiz Gilberto de Jesus,26029279.0,bono produción suplencia Junior,45.0,USD,cuarenta y cinco
+579,Alberto,2024-06-30 00:00:00,Alberto Linares,18548376.0,bono Producción,100.0,USD,cien
+580,Manuel,2024-06-30 00:00:00,Herrera Manuel Alexander,16030786.0,bono Producción,50.0,USD,cincuenta
+581,José,2024-06-30 00:00:00,Moreno Manuel,25509266.0,bono Producción + amance yegua candelaria,165.0,USD,ciento sesenta y cinco
+582,Tapiquen,2024-06-30 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono Producción ,45.0,USD,cuarenta y cinco
+583,Carlos,2024-06-30 00:00:00,Carlos Rodriguez,22882274.0,bono Producción ,45.0,USD,cuarenta y cinco
+584,Ronald,2024-06-30 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,bono Producción ,45.0,USD,cuarenta y cinco
+585,Abraham,2024-06-30 00:00:00,Abraham Ruiz Solorsano,0.0,bono Producción ,20.0,USD,veinte
+586,Elie,2024-06-30 00:00:00,Elie José Valderrama ruiz,30728640.0,bono Producción ,20.0,USD,veinte
+587,Alberto,2024-07-15 00:00:00,Alberto Linares,18548376.0,"bono Producción+ amance yegua ""la negra"" (100+120)",220.0,USD,docientos veinte
+588,Manuel,2024-07-15 00:00:00,Herrera Manuel Alexander,16030786.0,bono Producción,50.0,USD,cincuenta
+589,José,2024-07-15 00:00:00,Moreno Manuel,25509266.0,bono Producción,50.0,USD,cincuenta
+590,Tapiquen,2024-07-15 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono Producción,55.0,USD,cincuenta y cinco
+591,Junior,2024-07-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono Producción,45.0,USD,cuarenta y cinco
+592,Carlos,2024-07-15 00:00:00,Carlos Rodriguez,22882274.0,bono Producción,50.0,USD,cincuenta
+593,Ronald,2024-07-15 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,bono Producción,45.0,USD,cuarenta y cinco
+594,Marlyn,2024-07-15 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono Producción,35.0,USD,treinta y cinco
+595,Abraham,2024-07-15 00:00:00,Abraham Ruiz Solorsano,0.0,bono Producción,20.0,USD,veinte
+596,Elie,2024-07-15 00:00:00,Elie José Valderrama ruiz,30728640.0,bono Producción,10.0,USD,diez
+597,Anthony,2024-07-15 00:00:00,Hernandez Anthony Joel,21574740.0,bono Producción,30.0,USD,treinta
+598,Alberto,2024-07-31 00:00:00,Alberto Linares,18548376.0,bono producción + 5jul,55.0,USD,cincuenta y cinco
+599,Manuel,2024-07-31 00:00:00,Herrera Manuel Alexander,16030786.0,bono producción,50.0,USD,cincuenta
+600,José,2024-07-31 00:00:00,Moreno Manuel,25509266.0,bono producción + 5jul,50.0,USD,cincuenta
+601,Tapiquen,2024-07-31 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono producción + 5jul,50.0,USD,cincuenta
+602,Junior,2024-07-31 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono producción + 5jul,50.0,USD,cincuenta
+603,Carlos,2024-07-31 00:00:00,Carlos Rodriguez,22882274.0,bono producción ,45.0,USD,cuarenta y cinco
+604,Ronald,2024-07-31 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,bono producción + 5jul,50.0,USD,cincuenta
+605,Marlyn,2024-07-31 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono producción,30.0,USD,treinta
+606,Elie,2024-07-31 00:00:00,Elie José Valderrama ruiz,30728640.0,bono producción,10.0,USD,diez
+607,Abraham,2024-07-31 00:00:00,Abraham Ruiz Solorsano,0.0,bono producción,20.0,USD,veinte
+608,Ronaldo,2024-07-31 00:00:00,Muñoz Paraqueima Ronaldo Jose,28574875.0,bono producción + 5jul,20.0,USD,veinte
+609,Anthony,2024-07-31 00:00:00,Hernandez Anthony Joel,21574740.0,bono producción,20.0,USD,veinte
+610,Alberto,2024-08-31 00:00:00,Alberto Linares,18548376.0,bono producción,90.0,USD,noventa
+611,Anthony,2024-08-31 00:00:00,Hernandez Anthony Joel,21574740.0,bono producción,20.0,USD,veinte
+612,Manuel,2024-08-31 00:00:00,Herrera Manuel Alexander,16030786.0,bono producción,50.0,USD,cincuenta
+613,Marlyn,2024-08-31 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono producción,30.0,USD,treinta
+614,Ronaldo,2024-08-31 00:00:00,Muñoz Paraqueima Ronaldo Jose,28574875.0,bono producción + suplencia 25,45.0,USD,cuarenta y cinco
+615,Tapiquen,2024-08-31 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono producción,45.0,USD,cuarenta y cinco
+616,Ronald,2024-08-31 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,bono producción,45.0,USD,cuarenta y cinco
+617,José,2024-08-31 00:00:00,Moreno Manuel,25509266.0,bono producción,45.0,USD,cuarenta y cinco
+618,Junior,2024-08-31 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono producción,45.0,USD,cuarenta y cinco
+619,Carlos,2024-08-31 00:00:00,Carlos Rodriguez,22882274.0,bono producción,45.0,USD,cuarenta y cinco
+620,José,2024-09-08 00:00:00,Moreno Manuel,25509266.0,"amance potro # E27rucM,  tra_ban nro…131528",120.0,USD,ciento veinte
+621,Ronald,2024-09-08 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,bono prorrata por retiro: tra_ban,25.0,USD,veiticinco
+622,Alberto,2024-09-01 00:00:00,Alberto Linares,18548376.0,"adelanto arriendo yegua blanca E23blaH,  tra_ban",50.0,USD,cincuenta
+623,Alberto,2024-09-01 00:00:00,Alberto Linares,18548376.0,amance yegua blanca E23blaH tra_ban,70.0,USD,setenta
+624,Alberto,2024-09-14 00:00:00,Alberto Linares,18548376.0,bono de producción,100.0,USD,cien
+625,Manuel,2024-09-14 00:00:00,Herrera Manuel Alexander,16030786.0,bono de producción,50.0,USD,cincuenta
+626,Ronaldo,2024-09-14 00:00:00,Muñoz Paraqueima Ronaldo Jose,28574875.0,bono de producción,25.0,USD,veiticinco
+627,Anthony,2024-09-14 00:00:00,Hernandez Anthony Joel,21574740.0,bono de producción,20.0,USD,veinte
+628,Marlyn,2024-09-14 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono de producción,30.0,USD,treinta
+629,Tapiquen,2024-09-14 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono de producción,45.0,USD,cuarenta y cinco
+630,Junior,2024-09-14 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono de producción + apoyo en otra actividad 10 usd,55.0,USD,cincuenta y cinco
+631,Carlos,2024-09-14 00:00:00,Carlos Rodriguez,22882274.0,bono de producción,45.0,USD,cuarenta y cinco
+632,Anthony,2024-09-30 00:00:00,Hernandez Anthony Joel,21574740.0,bono de produccion,20.0,USD,veinte
+633,Marlyn,2024-09-30 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono de produccion,30.0,USD,treinta
+634,Manuel,2024-09-30 00:00:00,Herrera Manuel Alexander,16030786.0,bono de produccion,50.0,USD,cincuenta
+635,Alexis,2024-09-30 00:00:00,Moreno Alexis Alexander,22887857.0,bono produccion + apoyo en corral,30.0,USD,treinta
+636,José,2024-09-30 00:00:00,Moreno Manuel,25509266.0, apoyo corral,10.0,USD,diez
+637,Junior,2024-09-30 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono de produccion + apoyo corral+ amance novilla altagracia,70.0,USD,setenta
+638,Ronaldo,2024-09-30 00:00:00,Muñoz Paraqueima Ronaldo Jose,28574875.0,bono de produccion + apoyo corral,55.0,USD,cincuenta y cinco
+639,Tapiquen,2024-09-30 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono de produccion + apoyo corral,55.0,USD,cincuenta y cinco
+640,Carlos,2024-09-30 00:00:00,Carlos Rodriguez,22882274.0,bono produccion + apoyo en corral,50.0,USD,cincuenta
+641,Alberto,2024-09-30 00:00:00,Alberto Linares,18548376.0,bono produccion + apoyo en corral,110.0,USD,ciento diez
+642,Alberto,2024-08-15 00:00:00,Alberto Linares,18548376.0,bono de producción,100.0,USD,cien
+643,Manuel,2024-08-15 00:00:00,Herrera Manuel Alexander,16030786.0,bono de producción,50.0,USD,cincuenta
+644,Carlos,2024-08-15 00:00:00,Carlos Rodriguez,22882274.0,bono de producción,45.0,USD,cuarenta y cinco
+645,Junior,2024-08-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono de producción,45.0,USD,cuarenta y cinco
+646,José,2024-08-15 00:00:00,Moreno Manuel,25509266.0,bono de producción,45.0,USD,cuarenta y cinco
+647,Tapiquen,2024-08-15 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono de producción,45.0,USD,cuarenta y cinco
+648,Marlyn,2024-08-15 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono de producción,30.0,USD,treinta
+649,Anthony,2024-08-15 00:00:00,Hernandez Anthony Joel,21574740.0,bono de producción,20.0,USD,veinte
+650,Ronaldo,2024-08-15 00:00:00,Muñoz Paraqueima Ronaldo Jose,28574875.0,bono de producción,20.0,USD,veinte
+651,Ronald,2024-08-15 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,bono Producción ,45.0,USD,cuarenta y cinco
+685,Erika,2024-10-15 00:00:00,Guedez Erika yusmila,30344043.0,bono produccion parcial  por nuevo ingreso,5.0,USD,cinco
+686,Abraham,2024-10-15 00:00:00,Abraham Ruiz Solorsano,0.0,bono producción,30.0,USD,treinta
+687,Manuel,2024-10-15 00:00:00,Herrera Manuel Alexander,16030786.0,bono producción,50.0,USD,cincuenta
+688,Alberto,2024-10-15 00:00:00,Alberto Linares,18548376.0,bono producción + 12oct,105.0,USD,ciento cinco
+689,Carlos,2024-10-15 00:00:00,Carlos Rodriguez,22882274.0,bono producción + 12oct+ amance novilla (aventura y alcaravan)+apoyo otras activ.,85.0,USD,ochenta y cinco
+690,Junior,2024-10-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono producción + apoyo otras actividades,50.0,USD,cincuenta
+691,José,2024-10-15 00:00:00,Moreno Manuel,25509266.0,bono producción + 12oct,50.0,USD,cincuenta
+692,Tapiquen,2024-10-15 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono producción + 12oct+ amance novilla (roñera),65.0,USD,sesenta y cinco
+693,Ronaldo,2024-10-15 00:00:00,Muñoz Paraqueima Ronaldo Jose,28574875.0,bono producción + 12oct,50.0,USD,cincuenta
+694,Marlyn,2024-10-15 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono producción + 12oct,35.0,USD,treinta y cinco
+695,Alexis,2024-10-15 00:00:00,Moreno Alexis Alexander,22887857.0,bono producción + 12oct+ apoyo otras actividades,30.0,USD,treinta
+696,Anthony,2024-10-15 00:00:00,Hernandez Anthony Joel,21574740.0,bono producción,20.0,USD,veinte
+697,Alberto,2024-05-15 00:00:00,Alberto Linares,18548376.0,bono produc.+ otros,105.0,USD,ciento cinco
+698,José,2024-05-15 00:00:00,Moreno Manuel,25509266.0,bono produc.+ otros,50.0,USD,cincuenta
+699,Tapiquen,2024-05-15 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono produc.+ otros,50.0,USD,cincuenta
+700,Junior,2024-05-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono produc.+ otros,70.0,USD,setenta
+701,Marlyn,2024-05-15 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono produc.+ saque,40.0,USD,cuarenta
+702,Carlos,2024-05-15 00:00:00,Carlos Rodriguez,22882274.0,bono produc.+apoyo,45.0,USD,cuarenta y cinco
+703,Abraham,2024-05-15 00:00:00,Abraham Ruiz Solorsano,0.0,bono produc.+ Amance caballo+apoyo,75.0,USD,setenta y cinco
+704,Ronald,2024-05-15 00:00:00,Pinto Rebolledo Ronald Jose,22887861.0,bono producción ,50.0,USD,cincuenta
+721,Juan,2024-10-31 00:00:00,Juan Antonio Herrera,9057368.0,bono prod.,10.0,USD,diez
+722,Josue,2024-10-31 00:00:00,Jose Disney Meza Hidalgo,34793381.0,bono prod.,10.0,USD,diez
+723,Omar,2024-10-31 00:00:00,Omar Enrique Benitez Ruiz,28526223.0,bono prod.,10.0,USD,diez
+724,Miguel,2024-10-31 00:00:00,Miguel Caño Arenas,,bono prod.,10.0,USD,diez
+725,Manuel,2024-10-31 00:00:00,Herrera Manuel Alexander,16030786.0,bono prod.,50.0,USD,cincuenta
+726,Anthony,2024-10-31 00:00:00,Hernandez Anthony Joel,21574740.0,bono prod.,20.0,USD,veinte
+727,Alexis,2024-10-31 00:00:00,Moreno Alexis Alexander,22887857.0,bono prod. + apoyo otras actividades,40.0,USD,cuarenta
+728,Erika,2024-10-31 00:00:00,Guedez Erika yusmila,30344043.0,bono prod. ,10.0,USD,diez
+729,Marlyn,2024-10-31 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono prod. ,30.0,USD,treinta
+730,Ronaldo,2024-10-31 00:00:00,Muñoz Paraqueima Ronaldo Jose,28574875.0,bono prod. ,45.0,USD,cuarenta y cinco
+731,Tapiquen,2024-10-31 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono prod. ,45.0,USD,cuarenta y cinco
+732,José,2024-10-31 00:00:00,Moreno Manuel,25509266.0,bono prod. ,45.0,USD,cuarenta y cinco
+733,Junior,2024-10-27 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono prod. Adelanto 20 usd por motivo de viaje ref..5079,20.0,USD,veinte
+734,Junior,2024-10-31 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono prod.,25.0,USD,veiticinco
+735,Carlos,2024-10-31 00:00:00,Carlos Rodriguez,22882274.0,bono prod.,45.0,USD,cuarenta y cinco
+736,Alberto,2024-10-31 00:00:00,Alberto Linares,18548376.0,bono prod.,100.0,USD,cien
+737,Josue,2024-10-31 00:00:00,Josue Disney Meza Hidalgo,34793381.0,rienda cab. Metralleta + amance de cab. Mancha miembro post iz,120.0,USD,ciento veinte
+738,José,2024-10-31 00:00:00,Moreno Manuel,25509266.0,rienda de la yg Rusia,50.0,USD,cincuenta
+741,Marlyn,2024-11-15 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono de producción,10.0,USD,diez
+742,Josue,2024-11-15 00:00:00,Josue Disney Meza Hidalgo,34793381.0,amance de potro (rienda) el de la mancha en pierna.,60.0,USD,sesenta
+743,Juan,2024-11-15 00:00:00,Juan Antonio Herrera,9057368.0,apoyo en otras actividades,10.0,USD,diez
+744,Omar,2024-11-15 00:00:00,Omar Enrique Benitez Ruiz,28526223.0,apoyo en otras actividades,10.0,USD,diez
+745,Josue,2024-11-15 00:00:00,Josue Disney Meza Hidalgo,34793381.0,apoyo en otras actividades,10.0,USD,diez
+746,Miguel,2024-11-15 00:00:00,Miguel Caño Arenas,0.0,apoyo en otras actividades,10.0,USD,diez
+747,Anthony,2024-11-15 00:00:00,Hernandez Anthony Joel,21574740.0, apoyo en corrales,10.0,USD,diez
+748,Alexis,2024-11-15 00:00:00,Moreno Alexis Alexander,22887857.0,bono de producción + apoyo en corrales,20.0,USD,veinte
+749,Ronaldo,2024-11-15 00:00:00,Muñoz Paraqueima Ronaldo Jose,28574875.0,bono de producción + apoyo en corrales,35.0,USD,treinta y cinco
+750,José,2024-11-15 00:00:00,Moreno Manuel,25509266.0,bono de producción + apoyo en corrales,35.0,USD,treinta y cinco
+751,Tapiquen,2024-11-15 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono de producción + apoyo en corrales,35.0,USD,treinta y cinco
+752,Junior,2024-11-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono de producción + apoyo en corrales,35.0,USD,treinta y cinco
+753,Carlos,2024-11-15 00:00:00,Carlos Rodriguez,22882274.0,bono de producción + apoyo en corrales,35.0,USD,treinta y cinco
+754,Alberto,2024-11-15 00:00:00,Alberto Linares,18548376.0,bono de producción + apoyo en corrales,100.0,USD,cien
+755,Alberto,2024-10-31 00:00:00,Alberto Linares,18548376.0,amance novilla 6070,15.0,USD,quince
+756,Junior,2024-10-31 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,amance novilla 8005,15.0,USD,quince
+757,Alexis,2024-11-30 00:00:00,Moreno Alexis Alexander,22887857.0,bono + apoyo en corrales,20.0,USD,veinte
+758,Ernesto,2024-11-30 00:00:00,Ernesto Jose Tovar Lara,20995064.0,apoyo en corrales,5.0,USD,cinco
+759,Yeifre,2024-11-30 00:00:00,Yeifre Quintana,28781903.0,apoyo en corrales,10.0,USD,diez
+760,Abraham,2024-11-30 00:00:00,Abraham Ruiz Solorsano,0.0,apoyo en corrales,10.0,USD,diez
+761,Anthony,2024-11-30 00:00:00,Hernandez Anthony Joel,21574740.0,apoyo corrales,10.0,USD,diez
+762,Ronaldo,2024-11-30 00:00:00,Muñoz Paraqueima Ronaldo Jose,28574875.0,bono+ apoyo corrales,40.0,USD,cuarenta
+764,Tapiquen,2024-11-30 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono+ apoyo corrales+ amance 0270,50.0,USD,cincuenta
+766,Carlos,2024-11-30 00:00:00,Carlos Rodriguez,22882274.0,bono+ apoyo corrales,30.0,USD,treinta
+767,Alberto,2024-11-30 00:00:00,Alberto Linares,18548376.0,"bono 80$+amance novilla 0205, 15$+ apoyo corrales 20$",115.0,USD,ciento quince
+768,Junior,2024-11-30 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono 25$ + apoyo corrales 15$,40.0,USD,cuarenta
+769,José,2024-11-30 00:00:00,Moreno Manuel,25509266.0,"bono 25$ + amance 0330, 15 $+ apoyo corrales 15$",55.0,USD,cincuenta y cinco
+770,Alberto,2024-12-13 00:00:00,Alberto Linares,18548376.0,bono prod. + amance novillas 9100 y 2039.  USD15 c/u,130.0,USD,ciento treinta
+771,Ruiz,2024-12-14 00:00:00,Wuill Daniel Ruiz,32639473.0,trabajo a destajo Caño Arenas,30.0,USD,treinta
+772,contreras,2024-12-14 00:00:00,Carlos Jose contreras,34177213.0,trabajo a destajo Caño Arenas,30.0,USD,treinta
+773,Jhonatan,2024-12-14 00:00:00,Jhonatan Benitez,24674848.0,trabajo a destajo Caño Arenas,60.0,USD,sesenta
+774,Maicol,2024-12-14 00:00:00,Ramirez Pinto Maicol Jose,27454876.0,bono produccion,20.0,USD,veinte
+775,Juan,2024-12-14 00:00:00,Juan Antonio Herrera,9057368.0,bono produccion,10.0,USD,diez
+776,Josue,2024-12-14 00:00:00,Josue Disney Meza Hidalgo,34793381.0,bono produccion,20.0,USD,veinte
+777,Miguel,2024-12-14 00:00:00,Miguel Caño Arenas,0.0,bono produccion,25.0,USD,veiticinco
+778,Tapiquen,2024-12-14 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono25$ + amance novilla 15$ (0299C),40.0,USD,cuarenta
+779,José,2024-12-14 00:00:00,Moreno Manuel,25509266.0,bono20$ + amance novilla 15$ (1017A),35.0,USD,treinta y cinco
+780,Junior,2024-12-14 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,"bono 25$+3 amances novillas  15$ c/u (0101,1023,0298)",70.0,USD,setenta
+781,Carlos,2024-12-14 00:00:00,Carlos Rodriguez,22882274.0,bono  de produccion,25.0,USD,veiticinco
+782,Ronaldo,2024-12-14 00:00:00,Muñoz Paraqueima Ronaldo Jose,28574875.0,bono20$ + 02 amance novilla 15$ c/u (0299C),50.0,USD,cincuenta
+783,Alexis,2024-12-14 00:00:00,Moreno Alexis Alexander,22887857.0,bono 10$,10.0,USD,diez
+784,Maicol,2024-12-21 00:00:00,Ramirez Pinto Maicol Jose,27454876.0, bono nav 10$+ bono Prod 20$,30.0,USD,treinta
+785,Josue,2024-12-21 00:00:00,Josue Disney Meza Hidalgo,34793381.0, bono nav 10$+ bono Prod 20$,30.0,USD,treinta
+786,Juan,2024-12-21 00:00:00,Juan Antonio Herrera,9057368.0, bono nav 20$+ bono Prod 10$,30.0,USD,treinta
+787,Luisana,2024-12-21 00:00:00,0,0.0, bono nav 20$,20.0,USD,veinte
+788,Mirian,2024-12-21 00:00:00,0,0.0, bono nav 20$,20.0,USD,veinte
+789,Miguel,2024-12-21 00:00:00,Miguel Caño Arenas,0.0,bono prod 25$ + bono nav 25$,50.0,USD,cincuenta
+790,Anthony,2024-12-21 00:00:00,Hernandez Anthony Joel,21574740.0,bono nav 20$,20.0,USD,veinte
+791,Alexis,2024-12-21 00:00:00,Moreno Alexis Alexander,22887857.0,bono nav 20$+ bono prod. 10$+ apoyo ordeño 10$,40.0,USD,cuarenta
+792,Erika,2024-12-21 00:00:00,Guedez Erika yusmila,30344043.0,bono nav 20$,20.0,USD,veinte
+793,Marlyn,2024-12-21 00:00:00,Moreno Yurma  Marlenny,22887969.0,bono nav 40$,40.0,USD,cuarenta
+794,Tapiquen,2024-12-21 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono produ. 25$ + bono nav 50$+ dias 24 y 25 20$ + 31 y 01 20$,115.0,USD,ciento quince
+795,Junior,2024-12-21 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono produ. 25$ + bono nav 50$+ dias 24 y 25 20$ + 31 y 01 20$,115.0,USD,ciento quince
+796,Carlos,2024-12-21 00:00:00,Carlos Rodriguez,22882274.0,bono produ. 25$ + bono nav 100$,125.0,USD,ciento veinticinco
+797,Alberto,2024-12-21 00:00:00,Alberto Linares,18548376.0,bono produ. 100$+ bono nav 100$+ dias 24 y 25 dic 20$+ dias 31 y 01 20$,210.0,USD,docientos diez
+798,Ronaldo,2024-12-21 00:00:00,Muñoz Paraqueima Ronaldo Jose,28574875.0,bono produ. 15$+ bono nav 50$+ dias 24 y 25 dic 20$,85.0,USD,ochenta y cinco
+799,Eduardo,2025-01-16 00:00:00,Carlos Eduardo Figueredo Tovar,31343753.0,bono producción,20.0,USD,veinte
+800,Bernardo,2025-01-16 00:00:00,Bernardo Jesus Benitez,26953669.0,bono producción,20.0,USD,veinte
+801,Josue,2025-01-16 00:00:00,Josue Disney Meza Hidalgo,34793381.0,bono producción,20.0,USD,veinte
+802,Miguel,2025-01-16 00:00:00,Miguel Caño Arenas,0.0,bono producción,25.0,USD,veiticinco
+803,Moises,2025-01-16 00:00:00,Moises,0.0,apoyo en vaquera diciembre,5.0,USD,cinco
+804,Ruben,2025-01-16 00:00:00,Ruben Rodriguez,0.0,apoyo en vaquera diciembre,5.0,USD,cinco
+805,Vitico,2025-01-16 00:00:00,Victor (Vitico),0.0,apoyo en vaquera diciembre,5.0,USD,cinco
+806,Junior Pq,2025-01-16 00:00:00,Junior Rafael Moreno Moreno,36589033.0,dias libres trabajados apoyo en vaquera diciembre,25.0,USD,veiticinco
+807,Alexis,2025-01-16 00:00:00,Moreno Alexis Alexander,22887857.0,bono prorrata 10 $+ apoyo en vaquera diciembre,70.0,USD,setenta
+808,Carlos,2025-01-16 00:00:00,Carlos Rodriguez,22882274.0,bono prorrata 10 $,10.0,USD,diez
+809,Tapiquen,2025-01-16 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono 25 + dias libres Laborados 10+ recarga de trabajo falta personal 20,55.0,USD,cincuenta y cinco
+810,Junior,2025-01-16 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono 25 + dias libres Laborados 10+ recarga de trabajo falta personal 20,55.0,USD,cincuenta y cinco
+811,Alberto,2025-01-16 00:00:00,Alberto Linares,18548376.0,bono 100 + dias libres Laborados 20+ recarga de trabajo falta personal 20,140.0,USD,ciento cuarenta
+812,Eduardo,2025-01-31 00:00:00,Carlos Eduardo Figueredo Tovar,31343753.0,bono prod 20,20.0,USD,veinte
+813,Bernardo,2025-01-31 00:00:00,Bernardo Jesus Benitez,26953669.0,bono prod 20,20.0,USD,veinte
+814,Josue,2025-01-31 00:00:00,Josue Disney Meza Hidalgo,34793381.0,bono prod 20,20.0,USD,veinte
+815,Miguel,2025-01-31 00:00:00,Miguel Caño Arenas,0.0,bono prod 25,25.0,USD,veiticinco
+816,Alexis,2025-01-31 00:00:00,Moreno Alexis Alexander,22887857.0,bono prod 10,10.0,USD,diez
+817,Alberto,2025-01-31 00:00:00,Alberto Linares,18548376.0,bono prod 100+ apoyo corrales 10,110.0,USD,ciento diez
+818,Alvaro,2025-01-31 00:00:00,Parima Solorzano Alvaro Antonio,28762117.0,bono prod 25+ apoyo corrales 10,35.0,USD,treinta y cinco
+819,Angel,2025-01-31 00:00:00,Angel Logan,31360137.0,bono prod 25+ apoyo corrales 10,35.0,USD,treinta y cinco
+820,Junior,2025-01-31 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono prod 25+ apoyo corrales 10,35.0,USD,treinta y cinco
+821,Tapiquen,2025-01-31 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono prod 25 +apoyo dia libre 5+ apoyo corrales 10+ amance 30 (1066 y 8082),70.0,USD,setenta
+822,Carlos,2025-01-31 00:00:00,Carlos Rodriguez,22882274.0,bono prod 25 + bono resp. 25+ apoyo corrales 10+ amance 30 (8089 española y 1088A patricia),90.0,USD,noventa
+823,Junior,2025-02-14 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,limpieza de brete 2025,5.0,USD,cinco
+824,Alexis,2025-02-14 00:00:00,Moreno Alexis Alexander,22887857.0,bono producción 10 USD,10.0,USD,diez
+825,Alvaro,2025-02-14 00:00:00,Parima Solorzano Alvaro Antonio,28762117.0,bono producción 25 USD,25.0,USD,veiticinco
+826,Angel,2025-02-14 00:00:00,Angel Logan,31360137.0,bono producción 25 USD,25.0,USD,veiticinco
+827,Tapiquen,2025-02-14 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono producción 25 USD,25.0,USD,veiticinco
+828,Junior,2025-02-14 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono producción 25 USD,25.0,USD,veiticinco
+829,Carlos,2025-02-14 00:00:00,Carlos Rodriguez,22882274.0,"bono producción 25 USD, bono responsabilidad 25 USD",50.0,USD,cincuenta
+830,Alberto,2025-02-14 00:00:00,Alberto Linares,18548376.0,"bono producción 100 usd, amance novillas 0342-8072-2066-7066, 60 usd",160.0,USD,ciento sesenta
+831,Eduardo,2025-02-14 00:00:00,Carlos Eduardo Figueredo Tovar,31343753.0,bono producción 20dlr,20.0,USD,veinte
+832,Bernardo,2025-02-14 00:00:00,Bernardo Jesus Benitez,26953669.0,bono producción 20dlr,20.0,USD,veinte
+833,Josue,2025-02-14 00:00:00,Josue Disney Meza Hidalgo,34793381.0,bono producción 20dlr,20.0,USD,veinte
+834,Miguel,2025-02-14 00:00:00,Miguel Caño Arenas,0.0,"bono producción 25dlr (amance de caballo para repartir entre4 parsonas Miguel, Josue, Bernardo, Carlos) 120 dlr",145.0,USD,ciento cuarenta y cinco
+835,Miguel,2025-02-28 00:00:00,Miguel Caño Arenas,0.0,amance un caballo (para distribuir entre 4 trabajadores),120.0,USD,ciento veinte
+836,Eduardo,2025-02-28 00:00:00,Carlos Eduardo Figueredo Tovar,31343753.0,bono producción,30.0,USD,treinta
+837,Bernardo,2025-02-28 00:00:00,Bernardo Jesus Benitez,26953669.0,bono producción,30.0,USD,treinta
+838,Josue,2025-02-28 00:00:00,Josue Disney Meza Hidalgo,34793381.0,bono producción,30.0,USD,treinta
+839,Miguel,2025-02-28 00:00:00,Miguel Caño Arenas,0.0,bono producción,40.0,USD,cuarenta
+840,Anthony,2025-02-28 00:00:00,Hernandez Anthony Joel,21574740.0,bono producción,10.0,USD,diez
+841,Alexis,2025-02-28 00:00:00,Moreno Alexis Alexander,22887857.0,bono producción,10.0,USD,diez
+842,Angel,2025-02-28 00:00:00,Angel Logan,31360137.0,bono producción,25.0,USD,veiticinco
+843,Tapiquen,2025-02-28 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono producción,25.0,USD,veiticinco
+844,Junior,2025-02-28 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono producción,25.0,USD,veiticinco
+845,Carlos,2025-02-28 00:00:00,Carlos Rodriguez,22882274.0,bono producción,50.0,USD,cincuenta
+846,Alberto,2025-02-28 00:00:00,Alberto Linares,18548376.0,bono producción,100.0,USD,cien
+847,Tapiquen,2025-02-28 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,amance novilla Candelaria,15.0,USD,quince
+848,Jhonatan,2025-02-28 00:00:00,Jhonatan Benitez,24674848.0,trabajo a destajo,60.0,USD,sesenta
+851,Bernardo,2025-03-15 00:00:00,Bernardo Jesus Benitez,26953669.0,bono de producción 30 + carnaval 5,35.0,USD,treinta y cinco
+852,Josue,2025-03-15 00:00:00,Josue Disney Meza Hidalgo,34793381.0,bono de producción 30 + carnaval 10,40.0,USD,cuarenta
+853,Eduardo,2025-03-15 00:00:00,Carlos Eduardo Figueredo Tovar,31343753.0,bono de producción 30 + carnaval 10,40.0,USD,cuarenta
+854,Miguel,2025-03-15 00:00:00,Miguel Caño Arenas,0.0,bono de producción,40.0,USD,cuarenta
+855,Junior,2025-03-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,fracción bono produucción + apoyo corral,15.0,USD,quince
+856,Erika,2025-03-15 00:00:00,Guedez Erika yusmila,30344043.0,carnaval,10.0,USD,diez
+857,Carlos,2025-03-15 00:00:00,Carlos Rodriguez,22882274.0,bono de producción + bono de responsabilidad+ carnaval,55.0,USD,cincuenta y cinco
+858,Alexis,2025-03-15 00:00:00,Moreno Alexis Alexander,22887857.0,bono de producción + suplencia en ordeño,25.0,USD,veiticinco
+859,Anthony,2025-03-15 00:00:00,Hernandez Anthony Joel,21574740.0,bono de producción ,10.0,USD,diez
+860,Nixon,2025-03-15 00:00:00,Nixon Josue Millan Serrano,32224796.0,bono de producción +carnaval+apoyo corral,40.0,USD,cuarenta
+861,Angel,2025-03-15 00:00:00,Angel Logan,31360137.0,bono de producción +carnaval+apoyo corral,40.0,USD,cuarenta
+862,Alberto,2025-03-15 00:00:00,Alberto Linares,18548376.0,bono de producción + carnaval+ apoyo en corrales+ dia libre trabajado,120.0,USD,ciento veite
+863,Jose,2025-03-15 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono producción  fracción,15.0,USD,quince
+864,Miguel,2025-03-29 00:00:00,Miguel Caño Arenas,0.0,"amance grupal  3 novilla (Pavon 1043A, rubita 1059 y papelito 1065",45.0,USD,cuarenta y cinco
+865,Eduardo,2025-03-29 00:00:00,Carlos Eduardo Figueredo Tovar,31343753.0,bono producción 30 menos 5 por amonestación por colear los animales,25.0,USD,veiticinco
+866,Bernardo,2025-03-29 00:00:00,Bernardo Jesus Benitez,26953669.0,bono producción ,30.0,USD,treinta
+867,Josue,2025-03-29 00:00:00,Josue Disney Meza Hidalgo,34793381.0,bono producción ,30.0,USD,treinta
+868,Miguel,2025-03-29 00:00:00,Miguel Caño Arenas,0.0,bono producción ,40.0,USD,cuarenta
+869,Anthony,2025-03-29 00:00:00,Hernandez Anthony Joel,21574740.0,bono producción 10,10.0,USD,diez
+870,Alexis,2025-03-29 00:00:00,Moreno Alexis Alexander,22887857.0,bono producción 10,10.0,USD,diez
+871,Jose,2025-03-29 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono producción 25 + apoyo en corral 10 ,35.0,USD,treinta y cinco
+872,Nixon,2025-03-29 00:00:00,Nixon Josue Millan Serrano,32224796.0,bono producción 25 + apoyo en corral 10 ,35.0,USD,treinta y cinco
+873,Angel,2025-03-29 00:00:00,Angel Logan,31360137.0,bono producción 25 + apoyo en corral 10 ,35.0,USD,treinta y cinco
+874,Tapiquen,2025-03-29 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono producción 25 + apoyo en corral 10 ,35.0,USD,treinta y cinco
+875,Junior,2025-03-29 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono producción 25 + apoyo en corral 10 ,35.0,USD,treinta y cinco
+876,Carlos,2025-03-29 00:00:00,Carlos Rodriguez,22882274.0,bono producción 25 + bono responsabilidad+ apoyo en corral 10 ,60.0,USD,sesenta
+877,Alberto,2025-03-29 00:00:00,Alberto Linares,18548376.0,bono producción 100 + apoyo en corral 10 + amance novilla 15,125.0,USD,ciento veinticinco
+878,Roni,2025-04-15 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,Bono de producción,30.0,USD,treinta
+879,Eduardo,2025-04-15 00:00:00,Carlos Eduardo Figueredo Tovar,31343753.0,Bono de producción,30.0,USD,treinta
+880,Bernardo,2025-04-15 00:00:00,Bernardo Jesus Benitez,26953669.0,Bono de producción,30.0,USD,treinta
+881,Miguel,2025-04-15 00:00:00,Miguel Caño Arenas,0.0,Bono de producción,30.0,USD,treinta
+882,Anthony,2025-04-15 00:00:00,Hernandez Anthony Joel,21574740.0,bono producción 10,10.0,USD,diez
+883,Alexis,2025-04-15 00:00:00,Moreno Alexis Alexander,22887857.0,bono producción 10,10.0,USD,diez
+884,Nixon,2025-04-15 00:00:00,Nixon Josue Millan Serrano,32224796.0,bono producción 25  + 5 apoyo en corral ,30.0,USD,treinta
+885,Angel,2025-04-15 00:00:00,Angel Logan,31360137.0,bono producción 25  + 10 apoyo en corral ,35.0,USD,treinta y cinco
+886,Tapiquen,2025-04-15 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono producción 25  + 10 apoyo en corral ,35.0,USD,treinta y cinco
+887,Junior,2025-04-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono producción 25  + apoyo en corral 5,30.0,USD,treinta
+888,Carlos,2025-04-15 00:00:00,Carlos Rodriguez,22882274.0,bono producción 25 + bono responsabilidad 20 + apoyo en corral 5,50.0,USD,cincuenta
+889,Alberto,2025-04-15 00:00:00,Alberto Linares,18548376.0,bono producción 75 + apoyo en corral 5,80.0,USD,ochenta
+890,Jose,2025-04-30 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono de producción 50 + sem sta 20+ otra activ 10,80.0,USD,ochenta
+891,Rodriguez,2025-04-30 00:00:00,Rodriguez Rodriguez Angel Manuel,25704798.0,bono de producción 10 + sem sta 10+ otra activ 10,30.0,USD,treinta
+892,Mirian,2025-04-30 00:00:00,Mirian Caño arena,0.0, sem sta 20,20.0,USD,veinte
+893,Roni,2025-04-30 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,bono de Producción 30+ sem sta 10,40.0,USD,cuarenta
+894,Bernardo,2025-04-30 00:00:00,Bernardo Jesus Benitez,26953669.0,bono de Producción 30+ sem sta 10,40.0,USD,cuarenta
+895,Eduardo,2025-04-30 00:00:00,Carlos Eduardo Figueredo Tovar,31343753.0,bono de Producción 30+ sem sta 10,40.0,USD,cuarenta
+896,Miguel,2025-04-30 00:00:00,Miguel Caño Arenas,0.0,bono de Producción 40+ sem sta 10,50.0,USD,cincuenta
+897,Erika,2025-04-30 00:00:00,Guedez Erika yusmila,30344043.0, sem sta,20.0,USD,veinte
+898,Anthony,2025-04-30 00:00:00,Hernandez Anthony Joel,21574740.0,bono producción 10+ sem sta 5,15.0,USD,quince
+899,Alexis,2025-04-30 00:00:00,Moreno Alexis Alexander,22887857.0,bono producción 10+ sem sta 5,15.0,USD,quince
+900,Nixon,2025-04-30 00:00:00,Nixon Josue Millan Serrano,32224796.0,bono producción 25+ sem sta 20,45.0,USD,cuarenta y cinco
+901,Angel,2025-04-30 00:00:00,Angel Logan,31360137.0,bono producción 25+ sem sta 10,35.0,USD,treinta y cinco
+902,Tapiquen,2025-04-30 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono producción 25+ sem sta 15,40.0,USD,cuarenta
+903,Junior,2025-04-30 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono producción 25+  semana sta 15+ otra activ 5,45.0,USD,cuarenta y cinco
+904,Carlos,2025-04-30 00:00:00,Carlos Rodriguez,22882274.0,bono producción 25 + bono responsabilidad 25+  semana sta 20+ ope. Maq 15,85.0,USD,ochenta y cinco
+905,Alberto,2025-04-30 00:00:00,Alberto Linares,18548376.0,bono producción 100 +  semana sta 20,120.0,USD,ciento veinte
+906,Rodriguez,2025-05-15 00:00:00,Rodriguez Rodriguez Angel Manuel,25704798.0,bono P.   10 + otras actividades 05,15.0,USD,quince
+907,Jose,2025-05-15 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono P.   50 + otras actividades 10,60.0,USD,sesenta
+908,Eduardo,2025-05-15 00:00:00,Carlos Eduardo Figueredo Tovar,31343753.0,bono P.   30 + otras actividades 10,40.0,USD,cuarenta
+909,Bernardo,2025-05-15 00:00:00,Bernardo Jesus Benitez,26953669.0,bono P.   30,30.0,USD,treinta
+910,Roni,2025-05-15 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,bono P.   30,30.0,USD,treinta
+911,Miguel,2025-05-15 00:00:00,Miguel Caño Arenas,0.0,bono P.   40 +1ro mayo 5,45.0,USD,cuarenta y cinco
+912,Anthony,2025-05-15 00:00:00,Hernandez Anthony Joel,21574740.0,bono P.   10 ,10.0,USD,diez
+913,Alexis,2025-05-15 00:00:00,Moreno Alexis Alexander,22887857.0,bono P.   10 + otras actividades 10+ patos 10.,30.0,USD,treinta
+914,Nixon,2025-05-15 00:00:00,Nixon Josue Millan Serrano,32224796.0,bono P.   25  + amance (2146) 15+1ro mayo 5 +otras actividades 5+ patos 10.,60.0,USD,sesenta
+915,Angel,2025-05-15 00:00:00,Angel Logan,31360137.0,bono P.   25  + amance (1075) 15 +1ro mayo 5 +otras actividades 10,55.0,USD,cincuenta y cinco
+916,Tapiquen,2025-05-15 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono P.   25  + amance (0299-2035) 30 +1ro mayo 5 +otras actividades 5,65.0,USD,sesenta y cinco
+917,Junior,2025-05-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono P.   25  +1ro mayo 5 +otras actividades 10,40.0,USD,cuarenta
+918,Carlos,2025-05-15 00:00:00,Carlos Rodriguez,22882274.0,bono P.   25 + bono respo. 25 +1ro mayo 5 +otras actividades 10,65.0,USD,sesenta y cinco
+919,Alberto,2025-05-15 00:00:00,Alberto Linares,18548376.0,bono P.   100 +1ro mayo 5 +otras actividades 5,110.0,USD,ciento diez
+920,Wladimir,2025-05-30 00:00:00,Benitez Birriel Wladimir Argenis,30150912.0,bono producción 25,25.0,USD,veiticinco
+921,Wilder,2025-05-30 00:00:00,Ruiz Guache Wilder Gregorio,29621615.0,bono producción 25,25.0,USD,veiticinco
+922,Roni,2025-05-30 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,bono producción 30 + otra activ. 10,40.0,USD,cuarenta
+923,Bernardo,2025-05-30 00:00:00,Bernardo Jesus Benitez,26953669.0,bono producción 30,30.0,USD,treinta
+924,Miguel,2025-05-30 00:00:00,Miguel Caño Arenas,0.0,bono producción 40+ otra activ 10,50.0,USD,cincuenta
+925,Nixon,2025-05-30 00:00:00,Nixon Josue Millan Serrano,32224796.0,bono producción 25+ cuido de patos 10+ otra activ 5,40.0,USD,cuarenta
+926,Alexis,2025-05-30 00:00:00,Moreno Alexis Alexander,22887857.0,bono producción 10+ cuido de ovejos 10,20.0,USD,veinte
+927,Anthony,2025-05-30 00:00:00,Hernandez Anthony Joel,21574740.0,bono producción 10,10.0,USD,diez
+928,Claudio,2025-05-30 00:00:00,Claudio Rodriguez,0.0,bono producción 25+ otra actividad 5,30.0,USD,treinta
+929,Tapiquen,2025-05-30 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono producción 25+ otra actividad 10,35.0,USD,treinta y cinco
+930,Junior,2025-05-30 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono producción 20+ otra actividad 5+ amance 30 (1015-10431),55.0,USD,cincuenta y cinco
+931,Carlos,2025-05-30 00:00:00,Carlos Rodriguez,22882274.0,bono producción 25+ otra actividad 5+ responsabilidad 25,55.0,USD,cincuenta y cinco
+932,Alberto,2025-05-30 00:00:00,Alberto Linares,18548376.0,bono producción 100+ otra actividad 5+ amance 60 (8011-1109B-0240-2042),165.0,USD,ciento sesenta y cinco
+933,Wladimir,2025-06-14 00:00:00,Benitez Birriel Wladimir Argenis,30150912.0,bono prod. 30,30.0,USD,treinta
+934,Wilder,2025-06-14 00:00:00,Ruiz Guache Wilder Gregorio,29621615.0,bono prod. 30,30.0,USD,treinta
+935,Roni,2025-06-14 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,bono prod. 30,30.0,USD,treinta
+936,Bernardo,2025-06-14 00:00:00,Bernardo Jesus Benitez,26953669.0,bono prod. 30,30.0,USD,treinta
+937,Miguel,2025-06-14 00:00:00,Miguel Caño Arenas,0.0,bono prod. 40,40.0,USD,cuarenta
+938,Junior,2025-06-14 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono prod. 25 + plan santit 10+ otras actividades 5,40.0,USD,cuarenta
+939,Alexis,2025-06-14 00:00:00,Moreno Alexis Alexander,22887857.0,bono prod. 10 + plan santit 10+ ovejos,30.0,USD,treinta
+940,Anthony,2025-06-14 00:00:00,Hernandez Anthony Joel,21574740.0,bono prod. 10,10.0,USD,diez
+941,Claudio,2025-06-14 00:00:00,Claudio Rodriguez,0.0,"bono prod. 25,  plan sanit 10",35.0,USD,treinta y cinco
+942,Nixon,2025-06-14 00:00:00,Nixon Josue Millan Serrano,32224796.0,"bono prod. 25,  plan sanit 10, patos 10",45.0,USD,cuarenta y cinco
+943,Tapiquen,2025-06-14 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,"bono prod. 25,  plan sanit 10, otras actividades 5",40.0,USD,cuarenta
+944,Carlos,2025-06-14 00:00:00,Carlos Rodriguez,22882274.0,"bono prod. 25, bono responsabilidad 25, plan sanit 10, amance vacas 1104A… 15.",75.0,USD,setenta y cinco
+945,Alberto,2025-06-14 00:00:00,Alberto Linares,18548376.0,"bono prod. 100, plan sanit 10, amance vacas 2203,4078,0208… 45.",155.0,USD,ciento cincuenta y cinco
+946,Luisana,2025-06-30 00:00:00,Guache Ruiz Luisana Isabel,28781786.0,24jun,5.0,USD,cinco
+947,Wladimir,2025-06-30 00:00:00,Benitez Birriel Wladimir Argenis,30150912.0,bono produ. 30,30.0,USD,treinta
+948,Wilder,2025-06-30 00:00:00,Ruiz Guache Wilder Gregorio,29621615.0,bono produ. 25,25.0,USD,veiticinco
+949,Roni,2025-06-30 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,bono produ. 30+ 24 jun. 5,35.0,USD,treinta y cinco
+950,Bernardo,2025-06-30 00:00:00,Bernardo Jesus Benitez,26953669.0,bono produ. 30,30.0,USD,treinta
+951,Miguel,2025-06-30 00:00:00,Miguel Caño Arenas,0.0,bono produ. 40+ 24jun 5,45.0,USD,cuarenta y cinco
+952,Erika,2025-06-30 00:00:00,Guedez Erika yusmila,30344043.0,24jun 5,5.0,USD,cinco
+953,Anthony,2025-06-30 00:00:00,Hernandez Anthony Joel,21574740.0,bono produ.10+ 24jun 5,15.0,USD,quince
+954,Alexis,2025-06-30 00:00:00,Moreno Alexis Alexander,22887857.0,bono produ.10+ 24jun 5+ovejos 10,25.0,USD,veiticinco
+955,Jhoandri,2025-06-30 00:00:00,Jhoandri Jose Guzman Navarro,31913747.0,bono produ.25+ 24jun 5,30.0,USD,treinta
+956,Tapiquen,2025-06-30 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono produ.25+ 24jun 5+plan sanit 10,40.0,USD,cuarenta
+957,Junior,2025-06-30 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono produ.25+ 24jun 5,30.0,USD,treinta
+958,Carlos,2025-06-30 00:00:00,Carlos Rodriguez,22882274.0,bono produ.25+ bono responsabilidad 25+ plan sanit 10,60.0,USD,sesenta
+959,Alberto,2025-06-30 00:00:00,Alberto Linares,18548376.0,bono produ. 100+24jun 5,105.0,USD,ciento cinco
+960,Nixon,2025-06-30 00:00:00,Nixon Josue Millan Serrano,32224796.0,bono produ. 25+24jun 5+amance(33) 15+plan sanit. 10+ patos,65.0,USD,sesenta y cinco
+961,Claudio,2025-06-30 00:00:00,Claudio Rodriguez,0.0,bono produ. 25+24jun 5+amance(9011/J425) 2vacas 30+plan sanit. 10,70.0,USD,setenta
+962,Wilder CA,2025-08-15 00:00:00,Ruiz Guache Wilder Gregorio,29621615.0,bono 30,30.0,USD,treinta
+963,Wladimir CA,2025-08-15 00:00:00,Benitez Birriel Wladimir Argenis,30150912.0,bono 30,30.0,USD,treinta
+964,Roni CA,2025-08-15 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,bono 30,30.0,USD,treinta
+965,Bernardo CA,2025-08-15 00:00:00,Bernardo Jesus Benitez,26953669.0,bono 30,30.0,USD,treinta
+966,Miguel CA,2025-08-15 00:00:00,Miguel Caño Arenas,0.0,bono 40+ otra activ 35 - descuento prestamo 10,65.0,USD,sesenta y cinco
+967,José CA,2025-08-15 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 40,40.0,USD,cuarenta
+968,Anthony,2025-08-15 00:00:00,Hernandez Anthony Joel,21574740.0,bono 10- descuento prestamo 5,5.0,USD,cinco
+969,Alexis,2025-08-15 00:00:00,Moreno Alexis Alexander,22887857.0,bono 10+ ovejos 10,20.0,USD,veinte
+970,Yonathan,2025-08-15 00:00:00,Yonathan Alexander Bastardo Perez,27623621.0,bono 25,25.0,USD,veiticinco
+971,Gabriel,2025-08-15 00:00:00,Lusinchi Ruiz Gabriel Jose,34159754.0,bono 25 +apoyo 5 + otra actividad 25,55.0,USD,cincuenta y cinco
+972,Jhoandri,2025-08-15 00:00:00,Jhoandri Jose Guzman Navarro,31913747.0,bono 25 +apoyo 5 ,30.0,USD,treinta
+973,Claudio,2025-08-15 00:00:00,Claudio Rodriguez,0.0,bono 25+otra activ. 35 +apoyo 5 +patos 10,75.0,USD,setenta y cinco
+974,Carlos,2025-08-15 00:00:00,Carlos Rodriguez,22882274.0,bono 50+otra activ. 10 +apoyo 5 ,65.0,USD,sesenta y cinco
+975,Alberto,2025-08-15 00:00:00,Alberto Linares,18548376.0,bono 100+otra activ. 25 +apoyo 5 - desc. prestamo 30,100.0,USD,cien
+976,Erika,2025-07-30 00:00:00,Guedez Erika yusmila,30344043.0,24 jul,5.0,USD,cinco
+977,Anthony,2025-07-30 00:00:00,Hernandez Anthony Joel,21574740.0,bono p. 10,10.0,USD,diez
+978,Alexis,2025-07-30 00:00:00,Moreno Alexis Alexander,22887857.0,bono p. 10+ ovejo 5,15.0,USD,quince
+979,Jhoandri,2025-07-30 00:00:00,Jhoandri Jose Guzman Navarro,31913747.0,bono p. 25+ 24jul 5,30.0,USD,treinta
+980,Yonathan,2025-07-30 00:00:00,Yonathan Bastardo,0.0,bono p. 15,15.0,USD,quince
+981,Yunior,2025-07-30 00:00:00,Angel Rodriguez Yunior Alejandro,31360847.0,bono p. 20,20.0,USD,veinte
+982,Claudio,2025-07-30 00:00:00,Claudio Rodriguez,0.0,bono p. 25+ 24jul 5+ otras activ. 25 ,55.0,USD,cincuenta y cinco
+983,Nixon,2025-07-30 00:00:00,Nixon Josue Millan Serrano,32224796.0,bono p. 25+ 24jul 5+ otras activ. 25 + amance 15 (1102) + patos 10 (1102),80.0,USD,ochenta
+984,Carlos,2025-07-30 00:00:00,Carlos Rodriguez,22882274.0,bono p. 25+bono resp. 25+ 24jul 5+ amance 15 (2201) ,70.0,USD,setenta
+985,Alberto,2025-07-30 00:00:00,Alberto Linares,18548376.0,bono p. 100+ 24jul 5+ otra activ. 25+ amance 15 (2014) - 30 dscto.,145.0,USD,ciento cuarenta y cinco
+986,Roni,2025-07-15 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,bono 15,15.0,USD,quince
+987,Bernardo,2025-07-15 00:00:00,Bernardo Jesus Benitez,26953669.0,bono 30+ 5 jul 5,35.0,USD,treinta y cinco
+988,Nixon,2025-07-15 00:00:00,Nixon Josue Millan Serrano,32224796.0,bono 25+ 5 jul 5+otras activ 5+ amance 15 (8011 paraparo)+ patos 10,60.0,USD,sesenta
+989,Claudio,2025-07-15 00:00:00,Claudio Rodriguez,0.0,"bono 25+ 5 jul 5+otras activ 5+ amance 15 (J841, negra)",60.0,USD,sesenta
+990,Carlos,2025-07-15 00:00:00,Carlos Rodriguez,22882274.0,bono 50+ 5 jul 5+otras activ 5,60.0,USD,sesenta
+991,Alberto,2025-07-15 00:00:00,Alberto Linares,18548376.0,bono 100+ 5 jul 5+otras activ 25+ amance 30 (2018 y falta el nombre ),160.0,USD,ciento sesenta
+992,Miguel,2025-07-15 00:00:00,Miguel Caño Arenas,0.0,bono 40+ 5jul 5,45.0,USD,cuarenta y cinco
+993,Erika,2025-07-15 00:00:00,Guedez Erika yusmila,30344043.0,5 de julio 5,5.0,USD,cinco
+994,Anthony,2025-07-15 00:00:00,Hernandez Anthony Joel,21574740.0,bono 10+ovejos 10,10.0,USD,diez
+995,Alexis,2025-07-15 00:00:00,Moreno Alexis Alexander,22887857.0,bono 10+ovejos 10,20.0,USD,veinte
+996,Jhoandri,2025-07-15 00:00:00,Jhoandri Jose Guzman Navarro,31913747.0,bono 25+otras activ 5+ 5jul 5,35.0,USD,treinta y cinco
+997,Tapiquen,2025-07-15 00:00:00,Tapiquen Moreno Jose Manuel,31464567.0,bono 25+otras activ 20+ 5jul 5,50.0,USD,cincuenta
+998,Junior,2025-07-15 00:00:00,Junior  Gregorio Rios Gonzalez,23517535.0,bono 25+otras activ 10,35.0,USD,treinta y cinco
+999,Wladimir,2025-07-15 00:00:00,Benitez Birriel Wladimir Argenis,30150912.0,bono 30,30.0,USD,treinta
+1025,Wladimir CA,2025-08-30 00:00:00,Benitez Birriel Wladimir Argenis,30150912.0,bono 30,30.0,USD,treinta
+1026,Roni CA,2025-08-30 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,bono 30,30.0,USD,treinta
+1027,Bernardo CA,2025-08-30 00:00:00,Bernardo Jesus Benitez,26953669.0,bono 30,30.0,USD,treinta
+1028,Miguel CA,2025-08-30 00:00:00,Miguel Caño Arenas,0.0,bono 40+ otras activ 35- dscto prestamo 10,65.0,USD,sesenta y cinco
+1029,José CA,2025-08-30 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 50,5.0,USD,cinco
+1030,Anthony,2025-08-30 00:00:00,Hernandez Anthony Joel,21574740.0,bono 10- dscto prestamo 5,5.0,USD,cinco
+1031,Alexis,2025-08-30 00:00:00,Moreno Alexis Alexander,22887857.0,bono 10+ ovejos 10,20.0,USD,veinte
+1032,Gabriel,2025-08-30 00:00:00,Lusinchi Ruiz Gabriel Jose,34159754.0,bono 25+ otra actv 5 ,30.0,USD,treinta
+1033,Jhoandri,2025-08-30 00:00:00,Jhoandri Jose Guzman Navarro,31913747.0,bono 25+ otra actv 5 ,30.0,USD,treinta
+1034,Claudio,2025-08-30 00:00:00,Claudio Rodriguez,0.0,bono 25+ otra actv 15 + patos 10,50.0,USD,cincuenta
+1035,Carlos,2025-08-30 00:00:00,Carlos Rodriguez,22882274.0,bono 25+ bono respon 25+ otra actv 5 +amance (0252-2095) 30 ,85.0,USD,ochenta y cinco
+1036,Alberto,2025-08-30 00:00:00,Alberto Linares,18548376.0,bono 100+otra actv 25 +amance (0313-2111) 30 - dscto prestamo 30,125.0,USD,ciento veinticinco
+1038,Roni CA,2025-09-15 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,"bono 30+ amance BU076, 15",45.0,USD,cuarenta y cinco
+1039,Claudio,2025-09-15 00:00:00,Claudio Rodriguez,0.0,bono 25 + otras activ 15+ patos 10,50.0,USD,cincuenta
+1040,Eduardo CA,2025-09-15 00:00:00,Carlos Eduardo Figueredo Tovar,31343753.0,"bono 30 + amance  BU324 ,15",45.0,USD,cuarenta y cinco
+1041,Wladimir CA,2025-09-15 00:00:00,Benitez Birriel Wladimir Argenis,30150912.0,bono 30 ,30.0,USD,treinta
+1042,Miguel CA,2025-09-15 00:00:00,Miguel Caño Arenas,0.0,"bono 40 + otra actividad 35+ amance BU048 Y BU082, 30- dscto prestamo 10",95.0,USD,noventa y cinco
+1043,Alexis,2025-09-15 00:00:00,Moreno Alexis Alexander,22887857.0,bono 10 + dial domingo laborado 10+ ovejos 10,30.0,USD,treinta
+1044,José CA,2025-09-15 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 50,50.0,USD,cincuenta
+1045,Anthony,2025-09-15 00:00:00,Hernandez Anthony Joel,21574740.0,bono 10 -  dscto 5,5.0,USD,cinco
+1046,Rangel,2025-09-15 00:00:00,Ragel Arocha Frederi Jose,25617666.0,bono 25,25.0,USD,veiticinco
+1047,Jonier,2025-09-15 00:00:00,Jonier Jose Seija Parica,,bono 25,25.0,USD,veiticinco
+1048,Gabriel,2025-09-15 00:00:00,Lusinchi Ruiz Gabriel Jose,34159754.0,bono 25+ otra actividad 25,50.0,USD,cincuenta
+1049,Jhoandri,2025-09-15 00:00:00,Jhoandri Jose Guzman Navarro,31913747.0,bono 25,25.0,USD,veiticinco
+1050,Carlos,2025-09-15 00:00:00,Carlos Rodriguez,22882274.0,bono 50 +otra activ 10 ,60.0,USD,sesenta
+1051,Alberto,2025-09-15 00:00:00,Alberto Linares,18548376.0,bono 100 +otra activ 25 - dcto prestamo 30,95.0,USD,noventa y cinco
+1080,Eduardo CA,2025-09-30 00:00:00,Carlos Eduardo Figueredo Tovar,31343753.0,bono 30,30.0,USD,treinta
+1081,Roni CA,2025-09-30 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,bono 30,30.0,USD,treinta
+1082,Wladimir CA,2025-09-30 00:00:00,Benitez Birriel Wladimir Argenis,30150912.0,bono 30,30.0,USD,treinta
+1083,Miguel CA,2025-09-30 00:00:00,Miguel Caño Arenas,0.0,bono 40+apoyo 35- dscto prestamo 10,65.0,USD,sesenta y cinco
+1084,José CA,2025-09-30 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 50,50.0,USD,cincuenta
+1085,Anthony,2025-09-30 00:00:00,Hernandez Anthony Joel,21574740.0,bono 10 + 5 devolucion cobrado de más,15.0,USD,quince
+1086,Alexis,2025-09-30 00:00:00,Moreno Alexis Alexander,22887857.0,bono 10,10.0,USD,diez
+1087,Jonier,2025-09-30 00:00:00,Jonier Jose Seija Parica,,bono 25+ apoyo 15,40.0,USD,cuarenta
+1088,Gabriel,2025-09-30 00:00:00,Lusinchi Ruiz Gabriel Jose,34159754.0,bono 25+ apoyo 25,50.0,USD,cincuenta
+1089,Rangel,2025-09-30 00:00:00,Ragel Arocha Frederi Jose,25617666.0,bono 25+ apoyo 15,40.0,USD,cuarenta
+1090,Jhoandri,2025-09-30 00:00:00,Jhoandri Jose Guzman Navarro,31913747.0,bono 25,25.0,USD,veiticinco
+1091,Claudio,2025-09-30 00:00:00,Claudio Rodriguez,0.0,bono 25+amance (2108-0297) 30+apoyo 25+ patos 10,90.0,USD,noventa
+1092,Carlos,2025-09-30 00:00:00,Carlos Rodriguez,22882274.0,bono 50+amance (0306-9501) 30+apoyo 15,95.0,USD,noventa y cinco
+1093,Alberto,2025-09-30 00:00:00,Alberto Linares,18548376.0,bono 100+amance (22172-0312) 30+apoyo 30+dev cobro de mas 10,170.0,USD,ciento setenta
+1120,Roni CA,2025-10-15 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,bono 30+apoyo 20,50.0,USD,cincuenta
+1121,Wladimir CA,2025-10-15 00:00:00,Benitez Birriel Wladimir Argenis,30150912.0,bono 30,30.0,USD,treinta
+1122,José CA,2025-10-15 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 50,50.0,USD,cincuenta
+1123,Anthony,2025-10-15 00:00:00,Hernandez Anthony Joel,21574740.0,bono 10+ 40 prestamo Sr luis,50.0,USD,cincuenta
+1124,Alexis,2025-10-15 00:00:00,Moreno Alexis Alexander,22887857.0,bono 10,10.0,USD,diez
+1125,Jonier,2025-10-15 00:00:00,Jonier Jose Seija Parica,,bono 25+ apoyo 10,35.0,USD,treinta y cinco
+1126,Gabriel,2025-10-15 00:00:00,Lusinchi Ruiz Gabriel Jose,34159754.0,bono 25,25.0,USD,veiticinco
+1127,Rangel,2025-10-15 00:00:00,Ragel Arocha Frederi Jose,25617666.0,bono 25,25.0,USD,veiticinco
+1128,Jhoandri,2025-10-15 00:00:00,Jhoandri Jose Guzman Navarro,31913747.0,bono 25,25.0,USD,veiticinco
+1129,Claudio,2025-10-15 00:00:00,Claudio Rodriguez,0.0,bono 25+apoyo 5+(amance 2030) 15+ patos 10,55.0,USD,cincuenta y cinco
+1130,Carlos,2025-10-15 00:00:00,Carlos Rodriguez,22882274.0,bono 50+apoyo 10+(amance 9500) 15,75.0,USD,setenta y cinco
+1131,Alberto,2025-10-15 00:00:00,Alberto Linares,18548376.0,bono 50+apoyo 10+(amance 2048) 15,75.0,USD,setenta y cinco
+1132,Miguel CA,2025-10-15 00:00:00,Miguel Caño Arenas,0.0,bono 50+ apoyo 35,75.0,USD,setenta y cinco
+1133,Mirian CA,2025-12-31 00:00:00,Mirian Caño arena,0.0,apoyo 20 ,20.0,USD,veinte
+1134,Bernardo CA,2025-12-31 00:00:00,Bernardo Jesus Benitez,26953669.0,bono 30+ dia festivo 30+ apoyo 20 ,80.0,USD,ochenta
+1135,Florencio CA,2025-12-31 00:00:00,AZUAJE FERNANDEZ FLORENCIO ANTONIO,26953670.0,bono 30+ dia festivo 30+ apoyo 20 ,80.0,USD,ochenta
+1136,Roni CA,2025-12-31 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,bono 30+ dia festivo 30+ apoyo 20 - descuento prestamo 10,80.0,USD,ochenta
+1137,Miguel CA,2025-12-31 00:00:00,Miguel Caño Arenas,0.0,bono 40+ dia festivo 30+ apoyo 35 - descuento prestamo 10,95.0,USD,noventa y cinco
+1138,José CA,2025-12-31 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,apoyo 20,20.0,USD,veinte
+1139,Jonier,2025-12-31 00:00:00,Jonier Jose Seija Parica,0.0,bono 20+ dia festivo 50+ apoyo 30,100.0,USD,cien
+1140,Pozuelo,2025-12-31 00:00:00,POZUELO ABAD ALBERTO JOSE,31917069.0,bono 25+ dia festivo 50+ apoyo 25,100.0,USD,cien
+1141,Jhoandri,2025-12-31 00:00:00,Jhoandri Jose Guzman Navarro,31913747.0,bono 20+ dia festivo 50- descento prestamo,60.0,USD,sesenta
+1142,Claudio,2025-12-31 00:00:00,Claudio Rodriguez,22384262.0,bono 20+ dia festivo 50+ amance (22135)  15,85.0,USD,ochenta y cinco
+1143,Carlos,2025-12-31 00:00:00,Carlos Rodriguez,22882274.0,bono 50+ dia festivo 50+ apoyo 15 ,115.0,USD,ciento quince
+1144,Alberto,2025-12-31 00:00:00,Alberto Linares,18548376.0,bono 100+ dia festivo 100+ apoyo 15 - descuento prestamo 30,185.0,USD,ciento ochenta y cinco
+1145,Florencio CA,2026-01-15 00:00:00,AZUAJE FERNANDEZ FLORENCIO ANTONIO,26953670.0,bono 30+ apoyo 40,70.0,USD,setenta
+1146,Alfredo CA,2026-01-15 00:00:00,ALFREDO QUINTANA,18129858.0,bono 30+ apoyo 10,40.0,USD,cuarenta
+1147,wiclemann,2026-01-15 00:00:00,NAVA GARCIA WICLEMANN JOSE,0.0,bono 30+ apoyo 10,40.0,USD,cuarenta
+1148,Miguel CA,2026-01-15 00:00:00,Miguel Caño Arenas,0.0,bono 40+ apoyo 55,95.0,USD,noventa y cinco
+1149,José CA,2026-01-15 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 50+ apoyo 20- dcto prestamo 50,20.0,USD,veinte
+1150,Jonier,2026-01-15 00:00:00,Jonier Jose Seija Parica,0.0,bono 25+ apoyo 20,45.0,USD,cuarenta y cinco
+1151,Pozuelo,2026-01-15 00:00:00,POZUELO ABAD ALBERTO JOSE,31917069.0,bono 25+ Apoyo 20,45.0,USD,cuarenta y cinco
+1152,Ismael,2026-01-15 00:00:00,BARBOZA PAVIQUE ISMAEL JESUS,37259941.0,bono 25,25.0,USD,veiticinco
+1153,Jhoandri,2026-01-15 00:00:00,Jhoandri Jose Guzman Navarro,31913747.0,bono 25,25.0,USD,veiticinco
+1154,Claudio,2026-01-15 00:00:00,Claudio Rodriguez,22384262.0,bono 25+ apoyo 20+ patos 10+ amance (2034)  15,70.0,USD,setenta
+1155,Carlos,2026-01-15 00:00:00,Carlos Rodriguez,22882274.0,bono 50+ apoyo 50,100.0,USD,cien
+1156,Alberto,2026-01-15 00:00:00,Alberto Linares,18548376.0,bono 100,100.0,USD,cien
+1157,Yeison,2025-12-15 00:00:00,Yeison,0.0, apoyo 5,5.0,USD,cinco
+1158,Richard,2025-12-15 00:00:00,Richard,0.0, apoyo 5,5.0,USD,cinco
+1159,Ruben,2025-12-15 00:00:00,Ruben Rodriguez,0.0, apoyo 5,5.0,USD,cinco
+1160,Raimond,2025-12-15 00:00:00,Raimond,0.0, apoyo 5,5.0,USD,cinco
+1161,Reinaldo,2025-12-15 00:00:00,Reinaldo,0.0,bono 5 + apoyo 5,10.0,USD,diez
+1162,Miguel CA,2025-12-15 00:00:00,Miguel Caño Arenas,0.0,bono 40 + apoyo 35,75.0,USD,setenta y cinco
+1163,Jhonathan CA,2025-12-15 00:00:00,HERNANDEZ MARCANO JONATHAN JESUS,26953668.0,bono 30,30.0,USD,treinta
+1164,Jonier,2025-12-15 00:00:00,Jonier Jose Seija Parica,0.0,bono 25,25.0,USD,veiticinco
+1165,Roni CA,2025-12-15 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,bono 30,30.0,USD,treinta
+1166,Bernardo CA,2025-12-15 00:00:00,Bernardo Jesus Benitez,26953669.0,bono 30,30.0,USD,treinta
+1167,Florencio CA,2025-12-15 00:00:00,AZUAJE FERNANDEZ FLORENCIO ANTONIO,26953670.0,bono 30+ apoyo corral 20,50.0,USD,cincuenta
+1168,José CA,2025-12-15 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 50,50.0,USD,cincuenta
+1169,Alberto,2025-12-15 00:00:00,Alberto Linares,18548376.0,bono 100 + dcto prestamo 20+ apoyo corral 5+ amance (1045 y 22144) 30,115.0,USD,ciento quince
+1170,Jhoandri,2025-12-15 00:00:00,Jhoandri Jose Guzman Navarro,31913747.0,bono 25 + dcto prestamo 10,15.0,USD,quince
+1171,Rangel,2025-12-15 00:00:00,Ragel Arocha Frederi Jose,25617666.0,bono 25 + 15 amance (0258),40.0,USD,cuarenta
+1172,Carlos,2025-12-15 00:00:00,Carlos Rodriguez,22882274.0,bono 50,50.0,USD,cincuenta
+1173,Alvaro CA,2025-12-15 00:00:00,AGUILAR HERNANDEZ ALVARO DANIEL,26953658.0,bono 30,30.0,USD,treinta
+1174,Pozuelo,2025-12-15 00:00:00,POZUELO ABAD ALBERTO JOSE,31917069.0,bono 25,25.0,USD,veiticinco
+1175,Anthony,2025-12-15 00:00:00,Hernandez Anthony Joel,21574740.0,bono 10- dcto prestamo 5,5.0,USD,cinco
+1176,Claudio,2025-12-15 00:00:00,Claudio Rodriguez,22384262.0,bono 25+ patos 10,35.0,USD,treinta y cinco
+1177,Miguel CA,2025-11-30 00:00:00,Miguel Caño Arenas,0.0,bono 40 +apoyo 35,75.0,USD,setenta y cinco
+1178,Jhonathan CA,2025-11-30 00:00:00,HERNANDEZ MARCANO JONATHAN JESUS,26953668.0,bono 30,30.0,USD,treinta
+1179,Jonier,2025-11-30 00:00:00,Jonier Jose Seija Parica,0.0,bono 25,25.0,USD,veiticinco
+1180,Roni CA,2025-11-30 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,bono 30,30.0,USD,treinta
+1181,Bernardo CA,2025-11-30 00:00:00,Bernardo Jesus Benitez,26953669.0,bono 30,30.0,USD,treinta
+1182,Florencio CA,2025-11-30 00:00:00,AZUAJE FERNANDEZ FLORENCIO ANTONIO,26953670.0,bono 30,30.0,USD,treinta
+1183,José CA,2025-11-30 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 50,50.0,USD,cincuenta
+1184,Alberto,2025-11-30 00:00:00,Alberto Linares,18548376.0,bono 100 - dcto prestamo 30,70.0,USD,setenta
+1185,Jhoandri,2025-11-30 00:00:00,Jhoandri Jose Guzman Navarro,31913747.0,bono 25,25.0,USD,veiticinco
+1186,Rangel,2025-11-30 00:00:00,Ragel Arocha Frederi Jose,25617666.0,bono 25,25.0,USD,veiticinco
+1187,Carlos,2025-11-30 00:00:00,Carlos Rodriguez,22882274.0,bono 50,50.0,USD,cincuenta
+1188,Alvaro CA,2025-11-30 00:00:00,AGUILAR HERNANDEZ ALVARO DANIEL,26953658.0,bono 30,30.0,USD,treinta
+1189,Pozuelo,2025-11-30 00:00:00,POZUELO ABAD ALBERTO JOSE,31917069.0,bono 25,25.0,USD,veiticinco
+1190,Anthony,2025-11-30 00:00:00,Hernandez Anthony Joel,21574740.0,bono 10 - dcto prestamo 5,5.0,USD,cinco
+1191,Claudio,2025-11-30 00:00:00,Claudio Rodriguez,22384262.0,bono 25 + patos 10,35.0,USD,treinta y cinco
+1192,Bernardo CA,2025-11-15 00:00:00,Bernardo Jesus Benitez,26953669.0,bono 30 +,30.0,USD,treinta
+1193,Alvaro CA,2025-11-15 00:00:00,AGUILAR HERNANDEZ ALVARO DANIEL,26953658.0,bono 30 +,30.0,USD,treinta
+1194,Florencio CA,2025-11-15 00:00:00,AZUAJE FERNANDEZ FLORENCIO ANTONIO,26953670.0,bono 30 +,30.0,USD,treinta
+1195,Jhonathan CA,2025-11-15 00:00:00,HERNANDEZ MARCANO JONATHAN JESUS,26953668.0,bono 30 +,30.0,USD,treinta
+1196,Roni CA,2025-11-15 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,bono 30 + apoyo 20,50.0,USD,cincuenta
+1197,Miguel CA,2025-11-15 00:00:00,Miguel Caño Arenas,0.0,bono 40 + apoyo 35,75.0,USD,setenta y cinco
+1198,José CA,2025-11-15 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 50,50.0,USD,cincuenta
+1199,Anthony,2025-11-15 00:00:00,Hernandez Anthony Joel,21574740.0,bono 10 - dcto prestamo 5,5.0,USD,cinco
+1200,Jonier,2025-11-15 00:00:00,Jonier Jose Seija Parica,0.0,bono 25,25.0,USD,veiticinco
+1201,Pozuelo,2025-11-15 00:00:00,POZUELO ABAD ALBERTO JOSE,31917069.0,bono 12,12.0,USD,doce
+1202,Rangel,2025-11-15 00:00:00,Ragel Arocha Frederi Jose,25617666.0,bono 25+ apoyo 5+ amance 30 (2023 y 1032),60.0,USD,sesenta
+1203,Jhoandri,2025-11-15 00:00:00,Jhoandri Jose Guzman Navarro,31913747.0,bono 25+,25.0,USD,veiticinco
+1204,Claudio,2025-11-15 00:00:00,Claudio Rodriguez,22384262.0,bono 25+ patos 10+ amance 30 (2052 y 02331),65.0,USD,sesenta y cinco
+1205,Carlos,2025-11-15 00:00:00,Carlos Rodriguez,22882274.0,bono 50+ apoyo 5,55.0,USD,cincuenta y cinco
+1206,Alberto,2025-11-15 00:00:00,Alberto Linares,18548376.0,bono 100+ apoyo 10+ amance 15 (2007) -dcto prestamo 30,95.0,USD,noventa y cinco
+1207,Alvaro CA,2025-10-30 00:00:00,AGUILAR HERNANDEZ ALVARO DANIEL,26953658.0,bono 30,30.0,USD,treinta
+1208,Florencio CA,2025-10-30 00:00:00,AZUAJE FERNANDEZ FLORENCIO ANTONIO,26953670.0,bono 30,30.0,USD,treinta
+1209,Jhonathan CA,2025-10-30 00:00:00,HERNANDEZ MARCANO JONATHAN JESUS,26953668.0,bono 30,30.0,USD,treinta
+1210,Wladimir CA,2025-10-30 00:00:00,Benitez Birriel Wladimir Argenis,30150912.0,bono 25+,25.0,USD,veiticinco
+1211,Roni CA,2025-10-30 00:00:00,Alfaro Diaz Roni Yoel,30727927.0,bono 25+ apoyo 20,45.0,USD,cuarenta y cinco
+1212,Miguel CA,2025-10-30 00:00:00,Miguel Caño Arenas,0.0,bono 32+ apoyo 35,67.0,USD,sesenta y siete
+1213,José CA,2025-10-30 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 50,50.0,USD,cincuenta
+1214,Anthony,2025-10-30 00:00:00,Hernandez Anthony Joel,21574740.0,bono 10 - dcto prestamo 5,5.0,USD,cinco
+1215,Alexis,2025-10-30 00:00:00,Moreno Alexis Alexander,22887857.0,bono 10+ apoyo 15,25.0,USD,veiticinco
+1216,Jonier,2025-10-30 00:00:00,Jonier Jose Seija Parica,0.0,bono 25,25.0,USD,veiticinco
+1217,Gabriel,2025-10-30 00:00:00,Lusinchi Ruiz Gabriel Jose,34159754.0,bono 25,25.0,USD,veiticinco
+1218,Rangel,2025-10-30 00:00:00,Ragel Arocha Frederi Jose,25617666.0,bono 25,25.0,USD,veiticinco
+1219,Jhoandri,2025-10-30 00:00:00,Jhoandri Jose Guzman Navarro,31913747.0,bono 25,25.0,USD,veiticinco
+1220,Claudio,2025-10-30 00:00:00,Claudio Rodriguez,22384262.0,bono 25+ patos 10,35.0,USD,treinta y cinco
+1221,Carlos,2025-10-30 00:00:00,Carlos Rodriguez,22882274.0,bono 50,50.0,USD,cincuenta
+1222,Alberto,2025-10-30 00:00:00,Alberto Linares,18548376.0,bono 100 + apoyo 20,120.0,USD,ciento veinte
+1223,Rangel,2025-12-22 00:00:00,Ragel Arocha Frederi Jose,25617666.0,amance (2093-0107),30.0,USD,treinta
+1224,Carlos,2025-12-22 00:00:00,Carlos Rodriguez,22882274.0,amance (2036-2103-1100A-0327),60.0,USD,sesenta
+1225,Florencio CA,2026-01-31 00:00:00,AZUAJE FERNANDEZ FLORENCIO ANTONIO,26953670.0,bono 30+ apoyo 20,50.0,USD,cincuenta
+1226,Alfredo CA,2026-01-31 00:00:00,ALFREDO QUINTANA,18129858.0,bono 30+ apoyo 20,50.0,USD,cincuenta
+1227,wiclemann,2026-01-31 00:00:00,NAVA GARCIA WICLEMANN JOSE,0.0,bono 30+ apoyo 20,50.0,USD,cincuenta
+1228,Miguel CA,2026-01-31 00:00:00,Miguel Caño Arenas,0.0,bono 40+ apoyo 50,90.0,USD,noventa
+1229,Luis,2026-01-31 00:00:00,CARPAVIRE LUIS MANUEL,24999641.0,bono 10,10.0,USD,diez
+1230,José CA,2026-01-31 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 50- dcto prestamo luis 50,0.0,USD,cero
+1231,Elio,2026-01-31 00:00:00,DIAS PARICA ELIO JOSE,19562642.0,bono 25,25.0,USD,veiticinco
+1232,Ismael,2026-01-31 00:00:00,BARBOZA PAVIQUE ISMAEL JESUS,37259941.0,bono 25 +apoyo 10,35.0,USD,treinta y cinco
+1233,Jonier,2026-01-31 00:00:00,Jonier Jose Seija Parica,0.0,bono 25 +apoyo 10,35.0,USD,treinta y cinco
+1234,Carlos,2026-01-31 00:00:00,Carlos Rodriguez,22882274.0,bono 50 +apoyo 20 ,70.0,USD,setenta
+1235,Pozuelo,2026-01-31 00:00:00,POZUELO ABAD ALBERTO JOSE,31917069.0,bono 25 +amance 30 (1052 y 22098) ,65.0,USD,sesenta y cinco
+1236,Claudio,2026-01-31 00:00:00,Claudio Rodriguez,22384262.0,bono 20 +PATOS 10+amance 30 (0317A y 22049) ,70.0,USD,setenta
+1237,Alberto,2026-01-31 00:00:00,Alberto Linares,18548376.0,bono 100 +apoyo 10+amance (2137-2140-22161-9110)-DCTO 30,140.0,USD,ciento cuarenta
+1238,Miguel CA,2026-02-15 00:00:00,Miguel Caño Arenas,0.0,bono 40 + corral 25,65.0,USD,sesenta y cinco
+1239,José CA,2026-02-15 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 50 + corral 10,60.0,USD,sesenta
+1240,Mirian CA,2026-02-15 00:00:00,Mirian Caño arena,0.0, apoyo corral 15,15.0,USD,quince
+1241,Alex CA,2026-02-15 00:00:00,Benitez Ruiz Alex Joel,27580784.0,bono 30 + apoyo corral 20,50.0,USD,cincuenta
+1242,Alfredo CA,2026-02-15 00:00:00,ALFREDO QUINTANA,18129858.0,bono 30 + apoyo corral 20,50.0,USD,cincuenta
+1243,Florencio CA,2026-02-15 00:00:00,AZUAJE FERNANDEZ FLORENCIO ANTONIO,26953670.0,bono 30 + apoyo corral 20,50.0,USD,cincuenta
+1244,Rafael,2026-02-15 00:00:00,RAFAEL JESUS ALMEIDA ROJAS,27373634.0,apoyo corral 20,20.0,USD,veinte
+1245,Luis,2026-02-15 00:00:00,CARPAVIRE LUIS MANUEL,24999641.0,bono 25- dcto 25 + apoyo corral 10,10.0,USD,diez
+1246,Elio,2026-02-15 00:00:00,DIAS PARICA ELIO JOSE,19562642.0,bono 25+apoyo corral 10,35.0,USD,treinta y cinco
+1247,Ismael,2026-02-15 00:00:00,BARBOZA PAVIQUE ISMAEL JESUS,37259941.0,bono 25+apoyo corral 10 + amance (0314) 15,50.0,USD,cincuenta
+1248,Jonier,2026-02-15 00:00:00,Jonier Jose Seija Parica,0.0,bono 25+apoyo corral 10,35.0,USD,treinta y cinco
+1249,Pozuelo,2026-02-15 00:00:00,POZUELO ABAD ALBERTO JOSE,31917069.0,bono 25+apoyo corral 5 ,30.0,USD,treinta
+1250,Carlos,2026-02-15 00:00:00,Carlos Rodriguez,22882274.0,bono 50+apoyo corral 10 + amance (2109) 15,75.0,USD,setenta y cinco
+1251,Alberto,2026-02-15 00:00:00,Alberto Linares,18548376.0,bono 100+ apoyo corral 15+ amance (22186) 15 - dcto por prestamo,100.0,USD,cien
+1252,Alberto,2026-03-15 00:00:00,Alberto Linares,18548376.0,bono 100+ amance 30: (0307-22112),130.0,USD,ciento treinta
+1253,Alex CA,2026-03-15 00:00:00,Benitez Ruiz Alex Joel,27580784.0,bono 30 ,30.0,USD,treinta
+1254,Alfredo CA,2026-03-15 00:00:00,ALFREDO QUINTANA,18129858.0,bono 30 + apoyo en trab de electr en C4 y CA,75.0,USD,setenta y cinco
+1255,Alvaro CA,2026-03-15 00:00:00,AGUILAR HERNANDEZ ALVARO DANIEL,26953658.0,bono 30 ,30.0,USD,treinta
+1256,Carlos,2026-03-15 00:00:00,Carlos Rodriguez,22882274.0,bono 50+ amance 45: (9126A-2096A2011)),95.0,USD,noventa y cinco
+1257,Florencio CA,2026-03-15 00:00:00,AZUAJE FERNANDEZ FLORENCIO ANTONIO,26953670.0,bono 30,30.0,USD,treinta
+1258,Ismael,2026-03-15 00:00:00,BARBOZA PAVIQUE ISMAEL JESUS,37259941.0,bono 25+ amance 15: (22117)+apoyo 10,50.0,USD,cincuenta
+1259,Jonier,2026-03-15 00:00:00,Jonier Jose Seija Parica,0.0,bono 25+ amance 15: (2088B)+apoyo 10+patos 20- dcto prestamo 10,60.0,USD,sesenta
+1260,José CA,2026-03-15 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 50,50.0,USD,cincuenta
+1261,Luis,2026-03-15 00:00:00,CARPAVIRE LUIS MANUEL,24999641.0,bono 25+apoyo 10,35.0,USD,treinta y cinco
+1262,Miguel CA,2026-03-15 00:00:00,Miguel Caño Arenas,0.0,bono 40 + apoyo 35,75.0,USD,setenta y cinco
+1263,Mirian CA,2026-03-15 00:00:00,Mirian Caño arena,0.0,bono 20,20.0,USD,veinte
+1264,Pozuelo,2026-03-15 00:00:00,POZUELO ABAD ALBERTO JOSE,31917069.0,bono 25+ amance 15: (22085)+apoyo 10,50.0,USD,cincuenta
+1265,Rafael,2026-03-15 00:00:00,RAFAEL JESUS ALMEIDA ROJAS,27373634.0,bono 10+apoyo 10,20.0,USD,veinte
+1285,Ronaldo CA,2026-03-30 00:00:00,AGUILAR HERNANDEZ RONALDO ALEXANDER,28386937.0,BONO  ,30.0,USD,treinta
+1286,Mirian CA,2026-03-30 00:00:00,Mirian Caño arena,0.0,BONO  20,20.0,USD,veinte
+1287,Alvaro CA,2026-03-30 00:00:00,AGUILAR HERNANDEZ ALVARO DANIEL,26953658.0,BONO  30 ,30.0,USD,treinta
+1288,Alex CA,2026-03-30 00:00:00,Benitez Ruiz Alex Joel,27580784.0,BONO  30 ,30.0,USD,treinta
+1289,Alfredo CA,2026-03-30 00:00:00,ALFREDO QUINTANA,18129858.0,BONO  30 + apoyo 10,40.0,USD,cuarenta
+1290,Miguel CA,2026-03-30 00:00:00,Miguel Caño Arenas,0.0,BONO  40 + apoyo 35,75.0,USD,setenta y cinco
+1291,José CA,2026-03-30 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,BONO  50,50.0,USD,cincuenta
+1292,Anderson,2026-03-30 00:00:00,Anderson,0.0,BONO  25+ APOYO 5,15.0,USD,quince
+1293,Rafael,2026-03-30 00:00:00,RAFAEL JESUS ALMEIDA ROJAS,27373634.0,BONO  10+ APOYO 5,15.0,USD,quince
+1294,Nixon,2026-03-30 00:00:00,Nixon Josue Millan Serrano,32224796.0,BONO  25+ APOYO 10,35.0,USD,treinta y cinco
+1295,Ismael,2026-03-30 00:00:00,BARBOZA PAVIQUE ISMAEL JESUS,37259941.0,BONO  25+ APOYO 10,35.0,USD,treinta y cinco
+1296,Pozuelo,2026-03-30 00:00:00,POZUELO ABAD ALBERTO JOSE,31917069.0,BONO  25+ APOYO 10,35.0,USD,treinta y cinco
+1297,Jonier,2026-03-30 00:00:00,Jonier Jose Seija Parica,0.0,BONO  25+ APOYO 10+PATOS 10 - DSCTO PREST 10,35.0,USD,treinta y cinco
+1298,Carlos,2026-03-30 00:00:00,Carlos Rodriguez,22882274.0,BONO  50+ APOYO 20+ amance (22193) 15,85.0,USD,ochenta y cinco
+1299,Alberto,2026-03-30 00:00:00,Alberto Linares,18548376.0,BONO 100 + amance (2500) 15,115.0,USD,ciento quince
+1332,Mirian CA,2026-04-15 00:00:00,Mirian Caño arena,0.0,bono 20 ,20.0,USD,veinte
+1333,Alex CA,2026-04-15 00:00:00,Benitez Ruiz Alex Joel,27580784.0,bono 30 + jue y vie snto 10,40.0,USD,cuarenta
+1334,Alfredo CA,2026-04-15 00:00:00,ALFREDO QUINTANA,18129858.0,bono 50 + apoyo 50+ jue y vie snto 10,110.0,USD,ciento diez
+1335,Miguel CA,2026-04-15 00:00:00,Miguel Caño Arenas,0.0,bono 40 + apoyo 30+ jue y vie snto 10,85.0,USD,ochenta y cinco
+1336,José CA,2026-04-15 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 50 + entrenamiento vacas 40,90.0,USD,noventa
+1337,Juan G,2026-04-15 00:00:00,JUAN ENRIQUE GARCIA ALCANTARA,32895329.0,jue y vir snto 10+ entrenamiento de vacas 30,40.0,USD,cuarenta
+1338,Anderson,2026-04-15 00:00:00,Anderson,0.0,bono10 +entrenamiento vacas 30+ jue y vie snto 10,50.0,USD,cincuenta
+1339,Rafael,2026-04-15 00:00:00,RAFAEL JESUS ALMEIDA ROJAS,27373634.0,bono10 +entrenamiento vacas 40,50.0,USD,cincuenta
+1340,Nixon,2026-04-15 00:00:00,Nixon Josue Millan Serrano,32224796.0,bono 25 + vie  snto 20+apoyo 10,55.0,USD,cincuenta y cinco
+1341,Ismael,2026-04-15 00:00:00,BARBOZA PAVIQUE ISMAEL JESUS,37259941.0,bono 25 +juev y vie  snto 40+apoyo 10,75.0,USD,setenta y cinco
+1342,Pozuelo,2026-04-15 00:00:00,POZUELO ABAD ALBERTO JOSE,31917069.0,bono 25 +juev y vie  snto 40+apoyo 10- dscto 10  prestamo,65.0,USD,sesenta y cinco
+1343,Jonier,2026-04-15 00:00:00,Jonier Jose Seija Parica,0.0,bono 25 +juev  snto 20+apoyo 10+ patos 10- dscto 10  prestamo,55.0,USD,cincuenta y cinco
+1344,Carlos,2026-04-15 00:00:00,Carlos Rodriguez,22882274.0,bono +juev y vie snto 40+apoyo 20,110.0,USD,ciento diez
+1345,Alberto,2026-04-15 00:00:00,Alberto Linares,18548376.0,bono +juev y vie snto 40,140.0,USD,ciento cuarenta
+1376,WILDEMAR CA,2026-04-30 00:00:00,ROJAS REQUENA WILDEMAR ENRIQUE,30129394.0,bono prod. 10 ,10.0,USD,diez
+1377,JESUS CA,2026-04-30 00:00:00,GUACHE MARCANO JESUS DAVID,28781730.0,bono prod. 20 ,20.0,USD,veinte
+1378,FERNANDO CA,2026-04-30 00:00:00,BUROS ACOSTA FERNANDO JOSE,27862093.0,bono prod. 20 ,20.0,USD,veinte
+1379,Mirian CA,2026-04-30 00:00:00,Mirian Caño arena,0.0,bono prod. 20 ,20.0,USD,veinte
+1380,Alfredo CA,2026-04-30 00:00:00,ALFREDO QUINTANA,18129858.0,bono prod. 50 + apoyo 10 ,60.0,USD,sesenta
+1381,Miguel CA,2026-04-30 00:00:00,Miguel Caño Arenas,0.0,bono prod. 40 + apoyo 45 - 10 dcto prest,75.0,USD,setenta y cinco
+1382,José CA,2026-04-30 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono prod. 50,50.0,USD,cincuenta
+1383,Juan G,2026-04-30 00:00:00,JUAN ENRIQUE GARCIA ALCANTARA,32895329.0,bono prod. 10 ,10.0,USD,diez
+1384,Anderson,2026-04-30 00:00:00,Anderson,0.0,bono prod. 10 ,10.0,USD,diez
+1385,Rafael,2026-04-30 00:00:00,RAFAEL JESUS ALMEIDA ROJAS,27373634.0,bono prod. 10 ,10.0,USD,diez
+1386,Nixon,2026-04-30 00:00:00,Nixon Josue Millan Serrano,32224796.0,bono prod. 25 +10 apoyo+ 15 amance ¨2202¨,50.0,USD,cincuenta
+1387,Ismael,2026-04-30 00:00:00,BARBOZA PAVIQUE ISMAEL JESUS,37259941.0,bono prod. 25 +5 apoyo+ 15 amance ¨2002¨,50.0,USD,cincuenta
+1388,Pozuelo,2026-04-30 00:00:00,POZUELO ABAD ALBERTO JOSE,31917069.0,bono prod. 25 +5 apoyo - 10 dcto prest,20.0,USD,veinte
+1389,Jonier,2026-04-30 00:00:00,Jonier Jose Seija Parica,0.0,bono prod. 25 +10 apoyo+ 15 amance ¨20971¨ + 10 patos - 10 dcto prest,50.0,USD,cincuenta
+1390,Carlos,2026-04-30 00:00:00,Carlos Rodriguez,22882274.0,bono prod. 50 +20 apoyo,70.0,USD,setenta
+1391,Alberto,2026-04-30 00:00:00,Alberto Linares,18548376.0,bono prod.100 +15 amance ¨22180¨ - 30 dcto prest,85.0,USD,ochenta y cinco
+1420,WILDEMAR CA,2026-05-15 00:00:00,ROJAS REQUENA WILDEMAR ENRIQUE,30129394.0,bono p 30 + 1ro may 5,35.0,USD,treinta y cinco
+1421,JESUS CA,2026-05-15 00:00:00,GUACHE MARCANO JESUS DAVID,28781730.0,bono p 30 + apoyo 10+ 1ro may 5,45.0,USD,cuarenta y cinco
+1422,FERNANDO CA,2026-05-15 00:00:00,BUROS ACOSTA FERNANDO JOSE,27862093.0,bono p 30 + apoyo 10+ 1ro may 5,45.0,USD,cuarenta y cinco
+1423,Alfredo CA,2026-05-15 00:00:00,ALFREDO QUINTANA,18129858.0,bono p 50 + apoyo 20+ 1ro may 10,80.0,USD,ochenta
+1424,Miguel CA,2026-05-15 00:00:00,Miguel Caño Arenas,0.0,bono p 40 + apoyo 45+ 1ro may 10- dcto  prestamo 10,85.0,USD,ochenta y cinco
+1425,Yohana,2026-05-15 00:00:00,Yohana (cocina),0.0,1ro de mayo,10.0,USD,diez
+1426,José CA,2026-05-15 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono p 50,50.0,USD,cincuenta
+1427,Juan G,2026-05-15 00:00:00,JUAN ENRIQUE GARCIA ALCANTARA,32895329.0,bono p 10+apoyo 10,20.0,USD,veinte
+1428,Anderson,2026-05-15 00:00:00,Anderson,0.0,bono p 25+apoyo 5,30.0,USD,treinta
+1429,Nixon,2026-05-15 00:00:00,Nixon Josue Millan Serrano,32224796.0,bono p 25+ amance (22189) 15,40.0,USD,cuarenta
+1430,Ismael,2026-05-15 00:00:00,BARBOZA PAVIQUE ISMAEL JESUS,37259941.0,bono p 25+ amance (2145) 15+1ro may 20,60.0,USD,sesenta
+1431,Pozuelo,2026-05-15 00:00:00,POZUELO ABAD ALBERTO JOSE,31917069.0,bono p 25+ amance (22151) 15+ apoyo 10+1ro may 20- dcto prestamo 10,60.0,USD,sesenta
+1432,Jonier,2026-05-15 00:00:00,Jonier Jose Seija Parica,0.0,bono p 25+ amance (2218) 15+ apoyo 10+ patos 10,60.0,USD,sesenta
+1433,Carlos,2026-05-15 00:00:00,Carlos Rodriguez,22882274.0,bono p 50+ 1ro may 20+ amance (22116) 15- dcto prestamo 20+ apoyo 10,75.0,USD,setenta y cinco
+1434,Alberto,2026-05-15 00:00:00,Alberto Linares,18548376.0,bono p 100+ 1ro may 20+ amance (22142/2026) 30- dcto prestamo 30,120.0,USD,ciento veinte
+1462,RICARDO CA,2026-05-30 00:00:00,DIAZ JOSE RICARDO,22384048.0,bono 10+ apoyo 10,20.0,USD,veinte
+1463,WILDEMAR CA,2026-05-30 00:00:00,ROJAS REQUENA WILDEMAR ENRIQUE,30129394.0,bono 30+ apoyo 10,40.0,USD,cuarenta
+1464,FERNANDO CA,2026-05-30 00:00:00,BUROS ACOSTA FERNANDO JOSE,27862093.0,bono 30+ apoyo 10,40.0,USD,cuarenta
+1465,Mirian CA,2026-05-30 00:00:00,Mirian Caño arena,0.0,bono 40,40.0,USD,cuarenta
+1466,Alfredo CA,2026-05-30 00:00:00,ALFREDO QUINTANA,18129858.0,bono 50+ apoyo 20,70.0,USD,setenta
+1467,Miguel CA,2026-05-30 00:00:00,Miguel Caño Arenas,0.0,bono 40+ apoyo 45- dcto préstamo 10,75.0,USD,setenta y cinco
+1468,José CA,2026-05-30 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 50+ apoyo 20,70.0,USD,setenta
+1469,Juan G,2026-05-30 00:00:00,JUAN ENRIQUE GARCIA ALCANTARA,32895329.0,bono 5  + apoyo 5,10.0,USD,diez
+1470,Anderson,2026-05-30 00:00:00,Anderson,0.0,bono 5  + apoyo 5,10.0,USD,diez
+1471,Nixon,2026-05-30 00:00:00,Nixon Josue Millan Serrano,32224796.0,bono 25  + ciclo vacunación 10+ amance (0294) 15,50.0,USD,cincuenta
+1472,Ismael,2026-05-30 00:00:00,BARBOZA PAVIQUE ISMAEL JESUS,37259941.0,bono 25 + apoyo 5 + ciclo vacunación 15,45.0,USD,cuarenta y cinco
+1473,Pozuelo,2026-05-30 00:00:00,POZUELO ABAD ALBERTO JOSE,31917069.0,bono 25 + apoyo 40 + amance (415) 15,80.0,USD,ochenta
+1474,Jonier,2026-05-30 00:00:00,Jonier Jose Seija Parica,0.0,bono 00 + apoyo 5 + amance (23001) 15+ patos 10,30.0,USD,treinta
+1475,Alberto,2026-05-30 00:00:00,Alberto Linares,18548376.0,bono 80+ ciclo vacunacion 35 + amance (23006) 15,130.0,USD,ciento treinta
+1476,Carlos,2026-05-30 00:00:00,Carlos Rodriguez,22882274.0,bono 50+ apoyo 50 - dcto préstamo 20,80.0,USD,ochenta
+1502,Mirian CA,2026-02-28 00:00:00,Mirian Caño arena,0.0,bono 20+ apoyo 5,25.0,USD,veiticinco
+1503,Alvaro CA,2026-02-28 00:00:00,AGUILAR HERNANDEZ ALVARO DANIEL,26953658.0,bono 10,10.0,USD,diez
+1504,Alex CA,2026-02-28 00:00:00,Benitez Ruiz Alex Joel,27580784.0,bono 30 + apoyo 10 + lun carn 5+mart carn 5,50.0,USD,cincuenta
+1505,Alfredo CA,2026-02-28 00:00:00,ALFREDO QUINTANA,18129858.0,bono 5 + apoyo 10,15.0,USD,quince
+1506,Florencio CA,2026-02-28 00:00:00,AZUAJE FERNANDEZ FLORENCIO ANTONIO,26953670.0,bono 30 + apoyo 20 + lun carn 5+mart carn 5,60.0,USD,sesenta
+1507,Miguel CA,2026-02-28 00:00:00,Miguel Caño Arenas,0.0,bono 40 + apoyo 35,75.0,USD,setenta y cinco
+1508,Luis,2026-02-28 00:00:00,CARPAVIRE LUIS MANUEL,24999641.0,apoyo 10,10.0,USD,diez
+1509,Rafael,2026-02-28 00:00:00,RAFAEL JESUS ALMEIDA ROJAS,27373634.0,apoyo 10,10.0,USD,diez
+1510,Yohana,2026-02-28 00:00:00,0,0.0,lun carn 10 + mart carn 10,20.0,USD,veinte
+1511,Parima,2026-02-28 00:00:00,0,0.0,lun carn 10 + mart carn 10+ apoyo 10,30.0,USD,treinta
+1512,José CA,2026-02-28 00:00:00,Jose Gregorio mejias Velasquez,27862062.0,bono 50+ apoyo 5,55.0,USD,cincuenta y cinco
+1513,Maicol,2026-02-28 00:00:00,Ramirez Pinto Maicol Jose,27454876.0,bono 15 + mart carn 5,20.0,USD,veinte
+1514,Pozuelo,2026-02-28 00:00:00,POZUELO ABAD ALBERTO JOSE,31917069.0,bono 25 + amance 30 + mart carn 10+ apoyo 5,70.0,USD,setenta
+1515,Ismael,2026-02-28 00:00:00,BARBOZA PAVIQUE ISMAEL JESUS,37259941.0,bono 25 + amance 30+ lun carn 10 + mart carn 10+ apoyo 5,80.0,USD,ochenta
+1516,Jonier,2026-02-28 00:00:00,Jonier Jose Seija Parica,0.0,bono 20 + amance 30+ lun carn 10 + mart carn 10- dcto prestamo,60.0,USD,sesenta
+1517,Carlos,2026-02-28 00:00:00,Carlos Rodriguez,22882274.0,bono 50 + lun carn 10 + apoyo 10,70.0,USD,setenta
+1518,Alberto,2026-02-28 00:00:00,Alberto Linares,18548376.0,bono 100+ amance 45 (22160-2087-22177) + lun carn 5+mart carn 5 - dcto prestamo 20,135.0,USD,ciento treinta y cinco

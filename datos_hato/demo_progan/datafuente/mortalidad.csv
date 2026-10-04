@@ -1,0 +1,731 @@
+id,nro_animal,fecha_de_muerte,causa_de_muerte,lote,grp_et,obs,prueba_comunidad,tipo_de_muerte
+1841,24304,2025-01-19 00:00:00,mal calostrado,MTE,becerra,,NO APLICA,Mal Calostrado
+1842,9032,2025-01-20 00:00:00,quedo pegada en coso del corral,BEN2,Vaca,el jefe de vaquera la dejo abandonada a su suerte en el coso del corral..  Y se descompenso,NO APLICA,No Infecciosa
+1843,24017,2024-11-02 00:00:00,enteritis hemorragica,MTE,Becerro,,NO APLICA,Infecciosa
+1844,BU352,2024-10-30 00:00:00,HEMATOZUARIOS,MTE,Bucerra ord,descuido de trabajadora Luisana no estar pendiente de ataque de piojos,NO APLICA,Infecciosa
+1845,0223B,2024-10-22 00:00:00,beneficio programado,BEN1,TORO,TQM,NO APLICA,Beneficio Programado
+1846,0004,2024-10-22 00:00:00,beneficio programado,BEN1,TORO,TQM,NO APLICA,Beneficio Programado
+1847,24208,2024-10-22 00:00:00,posible intoxicacion,MTE,becerro,murio en vaquera,NO APLICA,Infecciosa
+1848,1142,2024-10-22 00:00:00,beneficio programado,BEN1,TORO,TQM,NO APLICA,Beneficio Programado
+1849,24225,2024-10-19 00:00:00,extrañamente aparecieron muertos en laguna de Mod2,MTE,becerro,,NO APLICA,Infecciosa
+1850,24228,2024-10-19 00:00:00,extrañamente aparecieron muertos en laguna de Mod2,MTE,becerro,,NO APLICA,Desconocida
+1851,24236,2024-10-17 00:00:00,mal calostrado la mama no apoyó,MTE,becerro,,NO APLICA,Mal Calostrado
+1852,EMB 1,2024-10-16 00:00:00,DESCONOCIDA,MTE,VACA,,NO APLICA,Desconocida
+1853,23013,2024-10-09 00:00:00,CIEGO SUFRIA MUCHO,BEN2,Maute,,NO APLICA,No Infecciosa
+1854,23221,2024-10-09 00:00:00,mocho de una pierna  sufria mucho ,BEN2,Becerro,,NO APLICA,No Infecciosa
+1855,24199,2024-10-08 00:00:00,sacrificio .. Desnutricion cronica a causa de miasis (descuedo en potrero),MTE,Becerro,murio en SS,NO APLICA,Infecciosa
+1856,1029,2024-10-07 00:00:00,beneficio programado,BEN1,toro,,SI,Beneficio Programado
+1857,1205,2024-10-07 00:00:00,beneficio programado,BEN1,toro,,SI,Beneficio Programado
+1858,0221A,2024-10-07 00:00:00,beneficio programado,BEN1,toro,,SI,Beneficio Programado
+1859,1186,2024-10-07 00:00:00,beneficio programado,BEN1,toro,,SI,Beneficio Programado
+1860,0231B,2024-10-07 00:00:00,posible hematozuarios,MTE,novilla,aparecio muerta en paradero,NO APLICA,Infecciosa
+1861,1039,2024-10-07 00:00:00,emponzoñamiento,MTE,TORO,,NO APLICA,Infecciosa
+1862,23040,2024-10-06 00:00:00,fulminda por un rayo en potreo,BEN2,mauta,,NO APLICA,No Infecciosa
+1863,23041,2024-10-06 00:00:00,fulminda por un rayo en potreo,BEN2,mauta,,NO APLICA,No Infecciosa
+1864,1051,2024-10-06 00:00:00,fulminda por un rayo en potreo,BEN2,novilla,,NO APLICA,No Infecciosa
+1865,emb 4,2024-10-05 00:00:00,mal manejo de cambio de potrero/ murio pegada en laguna,BEN2,vaca,,NO APLICA,Imersión
+1866,9904,2024-10-05 00:00:00,mal manejo de cambio de potrero/ murio pegada en laguna,BEN2,vaca,,NO APLICA,Imersión
+1867,BU364,2024-09-28 00:00:00,MAL CALOSTRADO,MTE,Bucerra ord,,NO APLICA,Mal Calostrado
+1868,23194,2024-09-25 00:00:00,pegada en fango ,MTE,Mauta,murio en CA,NO APLICA,Imersión
+1869,24215,2024-09-23 00:00:00,miningoencefalitis murio en vaquera,MTE,becerro,murio en SS,NO APLICA,Infecciosa
+1870,20337,2024-09-22 00:00:00,pegada en laguna de mod 6  se ahogo,MTE,vaca,murio en SS,NO APLICA,Imersión
+1871,2031,2024-09-19 00:00:00,pegado en fango C4,MTE,Maute,,NO APLICA,Imersión
+1872,24226,2024-09-18 00:00:00,mal calostrado no se busco a tiempo en potrero,MTE,Becerro,,NO APLICA,Mal Calostrado
+1873,23182,2024-09-18 00:00:00,pegado en fango C4,MTE,Maute,,NO APLICA,Imersión
+1874,23176,2024-09-17 00:00:00,pegado en fango C4,MTE,Maute,,NO APLICA,Imersión
+1875,91121,2024-09-10 00:00:00,beneficio programado,BEN1,Novilla,,NO,Beneficio Programado
+1876,TORO1,2024-09-10 00:00:00,beneficio programado,BEN1,Toro Rep,,NO,Beneficio Programado
+1877,1151,2024-09-10 00:00:00,beneficio programado,BEN1,TORO,,SI,Beneficio Programado
+1878,1034,2024-09-10 00:00:00,beneficio programado,BEN1,TORO,,SI,Beneficio Programado
+1879,0292,2024-08-19 00:00:00,Beneficio,BEN1,Toro,,SI,Beneficio Programado
+1880,0223A,2024-08-19 00:00:00,Beneficio,BEN1,Toro,,NO,Beneficio Programado
+1881,1055,2024-08-19 00:00:00,Beneficio,BEN1,Toro,,SI,Beneficio Programado
+1882,0110,2024-08-19 00:00:00,Beneficio,BEN1,Toro,,NO,Beneficio Programado
+1883,24059,2024-08-02 00:00:00,TIMPANIZADO,MTE,Becerro,estuvo en tratamiento y se hizo varias transfusiones de sangre,NO APLICA,No Infecciosa
+1884,24093,2024-07-31 00:00:00,PROBLEMA RESPIRATORIO,MTE,Becerra,DESCARTE SUTE NUNCA SUBIO DE PESO,NO APLICA,No Infecciosa
+1885,0222,2024-07-29 00:00:00,Beneficio,BEN1,TORO,564 K,SI,Beneficio Programado
+1886,0260,2024-07-29 00:00:00,Beneficio,BEN1,TORO,550K,NO,Beneficio Programado
+1887,1063A,2024-07-29 00:00:00,Beneficio,BEN1,TORO,582K,SI,Beneficio Programado
+1888,0171,2024-07-29 00:00:00,Beneficio,BEN1,TORO,576K,SI,Beneficio Programado
+1889,1134,2024-07-29 00:00:00,Beneficio,BEN1,TORO,585K,SI,Beneficio Programado
+1890,TORO5,2024-07-29 00:00:00,Beneficio,BEN1,TORO,505K,NO,Beneficio Programado
+1891,BU350,2024-07-27 00:00:00,DESCONOCIDA,MTE,BUFALA,MURIO EN POTRERO SUBDITA,NO APLICA,Desconocida
+1892,BU015,2024-07-26 00:00:00,Beneficio,BEN1,BUFALO,,NO APLICA,Beneficio Programado
+1893,24183,2024-07-24 00:00:00,mal manejo,MTE,Becerro,aparecio en potreo descomposicion avanzado,NO APLICA,Mal Calostrado
+1894,24166,2024-07-08 00:00:00,MENIGOENCEFALITIS Y OFALOFLRBITIS producto de una infeccion en el ombligo,MTE,Becerra, /murio en SS/,NO APLICA,Infecciosa
+1895,24175,2024-07-07 00:00:00,MORTINATO,MORTINATO,becerro,MURIO SS,NO APLICA,Mortinato
+1896,0208,2024-06-24 00:00:00,Beneficio,BEN1,TORO,,SI,Beneficio Programado
+1897,0210,2024-06-24 00:00:00,Beneficio,BEN1,TORO,,SI,Beneficio Programado
+1898,1041,2024-06-24 00:00:00,Beneficio,BEN1,TORO,,SI,Beneficio Programado
+1899,1043,2024-06-24 00:00:00,Beneficio,BEN1,TORO,,SI,Beneficio Programado
+1900,1136,2024-06-24 00:00:00,Beneficio,BEN1,TORO,,SI,Beneficio Programado
+1901,1189,2024-06-24 00:00:00,Beneficio,BEN1,TORO,,SI,Beneficio Programado
+1902,24192,2024-06-20 00:00:00,MORTINATO,MORTINATO,becerro,MURIO SS,NO APLICA,Mortinato
+1903,24128,2024-06-18 00:00:00,"babesiosis cerebral; ictericia, esplegnomegalia, garrapata.",MTE,Becerro, /murio en SS/,NO APLICA,Infecciosa
+1904,24126,2024-06-12 00:00:00,TRAUMATISMO,MTE,Becerro,murio en SS/,NO APLICA,No Infecciosa
+1905,EMB 6,2024-06-10 00:00:00,se ahogo en laguna Modulo 5,MTE,Vaca,/murio en SS/,NO APLICA,Imersión
+1906,24113,2024-05-29 00:00:00,problema respiratorio,MTE,Becerro,,NO APLICA,No Infecciosa
+1907,0290,2024-05-27 00:00:00,se partio una mano y se sacrificó,BEN2,TORO,SE PARTIO UNA MANO Y SE SACRIFICO,NO APLICA,No Infecciosa
+1908,3103,2024-05-23 00:00:00,emponzoñamiento,MTE,Mauta, /murio en SS/ se enontrò en potrero despues de varios dia de mta,NO APLICA,No Infecciosa
+1909,213,2024-05-22 00:00:00,se quedo pegada en lodo y se ahogo,MTE,Vaca, /murio en CA/,NO APLICA,Imersión
+1910,24138,2024-05-20 00:00:00,mal calostrado ó causa desconocida,MTE,Becerra,,NO APLICA,Mal Calostrado
+1911,0115,2024-05-20 00:00:00,BENEFICIO,BEN1,TORO,516,NO,Beneficio Programado
+1912,0118,2024-05-20 00:00:00,BENEFICIO,BEN1,TORO,526,SI,Beneficio Programado
+1913,1060,2024-05-20 00:00:00,BENEFICIO,BEN1,TORO,513,SI,Beneficio Programado
+1914,1048A,2024-05-20 00:00:00,BENEFICIO,BEN1,TORO,535,SI,Beneficio Programado
+1915,9095,2024-05-20 00:00:00,BENEFICIO,BEN1,Novilla,430,SI,Beneficio Programado
+1916,1082,2024-05-20 00:00:00,BENEFICIO,BEN1,TORO,534,SI,Beneficio Programado
+1917,2337,2024-05-17 00:00:00,se encontro muerta en potrero causa desconocida,MTE,Vaca,,NO APLICA,Desconocida
+1918,4147,2024-05-13 00:00:00,aparecio muerta en potrero enestado de descomposicion,MTE,Vaca,,NO APLICA,Desconocida
+1919,1141,2024-11-25 00:00:00,beneficio programado,BEN1,Toro,,NO,Beneficio Programado
+1920,24266,2024-11-26 00:00:00,accidental,MTE,Becerra,al momento quitar del lado de la madre en potrero por alguna razon  en el forcegeo murio,NO APLICA,No Infecciosa
+1921,24267,2024-11-26 00:00:00,mortinato,MORTINATO,Becerro,,NO APLICA,Mortinato
+1922,8004,2024-12-02 00:00:00,BENEFICIO PROGRAMADO,BEN1,Vaca,,SI,Beneficio Programado
+1923,24281,2024-12-09 00:00:00,murio en vaquera mal calostrado,MTE,Becerro,se trajo de potrero tardiamente,NO APLICA,Mal Calostrado
+1924,0212,2024-12-02 00:00:00,BENEFICIO PROGRAMADO,BEN1,TORO,,SI,Beneficio Programado
+1925,0335,2024-12-02 00:00:00,BENEFICIO PROGRAMADO,BEN1,TORO,,SI,Beneficio Programado
+1926,24253,2024-11-22 00:00:00,mal calostrado,MTE,Becerro,mal manejo,NO,Mal Calostrado
+1927,1046,2024-12-02 00:00:00,BENEFICIO PROGRAMADO,BEN1,TORO,,SI,Beneficio Programado
+1928,1098A,2024-12-02 00:00:00,BENEFICIO PROGRAMADO,BEN1,TORO,,NO,Beneficio Programado
+1929,2,2024-11-13 00:00:00,beneficio programado,BEN1,Vaca,,NO APLICA,Beneficio Programado
+1930,24293,2024-12-02 00:00:00,MORTINATO,MORTINATO,Becerro,se encontro en modulo 06,NO APLICA,Mortinato
+1931,23163,2024-12-07 00:00:00,desconocida,MTE,Maute,se encontro muerto en potrero,NO APLICA,Desconocida
+1932,BU80,2024-12-18 00:00:00,desconocida,MTE,Bauta,se encontro muerto en potrero,NO APLICA,Desconocida
+1933,BU43,2024-07-26 00:00:00,BENEFICIO PROGRAMADO,BEN1,Butoro,se beneficio en caño arenas CA,NO,Beneficio Programado
+1934,J24001,2024-12-27 00:00:00,mal calostrado,MTE,becerro,,NO APLICA,Mal Calostrado
+1935,24258,2024-12-29 00:00:00,descuido,MTE,becerro,,NO APLICA,Mal Calostrado
+1936,24294,2025-01-03 00:00:00,mal calostrado,MTE,becerro,pario en el mod 06,NO APLICA,Mal Calostrado
+1937,24295,2025-01-04 00:00:00,mal calostrado,MTE,becerro,,NO APLICA,Mal Calostrado
+1938,24024,2025-01-05 00:00:00,hematozoarios,MTE,maute,,NO APLICA,Infecciosa
+1939,24301,2024-12-31 00:00:00,mortinato,MORTINATO,Becerro,,NO APLICA,Mortinato
+1940,0104,2024-12-02 00:00:00,beneficio,BEN1,Toro,,NO APLICA,Beneficio Programado
+1941,1213,2025-01-14 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+1942,1161A,2025-01-14 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+1943,1049,2025-01-14 00:00:00,beneficio,BEN1,Toro,,NO,Beneficio Programado
+1944,1253,2025-01-14 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+1945,1095,2025-01-14 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+1946,0196,2025-01-14 00:00:00,beneficio,BEN1,Toro,,NO,Beneficio Programado
+1947,24103,2024-05-02 00:00:00,pobre reflejo de succion,MTE,Becerra, /murio en SS/,NO APLICA,Infecciosa
+1948,2012,2024-04-30 00:00:00,hematozuarios,MTE,Mauta, /murio en CA/,NO APLICA,Infecciosa
+1949,5072,2024-04-29 00:00:00,BENEFICIO 1ERO DE MAYO,BEN1,Vaca,SACRIFICIO PARA COMSUMO DE TRABAJADORES,NO APLICA,Beneficio Programado
+1950,24121,2024-04-26 00:00:00,debil al nacer,MTE,Becerro,murío en potrero al nacer,NO APLICA,Mal Calostrado
+1951,24088,2024-04-20 00:00:00,DESCONOCIDA,MTE,Becerro,murio en SS/,NO APLICA,Desconocida
+1952,24104,2024-04-18 00:00:00,MAL CALOSTRADO,MTE,Mauta,Se busco en potrero tardíamente,NO APLICA,Desconocida
+1953,0204A,2024-04-15 00:00:00, BENEFICIO KG 472,BEN1,TORO,,SI,Beneficio Programado
+1954,4047,2023-01-25 00:00:00,BENEFICIO 391 kg,BEN1,Vaca,3 /murio en SS/,NO APLICA,Beneficio Programado
+1955,7062,2023-01-25 00:00:00,BENEFICIO 410 kg,BEN1,Novilla,DESCARTE ESRENGADA 101222/COLOR TRAPO SUCIO /murio en SS/,NO APLICA,Beneficio Programado
+1956,pend26,2023-01-25 00:00:00,BENEFICIO,BEN1,TORO,finca del sr Genaro kg 580/ tras de finca vecina para beneficio en SS/,NO APLICA,Beneficio Programado
+1957,BU058,2023-01-25 00:00:00,BENEFICIO,BEN1,BUTOROMAT,450K 110123 /murio en CA/,NO APLICA,Beneficio Programado
+1958,BU034,2023-01-25 00:00:00,BENEFICIO,BEN1,BUTOROMAT,3 AÑOS 500K 110123 /murio en CA/,NO APLICA,Beneficio Programado
+1959,6024,2023-01-11 00:00:00,sacrificada por postracion (enferma),BEN2,Vaca,PROX A DESCARTAR 061222 /murio en SS/,NO APLICA,No Infecciosa
+1960,2011A,2023-01-11 00:00:00,CAYO DEL CERRO MD 05,BEN2,Mauta, /murio en SS/,NO APLICA,No Infecciosa
+1961,0138,2023-01-09 00:00:00,BENEFICIO,BEN1,Vaca,cachona  BEC MUERTO  / DESCARTE  NO DA NI PAL BEC   BENEFICIO PESO 395KG /murio en SS/,NO APLICA,Beneficio Programado
+1962,5070,2023-01-09 00:00:00,BENEFICIO,BEN1,Vaca,PESONES  LESIONADOS  061222  /BENEFICIO 090123 PESO 456KG /murio en SS/,NO APLICA,Beneficio Programado
+1963,5074B,2023-01-09 00:00:00,BENEFICIO,BEN1,Vaca,DESCARTE DA SOLO PARA E BEC. BENEFICIO 090123  PESO 488KG /murio en SS/,NO APLICA,Beneficio Programado
+1964,1041A,2023-01-09 00:00:00,BENEFICIO,BEN1,Vaca,VACA MACHORRA PESO 538KG 090123 /murio en SS/,NO APLICA,Beneficio Programado
+1965,2208,2022-12-31 00:00:00,mal calostrado,MTE,Becerro, /murio en SS/,NO APLICA,Mal Calostrado
+1966,2179,2022-12-24 00:00:00,prematuro,MTE,Becerro,inseminacion /murio en SS/,NO APLICA,No Infecciosa
+1967,2165,2022-12-05 00:00:00,negligencia en el manejo,MTE,Becerra,"desceso por no recogerlo, recien nacido, a tiempo del potrero  /murio en SS/",NO APLICA,Mal Calostrado
+1968,2134,2022-12-01 00:00:00,DESCONOCIDA,MTE,Becerro, /murio en SS/,NO APLICA,Desconocida
+1969,2133,2022-11-21 00:00:00,DESCONOCIDA,MTE,Becerro, /murio en SS/,NO APLICA,Desconocida
+1970,9238,2024-11-04 00:00:00,"pegada en fango laguna de mod 4, se ahogó",MTE,Vaca,la saco de la laguna Abraham,NO APLICA,Imersión
+1971,24223,2024-11-05 00:00:00,"desconocida,",MTE,Becerro,murio en potrero mod 4,NO APLICA,Desconocida
+1972,8073,2024-11-05 00:00:00,DESCONOCIDA,MTE,Mauta,fue encontrada en Mod 02,NO APLICA,Desconocida
+1973,24241,2024-10-15 00:00:00,mortinato,MORTINATO,Becerra,,NO APLICA,Mortinato
+1974,9018B,2024-11-19 00:00:00,POSTRACION,BEN2,vaca,duro postrada tres dias,NO APLICA,No Infecciosa
+1975,5041,2024-11-13 00:00:00,beneficio programado,BEN1,vaca,,NO,Beneficio Programado
+1976,8013,2024-11-13 00:00:00,beneficio programado,BEN1,vaca,,NO,Beneficio Programado
+1977,2781,2024-11-13 00:00:00,beneficio programado,BEN1,toro,,SI,Beneficio Programado
+1978,1030,2024-11-13 00:00:00,beneficio programado,BEN1,toro,,NO,Beneficio Programado
+1979,0195,2024-11-13 00:00:00,beneficio programado,BEN1,toro,,SI,Beneficio Programado
+1980,24257,2024-11-22 00:00:00,MORTINATO,MORTINATO,Becerra,,NO APLICA,Mortinato
+1981,0114,2024-11-25 00:00:00,electrocutada con cerca electrica,MTE,VACA,"por mala comunicación no pudo aprovechrase la carne, debido en la demora del allasgo por parte del vaquero responsable.",NO,No Infecciosa
+1982,1131,2024-11-25 00:00:00,beneficio programado,BEN1,toro,,SI,Beneficio Programado
+1983,1174,2024-11-25 00:00:00,beneficio programado,BEN1,toro,,NO,Beneficio Programado
+1984,9036,2024-11-22 00:00:00,postración Hemotropicos cronica,MTE,vaca,,NO APLICA,Infecciosa
+1985,24227,2024-09-18 00:00:00,MORTINATO,MORTINATO,Becerro,,NO APLICA,Mortinato
+1986,0116,2024-11-25 00:00:00,beneficio programado,BEN1,Toro,,SI,Beneficio Programado
+1987,23191,2023-10-07 00:00:00,raquitismo,MTE,Becerro,nacio muy debil,NO APLICA,Infecciosa
+1988,3502,2023-10-02 00:00:00,desconocida  ,MTE,Becerra,se encontro dentro de laguna la cachama,NO APLICA,Desconocida
+1989,0238,2023-09-27 00:00:00,beneficio programado 488 kg,BEN1,Maute,,NO APLICA,Beneficio Programado
+1990,2778,2023-09-27 00:00:00,beneficio programado 501 kg,BEN1,Maute,,NO APLICA,Beneficio Programado
+1991,0248,2023-09-27 00:00:00,beneficio programado 510 kg,BEN1,Maute,,NO APLICA,Beneficio Programado
+1992,0277,2023-09-27 00:00:00,beneficio programado 488 kg,BEN1,Maute,,NO APLICA,Beneficio Programado
+1993,0235,2023-09-27 00:00:00,beneficio programado 509 kg,BEN1,Maute,,NO APLICA,Beneficio Programado
+1994,0228,2023-09-27 00:00:00,beneficio programado 489 kg,BEN1,Maute,,NO APLICA,Beneficio Programado
+1995,BU77,2023-09-26 00:00:00,timpanizado,MTE,Bucerro ord,muerte 26 sep. 10 AM,NO APLICA,Infecciosa
+1996,BU049,2023-09-24 00:00:00,hematozuarios,BEN2,Bufala,imposibilitada de mantenerse en pie/  ,NO APLICA,No Infecciosa
+1997,8056,2023-09-20 00:00:00,accidente en traslado  hacia Caño Arenas,BEN2,Novilla,marr osc peluda remark 030323/OV PQ 110523,NO APLICA,No Infecciosa
+1998,8002,2023-09-14 00:00:00,hipocalsemia,BEN2,Vaca,"vaca muy brava, se sacrifico en potrero",NO APLICA,No Infecciosa
+1999,23167,2023-09-12 00:00:00,prematuro/ madre murio preñada,MTE,Becerro,madre murio postrada m6,NO APLICA,No Infecciosa
+2000,2169,2023-09-11 00:00:00,hipomagnecemia/ hipocalsemia/tripanosomosis aguda,BEN2,Vaca,se postro el 090923 se aplico tratamiento  infructuosamente  y se sacrifico el 110923,NO APLICA,No Infecciosa
+2001,7070,2023-09-06 00:00:00,accidental,BEN2,Vaca,,NO APLICA,No Infecciosa
+2002,BU063,2023-09-01 00:00:00,infección post parto no respondio al tratamiento (parto distosico),MTE,Bufala,malpario bucerra cri atravesada parto distosico 230823,NO APLICA,Infecciosa
+2003,23161,2023-08-31 00:00:00,MORTINATO,MORTINATO,Becerro,,NO APLICA,Mortinato
+2004,23113,2023-08-29 00:00:00,mordido por serpiente ,MTE,Becerro,murio en modulo 4,NO APLICA,Infecciosa
+2005,BU74,2023-08-27 00:00:00,causa desconocida,MTE,Bucerro ord,HIJO  DE ENTRE 4/ aparecio muerto en el potrero,NO APLICA,Desconocida
+2006,BU73,2023-08-23 00:00:00,PARTO DISTOCICO,MORTINATO,Bucerra ord,murio en CA,NO APLICA,Mortinato
+2007,06,2023-08-15 00:00:00,BENEFICIO 364k,BEN1,Vaca,GRIS CLARO/380KG 221222/ clod 250423,NO APLICA,Beneficio Programado
+2008,1033A,2023-08-15 00:00:00,BENEFICIO  309K,BEN1,Vaca,neg /  INSEM211222 /tras ss-ca 230223 /tras ca-ss 290623 ,NO APLICA,Beneficio Programado
+2009,3120,2023-08-15 00:00:00,BENEFICIO 362 kg,BEN1,Vaca,MARR/ YA SE REUPERO RENCA 100223,NO APLICA,Beneficio Programado
+2010,6022,2023-08-15 00:00:00,BENEFICIO 351K,BEN1,Vaca,pintada/  PASO 030423/ pario novilla 220623,NO APLICA,Beneficio Programado
+2011,8018,2023-08-15 00:00:00,BENEFICIO 459K,BEN1,Vaca,PARIO EN LOS MANGOS/PMLSV  080223,NO APLICA,Beneficio Programado
+2012,8058,2023-08-15 00:00:00,BENEFICIO 375K,BEN1,Novilla,pintada marr y bl/  / manchada,NO APLICA,Beneficio Programado
+2013,80682,2023-08-15 00:00:00,BENEFICIO 345K,BEN1,Vaca,IDEMTICA A TORO LIDIA 070223,NO APLICA,Beneficio Programado
+2014,9092,2023-05-09 00:00:00,BENEFICIO,BEN1,Novilla,DESCARTE NO AMANSE JV/ INFANTILISMO 081222/ ANDROG 300123/androgenizada 030323/ /murio en SS/,NO APLICA,Beneficio Programado
+2015,3042,2023-05-09 00:00:00,poliartritis (postrado) no respondio al tto,MTE,Becerro,se mantuvo 03 semanas en terapia y TTO previo al deseso /murio en SS/,NO APLICA,Infecciosa
+2016,8023,2023-04-29 00:00:00,para dia del trabajador,BEN2,Novilla,neg peluda remark 030323/ /murio en SS/,NO APLICA,No Infecciosa
+2017,BU4A,2023-04-04 00:00:00,desconocida posible hematozuarios,BEN2,BUVILLA, /murio en CA/,NO APLICA,No Infecciosa
+2018,5062,2023-03-30 00:00:00,beneficio por baja condicion corporal la carne fue asignada para los perros.,BEN2,Vaca,NOV DESCARTE PARA ENGORDE/CACHAMA/ se quedo pegada en la laguna 300323 /murio en SS/,NO APLICA,No Infecciosa
+2019,3025,2023-03-28 00:00:00,mal calostrado,MTE,Becerra,la madre no produjo leche y no habia banco de calostro disponible /murio en SS/,NO APLICA,Mal Calostrado
+2020,1089,2023-03-27 00:00:00,BENEFICIO 413k,BEN1,Vaca,bl/ aborto 100323/ /murio en SS/,NO APLICA,Beneficio Programado
+2021,1119,2023-03-27 00:00:00,BENEFICIO 330k,BEN1,Vaca,BL /murio en SS/,NO APLICA,Beneficio Programado
+2022,14,2023-03-27 00:00:00,BENEFICIO 435KG,BEN1,Vaca,BL/ DESCARTE MATADERO 200323 /murio en SS/,NO APLICA,Beneficio Programado
+2023,GYRO,2023-03-27 00:00:00,BENEFICIO 613KG,BEN1,Vaca,EMBRION REPITE CELO COLOCAR HORMONA  061222 /murio en SS/,NO APLICA,Beneficio Programado
+2024,3066A,2023-03-27 00:00:00,BENEFICIO 428k,BEN1,Vaca,4/4 al becerro  vaca brava se mando con lote  vacio con toro/ si no tiene bece al pie matar/murio en SS/,NO APLICA,Beneficio Programado
+2025,3032,2023-03-24 00:00:00,mal calostrado,MTE,Becerra,parto en potrero madre no apoyo y para ese momento no habia banco de calostro /murio en SS/,NO APLICA,Mal Calostrado
+2026,9096,2023-03-22 00:00:00,muerte subita,MTE,Novilla,muerte en lagunon del programa PIA /murio en SS/,NO APLICA,Infecciosa
+2027,3012,2023-03-20 00:00:00,SOBRE CARGA RUMINAL,MTE,Becerro,se dice q se mamo una vaca completa y luego no se pudo levantar del piso /murio en SS/,NO APLICA,No Infecciosa
+2028,0331,2023-03-08 00:00:00,BENEFICIO 340K,BEN1,Novilla,novilla se paso para el lote  M5 061222/ descate 080323/ /murio en SS/,NO APLICA,Beneficio Programado
+2029,4113,2024-04-15 00:00:00, BENEFICIO KG 502,BEN1,Vaca,,NO,Beneficio Programado
+2030,4041,2024-04-15 00:00:00, BENEFICIO KG 449,BEN1,Novilla,,SI,Beneficio Programado
+2031,0103A,2024-04-15 00:00:00, BENEFICIO KG 485,BEN1,TORO,,NO,Beneficio Programado
+2032,0334,2024-04-15 00:00:00, BENEFICIO KG 504,BEN1,Maute,,SI,Beneficio Programado
+2033,0273,2024-04-15 00:00:00, BENEFICIO KG 474,BEN1,TORO,,SI,Beneficio Programado
+2034,24112,2024-04-15 00:00:00,por descuido de no buscar las vacas recienparidas inmediatamente,MTE,Becerro,se encintro muerto en potrero M6,NO APLICA,Mal Calostrado
+2035,6010,2024-04-12 00:00:00,se lesiono la `pata en CA y se sacrifico,BEN2,Vaca,murio en CA/  se lesiono al atravesar el rio,NO APLICA,No Infecciosa
+2036,24064,2024-04-11 00:00:00,DESCONOCIDA,MTE,Becerro, /murio en SS/  ESTABA AL PIE DE LA MADRE,NO APLICA,Desconocida
+2037,8081,2024-04-07 00:00:00,se desnuco al intentar sacarla de laguna m6,BEN2,Novilla,los alrededores de la laguna estan fangosos.,NO APLICA,Imersión
+2038,23048,2024-04-07 00:00:00,"de disloco la paleta, fue sacrificada",BEN2,Mauta,sucedió en CA,NO APLICA,No Infecciosa
+2039,24107,2024-04-07 00:00:00,murio Recien nacido en potrero,MTE,Becerro,aperació devorada por zamuros,NO APLICA,Mal calostrado
+2040,2091,2024-04-04 00:00:00,BENEFICIO,BEN2,Maute,/murio en SS/ Se partio una pata y no se recuperó,NO APLICA,No Infecciosa
+2041,BU90,2024-04-03 00:00:00,desconocida,MTE,Bucerro ord, /murio en CA/,NO APLICA,Desconocida
+2042,23047,2024-03-29 00:00:00,debil  desnutrido,MTE,Maute, /murio en CA/,NO APLICA,Infecciosa
+2043,4057,2024-03-29 00:00:00,desconocida,MTE,Vaca,viernes santo se pego en lag de m2 y al dia siguiente la reportaron muerta,NO APLICA,Desconocida
+2044,3104,2024-03-25 00:00:00,BENEFICIO ,BEN1,Vaca,418,NO,Beneficio Programado
+2045,BU017,2024-03-25 00:00:00,BENEFICIO,BEN1,BUTOROMAT,534,NO,Beneficio Programado
+2046,BU023,2024-03-25 00:00:00,BENEFICIO,BEN1,Bufala,515,NO,Beneficio Programado
+2047,PEND32,2024-03-25 00:00:00,BENEFICIO,BEN1,TORO,621,NO,Beneficio Programado
+2048,9134,2024-03-25 00:00:00,BENEFICIO,BEN1,TORO,545,SI,Beneficio Programado
+2049,MSN13,2024-03-25 00:00:00,BENEFICIO,BEN1,Maute,409,NO,Beneficio Programado
+2050,24083,2024-03-21 00:00:00,Debil al nacer/ dificultad para caminar y alimentarse,MTE,Becerro, /murio en SS/,NO APLICA,Infecciosa
+2051,9106,2024-03-19 00:00:00,muerte accidental,BEN2,Novilla,quedo pegada en laguna y se postro (en C4 ),NO APLICA,Imersión
+2052,8059,2024-03-11 00:00:00,BENEFICIO ,BEN1,Vaca,414K,SI,Beneficio Programado
+2053,0357,2024-03-11 00:00:00,BENEFICIO,BEN1,TORO,536K,SI,Beneficio Programado
+2054,1195,2024-03-11 00:00:00,BENEFICIO,BEN1,TORO,557K,SI,Beneficio Programado
+2055,6025,2024-03-11 00:00:00,BENEFICIO,BEN1,Vaca,375K,NO,Beneficio Programado
+2056,1079A,2024-03-11 00:00:00,BENEFICIO,BEN1,TORO,566K,SI,Beneficio Programado
+2057,1050,2024-03-11 00:00:00,BENEFICIO,BEN1,TORO,552K,NO,Beneficio Programado
+2058,23200,2024-03-01 00:00:00,posible microtoccinas,MTE,Becerra, /murio en SS/ en el corral / causa posible consumo de alimento inicio de descarte,NO APLICA,Infecciosa
+2059,2028A,2024-02-27 00:00:00,Hematozoarios,MTE,Vaca, /murio en SS/,NO APLICA,Infecciosa
+2060,0347,2024-02-26 00:00:00,POSTRACION,BEN2,Mauta, /murio en SS/,NO APLICA,No Infecciosa
+2061,23155,2024-02-25 00:00:00,DESCONOCIDA,MTE,Becerro, /murio en SS mod 02/,NO APLICA,Desconocida
+2062,24057,2024-02-24 00:00:00,parto distocico mala pocicion fetal,MORTINATO,Becerro, /murio en SS/,NO APLICA,Mortinato
+2063,9061,2024-02-21 00:00:00,DESNUTRICION,MTE,Novilla,SE PEGO EN LAGUNA CAÑO ARENAS,NO APLICA,Infecciosa
+2064,9084,2024-02-21 00:00:00,DESNUTRICION,BEN2,TORO,SE PEGO EN LAGUNA LAGUNON,NO APLICA,Imersión
+2065,24035,2024-02-19 00:00:00,DESNUTRICION,MTE,Becerra,,NO APLICA,Mal Calostrado
+2066,23149,2024-02-18 00:00:00,DESNUTRICION,MTE,Becerro,,NO APLICA,Mal Calostrado
+2067,1028,2024-02-15 00:00:00,mala alimentación,BEN2,Mauta,murio en corral de caño arenas,NO APLICA,No Infecciosa
+2068,24041,2024-02-13 00:00:00,MAL CALOSTRADO,MTE,Becerro,,NO APLICA,Mal Calostrado
+2069,0265,2024-02-12 00:00:00,BENEFICIO,BEN1,TORO,522 KG,NO,Beneficio Programado
+2070,0094A,2024-02-12 00:00:00,BENEFICIO,BEN1,TORO,554 kg,NO,Beneficio Programado
+2071,1088,2024-02-12 00:00:00,BENEFICIO,BEN1,TORO,530 kg,SI,Beneficio Programado
+2072,0215,2024-02-12 00:00:00,BENEFICIO,BEN1,TORO,570 kg,SI,Beneficio Programado
+2073,6003,2024-02-12 00:00:00,BENEFICIO,BEN1,Vaca,393 kg,SI,Beneficio Programado
+2074,S/ND,2024-02-12 00:00:00,BENEFICIO,BEN1,Vaca,586 kg,NO,Beneficio Programado
+2075,24038,2024-02-12 00:00:00,MAL CALOSTRADO,MTE,Becerro,,NO APLICA,Mal Calostrado
+2076,37,2024-02-01 00:00:00,tripanosomosis cronica,MTE,Maute, /murio en SS/,NO APLICA,Infecciosa
+2077,1057,2024-01-29 00:00:00,BENEFICIO,BEN1,TORO,,SI,Beneficio Programado
+2078,9110,2024-01-29 00:00:00,BENEFICIO,BEN1,TORO,,NO,Beneficio Programado
+2079,0178,2024-01-29 00:00:00,BENEFICIO,BEN1,TORO,,SI,Beneficio Programado
+2080,9264,2024-01-29 00:00:00,BENEFICIO,BEN1,TORO,,SI,Beneficio Programado
+2081,7065,2024-01-29 00:00:00,BENEFICIO,BEN1,TORO,,NO,Beneficio Programado
+2082,4122,2024-01-29 00:00:00,BENEFICIO,BEN1,Vaca,,SI,Beneficio Programado
+2083,1084,2024-01-29 00:00:00,empozoñamiento de serpiente,MTE,TORO,murio el lagunon,NO APLICA,Infecciosa
+2084,24026,2024-01-29 00:00:00,mortinato,MORTINATO,Becerro, /murio en SS/,NO APLICA,Mortinato
+2085,24010,2024-01-27 00:00:00,debil nunca caminó,MTE,Becerra, /murio en SS/,NO APLICA,Infecciosa
+2086,9137,2024-01-26 00:00:00,parto distocico fue sacrificada,BEN2,Novilla,murio en ss /,NO APLICA,No Infecciosa
+2087,24022,2024-01-26 00:00:00,mortinato,MORTINATO,Becerro,/murio en SS/,NO APLICA,Mortinato
+2088,8016,2024-01-25 00:00:00,ahogada/ pegada en fango,BEN2,Mauta, /murio en SS/,NO APLICA,Imersión
+2089,9022,2024-01-25 00:00:00,AHOGADA,BEN2,Mauta,,NO APLICA,Imersión
+2090,1017,2024-01-21 00:00:00,hematozuarios,MTE,Maute,se encontro en modulo4,NO APLICA,Infecciosa
+2091,2177A,2024-01-15 00:00:00,beneficio (descarte perdida glandula mamaria),BEN2,Vaca,,NO APLICA,No Infecciosa
+2092,8024,2024-01-15 00:00:00,baja cond. corp. Lactando postración,MTE,Vaca,,NO APLICA,Infecciosa
+2093,0291A,2024-01-08 00:00:00,beneficio,BEN1,TORO,,NO APLICA,Beneficio Programado
+2094,0250,2024-01-08 00:00:00,beneficio,BEN1,TORO,,NO APLICA,Beneficio Programado
+2095,MSN14,2024-01-08 00:00:00,beneficio,BEN1,retajo,RETAJO 03,NO APLICA,Beneficio Programado
+2096,0337,2024-01-08 00:00:00,beneficio,BEN1,TORO,,NO APLICA,Beneficio Programado
+2097,0356,2024-01-08 00:00:00,beneficio,BEN1,TORO,,NO APLICA,Beneficio Programado
+2098,9018,2024-01-08 00:00:00,BENEFICIO,BEN1,TORO,,NO APLICA,Beneficio Programado
+2099,0204,2024-01-02 00:00:00,beneficio,BEN2,Vaca,se lanzo por la barda del corral y cayo en vaquera ,NO APLICA,No Infecciosa
+2100,1161,2023-12-30 00:00:00,se presume emponsoñamiento,MTE,Vaca,aparecio muerta en la cachama,NO APLICA,Infecciosa
+2101,23234,2023-12-28 00:00:00,MAL CALOSTRADO,MTE,Becerro, /murio en SS/,NO APLICA,Mal Calostrado
+2102,23245,2023-12-27 00:00:00,MORTINATO,MORTINATO,Becerro,,NO APLICA,Mortinato
+2103,8098,2023-12-26 00:00:00,DESCONOCIDA,MTE,Vaca, /murio en SS/,NO APLICA,Desconocida
+2104,23226,2023-12-11 00:00:00,MORTINATO,MORTINATO,Becerro, /murio en SS/,NO APLICA,Mortinato
+2105,23219,2023-12-08 00:00:00,mal calostrado,MTE,Becerro,hijo de domino,NO APLICA,Mal Calostrado
+2106,23175,2023-12-06 00:00:00,desconocida (Modulo 2 mucha agua),MTE,Becerro,HIJO DE LA 4023,NO APLICA,Desconocida
+2107,9082,2023-11-19 00:00:00,"seguidamente del aborto, se descompenso baja CC.",MTE,Vaca,murio en CA/,NO APLICA,Desconocida
+2108,MSN10,2023-11-16 00:00:00,beneficio programado,BEN1,Maute,,NO APLICA,Beneficio Programado
+2109,3100,2023-11-16 00:00:00,beneficio programado,BEN1,Vaca,,NO APLICA,Beneficio Programado
+2110,0103,2023-11-16 00:00:00,beneficio programado,BEN1,Maute,,NO APLICA,Beneficio Programado
+2111,0207,2023-11-16 00:00:00,beneficio programado,BEN1,Maute,,NO APLICA,Beneficio Programado
+2112,0245,2023-11-16 00:00:00,beneficio programado,BEN1,Maute,,NO APLICA,Beneficio Programado
+2113,0295,2023-11-16 00:00:00,beneficio programado,BEN1,Maute,,NO APLICA,Beneficio Programado
+2114,0341,2023-11-16 00:00:00,beneficio programado,BEN1,Maute,,NO APLICA,Beneficio Programado
+2115,BU46,2023-11-16 00:00:00,DESCONOCIDA,MTE,Baute,murio en SS,NO APLICA,Desconocida
+2116,BU91,2023-11-15 00:00:00,bronco aspiro,MTE,Bucerro ord,nacio muy debil,NO APLICA,No Infecciosa
+2117,23213,2023-11-12 00:00:00,MORTINATO,MORTINATO,Becerro,,NO APLICA,Mortinato
+2118,BU45,2023-11-10 00:00:00,HEMATOZOARIOS,MTE,Baute,se encontro en la cachama con piojos,NO APLICA,Infecciosa
+2119,23205,2023-10-25 00:00:00,MORTINATO,MORTINATO,Becerro,,NO APLICA,Mortinato
+2120,s/nj,2023-10-24 00:00:00,beneficio programado,BEN1,retajo,NEG LOMO LAGARTIJA,NO APLICA,Beneficio Programado
+2121,0221,2023-10-24 00:00:00,beneficio programado,BEN1,Maute,,NO APLICA,Beneficio Programado
+2122,0298B,2023-10-24 00:00:00,beneficio programado,BEN1,Maute,,NO APLICA,Beneficio Programado
+2123,6053,2023-10-24 00:00:00,beneficio programado,BEN1,Vaca,,NO APLICA,Beneficio Programado
+2124,9118A,2023-10-24 00:00:00,beneficio programado,BEN1,Maute,,NO APLICA,Beneficio Programado
+2125,pend21,2023-10-24 00:00:00,beneficio programado,BEN1,VACA,,NO APLICA,Beneficio Programado
+2126,7,2023-10-23 00:00:00,axficia mecanica con mecate  durante proceso de ordeño,BEN2,Vaca,el trabajador Angel  amarro la vaca para facilitar el ordeño y por descuido se ahorco,NO APLICA,No Infecciosa
+2127,23192,2023-10-13 00:00:00,encefalitis,MTE,Becerra,se sacrifico,NO APLICA,Infecciosa
+2128,23199,2023-10-10 00:00:00,mortinato,MORTINATO,Becerra,mortinato  en mod 03,NO APLICA,Mortinato
+2129,2064A,2023-03-08 00:00:00,BENEFICIO 369k,BEN1,Vaca,VACA MARRON VIEJA 161222/PSO A LEN 300123/descate 080323 /murio en SS/,NO APLICA,Beneficio Programado
+2130,9010,2023-03-08 00:00:00,BENEFICIO  290kg,BEN1,Mauta,MED 240123/descarte 080323/ /murio en SS/,NO APLICA,Beneficio Programado
+2131,5016,2023-03-08 00:00:00,beneficio  310kg,BEN1,Vaca,BABE ;POSIBLE ABORTO; TIENE UN TUMBAO EXTRAÑO 210123/ descarte 080323 /murio en SS/,NO APLICA,Beneficio Programado
+2132,8080,2023-03-08 00:00:00,BENEFICIO 265 kg,BEN1,Mauta,descarte 080323 /murio en SS/,NO APLICA,Beneficio Programado
+2133,0236,2023-03-06 00:00:00,EMPONZOÑAMIENTO DE SERPIENTE,MTE,Maute,MARCADO  BUENO CACHO FINO  100123 /murio en LA/,NO APLICA,Infecciosa
+2134,3009,2023-03-05 00:00:00,gastroenteritis,MTE,Becerro,en la necrocia se obs. Liquido oscuro en abdomen posible intoxicacion /murio en SS/,NO APLICA,Infecciosa
+2135,BU50,2023-02-27 00:00:00,imersion,MTE,Baute,se aHogo en el bebedero nuevo /murio en CA/,NO APLICA,Imersión
+2136,BU51,2023-02-27 00:00:00,imersion,MTE,Baute,se aHogo en el bebedero nuevo /murio en CA/,NO APLICA,Imersión
+2137,BU2B,2023-02-24 00:00:00,pulmones dañados,MTE,Baute,comenzo a decaer  el 210223 / ya venia con tos de Cañoarena /murio en SS/,NO APLICA,Infecciosa
+2138,BU1B,2023-02-23 00:00:00,imersión,MTE,Baute,ingreso al bebedero en horas de la noche logrando liquido en los pulmones /murio en SS/,NO APLICA,Imersión
+2139,2147,2023-02-18 00:00:00,DESCONOCIDA,MTE,Becerro,"sintomas : salibación, decaimiento, perdida de apetito /murio en SS/",NO APLICA,Desconocida
+2140,0324,2023-02-14 00:00:00,BENEFICIO,BEN1,Maute,NEG  100123/ 435K 140223 /murio en LA/,NO APLICA,Beneficio Programado
+2141,9038,2023-02-14 00:00:00,BENEFICIO,BEN1,Maute,BUENO XXXXXX  100123/ 487K 140223 /murio en LA/,NO APLICA,Beneficio Programado
+2142,MSN11,2023-02-14 00:00:00,BENEFICIO,BEN1,Maute,BL    100123 /murio en LA/,NO APLICA,Beneficio Programado
+2143,2136,2023-02-14 00:00:00,DESCONOCIDA,MTE,Becerro,"sintomas : salibación, decaimiento, perdida de apetito /murio en SS/",NO APLICA,Desconocida
+2144,9080,2023-02-14 00:00:00,BENEFICIO,BEN1,Maute,AMA NARANJA PALIDO  10012/ 488K 140223 /murio en LA/,NO APLICA,Beneficio Programado
+2145,9111,2023-02-14 00:00:00,BENEFICIO,BEN1,Maute,NEG  100123/  486K 140223 /murio en LA/,NO APLICA,Beneficio Programado
+2146,2215A,2023-02-14 00:00:00,BENEFICIO,BEN1,Vaca,RENCA 271222/descarte 240123/ 522K 140223 /murio en SS/,NO APLICA,Beneficio Programado
+2147,BU52,2023-02-12 00:00:00,"intoxicacion , Rabia",MTE,Baute,"sintomas : salibación, decaimiento, perdida de apetito /murio en CA/",NO APLICA,Infecciosa
+2148,2129,2023-02-11 00:00:00,DESCONOCIDA,MTE,Becerro,"sintomas : salibación, decaimiento, perdida de apetito /murio en SS/",NO APLICA,Desconocida
+2149,0291B,2023-02-03 00:00:00,HEMATOSUARIOS/AXFICIADA,MTE,Mauta,COLOR TRAPO SUCIO /murio en SS/,NO APLICA,Infecciosa
+2150,1153,2023-02-02 00:00:00,PERITONITIS POR MUERTE FETAL,BEN2,Vaca,SE MANTUVO CAIDA 221222/ AVANZADA BEC ENCAJONADO 300123 /murio en SS/,NO APLICA,No Infecciosa
+2151,BU37,2023-02-02 00:00:00,muerte subita,MTE,Baute,01FEB23 LLEGAN A FINCA S/S /murio en SS/,NO APLICA,Infecciosa
+2152,8035,2023-01-26 00:00:00,accidente en manga trabajo de corral   335kg,BEN2,Novilla, /murio en SS/,NO APLICA,No Infecciosa
+2153,8071,2023-08-15 00:00:00,beneficio 315k,BEN1,Novilla,"RABO MOCHO, MARR 310123/ ANTES 8091 / pasa a novilla 130723",NO APLICA,Beneficio Programado
+2154,8075,2023-08-15 00:00:00,BENEFICIO 330k,BEN1,Vaca,MARR/pario novilla/descarte 100723/ se le murio bec 120723/,NO APLICA,Beneficio Programado
+2155,BU49,2023-08-13 00:00:00,DESCONOCIDA,MTE,Baute,trasl.  Ca-ss 120823  murio en SS,NO APLICA,Desconocida
+2156,BU44,2023-08-11 00:00:00,DESCONOCIDA,MTE,Baute,murio en CA,NO APLICA,Desconocida
+2157,9605,2023-08-08 00:00:00,sacrificada por descarte (muy vieja y ciega),BEN2,Vaca,"2/4 al becerrro, vaca vieja  9605 (borroso)/sang140123/RENCA 120223/ carvicel 250223",NO APLICA,No Infecciosa
+2158,3083,2023-08-07 00:00:00,muerte en potrero causa desconocida,MTE,Becerra,muerto..  ,NO APLICA,Desconocida
+2159,8088,2023-07-29 00:00:00,se sacrifico a causa de accidente en la manga.,BEN2,Vaca,"BABE BAJA COND CORP 2,75",NO APLICA,No Infecciosa
+2160,60181,2023-07-19 00:00:00,descarte por pododermatitis,BEN2,Vaca,"pintada/  CC 3,5  200323",NO APLICA,No Infecciosa
+2161,23117,2023-07-12 00:00:00,bronco aspiro,MTE,Becerro,no quizo agarrar teta ni tetero al nacer…,NO APLICA,No Infecciosa
+2162,3076,2023-07-10 00:00:00,DESCONOCIDA,MTE,Becerra,se encontro muerto en potrero los mangos,NO APLICA,Desconocida
+2163,3068,2023-07-01 00:00:00,cuerpo extraño en cavidad abdominal (guante de palpar),MTE,Becerra,BL,NO APLICA,No Infecciosa
+2164,23112,2023-06-30 00:00:00,atacado por zamuros,MTE,Becerro,murio al nacer en la cachama,NO APLICA,Mal Calostrado
+2165,214E,2023-06-27 00:00:00,BENEFICIO 556K,BEN1,Vaca,AMA OSC. CARA NEG./MACHORRA  ANDROGENIZAR  061222/ EN PIA DESDE 010323,NO APLICA,Beneficio Programado
+2166,3969,2023-06-27 00:00:00,BENEFICIO 465K,BEN1,Vaca,clod. Neg . 070223/carvicel 100323/ apartada para tto 230623/,NO APLICA,Beneficio Programado
+2167,8034,2023-06-27 00:00:00,BENEFICIO 334K,BEN1,Vaca,NEG./,NO APLICA,Beneficio Programado
+2168,7034,2023-06-27 00:00:00,BENEFICIO 326K,BEN1,Novilla,atrofia  miembro post iz/ C TONICOS- CLOID 110523,NO APLICA,Beneficio Programado
+2169,8042,2023-06-27 00:00:00,BENEFICIO  380K,BEN1,Novilla,roja chisp suave  en celo 310323/ FOD 110523,NO APLICA,Beneficio Programado
+2170,8052,2023-06-27 00:00:00,BENEFICIO 411K,BEN1,Novilla,ama manchada/  ,NO APLICA,Beneficio Programado
+2171,8074,2023-06-27 00:00:00,BENEFICIO 372K,BEN1,Novilla,FOLICULOS PRIMARIOS 081222,NO APLICA,Beneficio Programado
+2172,9030,2023-06-27 00:00:00,BENEFICIO  354K,BEN1,Novilla,ama manchada cuernos tonicos 310323,NO APLICA,Beneficio Programado
+2173,0100,2023-06-17 00:00:00,infarto,BEN2,Maute,murio infartado en los samanes,NO APLICA,No Infecciosa
+2174,0251,2023-06-05 00:00:00,BENEFICIO,BEN1,Maute, / estaba en lagunon 050623,NO APLICA,Beneficio Programado
+2175,2779,2023-06-05 00:00:00,BENEFICIO,BEN1,Maute,NEG  100123 / estaba en lagunon 050623,NO APLICA,Beneficio Programado
+2176,0328,2023-06-05 00:00:00,BENEFICIO,BEN1,Maute,tipico Guzerat/ tras ss-L 240423 / ingre al sist 250423  / estaba en lagunon 050623,NO APLICA,Beneficio Programado
+2177,0201A,2023-06-05 00:00:00,BENEFICIO,BEN1,Maute,(0201)NEG  100123/ cambio de registro (0201)230223 / estaba en lagunon 050623,NO APLICA,Beneficio Programado
+2178,0259A,2023-06-05 00:00:00,BENEFICIO,BEN1,Maute,NEG  100123/  / estaba en lagunon 050623,NO APLICA,Beneficio Programado
+2179,8013A,2023-05-15 00:00:00,vesicula biliar rota (trauma a causa del parto) ademas mastitis gangrenosa,BEN2,Vaca,(EL NRO 1 ERA UN 6 Q SE DEFORMO) 081222/NOVILLA PARIO M10 /murio en SS/,NO APLICA,No Infecciosa
+2180,8097,2023-05-09 00:00:00,BENEFICIO,BEN1,Vaca,PARIO EN MOD3 BcM el 311222/NEG/DESCARTE ANDROGENIZAR 300123 / CAMB A PIA EL 020223/androgenizada 030323/ /murio en SS/,NO APLICA,Beneficio Programado
+2181,91241,2023-05-09 00:00:00,BENEFICIO,BEN1,Novilla,/ REMARCADA ANTES 9124 030323/androgenizada 030323/ /murio en SS/,NO APLICA,Beneficio Programado
+2182,8099,2023-05-09 00:00:00,BENEFICIO,BEN1,Vaca,BL/en celo se ve esrengada 200423 /murio en SS/,NO APLICA,Beneficio Programado
+2183,9057,2023-05-09 00:00:00,BENEFICIO,BEN1,Novilla,"ANDROGENIZAR, BRAVA JV  / androgenizada 030323/ /murio en SS/",NO APLICA,Beneficio Programado
+2184,24108,2024-12-18 00:00:00,subdita,MTE,Becerro,clostridium enteritis hemorragica,NO APLICA,Infecciosa
+2185,8078,2024-09-22 00:00:00,imersion,MTE,Novilla,se encontro en caño amarillo lindero de SS en  echo del rio,NO APLICA,Imersión
+2186,BU052,2025-01-25 00:00:00,"contusión en el pecho, necrosamiento muscular",BEN2,BUFALA,DURO TRES DIAS ANTES EXTRAVIADA,NO APLICA,No Infecciosa
+2187,BU2501,2025-01-25 00:00:00,enteritos hemorragica posible clostridium,MTE,Bucerro ord,,NO APLICA,No Infecciosa
+2188,24305,2024-12-25 00:00:00,MORTINATO,MORTINATO,Becerra,,NO APLICA,Mortinato
+2191,3227,2025-01-27 00:00:00,pegada  en fango caño arena,MTE,vaca,reportada a la 18:30 hrs encontrada en potrero,NO APLICA,Imersión
+2192,25019,2025-02-05 00:00:00,PARTO DISTOSICO,MORTINATO,Becerra,MURIO EN CAÑO ARENA,NO APLICA,No Infecciosa
+2193,24125,2025-02-07 00:00:00,"mal manejo, murio pegado en fango",MTE,Maute,MURIO EN CAÑO ARENA aparecio muero en potrero,NO APLICA,Imersión
+2194,4065,2025-02-10 00:00:00,mal manejo,MTE,Vaca,murio en los mangos San Sebastian,NO APLICA,Desconocida
+2195,25002,2025-02-01 00:00:00,desnutrición,MTE,Becerra,la madre seco y la cria no quizo tetero,NO APLICA,Mal Calostrado
+2196,9109B,2025-02-11 00:00:00,Desconocida,MTE,Novilla,murio en potrero CA,NO APLICA,Desconocida
+2197,1097,2025-02-17 00:00:00,beneficio programado,BEN1,TORO,,SI,Beneficio Programado
+2198,1257,2025-02-17 00:00:00,beneficio programado,BEN1,TORO,,NO,Beneficio Programado
+2199,1146,2025-02-17 00:00:00,beneficio programado,BEN1,TORO,,SI,Beneficio Programado
+2200,1162,2025-02-17 00:00:00,beneficio programado,BEN1,TORO,,NO,Beneficio Programado
+2201,25008,2025-02-16 00:00:00,GASTROENTERITIS AGUDA,MTE,becerro,,NO APLICA,Infecciosa
+2202,0317,2025-02-16 00:00:00,hemotropicos cronica,MTE,TORO,murio luego de varios dias de tratamiento,NO APLICA,Infecciosa
+2203,0185,2025-02-26 00:00:00,hemaozoarios,MTE,Toro,enfermo desde 11/11/24 y no respondio a tto,NO APLICA,Infecciosa
+2204,9067,2025-02-26 00:00:00,tumoracion en aparato reproductor,BEN2,Vaca,,NO APLICA,No infecciosa
+2205,3044A,2025-03-05 00:00:00,ligamento cruzado montado,BEN2,Vaca,,NO APLICA,No infecciosa
+2206,1083,2025-03-10 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2207,1096B,2025-03-10 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2208,1182,2025-03-10 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2210,24265,2025-03-19 00:00:00,desnutricion,MTE,Becerra,,NO APLICA,Mal Calostrado
+2211,25047,2025-03-23 00:00:00,pulmones congestionados falla al respirar,MTE,Becerra,,NO APLICA,Infecciosa
+2212,0233,2025-03-24 00:00:00,parto distocico,BEN2,Vaca,el feto venia en mala pocision,NO APLICA,No infecciosa
+2213,25057,2025-03-24 00:00:00,mortinato,MORTINATO,Becerro,parto distocico,NO APLICA,Mortinato
+2214,2130,2025-03-25 00:00:00,pegada el laguna,BEN2,Vaca,luego de quedarse pegada se descompenso,NO APLICA,Imersión
+2215,25046,2025-03-28 00:00:00,mal manejo y mal calostrado,MTE,Becerra,"murio en vaquera, jefe de vaq. No informó a tiempo cambios en el animal.",NO APLICA,Mal Calostrado
+2216,24254,2025-03-29 00:00:00,enteritis,MTE,Becerro,murio en vaquera / se practico autopcia,NO APLICA,Infecciosa
+2217,4095,2025-03-30 00:00:00,hematuria,MTE,Vaca,"estaba en tratamiento por presentar sangre en la orina, se hozo autopcia",NO APLICA,Infecciosa
+2218,2035,2025-04-02 00:00:00,beneficio,BEN1,Toro,,NO,Beneficio Programado
+2219,1080,2025-04-02 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2220,MSN9,2025-04-02 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2221,36,2025-04-01 00:00:00,fractura miembro post izq,BEN2,Toro,fractura miembro posterior izquierdo,NO APLICA,No infecciosa
+2222,24110,2025-04-01 00:00:00,hemotropicos ó hipomagnesemia,MTE,Mauta,murio postrada,NO APLICA,Infecciosa
+2223,25048,2025-04-05 00:00:00,problema respiratorio,MTE,Becerro,,NO APLICA,Infecciosa
+2224,1090,2025-04-07 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2225,25072,2025-04-09 00:00:00,parto distocico,MORTINATO,Becerra,se practico cesaria para extraer la cria  ya muerta,NO APLICA,Mortinato
+2226,24245,2025-04-07 00:00:00,desnutricion,MTE,Becerro,se encontro en mod 10 varios dias despues de muerto,NO APLICA,Mal Calostrado
+2227,25004,2025-04-13 00:00:00,problema respiratorio,MTE,Becerra,luego de varios dias de tto nunca supero su problema para respìrar,NO APLICA,Infecciosa
+2228,1094,2025-04-13 00:00:00,pegada en fango,MTE,Vaca,se encontro en potrero  murio por falta de atencion de los vaqueros,NO APLICA,Imersión
+2230,25079,2025-04-19 00:00:00,mortinato,MORTINATO,Becerro,,NO APLICA,Mortinato
+2231,1096,2025-04-21 00:00:00,no respondio adecuadamente a la cesaria de parto,BEN2,Vaca,,NO APLICA,No infecciosa
+2232,BU361,2025-04-24 00:00:00,desnutricion ó hemotropicos,MTE,Bucerro ord,,NO APLICA,Infecciosa
+2233,MSN16,2025-05-02 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2234,0216A,2025-05-02 00:00:00,beneficio,BEN1,Toro,,NO,Beneficio Programado
+2235,1068,2025-05-02 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2236,9035,2025-04-30 00:00:00,beneficio,BEN1,Vaca,PARA LOS TRABAJADORES 1ERO DE MAYO,NO APLICA,Beneficio Programado
+2237,25081,2025-05-06 00:00:00,mal calostrado,MTE,Becerra,,NO APLICA,Mal Calostrado
+2238,7038,2025-05-18 00:00:00,pegada en laguna mod 06,BEN2,Vaca,se quedo pegada en laguna de mod 06 y luego no se pudo levantar,NO APLICA,Imersión
+2239,BU366,2025-05-19 00:00:00,arrollada por los demas animales,BEN2,Bucerra ord,,NO APLICA,No infecciosa
+2240,1064,2025-05-21 00:00:00,beneficio,BEN1,Toro,,NO APLICA,Beneficio Programado
+2241,2217,2025-05-21 00:00:00,beneficio,BEN1,Vaca,descarte,NO APLICA,Beneficio Programado
+2242,1148,2025-05-26 00:00:00,beneficio programado,BEN1,TORO,,NO,Beneficio Programado
+2243,1130,2025-05-26 00:00:00,beneficio programado,BEN1,TORO,,SI,Beneficio Programado
+2244,1324,2025-05-26 00:00:00,beneficio programado,BEN1,TORO,,SI,Beneficio Programado
+2245,1166,2025-05-26 00:00:00,beneficio programado,BEN1,TORO,,SI,Beneficio Programado
+2246,4079,2025-05-30 00:00:00,hipoglisemia,BEN2,Vaca,hipoglisemia,NO APLICA,No infecciosa
+2249,25007,2025-06-02 00:00:00,,MTE,Becerro,,NO APLICA,Imersión
+2250,BU309,2025-05-30 00:00:00,desconocida,MTE,Baute,encontrado en avanzado estado de descompocision en potrero,NO APLICA,Desconocida
+2251,BU48,2025-06-08 00:00:00,hemotropicos fase cronica,MTE,Baute,se aplico tratamiento consecutivo infructuosamente,NO APLICA,Infecciosa
+2252,0242,2025-06-10 00:00:00,beneficio programado,BEN1,TORO,,,Beneficio Programado
+2253,1163,2025-06-10 00:00:00,beneficio programado,BEN1,TORO,,,Beneficio Programado
+2254,1202,2025-06-10 00:00:00,beneficio programado,BEN1,TORO,,,Beneficio Programado
+2255,1207,2025-06-10 00:00:00,beneficio programado,BEN1,TORO,,,Beneficio Programado
+2256,1165,2025-06-10 00:00:00,beneficio programado,BEN1,TORO,,,Beneficio Programado
+2257,1190,2025-06-10 00:00:00,beneficio programado,BEN1,TORO,,,Beneficio Programado
+2258,24169,2025-06-12 00:00:00,MAL MANEJO  DESNUTRICION,MTE,Becerra,MURIO EN VAQUERA,NO APLICA,Infecciosa
+2259,6011,2025-06-04 00:00:00,PEGADA EN LAGUNA,BEN2,Vaca,LESION PODAL   SACRIFICADA,NO APLICA,No infecciosa
+2260,22125,2025-01-01 00:00:00,desconocida,MTE,Maute,se registri en tiempo diferido aproximado,NO APLICA,Desconocida
+2261,23180,2025-02-16 00:00:00,pegado en caño,MTE,Maute,,NO APLICA,Imersión
+2262,23071,2024-02-15 00:00:00,desconocida,MTE,Maute,se encontro muerto avanzado,NO APLICA,Desconocida
+2264,24100,2024-09-15 00:00:00,desnutricion,MTE,Becerra,se trajo de emergencia hacia SS pero murio,NO APLICA,Mal Calostrado
+2265,24122,2024-11-15 00:00:00,desnutricion,MTE,Becerra,los pezones muy duros,NO APLICA,Mal Calostrado
+2267,25094,2025-04-30 00:00:00,mortinato,MORTINATO,Becerra,,NO APLICA,Mortinato
+2268,25160,2025-05-30 00:00:00,mortinato,MORTINATO,Becerro,se demoro en determinar el evento,NO APLICA,Mortinato
+2269,1095B,2025-07-07 00:00:00,beneficio,BEN1,toro,,,Beneficio Programado
+2270,0254,2025-07-07 00:00:00,beneficio,BEN1,toro,,,Beneficio Programado
+2271,1036,2025-07-07 00:00:00,beneficio,BEN1,toro,,,Beneficio Programado
+2272,4075,2025-07-07 00:00:00,beneficio,BEN1,vaca,,,Beneficio Programado
+2273,24149,2025-07-06 00:00:00,"mal manejo, desnutricion, mal manejo",MTE,Mauta,,NO APLICA,Infecciosa
+2274,BU004,2025-07-07 00:00:00,post parto distosico no se recupero,MTE,Bufala,no respondio a tratamiento (metritis),NO APLICA,Infecciosa
+2275,25092,2025-04-30 00:00:00,Mortinato,MORTINATO,Becerra,,NO APLICA,Mortinato
+2276,25148,2025-07-13 00:00:00,afeccion en pata degenero en desnutricion,MTE,Becerro,murio en vaquera,NO APLICA,Infecciosa
+2277,9389,2025-07-21 00:00:00,se postro,BEN2,Vaca,murio en potrero estaba en tto,NO APLICA,No infecciosa
+2278,1080A,2025-07-22 00:00:00,beneficio,BEN1,toro,,SI,Beneficio Programado
+2279,1078,2025-07-22 00:00:00,beneficio,BEN1,toro,,SI,Beneficio Programado
+2280,1500,2025-07-22 00:00:00,beneficio,BEN1,toro,,SI,Beneficio Programado
+2281,099,2025-07-22 00:00:00,beneficio,BEN1,toro,,NO,Beneficio Programado
+2282,24263,2025-07-24 00:00:00,murio en potrero mal manejo,MTE,Becerro,,NO APLICA,Mal Calostrado
+2283,pend45,2025-07-25 00:00:00,desconocida,MTE,Maute,,NO APLICA,Desconocida
+2284,1128,2025-07-22 00:00:00,pegada y ahogada en laguna mod 4,MTE,Vaca,la reportaron  al dia siguiete del suceso (no aplicaron protocolo),NO APLICA,Imersión
+2285,25153,2025-07-30 00:00:00,subdita,MTE,Becerra,se encontro en potrero,NO APLICA,Desconocida
+2286,3178,2025-08-06 00:00:00,electrocutada,MTE,Vaca,murio en modulo 10,NO APLICA,Desconocida
+2287,2056,2025-08-06 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2288,0358,2025-08-06 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2289,2204,2025-08-06 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2290,0351,2025-08-06 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2291,5529,2025-08-03 00:00:00,Hemotrópicos crónico,MTE,Toro Rep,murio en callejuela de mod 01,NO APLICA,Infecciosa
+2292,25168,2025-08-07 00:00:00,pisado por las vacas,MTE,Becerra,murio en vaquera,NO APLICA,Accidental
+2293,25136,2025-08-12 00:00:00,desconocida,MTE,Becerra,murio en la cachama,NO APLICA,Desconocida
+2294,1168,2025-08-20 00:00:00,postracion,BEN2,Vaca,,NO APLICA,No infeciosa
+2295,25172,2025-08-09 00:00:00,desconocida,MTE,Becerro,recien nacido aparecio muerto en modulo 02,NO APLICA,Desconocida
+2296,25180,2025-08-22 00:00:00,desnutricion mal calostrado,MTE,Becerro,murio en vaquera conbulcionando,NO APLICA,Mal Manejo
+2297,1106A,2025-08-25 00:00:00,beneficio programado,BEN1,Toro,,SI,Beneficio Programado
+2298,9135,2025-08-25 00:00:00,beneficio programado,BEN1,Toro,,NO,Beneficio Programado
+2299,0346,2025-08-25 00:00:00,beneficio programado,BEN1,Toro,,SI,Beneficio Programado
+2300,1112A,2025-08-25 00:00:00,beneficio programado,BEN1,Vaca,,NO,Beneficio Programado
+2301,3084,2025-08-30 00:00:00,incapacidad para ponerse de pìe,BEN2,Vaca,duro 4 dias postrandose intermientemente,NO APLICA,Desconocida
+2302,0306P,2024-09-15 00:00:00,desconocida,MTE,becerro,fue reportado por Maura en marzo 2025,NO APLICA,Mal Calostrado
+2303,MSN12,2025-09-08 00:00:00,beneficio,BEN1,toro,,SI,Beneficio Programado
+2304,MSN17,2025-09-08 00:00:00,beneficio,BEN1,toro,,SI,Beneficio Programado
+2305,1046A,2025-09-08 00:00:00,beneficio,BEN1,toro,,SI,Beneficio Programado
+2306,1044,2025-09-08 00:00:00,beneficio,BEN1,toro,,NO,Beneficio Programado
+2307,25193,2025-09-05 00:00:00,mal manejo,MTE,Becerro,,NO APLICA,Mal Calostrado
+2308,25171,2025-09-14 00:00:00,desconocida,MTE,becerra,"orina con sangre , aturdido",NO APLICA,Desconocida
+2309,25198,2025-09-14 00:00:00,desconocida,MTE,becerra,desconocida,NO APLICA,Desconocida
+2310,25195,2025-09-23 00:00:00,diarrea,MTE,Becerra,muerta en la vaquera,NO APLICA,Mal Manejo
+2311,24261,2025-09-19 00:00:00,desconocida,MTE,maute,encontrado en potrero,NO APLICA,Desconocida
+2312,25018,2025-09-20 00:00:00,pata partida entumecimiento,MTE,mauta,estuvo en tratamiento por la pata partida,NO APLICA,Mal manejo
+2313,2219,2025-09-18 00:00:00,beneficio,BEN2,Vaca,afeccion en la columna vertebral,NO APLICA,No infeciosa
+2314,2005A,2025-09-26 00:00:00,beneficio,BEN2,Toro,Abraham reporto toro con paleta fracturada en mod 9.,NO APLICA,No infeciosa
+2315,25228,2025-09-27 00:00:00,parto distosico,MORTINATO,Becerro,"parto asistido por Abraham, Jose, Sarahys y Alberto",NO APLICA,Mortinato
+2316,24206B,2024-09-15 00:00:00,diarrea,MTE,Becerro,,NO APLICA,Mal Manejo
+2317,2153,2025-09-27 00:00:00,murio pariendo,BEN2,Vaca,demoro  mas de 6 horas pariendo,NO APLICA,No Infecciosa
+2318,25227,2025-09-28 00:00:00,mal manjo,MTE,becerro,reportado por Carlos murio en vaquera,NO APLICA,Mal manejo
+2319,25090,2025-10-01 00:00:00,,MTE,Becerra,encontrado en potrero por Alberto,NO APLICA,Desconocida
+2320,25217,2025-10-09 00:00:00,Mal calostrado,MTE,becerra,murio en vaquera,NO APLICA,Mal Calostrado
+2321,25185,2025-10-09 00:00:00,clostridium,MTE,becerra,murio en vaquera,NO APLICA,Infecciosa
+2322,25189,2025-10-13 00:00:00,,MTE,Becerra,murio en vaquera,NO APLICA,Desconocida
+2323,0313,2025-10-14 00:00:00,beneficio,BEN1,Vaca,selecionada por su peso y contextura,NO APLICA,Beneficio Programado
+2324,25245,2025-10-16 00:00:00,,MORTINATO,Becerra,,NO APLICA,Mortinato
+2325,BU2527,2025-10-18 00:00:00,DESCONOCIDA,MTE,Bucerro ord,,NO APLICA,Desconocida
+2326,BU2521,2025-09-25 00:00:00,DESCONOCIDA,MTE,Bucerra ord,,NO APLICA,Desconocida
+2327,25225,2025-10-21 00:00:00,clostridium,MTE,Becerra,tembladera en el cuerpo,NO APLICA,Infecciosa
+2328,25238,2025-10-21 00:00:00,,MTE,Becerra,amanecio muerto en vaquera,NO APLICA,Desconocida
+2329,1216,2025-10-27 00:00:00,sacrificado pelea entre toros,BEN2,Toro,pelendo resulto con hemorragia interna que obligo su sacrificio,NO APLICA,Accidental
+2331,BU331,2025-11-01 00:00:00,desconocida,BEN2,Bufala,,NO APLICA,No infeciosa
+2332,SNA,2025-10-29 00:00:00,desconocida,BEN2,Vaca,quedo poetrada,NO APLICA,No infeciosa
+2333,25251,2025-10-27 00:00:00,DESCONOCIDA,MTE,Becerro,murio en vaquera recien llegado del potrero,NO APLICA,Mal Manejo
+2334,23206,2025-11-06 00:00:00,clostridium,BEN2,Maute,se enfermo en el silencio,NO APLICA,No Infecciosa
+2335,25202,2025-11-06 00:00:00,miningoencefalitis,MTE,Becerra,murio en vaquera,NO APLICA,Infecciosa
+2336,25264,2025-11-09 00:00:00,miningoencefalitis,MTE,Becerro,murio en vaquera,NO APLICA,Infecciosa
+2337,1026,2025-11-10 00:00:00,beneficio,BEN1,Toro,,,Beneficio Programado
+2338,1048,2025-11-10 00:00:00,beneficio,BEN1,Toro,,,Beneficio Programado
+2339,1076,2025-11-10 00:00:00,beneficio,BEN1,Toro,,,Beneficio Programado
+2340,2054,2025-11-10 00:00:00,beneficio,BEN1,Toro,,,Beneficio Programado
+2341,25252,2025-11-13 00:00:00,nacio con defecto en cuello  y por falta de atencion,MTE,Becerra,muerto en vaquera,NO APLICA,Mal Manejo
+2342,3015,2025-11-16 00:00:00,hemotropicos,MTE,vaca,,NO APLICA,Infecciosa
+2343,0740,2025-11-16 00:00:00,hemotropicos,MTE,vaca,,NO APLICA,Infecciosa
+2344,25262,2025-11-17 00:00:00,hemotropicos,MTE,Becerra,,NO APLICA,Infecciosa
+2345,BU367,2025-08-18 00:00:00,mal manejo,MTE,bucerro,,NO APLICA,Mal manejo
+2346,BU2503,2025-07-27 00:00:00,mal manejo,MTE,bucerra,,NO APLICA,Mal manejo
+2347,1031,2025-12-03 00:00:00,BENEFICIO PROGRAMADO,BEN1,TORO,,SI,Beneficio Programado
+2348,1107,2025-12-03 00:00:00,BENEFICIO PROGRAMADO,BEN1,TORO,,SI,Beneficio Programado
+2349,2005B,2025-12-03 00:00:00,BENEFICIO PROGRAMADO,BEN1,TORO,,SI,Beneficio Programado
+2350,1018,2025-12-03 00:00:00,BENEFICIO PROGRAMADO,BEN1,TORO,pequeño nunca crecio,NO,Beneficio Programado
+2351,MSN3,2025-12-03 00:00:00,BENEFICIO PROGRAMADO,BEN1,Retajo,,SI,Beneficio Programado
+2352,25117,2025-12-03 00:00:00,pata quebrada,BEN2,Becerro,,NO APLICA,No Infecciosa
+2353,25297,2025-12-08 00:00:00,mortinato,MORTINATO,Becerro,,NO APLICA,Mortinato
+2354,25298,2025-12-08 00:00:00,mortinato,MORTINATO,Becerra,,NO APLICA,Mortinato
+2355,25305,2025-12-13 00:00:00,la madre no dio leche,MTE,Becerro,la mama no cuenta con todos los pezones activos  no dio calñostro,NO APLICA,Mal Manejo
+2356,BU337,2025-12-13 00:00:00,accidental,BEN2,Bufala,trauma post parto,NO APLICA,Accidental
+2357,25107,2025-12-14 00:00:00,desconocida,MTE,Becerro,el mismo dia decayo y murio,NO APLICA,Desconocida
+2358,25312,2025-12-02 00:00:00,mortinato,MORTINATO,becerra,,NO APLICA,Mortinato
+2359,22171,2026-01-04 00:00:00,parto distosico,BEN2,Vaca,,NO APLICA,No Infecciosa
+2360,26002,2026-01-02 00:00:00,mortinato,MORTINATO,becerra,,NO APLICA,Mortinato
+2361,26004,2026-01-04 00:00:00,mortinato,MORTINATO,becerro,,NO APLICA,Mortinato
+2362,25267,2026-01-06 00:00:00,mal manejo,MTE,becerro,,NO APLICA,Mal manejo
+2363,26006,2026-01-05 00:00:00,mal manejo,MTE,becerra,,NO APLICA,Mal Calostrado
+2364,25133,2026-01-11 00:00:00,mal manejo,MTE,Becerro,,NO APLICA,Mal Manejo
+2365,25319,2026-01-11 00:00:00,mal manejo,MTE,Becerro,,NO APLICA,Mal Manejo
+2366,2029,2026-01-12 00:00:00,beneficio programado,BEN1,toro,,NO,Beneficio Programado
+2367,2032,2026-01-12 00:00:00,beneficio programado,BEN1,toro,,NO,Beneficio Programado
+2368,2041,2026-01-12 00:00:00,beneficio programado,BEN1,toro,,NO,Beneficio Programado
+2369,0325,2026-01-12 00:00:00,beneficio programado,BEN1,toro,,SI,Beneficio Programado
+2370,1501,2026-01-12 00:00:00,accidente en vaquera,BEN2,vaca,se disloco la cadera,NO APLICA,Accidental
+2371,25287,2026-01-15 00:00:00,embestida por un bufalo,MTE,becerra,estuvo en recuperación/ murio en vaquera,NO,Accidental
+2372,26011,2026-01-15 00:00:00,mal manejo,MTE,becerro,murio en vaquera,NO,Mal manejo
+2373,25291,2026-01-16 00:00:00,desconocida,MTE,becerra,murio en mod 4,NO,Desconocida
+2374,25281,2026-01-19 00:00:00,mal manejo,MTE,Becerro,MURIO EN VAQUERA,NO APLICA,Mal Manejo
+2375,2180A,2026-01-23 00:00:00,desconocida,BEN2,vaca,encontrada en potrero,NO APLICA,Desconocida
+2376,26018,2026-01-25 00:00:00,accidental,MTE,becerro,embestido por bufalo,NO APLICA,Accidental
+2377,25082,2026-01-25 00:00:00,mal manejo,MTE,becerra,murio en vaquera,NO APLICA,Mal manejo
+2378,BU056,2026-01-24 00:00:00,BENEFICIO,BEN1,Baute,,NO APLICA,Beneficio Programado
+2379,BU01251,2026-01-24 00:00:00,BENEFICIO,BEN1,BUTOROREP,,NO APLICA,Beneficio Programado
+2380,BU084,2026-01-24 00:00:00,BENEFICIO,BEN1,Baute,,NO APLICA,Beneficio Programado
+2381,26039,2026-01-28 00:00:00,mortinato,MORTINATO,Becerro,encontrado en potrero los mangos descuartizado,NO APLICA,Mortinato
+2382,25115,2026-01-30 00:00:00,imersion,MTE,Becerro,reportada por beni via  video murio en mod 4,NO APLICA,Imersión
+2383,26024,2026-01-31 00:00:00,mal manejo,MTE,Becerra,murio en vaq rep por Carlos,NO APLICA,Mal Manejo
+2384,25108,2026-02-02 00:00:00,mal manejo,MTE,Becerra,aparecio en potrero con varios dias de muerta,NO APLICA,Mal Manejo
+2385,25182,2026-02-05 00:00:00,desconocida,MTE,Becerro,,NO APLICA,Desconocida
+2386,BU319,2026-02-07 00:00:00,beneficio,BEN1,Baute,,NO APLICA,Beneficio Programado
+2387,BU085,2026-02-07 00:00:00,beneficio,BEN1,BUTOROREP,,NO APLICA,Beneficio Programado
+2388,4048,2026-02-09 00:00:00,beneficio,BEN1,Vaca,,,Beneficio Programado
+2389,0109A,2026-02-09 00:00:00,beneficio,BEN1,TORO,,,Beneficio Programado
+2390,2027,2026-02-09 00:00:00,beneficio,BEN1,Toro Rep,,,Beneficio Programado
+2391,1130A,2026-02-09 00:00:00,beneficio,BEN1,Maute,,,Beneficio Programado
+2392,25038,2026-02-15 00:00:00,MAL MANEJO,MTE,Maute,estuvo en tto/ murio en CA,NO APLICA,Mal Manejo
+2393,26046,2026-02-11 00:00:00,mal manejo,MTE,Becerra,,NO APLICA,Mal manejo
+2394,26056,2026-02-18 00:00:00,subita,MTE,Becerro,muerte subdita (aparentemente),NO APLICA,Desconocida
+2395,25259,2025-12-18 00:00:00,subdita,MTE,becerra,,NO APLICA,Desconocida
+2396,25113,2026-01-16 00:00:00,clostridium,MTE,becerro,,NO APLICA,Infecciosa
+2397,2215,2026-02-21 00:00:00,emponzoñamiento,MTE,Vaca,tenia una lesion en pata estuvo en tto,NO APLICA,Infecciosa
+2398,26070,2026-02-23 00:00:00,mortinato,MORTINATO,Becerro,,NO APLICA,Mortinato
+2399,BU2533,2026-02-25 00:00:00,desconocida,MTE,Bucerra ord,estuvo en tto,NO APLICA,Desconocida
+2400,26048,2026-02-25 00:00:00,desconocida,MTE,Becerra,,NO APLICA,Desconocida
+2401,26045,2026-03-01 00:00:00,enteritis Hemorragica,MTE,Becerra,"mantuvo diarrea con sangre, no respondio al tto",NO APLICA,Infecciosa
+2403,25044,2026-03-02 00:00:00,mal manejo,MTE,Baute,estuvo en tto una semana,NO APLICA,Mal Manejo
+2404,25258,2026-03-06 00:00:00,pegado en fango,MTE,Becerra,pegado en fanfo cerca de vaquera,NO APLICA,Imersión
+2405,1053,2026-03-05 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2406,1215,2026-03-05 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2407,0141,2026-03-05 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2408,1056,2026-03-05 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2409,BU2601,2026-03-01 00:00:00,mal calostrado,MTE,Bucerra ord,no respondio a tto. Mal calostrato,NO APLICA,Mal Calostrado
+2410,8026,2026-03-15 00:00:00,pegada en laguna,MTE,Vaca,domingo 15 marz  reportada por Carlos,NO APLICA,Imersión
+2411,26099,2026-03-30 00:00:00,Mortinato,MORTINATO,Becerro,,NO APLICA,Mortinato
+2412,BU078,2026-03-31 00:00:00,beneficio,BEN1,Maute,,NO APLICA,Beneficio Programado
+2413,24050,2026-04-04 00:00:00,beneficio,BEN2,Maute,postrado/ esnutrido en el Slencio,NO APLICA,Beneficio Programado
+2414,1104,2026-04-06 00:00:00,pegado en laguna mod 07,MTE,Toro,"estaba en tto, flaco",NO APLICA,Imersión
+2415,25114,2026-03-25 00:00:00,mal manejo.mala alimentacion  No respondio al tto,MTE,Maute,murio  en el silencio,NO APLICA,Mal Manejo
+2416,1109A,2026-04-07 00:00:00,desnutricion/ beneficio,BEN2,Vaca,estuvo caida varios dias previos a si desceso/  se depostó con destino perros,NO APLICA,Mal Manejo
+2417,26079,2026-04-08 00:00:00,desconocida,MTE,Becerro,desconocida,NO APLICA,Desconocida
+2418,25121,2026-04-10 00:00:00,descuido/ mal nutrido,MTE,Maute,murio en el silencio,NO APLICA,Mal Manejo
+2419,1095A,2026-04-11 00:00:00,pegada en laguna,MTE,Vaca,murio en laguna de mod 01,NO APLICA,Imersión
+2420,BU66,2026-03-28 00:00:00,BENEFICIO,BEN1,Baute,SE ENDIO A RIO CHICO,NO APLICA,Beneficio Programado
+2421,25109,2026-04-13 00:00:00,mal manejo  desnutricion,MTE,Maute,"se murio en el silencio,",NO APLICA,Mal Manejo
+2422,24290,2026-04-16 00:00:00,pegado en fango al intentar beber agua del caño,MTE,Maute,recien trasladado a Ca desde silencio por desnutricion,NO APLICA,Imersión
+2423,25076,2026-04-15 00:00:00,pegado en fango al intentar beber agua del caño,MTE,Mauta,ahogada en orilla del rio atascada en fango,NO APLICA,Imersión
+2425,1097B,2026-04-24 00:00:00,imersion en laguna mod 04,MTE,Vaca,reportado por Ruben a las 16:43 240426.  encontrada en horas de la mañana ver video,NO APLICA,Imersión
+2426,1292,2026-04-28 00:00:00,beneficio,MTE,Toro,,NO,Beneficio Programado
+2427,1204,2026-04-28 00:00:00,beneficio,MTE,Toro,,SI,Beneficio Programado
+2428,0198,2026-04-28 00:00:00,beneficio,MTE,Toro,,NO,Beneficio Programado
+2429,1074A,2026-04-28 00:00:00,beneficio,MTE,Toro,,NO,Beneficio Programado
+2430,26030,2026-04-26 00:00:00,neumoenteritis,MTE,Becerra,,NO APLICA,Infecciosa
+2431,26117,2026-04-27 00:00:00,accidental lesion lumbar,MTE,Becerra,,NO APLICA,Accidental
+2432,26098,2026-04-30 00:00:00,coccidiosis,MTE,Becerro,,NO APLICA,Infecciosa
+2433,6050,2026-04-29 00:00:00,sacrificada para los trabajadores (1ro de mayo),BEN1,vaca,fiesta de 1ero de mayo,NO APLICA,Beneficio Programado
+2434,BU314,2026-04-20 00:00:00,beneficiado,BEN1,Bufalo,carniceria rio chico,NO APLICA,Beneficio Programado
+2435,2067,2026-05-06 00:00:00,beneficio,BEN1,Toro,,NO,Beneficio Programado
+2436,1097A,2026-05-06 00:00:00,beneficio,BEN1,Toro,,NO,Beneficio Programado
+2437,1070A,2026-05-06 00:00:00,beneficio,BEN1,Toro,,NO,Beneficio Programado
+2438,2004,2026-05-06 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2439,BU310,2026-05-06 00:00:00,desconocida,BEN2,Bufalo,,NO APLICA,Desconocida
+2440,BU321,2026-05-11 00:00:00,beneficio,BEN1,Baute,,NO APLICA,Beneficio Programado
+2441,23154,2026-05-11 00:00:00,beneficio por romper cercas,BEN1,Maute,,SI,Beneficio Programado
+2442,22178,2026-05-11 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2443,1085,2026-05-11 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2444,23011,2026-05-11 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2445,1082A,2026-05-11 00:00:00,beneficio,BEN1,Toro,,SI,Beneficio Programado
+2446,BU322,2026-05-30 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2447,BU308,2026-04-20 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2448,BU071,2026-05-11 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2449,BU097,2026-05-11 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2450,BU302,2026-05-11 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2451,BU069,2026-05-20 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2452,BU089,2026-05-20 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2453,BU317,2026-05-20 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2454,BU087,2026-05-20 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2455,BU327,2026-05-26 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2456,BU090,2026-05-26 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2457,BU311,2026-05-26 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2458,BU088,2026-05-26 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2459,BU086,2026-05-26 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2460,BU326,2026-05-26 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2461,BU328,2026-05-28 00:00:00,,BEN1,Bufalo,RIO CHICO,NO APLICA,Beneficio Programado
+2462,BU376,2026-02-15 00:00:00,,MTE,Bufala,murio en potrero,NO APLICA,Desconocida
+2463,26143,2026-05-24 00:00:00,,MTE,Becerro,murio en vaquera,NO APLICA,Mal manejo
+2465,26136,2026-05-28 00:00:00,,MTE,Becerro,murio en vaquera,NO APLICA,Mal manejo
+2466,BU86,2026-03-28 00:00:00,,BEN1,BUTOROMAT, DESTINO RIO CHICO,NO APLICA,Beneficio Programado
+2468,9116B,2026-05-22 00:00:00,,BEN2,vaca,,NO APLICA,Infecciosa
+2469,26118,2026-05-20 00:00:00,,MTE,Becerro,,NO APLICA,Infecciosa
+2470,25135,2026-04-15 00:00:00,,MTE,Becerro,,NO APLICA,Infecciosa
+2471,pen,2026-04-16 00:00:00,aparecio descuartizado en potrero,MTE,Maute,,NO APLICA,Desconocida
+2472,26133,2026-05-31 00:00:00,hemotarasitos,MTE,Becerra,murio en vaquera,,Mal Manejo
+2473,BU306,2026-06-02 00:00:00,BENEFICIO,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2474,BU313,2026-06-02 00:00:00,BENEFICIO,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2475,BU092,2026-06-02 00:00:00,BENEFICIO,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2476,BU67,2026-06-02 00:00:00,BENEFICIO,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2477,1152,2026-06-01 00:00:00,BENEFICIO,BEN1,Toro,prueba Norka,NO APLICA,Beneficio Programado
+2478,26085,2026-04-20 00:00:00,,MTE,Becerra,,NO APLICA,Mal Manejo
+2479,2224,2025-10-27 00:00:00,se ahogo,BEN2,Vaca,murio pegada en laguna mod 4,NO APLICA,Imersión
+2480,26018A,2026-01-15 00:00:00,mortinato,MORTINATO,Becerro,,NO APLICA,Mortinato
+2481,22168,2026-04-22 00:00:00,ahogado en laguna,MTE,Toro,,NO APLICA,Imersión
+2482,26156,2026-06-02 00:00:00,nacio desnutrido y la madre lo abandono,MTE,Becerro,,NO APLICA,Mal Calostrado
+2483,25144,2026-06-04 00:00:00,desconocida,MTE,Maute,encontrado en potrero,NO APLICA,Desconocida
+2484,BU75,2026-06-10 00:00:00,BENEFICIO,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2485,BU091,2026-06-10 00:00:00,BENEFICIO,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2486,BU20,2026-06-10 00:00:00,BENEFICIO,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2487,BU83,2026-06-10 00:00:00,BENEFICIO,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2488,BU095,2026-06-10 00:00:00,BENEFICIO,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2489,26113,2026-06-08 00:00:00,se ahogo en laguna mod 02,MTE,Becerra,reportada el miercoles 10 de junio am.,NO APLICA,Imersión
+2491,0118A,2026-06-12 00:00:00,beneficio,BEN1,Toro,,NO APLICA,Beneficio Programado
+2492,50741,2026-06-16 00:00:00,pegada en laguna cachama,MTE,vaca,estuvo en varias ocaciones consecutivas pegandose en laguna por debilidad,NO APLICA,Imersión
+2493,26154,2026-06-17 00:00:00,Enteritis,MTE,Becerro,murio en vaquera,NO APLICA,Mal manejo
+2494,26108,2026-06-16 00:00:00,neumoenteritis,MTE,Becerro,murio en vaquera,NO APLICA,Mal manejo
+2495,BU87,2026-06-17 00:00:00,BENEFICIO,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2496,BU69,2026-06-17 00:00:00,BENEFICIO,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2497,8067,2026-06-17 00:00:00,BENEFICIO,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2498,4109,2026-06-17 00:00:00,BENEFICIO,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2499,10391,2026-06-17 00:00:00,BENEFICIO,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2500,7032,2026-06-17 00:00:00,BENEFICIO,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2501,26175,2026-06-17 00:00:00,mal manejo,MTE,Becerro,,NO APLICA,Mal Manejo
+2502,25266,2026-06-17 00:00:00,mal manejo,MTE,Becerra,encontrada en potrero,NO APLICA,Mal Manejo
+2503,2059,2026-06-24 00:00:00,beneficio,BEN1,vaca,,NO APLICA,Beneficio Programado
+2504,8072,2026-06-24 00:00:00,beneficio,BEN1,vaca,,NO APLICA,Beneficio Programado
+2505,30,2026-06-24 00:00:00,beneficio,BEN1,vaca,,NO APLICA,Beneficio Programado
+2506,BU099,2026-06-24 00:00:00,beneficio,BEN1,Bufalo,,NO APLICA,Beneficio Programado
+2507,40072,2026-06-24 00:00:00,beneficio,BEN1,vaca,,NO APLICA,Beneficio Programado
+2508,26170,2026-06-24 00:00:00,mal calostrado,MTE,Becerra,,NO APLICA,Mal Calostrado
+2509,26074,2026-06-18 00:00:00,desconocida,MTE,Becerro,encontrado en potrero,NO APLICA,Desconocida
+2510,7092,2026-07-01 00:00:00,beneficio,BEN1,Vaca,,NO APLICA,Beneficio Programado
+2511,BU323,2026-07-01 00:00:00,beneficio,BEN1,Baute,,NO APLICA,Beneficio Programado
+2512,2090A,2026-07-01 00:00:00,beneficio,BEN1,Vaca,,NO APLICA,Beneficio Programado
+2513,31102,2026-07-01 00:00:00,beneficio,BEN1,Vaca,,NO APLICA,Beneficio Programado
+2514,1027,2026-07-01 00:00:00,beneficio,BEN1,TORO,,NO APLICA,Beneficio Programado
+2515,0214,2026-07-01 00:00:00,beneficio,BEN1,TORO,,NO APLICA,Beneficio Programado
+2516,8050,2026-07-01 00:00:00,beneficio,BEN1,Vaca,,NO APLICA,Beneficio Programado
+2517,1027A,2026-07-01 00:00:00,beneficio,BEN1,TORO,,NO APLICA,Beneficio Programado
+2518,2092,2026-07-01 00:00:00,beneficio,BEN1,TORO,,NO APLICA,Beneficio Programado
+2519,26179,2026-07-04 00:00:00,mortinato,MORTINATO,Becerra,,NO APLICA,Mortinato
+2520,4008,2026-07-07 00:00:00,beneficio programado,BEN1,vaca,,NO,Beneficio Programado
+2521,0143,2026-07-07 00:00:00,beneficio programado,BEN1,vaca,,NO,Beneficio Programado
+2522,1091A,2026-07-07 00:00:00,beneficio programado,BEN1,vaca,,NO,Beneficio Programado
+2523,8054,2026-07-07 00:00:00,beneficio programado,BEN1,vaca,,SI,Beneficio Programado
+2524,1112,2026-07-07 00:00:00,beneficio programado,BEN1,Toro,,NO,Beneficio Programado
+2525,1228,2026-07-07 00:00:00,beneficio programado,BEN1,Toro,,NO,Beneficio Programado
+2526,23004,2026-07-07 00:00:00,beneficio programado,BEN1,Toro,,NO,Beneficio Programado
+2527,2149,2026-07-07 00:00:00,beneficio programado,BEN1,Toro,,SI,Beneficio Programado
+2528,SN50,2026-07-07 00:00:00,beneficio programado,BEN1,Toro,,SI,Beneficio Programado
+2529,1096A,2026-07-07 00:00:00,beneficio programado,BEN1,Toro,,NO,Beneficio Programado
+2530,2058,2026-07-07 00:00:00,beneficio programado,BEN1,Toro,,SI,Beneficio Programado
+2531,1093,2026-07-07 00:00:00,beneficio programado,BEN1,Toro,,SI,Beneficio Programado
+2532,1055A,2026-07-07 00:00:00,beneficio programado,BEN1,Toro,,NO,Beneficio Programado
+2533,1132,2026-07-15 00:00:00,beneficio programado,BEN1,Vaca,,NO APLICA,Beneficio Programado
+2534,0349,2026-07-15 00:00:00,beneficio programado,BEN1,Vaca,,NO APLICA,Beneficio Programado
+2535,5098,2026-07-15 00:00:00,beneficio programado,BEN1,Vaca,,NO APLICA,Beneficio Programado
+2536,2094,2026-07-15 00:00:00,beneficio programado,BEN1,TORO,,NO APLICA,Beneficio Programado
+2537,0293,2026-07-15 00:00:00,beneficio programado,BEN1,TORO,,NO APLICA,Beneficio Programado
+2538,2053,2026-07-15 00:00:00,beneficio programado,BEN1,TORO,,NO APLICA,Beneficio Programado
+2539,25296,2026-06-21 00:00:00,deficiencia  respiratoria,MTE,Becerro,,NO APLICA,Infecciosa
+2540,26180,2026-07-20 00:00:00,recienparido murio falta de calostro,MTE,Becerro,,NO APLICA,Mal Calostrado
+2541,0119,2026-07-22 00:00:00,beneficio,BEN1,Toro,,NO APLICA,Beneficio Programado
+2542,0127,2026-07-22 00:00:00,beneficio,BEN1,Toro,,NO APLICA,Beneficio Programado
+2543,6028,2026-07-22 00:00:00,beneficio,BEN1,vaca,,NO APLICA,Beneficio Programado
+2544,1139A,2026-07-22 00:00:00,beneficio,BEN1,vaca,,NO APLICA,Beneficio Programado
+2545,6020,2026-07-22 00:00:00,beneficio,BEN1,vaca,,NO APLICA,Beneficio Programado
+2546,2001A,2026-07-29 00:00:00,beneficio programado,BEN1,Toro,,NO APLICA,Beneficio Programado
+2547,3043,2026-07-29 00:00:00,beneficio programado,BEN1,vaca,,NO APLICA,Beneficio Programado
+2548,4A,2026-07-29 00:00:00,beneficio programado,BEN1,vaca,,NO APLICA,Beneficio Programado
+2549,22118,2026-07-29 00:00:00,beneficio programado,BEN1,Toro,,NO APLICA,Beneficio Programado
+2550,2155,2026-08-06 00:00:00,beneficio programado,BEN1,Toro,casher,NO,Beneficio Programado
+2551,1033,2026-08-06 00:00:00,beneficio programado,BEN1,Toro,casher,SI,Beneficio Programado
+2552,2154,2026-08-06 00:00:00,beneficio programado,BEN1,Toro,casher,SI,Beneficio Programado
+2553,26171,2026-08-06 00:00:00,mal manejo,MTE,Becerro,murio en mod 02 por descuido,NO APLICA,Mal manejo
+2554,26168,2026-07-02 00:00:00,mal manejo,MTE,Becerro,,NO APLICA,Mal manejo
+2555,25277,2026-08-13 00:00:00,"mal manejo, mal alimentado,",MTE,Maute,murio en blv.,NO APLICA,
+2556,26169,2026-07-02 00:00:00,mal manejo,MTE,Becerra,murio en modulo 03,NO APLICA,Mal Manejo
+2557,22122,2026-08-25 00:00:00,beneficio,BEN1,Toro,no se pesaron en pie,SI,Beneficio Programado
+2558,0116A,2026-08-25 00:00:00,beneficio,BEN1,Toro,no se pesaron en pie,SI,Beneficio Programado
+2559,22166,2026-08-25 00:00:00,beneficio,BEN1,Toro,no se pesaron en pie,SI,Beneficio Programado
+2560,22158,2026-08-25 00:00:00,beneficio,BEN1,Toro,no se pesaron en pie,NO,Beneficio Programado
+2561,BU26007,2026-08-25 00:00:00,mal manejo diarea y deshidratacion,MTE,Bucerro ord,por descuido se murio,NO APLICA,Mal Manejo
+2562,BU26006,2026-08-28 00:00:00,entoccicacion con diminaceno,MTE,bucerra,Miguel inyecto medicamento erroneo,NO APLICA,Mal manejo
+2563,BU26009,2026-08-30 00:00:00,entoccicacion con diminaceno,MTE,bucerro,Miguel inyecto medicamento erroneo,NO APLICA,Mal manejo
+2564,BU26008,2026-08-28 00:00:00,entoccicacion con diminaceno,MTE,Bucerro ord,Miguel inyecto medicamento erroneo,NO APLICA,Mal Manejo
+2565,26013,2026-08-31 00:00:00,destete prematuro,MTE,Becerra,,NO APLICA,Mal Manejo
+2566,25110,2026-08-15 00:00:00,desnutricion,MTE,Maute,murio en barlovia,NO APLICA,Mal manejo
+2567,25042,2026-08-21 00:00:00,desnutricion,MTE,Maute,murio en el 12,NO APLICA,Mal manejo
+2568,25013,2026-08-25 00:00:00,desnutricion,MTE,Maute,murio en el 12,NO APLICA,Mal manejo
+2569,25014,2026-09-04 00:00:00,desnutricion,MTE,Maute,murio en cachama,NO APLICA,Mal Manejo
+2570,26152,2026-09-06 00:00:00,cornada pòr vaca,MTE,Becerra,reportada como cornada por vaca,NO APLICA,Accidental
+2571,26193,2026-09-01 00:00:00,"NACIO CIEGA, mal manejo",MTE,Becerra,encontrada en vaquera,NO APLICA,Mal Manejo
+2572,26201,2026-09-09 00:00:00,MORTINATO,MORTINATO,Becerro,encontrado en potrero,NO APLICA,Mortinato
+2573,26202,2026-09-09 00:00:00,MORTINATO,MORTINATO,Becerro,encontrado en potrero,NO APLICA,Mortinato
+2574,BU2524,2026-09-11 00:00:00,DESCONOCIDA,MTE,Baute,"venia presentando edema de botella mal manejo, lo tenian descuidado",NO APLICA,Desconocida
+2575,25116,2026-09-06 00:00:00,mordida de serpiente,MTE,Maute,encontrado en potrero,NO APLICA,Accidental
+2576,25265,2026-09-14 00:00:00,,MTE,Maute,encontrado en pòtrero,NO APLICA,Desconocida
+2577,2174,2026-09-15 00:00:00,beneficio programado,BEN1,Toro,matarife Simon,SI,Beneficio Programado
+2578,22185,2026-09-15 00:00:00,beneficio programado,BEN1,Toro,matarife Simon,SI,Beneficio Programado
+2579,2170,2026-09-15 00:00:00,beneficio programado,BEN1,Toro,matarife Simon,SI,Beneficio Programado
+2580,1101A,2026-09-15 00:00:00,beneficio programado,BEN1,Toro,matarife Simon,NO,Beneficio Programado
+2581,2101,2026-09-15 00:00:00,beneficio programado,BEN1,Toro,matarife Simon,SI,Beneficio Programado
+2582,J25132,2026-09-15 00:00:00,mal manejo en finca el 12,MTE,Maute,murio en finca el 12,NO APLICA,Mal Manejo
+2583,24300,2026-09-16 00:00:00,ahogamiento,MTE,Maute,encontrado ahogado en la cachama,NO APLICA,Imersión
+2584,25211,2026-09-18 00:00:00,mal manejo falta de buenos pastos,MTE,Mauta,murio en barlovia,NO APLICA,Mal Manejo

@@ -1,0 +1,1386 @@
+id,nro_animal,nombre,grupo_etario,ubicación,fparto,nro_parto,cria,sexo,nombre_padre,tipo_de_servicio,evento
+1781,4033,,Vaca,San Sebastian,2024-03-18 00:00:00,2.0,24085,H,,MN,Parto
+1782,0327,,Vaca,San Sebastian,2024-03-23 00:00:00,1.0,24087,H,,MN,Parto
+1783,9037,,Vaca,San Sebastian,2024-03-18 00:00:00,1.0,24086,M,,MN,Parto
+1784,8063,,Vaca,San Sebastian,2024-03-23 00:00:00,3.0,24088,M,,MN,Parto
+1785,0206B,,Vaca,San Sebastian,2024-03-23 00:00:00,1.0,24090,H,,MN,Parto
+1786,0321,,Vaca,San Sebastian,2024-03-26 00:00:00,1.0,24091,M,,MN,Parto
+1787,12164,,Vaca,San Sebastian,2024-03-26 00:00:00,2.0,24092,H,,MN,Parto
+1788,1077A,,Vaca,San Sebastian,2024-03-23 00:00:00,2.0,24089,M,,MN,Parto
+1789,9118,,Vaca,San Sebastian,2024-03-29 00:00:00,1.0,24093,H,,MN,Parto
+1790,9122,,Vaca,San Sebastian,2024-03-29 00:00:00,1.0,24094,H,,MN,Parto
+1791,9091,,Vaca,San Sebastian,2024-03-30 00:00:00,1.0,24095,H,,MN,Parto
+1792,0269,,Vaca,San Sebastian,2024-03-30 00:00:00,1.0,24096,M,,MN,Parto
+1793,91091,,Vaca,San Sebastian,2024-03-31 00:00:00,1.0,24097,H,,MN,Parto
+1794,02331,,Vaca,Caño Arena,2024-04-02 00:00:00,1.0,24098,M,,MN,Parto
+1795,4099,,Vaca,San Sebastian,2024-04-02 00:00:00,2.0,24101,H,,MN,Parto
+1796,0314,,Vaca,La Parcela,2024-04-04 00:00:00,1.0,24100,H,,MN,Parto
+1797,9503,,Vaca,La Parcela,2024-04-04 00:00:00,1.0,24103,H,,MN,Parto
+1798,3750,eloiza,Vaca,San Sebastian,2024-04-06 00:00:00,3.0,24102,M,,MN,Parto
+1799,2150,cacho abierto,Vaca,San Sebastian,2024-04-06 00:00:00,3.0,24104,H,,MN,Parto
+1800,4065,yoile,Vaca,San Sebastian,2024-04-07 00:00:00,3.0,24105,M,,MN,Parto
+1801,9103,,Vaca,San Sebastian,2024-04-07 00:00:00,1.0,24106,H,,MN,Parto
+1802,0336,,Vaca,San Sebastian,2024-04-07 00:00:00,1.0,24107,M,,MN,Parto
+1803,8014,,Vaca,San Sebastian,2024-04-07 00:00:00,2.0,24099,H,,MN,Parto
+1804,8030,,Vaca,San Sebastian,2024-04-09 00:00:00,2.0,24108,M,,MN,Parto
+1805,2180A,,Vaca,San Sebastian,2024-04-10 00:00:00,3.0,24109,M,,MN,Parto
+1806,0352,,Vaca,Caño Arena,2024-04-11 00:00:00,1.0,24110,H,,MN,Parto
+1807,8041,,Vaca,San Sebastian,2024-04-10 00:00:00,1.0,24111,M,,MN,Parto
+1808,8028,,Vaca,San Sebastian,2024-04-14 00:00:00,2.0,24112,H,,MN,Parto
+1809,0241,,Vaca,San Sebastian,2024-04-14 00:00:00,1.0,24113,M,,IA,Parto
+1810,0102,,Vaca,San Sebastian,2024-04-16 00:00:00,1.0,24114,H,,MN,Parto
+1811,5052,manzanita,Vaca,San Sebastian,2024-04-17 00:00:00,2.0,24115,H,,MN,Parto
+1812,33,,Vaca,San Sebastian,2024-04-19 00:00:00,1.0,24116,H,,MN,Parto
+1813,8079,doña maria,Vaca,San Sebastian,2024-04-21 00:00:00,2.0,24117,M,,MN,Parto
+1814,3107,toldita,Vaca,San Sebastian,2024-04-21 00:00:00,3.0,24118,M,,MN,Parto
+1815,1090A,,Vaca,San Sebastian,2024-04-24 00:00:00,2.0,24119,H,,MN,Parto
+1816,6020,,Vaca,San Sebastian,2024-04-25 00:00:00,2.0,24120,H,,MN,Parto
+1817,8051,,Vaca,San Sebastian,2024-04-26 00:00:00,2.0,24121,M,,MN,Parto
+1818,05,,Vaca,San Sebastian,2024-05-06 00:00:00,2.0,24123,M,,MN,Parto
+1819,3108,,Vaca,San Sebastian,2024-05-08 00:00:00,1.0,24124,H,,MN,Parto
+1820,9121,,Vaca,San Sebastian,2024-05-08 00:00:00,1.0,24125,M,,MN,Parto
+1821,2073,morena,Vaca,San Sebastian,2024-05-09 00:00:00,3.0,24126,M,,MN,Parto
+1822,80121,,Vaca,San Sebastian,2024-05-09 00:00:00,2.0,24127,M,,MN,Parto
+1823,2047,mal tiempo,Vaca,San Sebastian,2024-05-10 00:00:00,3.0,24128,M,,MN,Parto
+1824,6011,azuleja,Vaca,San Sebastian,2024-05-10 00:00:00,2.0,24129,M,,MN,Parto
+1825,80882,corazon,Vaca,San Sebastian,2024-05-12 00:00:00,2.0,24130,M,,MN,Parto
+1826,2080,,Vaca,San Sebastian,2024-05-13 00:00:00,3.0,24131,H,,MN,Parto
+1827,8060,,Vaca,San Sebastian,2024-05-13 00:00:00,2.0,24132,M,,MN,Parto
+1828,1091A,goldita,Vaca,San Sebastian,2024-05-14 00:00:00,2.0,24133,M,,MN,Parto
+1829,3027A,compotica,Vaca,San Sebastian,2024-05-14 00:00:00,2.0,24134,M,,MN,Parto
+1830,7017,maita,Vaca,San Sebastian,2024-05-15 00:00:00,2.0,24135,M,,MN,Parto
+1831,4141,,Vaca,San Sebastian,2024-05-17 00:00:00,2.0,24136,M,,MN,Parto
+1832,8054,,Vaca,San Sebastian,2024-05-19 00:00:00,2.0,24137,M,,MN,Parto
+1833,8017,yanire,Vaca,San Sebastian,2024-05-19 00:00:00,2.0,24138,H,,MN,Parto
+1834,7080,,Vaca,San Sebastian,2024-05-19 00:00:00,2.0,24139,H,,MN,Parto
+1835,7028,cigarrona,Vaca,San Sebastian,2024-05-19 00:00:00,3.0,24140,M,,MN,Parto
+1836,1056A,,Vaca,San Sebastian,2024-05-19 00:00:00,2.0,24141,M,,MN,Parto
+1837,5076,anais,Vaca,San Sebastian,2024-05-20 00:00:00,2.0,24142,M,,MN,Parto
+1838,7012,rojita,Vaca,San Sebastian,2024-05-21 00:00:00,2.0,24143,M,,MN,Parto
+1839,7059,chinga dos,Vaca,San Sebastian,2024-05-21 00:00:00,2.0,24144,M,,MN,Parto
+1840,0500,tiburona,Vaca,San Sebastian,2024-05-23 00:00:00,3.0,24146,M,,MN,Parto
+1841,2050,fabiola,Vaca,San Sebastian,2024-05-25 00:00:00,3.0,24147,M,,MN,Parto
+1842,8011,paraparo,Vaca,San Sebastian,2024-05-25 00:00:00,1.0,24148,H,MELVIN,IA,Parto
+1843,8050,rosa blanca,Vaca,San Sebastian,2024-05-26 00:00:00,2.0,24149,H,,MN,Parto
+1844,80272,cachicama,Vaca,San Sebastian,2024-05-26 00:00:00,2.0,24150,H,,MN,Parto
+1845,809,corralito,Vaca,San Sebastian,2024-05-29 00:00:00,2.0,24151,M,,MN,Parto
+1846,9238,la especial,Vaca,San Sebastian,2024-05-21 00:00:00,2.0,24152,H,,MN,Parto
+1847,5082,,Vaca,San Sebastian,2024-05-31 00:00:00,2.0,24153,M,,MN,Parto
+1848,9046,,Vaca,San Sebastian,2024-05-31 00:00:00,2.0,24154,M,,MN,Parto
+1849,8077,chiquita,Vaca,San Sebastian,2024-05-31 00:00:00,2.0,24155,M,,MN,Parto
+1850,3003A,blanca nieves,Vaca,San Sebastian,2024-06-03 00:00:00,3.0,24156,M,,MN,Parto
+1851,3178,,Vaca,San Sebastian,2024-06-05 00:00:00,2.0,24157,H,,MN,Parto
+1852,9071,perro de agua,Vaca,San Sebastian,2024-06-07 00:00:00,2.0,24158,M,,MN,Parto
+1853,5098,,Vaca,San Sebastian,2024-06-09 00:00:00,2.0,24160,M,,MN,Parto
+1854,0304,,Vaca,la Parcela,2024-04-29 00:00:00,1.0,24122,H,,MN,Parto
+1855,2234,taparita,Vaca,San Sebastian,2024-06-11 00:00:00,3.0,24159,H,,MN,Parto
+1856,9035,,Vaca,Caño Arena,2024-05-17 00:00:00,1.0,24145,M,,MN,Parto
+1857,7074,cacho e tornillo,Vaca,San Sebastian,2024-06-14 00:00:00,2.0,24162,H,,MN,Parto
+1858,2217,,Vaca,San Sebastian,2024-06-20 00:00:00,2.0,24163,M,,MN,Parto
+1859,6031,,Vaca,San Sebastian,2024-06-22 00:00:00,2.0,24164,M,,MN,Parto
+1860,4151,la que amarro,Vaca,San Sebastian,2024-06-23 00:00:00,3.0,24165,M,,MN,Parto
+1861,31,,Vaca,San Sebastian,2024-06-24 00:00:00,1.0,24166,H,,MN,Parto
+1862,9051,garcita,Vaca,San Sebastian,2024-06-24 00:00:00,2.0,24167,H,,MN,Parto
+1863,BU002,abogada,Bufala,Caño Arena,2024-06-26 00:00:00,1.0,BU352,H,,MN,Parto
+1864,0267,,Vaca,San Sebastian,2024-06-27 00:00:00,1.0,24168,H,,MN,Parto
+1865,8026,chispeada,Vaca,San Sebastian,2024-06-30 00:00:00,2.0,24169,H,,MN,Parto
+1866,2124A,luisa,Vaca,San Sebastian,2024-06-30 00:00:00,3.0,24170,M,,MN,Parto
+1867,0311,,Vaca,La Parcela,2024-07-02 00:00:00,1.0,24171,H,,MN,Parto
+1868,3026A,sardina,Vaca,San Sebastian,2024-07-04 00:00:00,3.0,24172,M,,MN,Parto
+1869,8033,guariqueña,Vaca,San Sebastian,2024-07-04 00:00:00,2.0,24173,H,,MN,Parto
+1870,0305,,Vaca,La Parcela,2024-07-06 00:00:00,1.0,24174,H,,MN,Parto
+1871,2051,caramelo,Vaca,San Sebastian,2024-07-07 00:00:00,1.0,24175,M,,MN,Mortinato
+1872,5077,guanota,Vaca,San Sebastian,2024-07-15 00:00:00,2.0,24176,H,,MN,Parto
+1873,5146,pata quebrada,Vaca,San Sebastian,2024-07-16 00:00:00,2.0,24177,M,,MN,Parto
+1874,8019,ropa sucia,Vaca,San Sebastian,2024-07-18 00:00:00,2.0,24189,M,,MN,Parto
+1875,9219,,Vaca,San Sebastian,2024-07-18 00:00:00,2.0,24190,H,,MN,Parto
+1876,5079,noche oscura,Vaca,San Sebastian,2024-07-19 00:00:00,2.0,24178,M,,MN,Parto
+1877,6021,berenjena,Vaca,San Sebastian,2024-07-19 00:00:00,3.0,24179,H,,MN,Parto
+1878,0224,,Vaca,San Sebastian,2024-07-22 00:00:00,1.0,24180,H,,MN,Parto
+1879,0211,,Vaca,San Sebastian,2024-07-16 00:00:00,1.0,24181,H,,MN,Parto
+1880,7072,,Vaca,San Sebastian,2024-07-23 00:00:00,2.0,24182,H,,MN,Parto
+1881,3227,,Vaca,San Sebastian,2024-07-23 00:00:00,2.0,24183,M,,MN,Parto
+1882,9501,,Vaca,San Sebastian,2024-07-25 00:00:00,2.0,24184,M,,MN,Parto
+1883,8087,dalmata,Vaca,San Sebastian,2024-07-26 00:00:00,2.0,24185,M,,MN,Parto
+1884,30212,,Vaca,San Sebastian,2024-03-21 00:00:00,1.0,24084,H,,MN,Parto
+1885,EMB 5,mama juana,Vaca,San Sebastian,2024-07-26 00:00:00,2.0,24186,H,,MN,Parto
+1886,8045,frescolita,Vaca,San Sebastian,2024-07-27 00:00:00,2.0,24187,H,,MN,Parto
+1887,2063A,cacho e gusano,Vaca,San Sebastian,2024-07-26 00:00:00,4.0,24188,M,,MN,Parto
+1888,9128B,,Vaca,San Sebastian,2023-12-09 00:00:00,1.0,23221,M,CHARMOSO,IA,Parto
+1889,7038,,Vaca,San Sebastian,2023-12-12 00:00:00,1.0,23227,H,MELVIN,IA,Parto
+1890,0338,domitila,Vaca,San Sebastian,2023-12-13 00:00:00,1.0,23230,M,MELVIN,IA,Parto
+1891,7032,la tamañua,Vaca,San Sebastian,2023-12-18 00:00:00,1.0,23236,M,charmoso,IA,Parto
+1892,9104,marianita,Vaca,San Sebastian,2023-12-24 00:00:00,1.0,23241,M,MELVIN,IA,Parto
+1893,2130,veratris,Vaca,San Sebastian,2024-01-02 00:00:00,3.0,24001,H,,MN,Parto
+1894,9099,,Vaca,San Sebastian,2024-01-02 00:00:00,1.0,24002,M,SUPER,IA,Parto
+1895,91242,,Vaca,San Sebastian,2024-01-07 00:00:00,1.0,24003,M,MELVIN,IA,Parto
+1896,4A,mantequilla,Vaca,San Sebastian,2024-01-09 00:00:00,2.0,24004,H,,MN,Parto
+1897,2220,blanquita,Vaca,San Sebastian,2024-01-14 00:00:00,3.0,24005,H,,MN,Parto
+1898,EMB 2,,Vaca,San Sebastian,2024-01-14 00:00:00,2.0,24006,H,,MN,Parto
+1899,0298A,,Vaca,San Sebastian,2024-01-14 00:00:00,1.0,24007,H,MELVIN,IA,Parto
+1900,9116B,,Vaca,San Sebastian,2024-01-14 00:00:00,1.0,24008,M,,MN,Parto
+1901,0202,,Vaca,San Sebastian,2024-01-14 00:00:00,1.0,24009,M,,MN,Parto
+1902,0332,,Vaca,San Sebastian,2024-01-15 00:00:00,1.0,24010,H,SUPER,IA,Parto
+1903,8003,,Vaca,San Sebastian,2024-01-16 00:00:00,1.0,24011,H,,MN,Parto
+1904,4053,rosimar,Vaca,San Sebastian,2024-01-18 00:00:00,2.0,24012,H,,MN,Parto
+1905,5030,,Vaca,San Sebastian,2024-01-18 00:00:00,1.0,24014,H,CHARMOSO,IA,Parto
+1906,1117,,Vaca,San Sebastian,2024-01-18 00:00:00,2.0,24013,H,,MN,Parto
+1907,8085,,Vaca,San Sebastian,2024-01-19 00:00:00,1.0,24015,H,,MN,Parto
+1908,9011,,Vaca,San Sebastian,2024-01-21 00:00:00,1.0,24016,H,CHARMOSO,IA,Parto
+1909,5007,maravilla,Vaca,San Sebastian,2024-01-22 00:00:00,1.0,24017,M,,MN,Parto
+1910,5150,,Vaca,San Sebastian,2024-01-22 00:00:00,2.0,24018,M,,MN,Parto
+1911,0343,,Vaca,San Sebastian,2024-01-22 00:00:00,1.0,24019,H,,MN,Parto
+1912,7061,,Vaca,San Sebastian,2024-01-22 00:00:00,1.0,24020,M,SUPER,IA,Parto
+1913,91172,,Vaca,San Sebastian,2024-01-23 00:00:00,1.0,24021,H,SUPER,IA,Parto
+1914,9137,,Vaca,San Sebastian,2024-01-26 00:00:00,1.0,24022,M,,MN,Mortinato
+1915,9036,,Vaca,San Sebastian,2024-01-28 00:00:00,1.0,24024,M,,MN,Parto
+1916,0111,,Vaca,San Sebastian,2024-01-28 00:00:00,1.0,24023,M,,MN,Parto
+1917,9032,,Vaca,San Sebastian,2024-01-29 00:00:00,1.0,24026,M,,MN,Mortinato
+1918,0220,,Vaca,San Sebastian,2024-01-29 00:00:00,1.0,24025,H,,MN,Parto
+1919,0231A,,Vaca,San Sebastian,2024-01-30 00:00:00,1.0,24028,H,,MN,Parto
+1920,32,,Vaca,San Sebastian,2024-01-29 00:00:00,1.0,24027,H,,MN,Parto
+1921,0139,,Vaca,San Sebastian,2024-01-31 00:00:00,2.0,24029,M,,MN,Parto
+1922,0271,,Vaca,San Sebastian,2024-01-31 00:00:00,1.0,24030,H,,MN,Parto
+1923,7004,,Vaca,San Sebastian,2024-02-01 00:00:00,1.0,24031,H,,MN,Parto
+1924,0323,,Vaca,San Sebastian,2024-02-02 00:00:00,1.0,24034,M,,MN,Parto
+1925,0201,,Vaca,San Sebastian,2024-02-02 00:00:00,1.0,24033,M,,MN,Parto
+1926,0333,,Vaca,San Sebastian,2024-02-02 00:00:00,1.0,24032,H,,MN,Parto
+1927,5090,chenchena,Vaca,San Sebastian,2024-02-03 00:00:00,2.0,24035,H,,MN,Parto
+1928,0303,,Vaca,la parcela,2024-01-01 00:00:00,1.0,4501,M,,MN,Parto
+1929,4095,Cara sucia,Vaca,San Sebastian,2024-02-08 00:00:00,3.0,24036,M,,MN,Parto
+1930,4034,,Vaca,San Sebastian,2024-02-08 00:00:00,2.0,24037,M,,MN,Parto
+1931,213,,Vaca,San Sebastian,2024-02-10 00:00:00,1.0,24039,H,6042,MN,Parto
+1932,20334,,Vaca,San Sebastian,2024-02-10 00:00:00,2.0,24040,H,6042,MN,Parto
+1933,1168,pan de azucar,Vaca,San Sebastian,2024-02-11 00:00:00,3.0,24041,M,,MN,Parto
+1934,3043,punto fijo,Vaca,San Sebastian,2024-02-11 00:00:00,2.0,24042,H,,MN,Parto
+1935,5060,,Vaca,San Sebastian,2024-02-11 00:00:00,1.0,24043,H,,MN,Parto
+1936,2037,paturra,Vaca,San Sebastian,2024-02-13 00:00:00,1.0,24044,M,,MN,Parto
+1937,4035,blanca flor,Vaca,San Sebastian,2024-02-14 00:00:00,3.0,24046,H,,MN,Parto
+1938,34,,Vaca,San Sebastian,2024-02-14 00:00:00,1.0,24045,H,,MN,Parto
+1939,0320,,Vaca,San Sebastian,2024-02-09 00:00:00,1.0,24038,M,,MN,Parto
+1940,0291,,Vaca,San Sebastian,2024-02-15 00:00:00,1.0,24047,H,,MN,Parto
+1941,1066A,biscocho,Vaca,San Sebastian,2024-02-17 00:00:00,3.0,24048,H,,MN,Parto
+1942,0326,,Vaca,San Sebastian,2024-02-17 00:00:00,1.0,24049,M,,MN,Parto
+1943,9076,bonita,Vaca,San Sebastian,2024-02-18 00:00:00,1.0,24050,M,,MN,Parto
+1944,0249,,Vaca,San Sebastian,2024-02-20 00:00:00,1.0,24051,H,,MN,Parto
+1945,0278,,Vaca,San Sebastian,2024-02-22 00:00:00,1.0,24052,H,,MN,Parto
+1946,0329,,Vaca,San Sebastian,2024-02-22 00:00:00,1.0,24053,H,,MN,Parto
+1947,2090A,guacharaca,Vaca,San Sebastian,2024-02-23 00:00:00,2.0,24054,H,,MN,Parto
+1948,0322,,Vaca,San Sebastian,2024-02-24 00:00:00,1.0,24055,H,,MN,Parto
+1949,0259,,Vaca,San Sebastian,2024-02-24 00:00:00,1.0,24056,M,,MN,Parto
+1950,1095A,,Vaca,San Sebastian,2024-02-25 00:00:00,2.0,24058,H,,MN,Parto
+1951,0294,,Vaca,San Sebastian,2024-02-24 00:00:00,1.0,24057,M,,MN,Mortinato
+1952,8037,,Vaca,San Sebastian,2024-02-26 00:00:00,1.0,24059,M,,MN,Parto
+1953,8059,,Vaca,San Sebastian,2024-02-27 00:00:00,1.0,24060,M,,MN,Parto
+1954,0226,,Vaca,San Sebastian,2024-02-28 00:00:00,1.0,24061,M,,MN,Parto
+1955,9073,,Vaca,San Sebastian,2024-02-28 00:00:00,1.0,24062,M,,MN,Parto
+1956,0349,,Vaca,San Sebastian,2024-03-01 00:00:00,1.0,24063,H,,MN,Parto
+1957,0107,,Vaca,San Sebastian,2024-03-02 00:00:00,1.0,24064,M,,MN,Parto
+1958,0206A,,Vaca,San Sebastian,2024-03-02 00:00:00,1.0,24065,M,,MN,Parto
+1959,0258,,Vaca,San Sebastian,2024-03-02 00:00:00,1.0,24066,H,,MN,Parto
+1960,19,lagartija,Vaca,San Sebastian,2024-03-03 00:00:00,1.0,24067,M,,MN,Parto
+1961,9042,cua cua,Vaca,San Sebastian,2024-03-02 00:00:00,1.0,24068,M,,MN,Parto
+1962,1004,,Vaca,San Sebastian,2024-03-04 00:00:00,1.0,24069,M,,MN,Parto
+1963,2079,ñeca,Vaca,San Sebastian,2024-03-16 00:00:00,2.0,24081,M,,MN,Parto
+1964,4100,,Vaca,San Sebastian,2024-03-14 00:00:00,2.0,24079,M,,MN,Parto
+1965,7077,topita dos,Vaca,San Sebastian,2024-03-16 00:00:00,2.0,24080,M,,MN,Parto
+1966,8094,,Vaca,San Sebastian,2024-03-09 00:00:00,2.0,24072,H,,MN,Parto
+1967,9006,,Vaca,San Sebastian,2024-03-10 00:00:00,1.0,24073,M,,MN,Parto
+1968,9015,,Vaca,San Sebastian,2024-03-11 00:00:00,1.0,24074,M,,MN,Parto
+1969,9016,,Vaca,San Sebastian,2024-03-09 00:00:00,1.0,24071,M,,MN,Parto
+1970,9053,,Vaca,San Sebastian,2024-03-08 00:00:00,1.0,24070,H,,MN,Parto
+1971,0114,,Vaca,San Sebastian,2024-03-14 00:00:00,1.0,24077,M,,MN,Parto
+1972,0233,,Vaca,San Sebastian,2024-03-11 00:00:00,1.0,24075,H,,MN,Parto
+1973,0246,,Vaca,San Sebastian,2024-03-20 00:00:00,1.0,24082,M,,MN,Parto
+1974,1005,,Vaca,San Sebastian,2024-03-20 00:00:00,1.0,24083,M,,MN,Parto
+1975,8006,,Vaca,San Sebastian,2024-03-14 00:00:00,1.0,24076,M,,MN,Parto
+1976,9024,,Vaca,San Sebastian,2024-07-31 00:00:00,1.0,24191,M,,MN,Parto
+1977,8032,,Vaca,San Sebastian,2024-06-20 00:00:00,1.0,24192,M,,MN,Mortinato
+1978,2196A,peluche,Vaca,San Sebastian,2024-07-31 00:00:00,3.0,24193,M,,MN,Parto
+1979,4007,victoria,Vaca,San Sebastian,2024-07-31 00:00:00,3.0,24194,M,,MN,Parto
+1980,2148A,cara negra,Vaca,San Sebastian,2024-08-01 00:00:00,3.0,24195,M,,MN,Parto
+1981,4018,boca negra,Vaca,San Sebastian,2024-08-02 00:00:00,3.0,24197,M,,MN,Parto
+1982,1015,la chinga,Vaca,San Sebastian,2024-07-31 00:00:00,3.0,24196,M,,MN,Parto
+1983,9501,,Vaca,la Parcela,2023-04-15 00:00:00,1.0,3504,M,,MN,Parto
+1984,BU316,juliana,Bufala,Caño Arena,2024-07-08 00:00:00,1.0,BU353,H,,MN,Parto
+1985,BU004,carmencita,Bufala,Caño Arena,2024-07-16 00:00:00,1.0,BU354,H,,MN,Parto
+1986,91262,,Vaca,San Sebastian,2023-12-10 00:00:00,1.0,23222,M,,,Parto
+1987,0204,,Vaca,San Sebastian,2023-12-10 00:00:00,1.0,23223,H,MELVIN,IA,Parto
+1988,0272,,Vaca,San Sebastian,2023-12-11 00:00:00,1.0,23224,M,MELVIN,IA,Parto
+1989,8076,,Vaca,San Sebastian,2023-12-11 00:00:00,1.0,23225,M,MELVIN,IA,Parto
+1990,8066,,Vaca,San Sebastian,2023-12-11 00:00:00,1.0,23226,M,MELVIN,IA,Mortinato
+1991,2096,gaviota,Vaca,San Sebastian,2023-12-09 00:00:00,2.0,23220,M,,,Parto
+1992,SNA,cacho zurdo,Vaca,San Sebastian,2023-12-04 00:00:00,3.0,23218,M,,,Parto
+1993,20337,domino,Vaca,San Sebastian,2023-12-04 00:00:00,2.0,23219,M,,,Parto
+1994,9014,,Vaca,San Sebastian,2023-12-01 00:00:00,1.0,23217,M,,,Parto
+1995,1078A,panorama,Vaca,San Sebastian,2023-11-30 00:00:00,2.0,23216,M,,,Parto
+1996,2021,rabo podrido,Vaca,San Sebastian,2023-11-27 00:00:00,3.0,23215,H,,,Parto
+1997,BU349,raspicuin,Bufala,Caño Arena,2023-11-25 00:00:00,1.0,BU94,M,,,Parto
+1998,7092,,Vaca,San Sebastian,2023-11-20 00:00:00,1.0,23214,M,,,Parto
+1999,BU335,vieja loca,BUFALA,Caño Arena,2023-11-15 00:00:00,1.0,BU92,H,,,Parto
+2000,9,carabobo,Vaca,San Sebastian,2023-11-12 00:00:00,1.0,23213,M,,,Mortinato
+2001,BU029,cigarrona,BUFALA,Caño Arena,2023-11-11 00:00:00,1.0,BU93,H,,,Parto
+2002,9007,,Vaca,San Sebastian,2023-11-10 00:00:00,1.0,23212,M,,,Parto
+2003,BU329,peluda,Bufala,Caño Arena,2023-11-08 00:00:00,1.0,BU91,M,,MN,Parto
+2004,4075,,Vaca,San Sebastian,2023-11-04 00:00:00,1.0,23211,H,,,Parto
+2005,5010,saco de hueso,Vaca,San Sebastian,2023-11-01 00:00:00,2.0,23210,M,,,Parto
+2006,BU342,negrita bufala,BUFALA,Caño Arena,2023-11-01 00:00:00,1.0,BU90,M,,,Parto
+2007,4079,,Vaca,San Sebastian,2023-10-31 00:00:00,2.0,23209,H,,,Parto
+2008,7066,,Vaca,San Sebastian,2023-10-30 00:00:00,1.0,23206,M,,,Parto
+2009,5013,,Vaca,San Sebastian,2023-10-30 00:00:00,1.0,23207,H,,,Parto
+2010,4078,,Vaca,San Sebastian,2023-10-30 00:00:00,1.0,23208,H,,,Parto
+2011,BU346,palmasola,BUFALA,Caño Arena,2023-10-30 00:00:00,1.0,BU89,H,,,Parto
+2012,2133A,paso doble,Vaca,San Sebastian,2023-10-25 00:00:00,2.0,23203/23204,H/M,,,Parto
+2013,1161,tingo tingo,Vaca,San Sebastian,2023-10-25 00:00:00,1.0,23205,M,,,Mortinato
+2014,3021A,luna llena,Vaca,San Sebastian,2023-10-24 00:00:00,3.0,23202,H,,,Parto
+2015,0018,,Vaca,San Sebastian,2023-10-20 00:00:00,1.0,23201,H,,,Parto
+2016,BU345,noche oscura,BUFALA,Caño Arena,2023-10-20 00:00:00,1.0,BU88,H,,MN,Parto
+2017,BU341,desengaño,Bufala,Caño Arena,2023-10-19 00:00:00,1.0,BU87,M,,,Parto
+2018,BU062,chaparrita,Bufala,Caño Arena,2023-10-18 00:00:00,1.0,BU86,M,,MN,Parto
+2019,3084,,Vaca,San Sebastian,2023-10-16 00:00:00,1.0,23200,H,,,Parto
+2020,BU343,caracol,Bufala,Caño Arena,2023-10-16 00:00:00,1.0,BU85,H,,,Parto
+2021,4057,,Vaca,San Sebastian,2023-10-13 00:00:00,1.0,23197,M,,,Parto
+2022,50741,lluvia,Vaca,San Sebastian,2023-10-13 00:00:00,2.0,23198,H,,,Parto
+2023,4043,,Vaca,San Sebastian,2023-10-11 00:00:00,1.0,23196,M,,,Parto
+2024,3119,campesina,Vaca,San Sebastian,2023-10-10 00:00:00,3.0,23193,M,,,Parto
+2025,3104,,Vaca,San Sebastian,2023-10-10 00:00:00,1.0,23194,H,,,Parto
+2026,9018B,,Vaca,San Sebastian,2023-10-10 00:00:00,1.0,23195,H,,,Parto
+2027,4147,viejita,Vaca,San Sebastian,2023-10-10 00:00:00,2.0,23199,H,,,Mortinato
+2028,EMB 3,,Vaca,San Sebastian,2023-10-09 00:00:00,1.0,23192,H,,,Parto
+2029,S/NC,lebron,Vaca,San Sebastian,2023-07-26 00:00:00,2.0,23131,H,,,Parto
+2030,0740,gisela,Vaca,San Sebastian,2023-10-04 00:00:00,2.0,23190,M,,,Parto
+2031,6025,,Vaca,San Sebastian,2023-10-04 00:00:00,1.0,23189,M,,,Parto
+2032,BU351,cartagena,Bufala,Caño Arena,2023-10-02 00:00:00,1.0,BU84,M,,,Parto
+2033,4072,,Vaca,San Sebastian,2023-09-30 00:00:00,1.0,23186,H,,,Parto
+2034,0128,,Vaca,San Sebastian,2023-09-30 00:00:00,2.0,23187,M,,,Parto
+2035,5033,nieve,Vaca,San Sebastian,2023-09-30 00:00:00,2.0,23188,M,,MN,Parto
+2036,2226,San Cristobal,Vaca,San Sebastian,2023-09-28 00:00:00,3.0,23183,H,,,Parto
+2037,5679,redonda,Vaca,San Sebastian,2023-09-28 00:00:00,2.0,23184,M,,,Parto
+2038,2094A,venaita,Vaca,San Sebastian,2023-09-28 00:00:00,3.0,23185,H,,,Parto
+2039,S/NH,brasilera,Vaca,San Sebastian,2023-09-26 00:00:00,1.0,23182,M,,,Parto
+2040,2,,Vaca,San Sebastian,2023-09-25 00:00:00,1.0,23178,H,,,Parto
+2041,7083,margarita,Vaca,San Sebastian,2023-09-25 00:00:00,2.0,23180,M,,,Parto
+2042,2093A,,Vaca,San Sebastian,2023-09-25 00:00:00,1.0,23179,H,,,Parto
+2043,8067,,Vaca,San Sebastian,2023-09-25 00:00:00,1.0,23181,M,,,Parto
+2044,BU331,azabache,BUFALA,Caño Arena,2023-09-25 00:00:00,1.0,BU83,M,,,Parto
+2045,4023,,Vaca,San Sebastian,2023-09-20 00:00:00,1.0,23175,M,,,Parto
+2046,9020,,Vaca,San Sebastian,2023-09-20 00:00:00,1.0,23176,M,,,Parto
+2047,4087,negra fina,Vaca,San Sebastian,2023-09-20 00:00:00,2.0,23177,M,,,Parto
+2048,BU344,tamborita,Bufala,Caño Arena,2023-09-20 00:00:00,1.0,BU81,M,,,Parto
+2049,9389,zamura,Vaca,San Sebastian,2023-09-19 00:00:00,1.0,23172,H,,,Parto
+2050,2083,tesoro,Vaca,San Sebastian,2023-09-19 00:00:00,2.0,23173,M,,,Parto
+2051,3066B,la mocha,Vaca,San Sebastian,2023-09-19 00:00:00,2.0,23174,M,,,Parto
+2052,BU338,montañita,Bufala,Caño Arena,2023-09-19 00:00:00,1.0,BU80,H,,,Parto
+2053,BU350,negra tolda,BUFALA,Caño Arena,2023-09-16 00:00:00,1.0,BU82,H,,,Parto
+2054,2208A,manzanare i,Vaca,San Sebastian,2023-09-15 00:00:00,2.0,23169,H,,,Parto
+2055,2148A,cara negra,Vaca,San Sebastian,2023-09-15 00:00:00,2.0,23170,M,,,Parto
+2056,2219,paraulata,Vaca,San Sebastian,2023-09-15 00:00:00,2.0,23171,M,,,Parto
+2057,8002,,Vaca,San Sebastian,2023-09-12 00:00:00,1.0,23168,H,,,Parto
+2058,2169,topita,Vaca,San Sebastian,2023-09-11 00:00:00,3.0,23167,M,,,Parto
+2059,BU334,alexa,Bufala,Caño Arena,2023-09-09 00:00:00,1.0,BU79,M,,,Parto
+2060,7007,,Vaca,San Sebastian,2023-09-05 00:00:00,1.0,23166,H,,MN,Parto
+2061,BU106,zamura bufala,Bufala,Caño Arena,2023-09-05 00:00:00,1.0,BU78,H,,,Parto
+2062,4018,bocanegra,Vaca,San Sebastian,2023-09-03 00:00:00,2.0,23164,M,,,Parto
+2063,2063A,cacho e gusano,Vaca,San Sebastian,2023-09-03 00:00:00,3.0,23165,M,,,Parto
+2064,3024A,sin nombre,Vaca,San Sebastian,2023-09-02 00:00:00,3.0,23162,H,,,Parto
+2065,8046,princesa,Vaca,San Sebastian,2023-09-02 00:00:00,1.0,23163,M,,,Parto
+2066,8024,,Vaca,San Sebastian,2023-08-31 00:00:00,1.0,23158,H,,,Parto
+2067,8089,,Vaca,San Sebastian,2023-08-31 00:00:00,1.0,23159,H,,,Parto
+2068,6035,mikaela,Vaca,San Sebastian,2023-08-31 00:00:00,2.0,23160,H,,,Parto
+2069,S/ND,llano grande,Vaca,San Sebastian,2023-08-31 00:00:00,2.0,23161,M,,,Mortinato
+2070,6010,,Vaca,San Sebastian,2023-08-30 00:00:00,1.0,23157,M,,,Parto
+2071,BU049,onotillo,BUFALA,Caño Arena,2023-08-27 00:00:00,1.0,BU77,M,,,Parto
+2072,BU340,negralinda,BUFALA,Caño Arena,2023-08-26 00:00:00,1.0,BU76,H,,MN,Parto
+2073,7070,,Vaca,San Sebastian,2023-08-25 00:00:00,1.0,23156,M,,,Parto
+2074,BU337,mercedita ,BUFALA,Caño Arena,2023-08-25 00:00:00,1.0,BU75,M,,,Parto
+2075,3044A,,Vaca,San Sebastian,2023-08-24 00:00:00,2.0,23154,M,,,Parto
+2076,BU057,entre 4,BUFALA,Caño Arena,2023-08-24 00:00:00,1.0,BU74,M,,,Parto
+2077,8098,,Vaca,San Sebastian,2023-08-24 00:00:00,1.0,23155,M,,,Parto
+2078,BU063,,Bufala,Caño Arena,2023-08-23 00:00:00,1.0,BU73,H,,,Mortinato
+2079,4101,reina mora,Vaca,San Sebastian,2023-08-23 00:00:00,2.0,23152,H,,,Parto
+2080,2097,,Vaca,San Sebastian,2023-08-23 00:00:00,1.0,23153,H,,,Parto
+2081,4055,campanita,Vaca,San Sebastian,2023-08-22 00:00:00,2.0,23150,M,,,Parto
+2082,4007,victoria,Vaca,San Sebastian,2023-08-22 00:00:00,2.0,23151,H,,,Parto
+2083,7,,Vaca,San Sebastian,2023-08-21 00:00:00,1.0,23149,M,,,Parto
+2084,BU036,nube de agua,Bufala,Caño Arena,2023-08-21 00:00:00,1.0,BU69,M,,,Parto
+2085,BU035,tiempo de agua,Bufala,Caño Arena,2023-08-18 00:00:00,1.0,BU71,H,,MN,Parto
+2086,5079,,Vaca,San Sebastian,2023-08-17 00:00:00,1.0,23147,M,,,Parto
+2087,EMB 4,,Vaca,San Sebastian,2023-08-17 00:00:00,1.0,23148,H,,,Parto
+2088,0143,,Vaca,San Sebastian,2023-08-16 00:00:00,1.0,23146,M,,,Parto
+2089,BU347,toldita bufala,BUFALA,Caño Arena,2023-08-15 00:00:00,1.0,BU70,H,,,Parto
+2090,BU333,lagunon,Bufala,Caño Arena,2023-08-15 00:00:00,1.0,BU72,H,,MN,Parto
+2091,7087,mandarina,Vaca,San Sebastian,2023-08-14 00:00:00,2.0,23144,M,,,Parto
+2092,8033,guariqueña,Vaca,San Sebastian,2023-08-14 00:00:00,1.0,23145,M,,MN,Parto
+2093,BU052,coromoto,BUFALA,Caño Arena,2023-08-12 00:00:00,1.0,BU68,H,,,Parto
+2094,3227,,Vaca,San Sebastian,2023-08-10 00:00:00,1.0,23143,M,,,Parto
+2095,5092,,Vaca,San Sebastian,2023-08-08 00:00:00,1.0,23142,M,,,Parto
+2096,2340,,Vaca,San Sebastian,2023-08-08 00:00:00,1.0,23141,H,,,Parto
+2097,9051,garcita,Vaca,San Sebastian,2023-08-07 00:00:00,1.0,23140,M,,,Parto
+2098,8019,ropa sucia,Vaca,San Sebastian,2023-08-06 00:00:00,1.0,23139,H,,MN,Parto
+2099,6021,berenjena,Vaca,San Sebastian,2023-08-05 00:00:00,2.0,23138,H,,MN,Parto
+2100,2196A,peluche,Vaca,San Sebastian,2023-08-05 00:00:00,2.0,23137,M,,,Parto
+2101,BU339,cacho fino,BUFALA,Caño Arena,2023-08-05 00:00:00,1.0,BU67,M,,MN,Parto
+2102,9045,,Vaca,San Sebastian,2023-08-03 00:00:00,1.0,23134,H,,,Parto
+2103,4109,,Vaca,San Sebastian,2023-08-03 00:00:00,1.0,23135,M,,,Parto
+2104,1015,la chinga,Vaca,San Sebastian,2023-08-03 00:00:00,2.0,23136,H,,,Parto
+2105,80682,,Vaca,San Sebastian,2023-07-31 00:00:00,1.0,23133,M,,,Parto
+2106,2234,taparita,Vaca,San Sebastian,2023-07-30 00:00:00,2.0,23132,M,,,Parto
+2107,S/NB,mariu,Vaca,San Sebastian,2023-10-06 00:00:00,3.0,23191,M,,,Parto
+2108,6008,,Vaca,San Sebastian,2023-07-25 00:00:00,1.0,23130,H,,,Parto
+2109,7072,,Vaca,San Sebastian,2023-07-22 00:00:00,1.0,23129,H,,,Parto
+2110,7033,,Vaca,San Sebastian,2023-07-21 00:00:00,1.0,23128,H,,,Parto
+2111,7076,,Vaca,San Sebastian,2023-07-20 00:00:00,1.0,23127,H,,,Parto
+2112,EMB 5,mama juana,Vaca,San Sebastian,2023-07-19 00:00:00,1.0,23125,H,,,Parto
+2113,3028A,,Vaca,San Sebastian,2023-07-19 00:00:00,2.0,23126,H,,,Parto
+2114,8004,,Vaca,San Sebastian,2023-07-15 00:00:00,1.0,23124,M,,,Parto
+2115,3003A,blanca nieves,Vaca,San Sebastian,2023-07-14 00:00:00,2.0,23122,H,,,Parto
+2116,5144,la mona,Vaca,San Sebastian,2023-07-14 00:00:00,2.0,23123,M,,MN,Parto
+2117,4076,,Vaca,San Sebastian,2023-07-10 00:00:00,1.0,23121,H,,,Parto
+2118,8045,,Vaca,San Sebastian,2023-07-07 00:00:00,1.0,23120,M,,,Parto
+2119,10391,(en blanco),Vaca,San Sebastian,2023-07-06 00:00:00,1.0,23119,M,,,Parto
+2120,4008,(en blanco),Vaca,San Sebastian,2023-07-05 00:00:00,1.0,23118,M,,,Parto
+2121,4066,(en blanco),Vaca,San Sebastian,2023-07-05 00:00:00,1.0,23116,M,,,Parto
+2122,9046,(en blanco),Vaca,San Sebastian,2023-07-05 00:00:00,1.0,23115,H,,,Parto
+2123,8075,,Vaca,San Sebastian,2023-07-05 00:00:00,1.0,23117,M,,,Parto
+2124,5098,,Vaca,San Sebastian,2023-07-03 00:00:00,1.0,23113,M,,,Parto
+2125,6028,,Vaca,San Sebastian,2023-07-03 00:00:00,1.0,23114,M,,,Parto
+2126,6037,,Vaca,San Sebastian,2023-06-29 00:00:00,1.0,23110,H,,,Parto
+2127,80121,,Vaca,San Sebastian,2023-06-29 00:00:00,1.0,23112,M,,,Parto
+2128,8013,(en blanco),Vaca,San Sebastian,2023-06-29 00:00:00,1.0,23111,H,,,Parto
+2129,2217,(en blanco),Vaca,San Sebastian,2023-06-28 00:00:00,1.0,3107A,H,,,Parto
+2130,4151,la que amarro,Vaca,San Sebastian,2023-06-28 00:00:00,2.0,23109,H,,,Parto
+2131,8077,,Vaca,San Sebastian,2023-06-28 00:00:00,1.0,3108A,M,,,Parto
+2132,8005,,Vaca,San Sebastian,2023-06-27 00:00:00,1.0,23106,H,,,Parto
+2133,5146,,Vaca,San Sebastian,2023-06-26 00:00:00,1.0,3105,H,,,Parto
+2134,8086,,Vaca,San Sebastian,2023-06-22 00:00:00,1.0,23104,M,,,Parto
+2135,6022,,Vaca,San Sebastian,2023-06-21 00:00:00,1.0,3103,H,,,Parto
+2136,BU332,sota de oro,BUFALA,Caño Arena,2023-06-18 00:00:00,1.0,BU66,M,,MN,Parto
+2137,8093,OREJONA,Vaca,San Sebastian,2023-06-17 00:00:00,1.0,23102,M,,,Parto
+2138,40072,flor de mayo,Vaca,San Sebastian,2023-06-15 00:00:00,1.0,3101,H,,,Parto
+2139,31102,catira,Vaca,San Sebastian,2023-06-14 00:00:00,2.0,23100,M,,,Parto
+2140,2047,mal tiempo,Vaca,San Sebastian,2023-06-11 00:00:00,2.0,3099,M,,,Parto
+2141,8043,,Vaca,San Sebastian,2023-06-08 00:00:00,1.0,23098,H,,,Parto
+2142,8048,,Vaca,San Sebastian,2023-06-08 00:00:00,1.0,23097,M,,,Parto
+2143,9040,,Vaca,San Sebastian,2023-06-08 00:00:00,1.0,3096,M,,,Parto
+2144,9100,s/n,Vaca,San Sebastian,2023-06-03 00:00:00,1.0,23095,M,,,Parto
+2145,4172,s/n,Vaca,San Sebastian,2023-06-01 00:00:00,1.0,23093,M,,,Parto
+2146,9071,,Vaca,San Sebastian,2023-06-01 00:00:00,1.0,23094,H,,,Parto
+2147,2124A,luisa,Vaca,San Sebastian,2023-05-31 00:00:00,2.0,23091,M,,,Parto
+2148,6031,s/n,Vaca,San Sebastian,2023-05-31 00:00:00,1.0,3092,H,,,Parto
+2149,8050,,Vaca,San Sebastian,2023-05-30 00:00:00,1.0,3090,M,,,Parto
+2150,5076,s/n,Vaca,San Sebastian,2023-05-29 00:00:00,1.0,23088,M,,,Parto
+2151,8087,dalmata,Vaca,San Sebastian,2023-05-29 00:00:00,1.0,23089,M,,MN,Parto
+2152,7021,,Vaca,San Sebastian,2023-05-27 00:00:00,1.0,3087,M,,,Parto
+2153,3107,toldita,Vaca,San Sebastian,2023-05-25 00:00:00,2.0,23086,M,,,Parto
+2154,1033A,s/n,Vaca,San Sebastian,2023-05-22 00:00:00,1.0,3083,H,,,Parto
+2155,2149A,camukenga,Vaca,San Sebastian,2023-05-22 00:00:00,2.0,3085,M,,,Parto
+2156,2224,s/n,Vaca,San Sebastian,2023-05-22 00:00:00,1.0,3084,M,,,Parto
+2157,7028,cigarrona,Vaca,San Sebastian,2023-05-22 00:00:00,2.0,3082,H,,,Parto
+2158,80272,cachicama,Vaca,San Sebastian,2023-05-18 00:00:00,1.0,3081,H,,,Parto
+2159,1128,contraseña,Vaca,San Sebastian,2023-05-17 00:00:00,1.0,23080,M,,,Parto
+2160,1112A,s/n,Vaca,San Sebastian,2023-05-15 00:00:00,1.0,3079,H,,,Parto
+2161,8010,,Vaca,San Sebastian,2023-05-14 00:00:00,1.0,23078,M,,,Parto
+2162,7067,canelita 1,Vaca,San Sebastian,2023-05-11 00:00:00,1.0,3077,H,,,Parto
+2163,8013A,,Vaca,San Sebastian,2023-05-09 00:00:00,1.0,23075,H,,,Parto
+2164,8060,,Vaca,San Sebastian,2023-05-09 00:00:00,1.0,3076,H,,,Parto
+2165,2050,fabiola,Vaca,San Sebastian,2023-05-08 00:00:00,2.0,23074,H,,,Parto
+2166,8079,,Vaca,San Sebastian,2023-05-07 00:00:00,1.0,3073,H,,,Parto
+2167,50501,s/n,Vaca,San Sebastian,2023-05-06 00:00:00,1.0,23072,M,,,Parto
+2168,80472,sn,Vaca,San Sebastian,2023-05-06 00:00:00,1.0,23071,M,,,Parto
+2169,8028,,Vaca,San Sebastian,2023-05-03 00:00:00,1.0,23069,H,,,Parto
+2170,809,,Vaca,San Sebastian,2023-05-03 00:00:00,1.0,23070,M,,,Parto
+2171,0500,tiburona,Vaca,San Sebastian,2023-05-01 00:00:00,2.0,23066,H,,MN,Parto
+2172,7017,maita,Vaca,San Sebastian,2023-05-01 00:00:00,1.0,3068,H,,,Parto
+2173,7012,s/n,Vaca,San Sebastian,2023-04-30 00:00:00,1.0,23067,H,,,Parto
+2174,80921,,Vaca,San Sebastian,2023-04-30 00:00:00,1.0,23065,H,,MN,Parto
+2175,2143,catrina,Vaca,San Sebastian,2023-04-29 00:00:00,2.0,3064,M,,,Parto
+2176,4141,s/n,Vaca,San Sebastian,2023-04-28 00:00:00,1.0,23063,M,,,Parto
+2177,8007,,Vaca,San Sebastian,2023-04-25 00:00:00,1.0,23062,H,,,Parto
+2178,7074,cacho e tornillo,Vaca,San Sebastian,2023-04-24 00:00:00,1.0,3061,H,,,Parto
+2179,9238,s/n,Vaca,San Sebastian,2023-04-24 00:00:00,1.0,23060,H,,,Parto
+2180,05,,Vaca,San Sebastian,2023-04-23 00:00:00,1.0,23059,M,,,Parto
+2181,1090A,s/n,Vaca,San Sebastian,2023-04-21 00:00:00,1.0,23058,M,,,Parto
+2182,9023,,Vaca,San Sebastian,2023-04-18 00:00:00,1.0,23057,H,,,Parto
+2183,2072,s/n,Vaca,San Sebastian,2023-04-17 00:00:00,1.0,3056,M,,,Parto
+2184,4143,,Vaca,San Sebastian,2023-04-17 00:00:00,1.0,3055,H,,,Parto
+2185,2177A,s/n,Vaca,San Sebastian,2023-04-16 00:00:00,1.0,23054,M,,,Parto
+2186,8051,s/n,Vaca,San Sebastian,2023-04-16 00:00:00,1.0,23053,M,,,Parto
+2187,5052,s/n,Vaca,San Sebastian,2023-04-15 00:00:00,1.0,23052,H,,,Parto
+2188,5077,guanota,Vaca,San Sebastian,2023-04-13 00:00:00,1.0,23051,H,,,Parto
+2189,6070,s/n,Vaca,San Sebastian,2023-04-12 00:00:00,1.0,23050,H,,,Parto
+2190,1056A,s/n,Vaca,San Sebastian,2023-04-11 00:00:00,1.0,23049,H,,,Parto
+2191,4099,s/n,Vaca,San Sebastian,2023-04-11 00:00:00,1.0,23048,H,,MN,Parto
+2192,2337,soy sola,Vaca,San Sebastian,2023-04-10 00:00:00,2.0,3046,M,,,Parto
+2193,8014,s/n,Vaca,San Sebastian,2023-04-10 00:00:00,1.0,23047,M,,,Parto
+2194,1091A,s/n,Vaca,San Sebastian,2023-04-08 00:00:00,1.0,23043,H,,,Parto
+2195,7080,s/n,Vaca,San Sebastian,2023-04-08 00:00:00,1.0,23045,H,,,Parto
+2196,3038A,s/n,Vaca,San Sebastian,2023-04-07 00:00:00,1.0,23044,H,,,Parto
+2197,2180A,ceniza,Vaca,San Sebastian,2023-04-03 00:00:00,2.0,3042,M,,,Parto
+2198,7077,topita dos,Vaca,San Sebastian,2023-04-02 00:00:00,1.0,23041,H,,,Parto
+2199,9047,s/n,Vaca,San Sebastian,2023-04-01 00:00:00,1.0,23040,H,,,Parto
+2200,2150,cacho abierto,Vaca,San Sebastian,2023-03-31 00:00:00,2.0,23038,M,,,Parto
+2201,4100,s/n,Vaca,San Sebastian,2023-03-31 00:00:00,1.0,23039,H,,,Parto
+2202,21027,s/n,Vaca,San Sebastian,2023-03-30 00:00:00,1.0,23037,H,,,Parto
+2203,89,,Vaca,San Sebastian,2023-03-24 00:00:00,1.0,23035,M,,,Parto
+2204,6053,,Vaca,San Sebastian,2023-03-22 00:00:00,1.0,23034,H,,,Parto
+2205,20334,,Vaca,San Sebastian,2023-03-20 00:00:00,1.0,3032,H,,,Parto
+2206,60181,mascota,Vaca,San Sebastian,2023-03-20 00:00:00,1.0,23033,H,,,Parto
+2207,4065,yoile,Vaca,San Sebastian,2023-03-17 00:00:00,2.0,23031,H,,,Parto
+2208,14,,Vaca,San Sebastian,2023-03-15 00:00:00,1.0,23029,M,,,Parto
+2209,3093,s/n,Vaca,San Sebastian,2023-03-15 00:00:00,1.0,23030,H,,,Parto
+2210,7059,chinga dos,Vaca,San Sebastian,2023-03-14 00:00:00,1.0,3027,H,,,Parto
+2211,80882,corazon,Vaca,San Sebastian,2023-03-14 00:00:00,1.0,3028,M,,,Parto
+2212,8030,,Vaca,San Sebastian,2023-03-13 00:00:00,1.0,23026,M,,,Parto
+2213,0139,,Vaca,San Sebastian,2023-03-12 00:00:00,1.0,23024,H,,,Parto
+2214,5082,s/n,Vaca,San Sebastian,2023-03-12 00:00:00,1.0,23036,H,,,Parto
+2215,5150,s/n,Vaca,San Sebastian,2023-03-12 00:00:00,1.0,3025,H,,,Parto
+2216,1077A,s/n,Vaca,San Sebastian,2023-03-08 00:00:00,1.0,23022,H,,,Parto
+2217,8088,s/n,Vaca,San Sebastian,2023-03-08 00:00:00,1.0,23023,H,,,Parto
+2218,8054,,Vaca,San Sebastian,2023-03-06 00:00:00,1.0,23021,H,,,Parto
+2219,2079,ñeca,Vaca,San Sebastian,2023-03-01 00:00:00,1.0,23020,M,,,Parto
+2220,1117,s/n,Vaca,San Sebastian,2023-02-27 00:00:00,1.0,23019,M,,,Parto
+2221,4053,s/n,Vaca,San Sebastian,2023-02-25 00:00:00,1.0,23018,H,,,Parto
+2222,4034,,Vaca,San Sebastian,2023-02-17 00:00:00,1.0,23017,H,,,Parto
+2223,12164,,Vaca,San Sebastian,2023-02-10 00:00:00,1.0,23016,H,,,Parto
+2224,3750,eloiza,Vaca,San Sebastian,2023-02-05 00:00:00,2.0,23015,H,,,Parto
+2225,BU019,mantequilla,BUFALA,Caño Arena,2023-02-01 00:00:00,1.0,BU65,H,,,Parto
+2226,1095A,marucha1,Vaca,San Sebastian,2023-01-28 00:00:00,1.0,23014,M,,,Parto
+2227,1168,pan de azucar,Vaca,San Sebastian,2023-01-28 00:00:00,2.0,23013,M,,,Parto
+2228,2080,blanquita1,Vaca,San Sebastian,2023-01-27 00:00:00,2.0,3012,M,,,Parto
+2229,8096,petroleo,Vaca,San Sebastian,2023-01-20 00:00:00,1.0,23011,M,,,Parto
+2230,4048,marucha2,Vaca,San Sebastian,2023-01-17 00:00:00,2.0,23010,M,,,Parto
+2231,2171,mis amores,Vaca,San Sebastian,2023-01-16 00:00:00,2.0,3009,H,,,Parto
+2232,1109A,tigresa,Vaca,San Sebastian,2023-01-14 00:00:00,1.0,23007,M,,,Parto
+2233,8094,s/n,Vaca,San Sebastian,2023-01-14 00:00:00,1.0,23008,M,,,Parto
+2234,5090,chenchena,Vaca,San Sebastian,2023-01-11 00:00:00,1.0,23006,H,,,Parto
+2235,8063,amarilla,Vaca,San Sebastian,2023-01-11 00:00:00,2.0,23005,H,,,Parto
+2236,2130,veratris,Vaca,San Sebastian,2023-01-05 00:00:00,2.0,23003,H,,,Parto
+2237,5072,peluda,Vaca,San Sebastian,2023-01-05 00:00:00,1.0,23004,M,,,Parto
+2238,5062,,Vaca,San Sebastian,2023-01-04 00:00:00,1.0,23002,H,,,Parto
+2239,9219,,Vaca,San Sebastian,2023-01-04 00:00:00,1.0,23001,H,,,Parto
+2240,1078A,panorama,Vaca,San Sebastian,2022-12-30 00:00:00,1.0,22206,M,,,Parto
+2241,2073,morena,Vaca,San Sebastian,2022-12-30 00:00:00,2.0,22207,M,,,Parto
+2242,4A,mantequilla,Vaca,San Sebastian,2022-12-30 00:00:00,1.0,22209,M,,,Parto
+2243,8097,,Vaca,San Sebastian,2022-12-30 00:00:00,1.0,2208,M,,,Parto
+2244,4095,cara sucia,Vaca,San Sebastian,2022-12-29 00:00:00,2.0,22198,H,,,Parto
+2245,5035,s/n,Vaca,San Sebastian,2022-12-29 00:00:00,1.0,22199,M,,,Parto
+2246,8018,marisol,Vaca,San Sebastian,2022-12-29 00:00:00,1.0,22205,M,,,Parto
+2247,1139A,,Vaca,San Sebastian,2022-12-28 00:00:00,1.0,22196,M,,,Parto
+2248,2090A,guacharaca,Vaca,San Sebastian,2022-12-28 00:00:00,1.0,22197,H,,,Parto
+2249,8017,yanire,Vaca,San Sebastian,2022-12-27 00:00:00,1.0,22195,H,,,Parto
+2250,8026,chispeada,Vaca,San Sebastian,2022-12-27 00:00:00,1.0,22194,M,,,Parto
+2251,0132,carbon,Vaca,San Sebastian,2022-12-26 00:00:00,2.0,22193,H,,,Parto
+2252,1066A,biscocho,Vaca,San Sebastian,2022-12-26 00:00:00,2.0,22191,H,,,Parto
+2253,2062,fondo blanco,Vaca,San Sebastian,2022-12-26 00:00:00,2.0,22192,M,,,Parto
+2254,2028A,cucaracho,Vaca,San Sebastian,2022-12-24 00:00:00,2.0,22189,H,,,Parto
+2255,2220,blanquita,Vaca,San Sebastian,2022-12-24 00:00:00,2.0,22190,M,,,Parto
+2256,3027A,compotica,Vaca,San Sebastian,2022-12-24 00:00:00,1.0,22188,M,,,Parto
+2257,6067,mariposa,Vaca,San Sebastian,2022-12-23 00:00:00,2.0,22187,M,,,Parto
+2258,20337,domino,Vaca,San Sebastian,2022-12-22 00:00:00,1.0,22186,H,,,Parto
+2259,4035,blanca flor,Vaca,San Sebastian,2022-12-21 00:00:00,2.0,22185,M,,,Parto
+2260,3132,canelita 2,Vaca,San Sebastian,2022-12-18 00:00:00,1.0,22184,M,,,Parto
+2261,2064A,,Vaca,San Sebastian,2022-12-16 00:00:00,2.0,22183,M,,,Parto
+2262,3120,corotica,Vaca,San Sebastian,2022-12-13 00:00:00,2.0,22182,H,,,Parto
+2263,8084B,toro lidia,Vaca,San Sebastian,2022-12-12 00:00:00,1.0,2179,M,,,Parto
+2264,3178,s/n,Vaca,San Sebastian,2022-12-11 00:00:00,1.0,22180,H,,,Parto
+2265,BU332,sota de oro,Bufala,Caño Arena,2024-08-12 00:00:00,2.0,BU358,H,,MN,Parto
+2266,9192,,Vaca,San Sebastian,2024-08-12 00:00:00,1.0,24204,M,,MN,Parto
+2267,1123,,Vaca,San Sebastian,2024-08-14 00:00:00,1.0,24205,M,,MN,Parto
+2268,BU035,tiempo de agua,Bufala,Caño Arena,2024-08-10 00:00:00,2.0,BU359,M,,MN,Parto
+2269,6008,,Vaca,San Sebastian,2024-08-15 00:00:00,2.0,24206,M,,MN,Parto
+2270,4072,andrea,Vaca,San Sebastian,2024-08-17 00:00:00,2.0,24207,M,,MN,Parto
+2271,BU344,tamborita,Bufala,Caño Arena,2024-08-18 00:00:00,2.0,BU360,M,,MN,Parto
+2272,BU052,coromoto,Bufala,Caño Arena,2024-08-18 00:00:00,2.0,BU361,M,,MN,Parto
+2273,BU338,montañita,Bufala,Caño Arena,2024-08-18 00:00:00,2.0,BU362,M,,MN,Parto
+2274,2097,,Vaca,San Sebastian,2024-08-19 00:00:00,2.0,24208,M,,MN,Parto
+2275,2094A,venaita,Vaca,San Sebastian,2024-08-20 00:00:00,4.0,24209,M,,MN,Parto
+2276,BU106,zamura bufala,Bufala,Caño Arena,2024-08-20 00:00:00,2.0,BU363,H,,MN,Parto
+2277,9126A,,Vaca,San Sebastian,2024-08-22 00:00:00,1.0,24210,H,,MN,Parto
+2278,4109,,Vaca,San Sebastian,2024-08-24 00:00:00,2.0,24211,M,,MN,Parto
+2279,0128,plateada,Vaca,San Sebastian,2024-08-24 00:00:00,3.0,24212,H,,MN,Parto
+2280,0353,,Vaca,San Sebastian,2024-08-28 00:00:00,1.0,24213,H,,MN,Parto
+2281,4101,reina mora,Vaca,San Sebastian,2024-08-28 00:00:00,3.0,24214,M,,MN,Parto
+2282,BU351,cartagena,Bufala,Caño Arena,2024-08-26 00:00:00,2.0,BU364,H,,MN,Parto
+2283,1112A,topa,Vaca,San Sebastian,2024-08-31 00:00:00,2.0,24215,M,,MN,Parto
+2284,8048,safira,Vaca,San Sebastian,2024-09-02 00:00:00,2.0,24216,H,,MN,Parto
+2285,4066,,Vaca,San Sebastian,2024-09-02 00:00:00,2.0,24217,M,,MN,Parto
+2286,2149A,camukenga,Vaca,San Sebastian,2024-09-05 00:00:00,3.0,24218,H,,MN,Parto
+2287,2040,,Vaca,San Sebastian,2024-09-07 00:00:00,1.0,24219,M,,MN,Parto
+2288,5679,redonda,Vaca,San Sebastian,2024-09-11 00:00:00,3.0,24220,M,,MN,Parto
+2289,BU333,lagunon,Bufala,Caño Arena,2024-09-07 00:00:00,2.0,BU365,M,,MN,Parto
+2290,3119,campesina,Vaca,San Sebastian,2024-09-12 00:00:00,4.0,24221,H,,MN,Parto
+2291,8086,peresosa,Vaca,San Sebastian,2024-09-13 00:00:00,2.0,24222,M,,MN,Parto
+2292,8010,,Vaca,San Sebastian,2024-09-16 00:00:00,2.0,24223,M,,MN,Parto
+2293,4172,,Vaca,San Sebastian,2024-09-18 00:00:00,2.0,24224,H,,MN,Parto
+2294,4043,,Vaca,San Sebastian,2024-09-18 00:00:00,2.0,24225,M,,MN,Parto
+2295,8013,,Vaca,San Sebastian,2024-09-18 00:00:00,2.0,24226,H,,MN,Parto
+2296,9067,,Vaca,San Sebastian,2024-09-18 00:00:00,1.0,24227,M,,MN,Mortinato
+2297,BU062,chaparrita,Bufala,Caño Arena,2024-09-18 00:00:00,2.0,BU366,H,,MN,Parto
+2298,1310,araguata,Vaca,San Sebastian,2022-12-09 00:00:00,1.0,22178,M,,,Parto
+2299,6020,,Vaca,San Sebastian,2022-12-09 00:00:00,1.0,2177,H,,,Parto
+2300,8072,oveja,Vaca,San Sebastian,2022-12-06 00:00:00,1.0,22181,M,,,Parto
+2301,4047,5047 (1er dg parece 5),Vaca,San Sebastian,2022-12-04 00:00:00,1.0,22176,M,,,Parto
+2302,2096,gaviota,Vaca,San Sebastian,2022-12-01 00:00:00,1.0,22175,M,,,Parto
+2303,2209A,lunita,Vaca,San Sebastian,2022-11-30 00:00:00,1.0,22166,M,,,Parto
+2304,S/NB,mariu,Vaca,San Sebastian,2022-11-30 00:00:00,2.0,2167,M,,,Parto
+2305,0138,s/n,Vaca,San Sebastian,2022-11-28 00:00:00,1.0,2165,H,,,Parto
+2306,3043,punto fijo,Vaca,San Sebastian,2022-11-26 00:00:00,1.0,22164,H,,,Parto
+2307,2025A,panchita,Vaca,San Sebastian,2022-11-24 00:00:00,1.0,22157,M,,,Parto
+2308,3119,campesina,Vaca,San Sebastian,2022-11-22 00:00:00,2.0,22150,H,,,Parto
+2309,4007,victoria,Vaca,San Sebastian,2022-11-22 00:00:00,1.0,22151,H,,,Parto
+2310,3026A,sardina,Vaca,San Sebastian,2022-11-21 00:00:00,2.0,2143,H,,,Parto
+2311,SNA,cacho zurdo,Vaca,San Sebastian,2022-11-21 00:00:00,2.0,2147,M,,,Parto
+2312,9904,lucerito,Vaca,San Sebastian,2022-11-20 00:00:00,2.0,2136,M,,,Parto
+2313,4033,s/n,Vaca,San Sebastian,2022-11-19 00:00:00,1.0,2134,M,,,Parto
+2314,8036,negrita,Vaca,San Sebastian,2022-11-19 00:00:00,1.0,22135,H,,,Parto
+2315,EMB 2,?,Vaca,San Sebastian,2022-11-19 00:00:00,1.0,2133,M,,,Parto
+2316,EMB 1,?,Vaca,San Sebastian,2022-11-18 00:00:00,1.0,22132,M,,,Parto
+2317,50741,lluvia,Vaca,San Sebastian,2022-11-16 00:00:00,1.0,22131,M,,,Parto
+2318,2021,rabo podrido,Vaca,San Sebastian,2022-11-14 00:00:00,2.0,2129,M,,,Parto
+2319,5041,taparita,Vaca,San Sebastian,2022-11-09 00:00:00,1.0,2127,H,,,Parto
+2320,2094A,venaita,Vaca,San Sebastian,2022-11-07 00:00:00,2.0,22125,M,,,Parto
+2321,2226,san cristobal,Vaca,San Sebastian,2022-11-07 00:00:00,2.0,22126,H,,,Parto
+2322,4122,,Vaca,San Sebastian,2022-11-03 00:00:00,1.0,2124,H,,,Parto
+2323,5070,s/n,Vaca,San Sebastian,2022-10-24 00:00:00,1.0,2123,H,,,Parto
+2324,3066A,cacho pa tras,Vaca,San Sebastian,2022-10-22 00:00:00,1.0,22122,M,,,Parto
+2325,4079,maniña,Vaca,San Sebastian,2022-10-19 00:00:00,1.0,22121,H,,,Parto
+2326,2133A,paso doble,Vaca,San Sebastian,2022-10-10 00:00:00,1.0,22120,M,,,Parto
+2327,2169,topita,Vaca,San Sebastian,2022-10-07 00:00:00,2.0,22119,H,,,Parto
+2328,2148A,cara negra,Vaca,San Sebastian,2022-10-06 00:00:00,1.0,22118,M,,,Parto
+2329,2063A,cacho e gusano,Vaca,San Sebastian,2022-10-03 00:00:00,2.0,22117,H,,,Parto
+2330,3021A,luna llena,Vaca,San Sebastian,2022-10-03 00:00:00,2.0,22116,H,,,Parto
+2331,3024A,sin nombre,Vaca,San Sebastian,2022-10-03 00:00:00,2.0,22115,M,,,Parto
+2332,4073,s/n,Vaca,San Sebastian,2022-10-02 00:00:00,1.0,22114,H,,,Parto
+2333,5144,la mona,Vaca,San Sebastian,2022-10-02 00:00:00,1.0,22105,H,,MN,Parto
+2334,4025,luna clara,Vaca,San Sebastian,2022-10-01 00:00:00,1.0,22112,H,,,Parto
+2335,6035,mikaela,Vaca,San Sebastian,2022-03-30 00:00:00,1.0,2053,M,,,Parto
+2336,7087,mandarina,Vaca,San Sebastian,2022-03-29 00:00:00,1.0,2048,H,,,Parto
+2337,7083,margarita,Vaca,San Sebastian,2022-03-20 00:00:00,1.0,2022,M,,,Parto
+2338,3044A,,Vaca,San Sebastian,2022-03-10 00:00:00,1.0,2020,M,,,Parto
+2339,31102,catira,Vaca,San Sebastian,2022-01-16 00:00:00,1.0,2004,M,,,Parto
+2340,3015,s/n,Vaca,San Sebastian,2021-12-19 00:00:00,1.0,1070,M,,,Parto
+2341,2215A,,Vaca,San Sebastian,2021-11-28 00:00:00,1.0,1064,M,,,Parto
+2342,3028A,s/n,Vaca,San Sebastian,2021-10-20 00:00:00,1.0,1054,M,,,Parto
+2343,S/ND,llano grande,Vaca,San Sebastian,2021-09-30 00:00:00,1.0,1048,M,,,Parto
+2344,4025,,Vaca,San Sebastian,2023-12-12 00:00:00,2.0,23228,H,,,Parto
+2345,0132,carbon,Vaca,San Sebastian,2023-12-12 00:00:00,3.0,23229,M,,,Parto
+2346,5072,peluda,Vaca,San Sebastian,2023-12-13 00:00:00,2.0,23231,H,,,Parto
+2347,0308,,Vaca,la parcela,2023-10-15 00:00:00,1.0,3505,M,,,Parto
+2348,8036,negrita,Vaca,San Sebastian,2023-12-15 00:00:00,2.0,23233,H,,,Parto
+2349,8061,,Vaca,San Sebastian,2023-12-15 00:00:00,1.0,23232,H,SUPER,IA,Parto
+2350,91171,,Vaca,San Sebastian,2023-12-16 00:00:00,1.0,23234,M,,MN,Parto
+2351,1310,araguata,Vaca,San Sebastian,2023-12-16 00:00:00,2.0,23235,H,,,Parto
+2352,6043,rosita,Vaca,San Sebastian,2023-12-18 00:00:00,2.0,23237,H,,,Parto
+2353,9113,,Vaca,San Sebastian,2023-12-20 00:00:00,1.0,23238,M,MELVIN,IA,Parto
+2354,6067,mariposa,Vaca,San Sebastian,2023-12-22 00:00:00,3.0,23239,M,,,Parto
+2355,8062,cara de queso,Vaca,San Sebastian,2023-12-24 00:00:00,1.0,23240,M,MELVIN,IA,Parto
+2356,2209A,lunita,Vaca,San Sebastian,2023-12-25 00:00:00,2.0,23242,M,,,Parto
+2357,3132,canelita 2,Vaca,San Sebastian,2023-12-25 00:00:00,2.0,23243,H,,,Parto
+2358,7022,hato grande,Vaca,San Sebastian,2023-12-26 00:00:00,1.0,23244,M,MELVIN,IA,Parto
+2359,9904,lucerito,Vaca,San Sebastian,2023-12-26 00:00:00,3.0,23245,M,,,Mortinato
+2360,0229,navidad,Vaca,San Sebastian,2023-12-27 00:00:00,1.0,23246,H,MELVIN,IA,Parto
+2361,8096,petroleo,Vaca,San Sebastian,2023-12-28 00:00:00,2.0,23247,M,,,Parto
+2362,2171,mis amores,Vaca,San Sebastian,2023-12-28 00:00:00,3.0,23248,H,,,Parto
+2363,1139A,,Vaca,San Sebastian,2023-12-28 00:00:00,2.0,23249,M,,,Parto
+2364,9125,golondrina,Vaca,San Sebastian,2023-12-28 00:00:00,1.0,23250,H,SUPER,IA,Parto
+2365,4048,marucha2,Vaca,San Sebastian,2023-12-28 00:00:00,3.0,23251,M,,,Parto
+2366,9058,año nuevo,Vaca,San Sebastian,2023-12-31 00:00:00,1.0,23252,H,MELVIN,IA,Parto
+2367,8063,amarilla,Vaca,San Sebastian,2022-01-14 00:00:00,1.0,2003,H,,,Parto
+2368,BU347,toldita bufala,Bufala,San Sebastian,2024-07-28 00:00:00,2.0,BU355,M,,MN,Parto
+2369,BU053,giorgina,Bufala,Caño Arena,2024-08-01 00:00:00,1.0,BU356,M,,MN,Parto
+2370,5092,,Vaca,San Sebastian,2024-08-06 00:00:00,2.0,24198/24199,M,,MN,Parto
+2371,8046,princesa,Vaca,San Sebastian,2024-08-06 00:00:00,2.0,24200,M,,MN,Parto
+2372,4055,campanita,Vaca,San Sebastian,2024-08-06 00:00:00,3.0,24201,H,,MN,Parto
+2373,8043,,Vaca,San Sebastian,2024-08-08 00:00:00,2.0,24202,M,,MN,Parto
+2374,BU320,taparita,Bufala,Caño Arena,2024-08-08 00:00:00,1.0,BU357,H,,MN,Parto
+2375,50501,,Vaca,San Sebastian,2024-08-08 00:00:00,2.0,24203,M,,MN,Parto
+2376,BU337,mercedita,Bufala,Caño Arena,2024-09-19 00:00:00,2.0,BU367,M,,MN,Parto
+2377,10391,,Vaca,San Sebastian,2024-09-19 00:00:00,2.0,24228,M,,MN,Parto
+2378,2072,pan quemado,Vaca,San Sebastian,2024-09-20 00:00:00,2.0,24229,M,,MN,Parto
+2379,3066B,la mocha,Vaca,San Sebastian,2024-09-20 00:00:00,3.0,24230,H,,MN,Parto
+2380,50741,lluvia,Vaca,San Sebastian,2024-09-22 00:00:00,3.0,24231,M,,MN,Parto
+2381,BU036,nube de agua,Bufala,Caño Arena,2024-09-23 00:00:00,2.0,BU368,H,,MN,Parto
+2382,9040,,Vaca,San Sebastian,2024-09-29 00:00:00,2.0,24232,H,,MN,Parto
+2383,BU329,peluda,Bufala,Caño Arena,2024-10-29 00:00:00,2.0,BU369,H,,MN,Parto
+2384,2083,tesoro,Vaca,San Sebastian,2024-10-03 00:00:00,3.0,24233,M,,MN,Parto
+2385,3024A,sin nombre,Vaca,San Sebastian,2024-10-03 00:00:00,4.0,24234,M,,MN,Parto
+2386,4087,negra fina,Vaca,San Sebastian,2024-10-06 00:00:00,3.0,24235,M,,MN,Parto
+2387,89,,Vaca,San Sebastian,2024-10-06 00:00:00,2.0,24236,M,,MN,Parto
+2388,BU345,noche oscura,BUFALA,Caño Arena,2024-10-07 00:00:00,2.0,BU370,M,,MN,Parto
+2389,5144,la mona,Vaca,San Sebastian,2024-10-09 00:00:00,3.0,24237,H,,MN,Parto
+2390,9047,,Vaca,San Sebastian,2024-10-08 00:00:00,2.0,24238,M,,MN,Parto
+2391,6070,,Vaca,San Sebastian,2024-10-10 00:00:00,2.0,24239,H,,MN,Parto
+2392,8005,,Vaca,San Sebastian,2024-10-11 00:00:00,2.0,24240,M,,,Parto
+2393,BU343,caracol,Bufala,Caño Arena,2024-10-10 00:00:00,2.0,BU371,M,,MN,Parto
+2394,BU342,negrita bufala,Bufala,Caño Arena,2024-10-12 00:00:00,2.0,BU372,H,,MN,Parto
+2395,0143,,Vaca,San Sebastian,2024-10-15 00:00:00,2.0,24242,H,,MN,Parto
+2396,60286,llena el pote,Vaca,San Sebastian,2024-10-16 00:00:00,2.0,24243,M,,MN,Parto
+2397,BU006,PONKI,Bufala,Caño Arena,2024-10-16 00:00:00,1.0,BU373,M,,MN,Parto
+2398,5033,nieve,Vaca,San Sebastian,2024-10-17 00:00:00,3.0,24244,H,,MN,Parto
+2399,BU341,desengaño,Bufala,Caño arena,2024-10-18 00:00:00,2.0,BU374,M,,MN,Parto
+2400,80921,,Vaca,San Sebastian,2024-10-15 00:00:00,2.0,24241,H,,MN,Mortinato
+2401,BU334,alexa,Bufala,Caño Arena,2024-10-31 00:00:00,2.0,BU375,M,,MN,Parto
+2402,BU349,raspicuin,Bufala,Caño Arena,2024-11-09 00:00:00,2.0,BU376,H,,MN,Parto
+2403,4075,ROSALIA,Vaca,San Sebastian,2024-11-03 00:00:00,2.0,24245,M,,MN,Parto
+2404,80472,CATALINA,Vaca,San Sebastian,2024-11-11 00:00:00,2.0,24246,M,,MN,Parto
+2405,8093,OREJONA,Vaca,San Sebastian,2024-11-11 00:00:00,2.0,24247,H,,MN,Parto
+2406,0330A,,Vaca,San Sebastian,2024-11-15 00:00:00,1.0,24249,H,,MN,Parto
+2407,0205,,Vaca,San Sebastian,2024-11-15 00:00:00,1.0,24250,H,,MN,Parto
+2408,0342,,Vaca,San Sebastian,2024-11-15 00:00:00,1.0,24251,H,,MN,Parto
+2409,0270,,Vaca,San Sebastian,2024-11-17 00:00:00,1.0,24252,H,,MN,Parto
+2410,91171,caramelo,Vaca,San Sebastian,2024-11-12 00:00:00,2.0,24248,M,,MN,Parto
+2411,2093A,mambucha,Vaca,San Sebastian,2024-11-18 00:00:00,2.0,24253,H,,MN,Parto
+2412,0298,,Vaca,San Sebastian,2024-11-18 00:00:00,1.0,24254,M,,MN,Parto
+2413,1079,,Vaca,San Sebastian,2024-11-18 00:00:00,1.0,24255_24256,M,,MN,Parto
+2414,8072,oveja,Vaca,San Sebastian,2024-11-22 00:00:00,2.0,24257,H,,MN,Mortinato
+2415,2226,San Cristobal,Vaca,San Sebastian,2024-11-23 00:00:00,4.0,24258,M,,MN,Parto
+2416,1088A,,Vaca,San Sebastian,2024-11-23 00:00:00,1.0,24259,H,,MN,Parto
+2417,9007,Susana,Vaca,San Sebastian,2024-11-23 00:00:00,2.0,24260,M,,IA,Parto
+2418,35,,Vaca,San Sebastian,2024-11-23 00:00:00,1.0,24261,M,,MN,Parto
+2419,1017A,,Vaca,San Sebastian,2024-11-23 00:00:00,1.0,24262,M,,MN,Parto
+2420,0101,,Vaca,San Sebastian,2024-11-24 00:00:00,1.0,24263,M,,MN,Parto
+2421,BU339,cacho fino,BUFALA,Caño Arena,2024-11-25 00:00:00,2.0,BU377,H,,MN,Parto
+2422,BU057,entre 4,BUFALA,Caño Arena,2024-11-25 00:00:00,2.0,BU378,M,,MN,Parto
+2423,0354,,Vaca,San Sebastian,2024-11-26 00:00:00,1.0,24264,H,,MN,Parto
+2424,2039,,Vaca,San Sebastian,2024-11-26 00:00:00,1.0,24265,H,,MN,Parto
+2425,9100,,Vaca,San Sebastian,2024-11-26 00:00:00,2.0,24268,H,,MN,Parto
+2426,8004,,Vaca,San Sebastian,2024-11-26 00:00:00,2.0,24266,H,,MN,Parto
+2427,8066,remedio,Vaca,San Sebastian,2024-11-26 00:00:00,2.0,24267,M,,MN,Mortinato
+2428,0299C,,Vaca,San Sebastian,2024-11-26 00:00:00,1.0,24269,M,,MN,Parto
+2429,7032,tamañua,Vaca,San Sebastian,2024-12-01 00:00:00,2.0,24270,M,,MN,Parto
+2430,0344,,Vaca,San Sebastian,2024-12-01 00:00:00,1.0,24271,M,,MN,Parto
+2431,7067,canelita 1,Vaca,San Sebastian,2024-12-01 00:00:00,2.0,24272,H,,MN,Parto
+2432,2143,catrina,Vaca,San Sebastian,2024-12-01 00:00:00,3.0,24273,M,,MN,Parto
+2433,1023,,Vaca,San Sebastian,2024-12-01 00:00:00,1.0,24274,M,,MN,Parto
+2434,8096,petroleo,Vaca,San Sebastian,2024-12-01 00:00:00,3.0,24275,H,,MN,Parto
+2435,8067,,Vaca,San Sebastian,2024-12-01 00:00:00,2.0,24276,M,,MN,Parto
+2436,7092,,Vaca,San Sebastian,2024-12-03 00:00:00,2.0,24279,H,,MN,Parto
+2437,BU019,mantequilla,Bufala,Caño Arena,2024-12-01 00:00:00,2.0,BU379,H,,MN,Parto
+2438,2066,,Vaca,San Sebastian,2024-12-04 00:00:00,1.0,24278,H,,MN,Parto
+2439,8082,,Vaca,San Sebastian,2024-12-04 00:00:00,1.0,24277,H,,MN,Parto
+2440,0274,,Vaca,San Sebastian,2024-12-04 00:00:00,1.0,24280,M,,MN,Parto
+2441,4025,,Vaca,San Sebastian,2024-12-04 00:00:00,3.0,24281,M,,MN,Parto
+2442,8089,,Vaca,San Sebastian,2024-12-06 00:00:00,2.0,24282,H,,MN,Parto
+2443,31102,catira,Vaca,San Sebastian,2024-12-09 00:00:00,3.0,24283,H,,MN,Parto
+2444,7066,,Vaca,San Sebastian,2024-12-09 00:00:00,2.0,24284,H,,MN,Parto
+2445,0332,,Vaca,San Sebastian,2024-12-13 00:00:00,2.0,24285,M,,MN,Parto
+2446,8061,,Vaca,San Sebastian,2024-12-13 00:00:00,2.0,24286,H,,MN,Parto
+2447,91172,,Vaca,San Sebastian,2024-12-13 00:00:00,2.0,24287,H,,MN,Parto
+2448,4076,,Vaca,San Sebastian,2024-12-13 00:00:00,2.0,24288,H,,MN,Parto
+2449,1109A,tigresa,Vaca,San Sebastian,2024-12-16 00:00:00,2.0,24289,H,,MN,Parto
+2450,1066,,Vaca,San Sebastian,2024-12-16 00:00:00,1.0,24290,M,,MN,Parto
+2451,1078A,panorama,Vaca,San Sebastian,2024-12-18 00:00:00,3.0,24291,M,,MN,Parto
+2452,5090,chenchena,Vaca,San Sebastian,2024-12-18 00:00:00,3.0,24292,M,,MN,Parto
+2453,2340,,Vaca,San Sebastian,2024-12-02 00:00:00,2.0,24293,M,,MN,Mortinato
+2454,4023,,Vaca,San Sebastian,2024-12-21 00:00:00,2.0,24294,H,,MN,Parto
+2455,9020,pato real,Vaca,San Sebastian,2024-12-21 00:00:00,2.0,24295,H,,MN,Parto
+2456,J8705,,Vaca,San Sebastian,2024-12-25 00:00:00,1.0,j24001,M,,MN,Parto
+2457,20334,media luna,Vaca,San Sebastian,2024-12-28 00:00:00,3.0,24299,M,,MN,Parto
+2458,9110A,,Vaca,San Sebastian,2024-12-29 00:00:00,1.0,24300,M,,MN,Parto
+2459,6037,,Vaca,San Sebastian,2024-12-30 00:00:00,2.0,24301,M,,MN,Mortinato
+2460,0229,navidad,Vaca,San Sebastian,2025-01-05 00:00:00,2.0,25001,M,,MN,Parto
+2461,9045,,Vaca,San Sebastian,2025-01-05 00:00:00,2.0,25002,M,,MN,Parto
+2462,4048,marucha2,Vaca,San Sebastian,2024-12-23 00:00:00,4.0,24296,H,,MN,Parto
+2463,7087,,Vaca,San Sebastian,2024-12-23 00:00:00,3.0,24297,H,,MN,Parto
+2464,91262,,Vaca,San Sebastian,2024-12-24 00:00:00,2.0,24298,H,,MN,Parto
+2465,4034,,Vaca,Caño Arena,2024-12-30 00:00:00,3.0,24302,H,,MN,Parto
+2466,2220,blanquita,Vaca,San Sebastian,2024-12-25 00:00:00,4.0,24304,H,,MN,Parto
+2467,BU331,Azabache,Bufala,Caño Arena,2025-01-04 00:00:00,2.0,BU2501,M,,MN,Parto
+2468,2224,,Vaca,Caño Arena,2024-12-30 00:00:00,2.0,24303,M,,MN,Parto
+2469,1310,araguata,Vaca,San Sebastian,2025-01-07 00:00:00,3.0,25003,M,,MN,Parto
+2470,2208A,manzanare 1,Vaca,San Sebastian,2025-01-09 00:00:00,3.0,25004,M,,MN,Parto
+2471,2171,mis amores,Vaca,San Sebastian,2025-01-09 00:00:00,4.0,25005,H,,MN,Parto
+2472,1117,,Vaca,Caño Arena,2025-01-09 00:00:00,3.0,25006,H,,MN,Parto
+2473,9128B,milagro,Vaca,San Sebastian,2025-01-20 00:00:00,2.0,25011,H,,MN,Parto
+2474,7038,anita,Vaca,San Sebastian,2025-01-14 00:00:00,2.0,25007,M,,MN,Parto
+2475,9,carabobo,Vaca,San Sebastian,2025-01-15 00:00:00,2.0,25008,M,,MN,Parto
+2476,8036,,Vaca,San Sebastian,2025-01-16 00:00:00,3.0,25009,H,,MN,Parto
+2477,J01415,,Vaca,San Sebastian,2025-01-18 00:00:00,1.0,J25001,M,,MN,Parto
+2478,1128,contraseña,Vaca,San Sebastian,2025-01-18 00:00:00,2.0,25010,H,,MN,Parto
+2479,9023,,Vaca,San Sebastian,2024-12-25 00:00:00,2.0,24305,H,,MN,Mortinato
+2480,7061,sofia,Vaca,San Sebastian,2025-01-25 00:00:00,2.0,25012,H,,MN,Parto
+2481,1084A,,Vaca,Caño Arena,2025-01-26 00:00:00,1.0,25013,M,,MN,Parto
+2482,3044A,manzanare,Vaca,San Sebastian,2025-01-27 00:00:00,3.0,25014,M,,MN,Parto
+2483,21027,,Vaca,Caño Arena,2025-01-28 00:00:00,2.0,25015,M,,MN,Parto
+2484,9500,,Vaca,La Parcela,2024-09-15 00:00:00,1.0,24306,M,,MN,Parto
+2485,1501,,Vaca,La Parcela,2024-12-15 00:00:00,1.0,24307,M,,MN,Parto
+2486,0307,,Vaca,La Parcela,2024-09-15 00:00:00,1.0,24308,M,,MN,Parto
+2487,J426,,Vaca,San Sebastian,2025-01-30 00:00:00,1.0,J25002,H,,MN,Parto
+2488,0310,,Vaca,La Parcela,2025-01-15 00:00:00,2.0,25016,H,,MN,Parto
+2489,3028A,lucero ,Vaca,San Sebastian,2025-01-30 00:00:00,3.0,25017,M,,MN,Parto
+2490,0132,carbon,Vaca,San Sebastian,2025-01-30 00:00:00,4.0,25018,H,,MN,Parto
+2491,pend35,,Vaca,La Parcela,2024-07-15 00:00:00,1.0,pend46,H,,MN,Parto
+2492,pend36,,Vaca,La Parcela,2024-12-05 00:00:00,1.0,pend47,H,,MN,Parto
+2493,pend39,,Vaca,La Parcela,2024-12-11 00:00:00,1.0,pend48,H,,MN,Parto
+2494,0294,,Vaca,Caño Arena,2025-02-05 00:00:00,2.0,25019,H,,MN,Mortinato
+2495,91242,caroreña,Vaca,San Sebastian,2025-02-05 00:00:00,2.0,25020,H,,MN,Parto
+2496,2021,rabo podrido,Vaca,San Sebastian,2025-02-05 00:00:00,4.0,25021,H,,MN,Parto
+2497,4095,cara sucia,Vaca,San Sebastian,2025-02-07 00:00:00,4.0,25022,M,,MN,Parto
+2498,3132,canelita 2,Vaca,San Sebastian,2025-02-07 00:00:00,3.0,25023,H,,MN,Parto
+2499,4035,blanca flor,Vaca,San Sebastian,2025-02-11 00:00:00,4.0,25024,H,,MN,Parto
+2500,5007,maravilla,Vaca,San Sebastian,2025-02-11 00:00:00,2.0,25025,H,,MN,Parto
+2501,0320,,Vaca,San Sebastian,2025-02-11 00:00:00,2.0,25026,M,,MN,Parto
+2502,2209A,lunita,Vaca,San Sebastian,2025-02-11 00:00:00,3.0,25027,M,,MN,Parto
+2503,2096,gaviota,Vaca,San Sebastian,2025-02-11 00:00:00,3.0,25028,M,,MN,Parto
+2504,0322,,Vaca,San Sebastian,2025-02-12 00:00:00,2.0,25030,M,,MN,Parto
+2505,J841,,Vaca,San Sebastian,2025-02-12 00:00:00,1.0,J25031,M,,MN,Parto
+2506,3084,tigra,Vaca,Caño Arena,2025-01-31 00:00:00,2.0,25032,H,,MN,Parto
+2507,1065,,Vaca,Caño Arena,2025-01-31 00:00:00,1.0,25033,M,,MN,Parto
+2508,0263,,Vaca,Caño Arena,2025-02-12 00:00:00,1.0,25029,H,,MN,Parto
+2509,9058,año nuevo,Vaca,San Sebastian,2025-02-17 00:00:00,2.0,25034,M,,MN,Parto
+2510,1139A,motica,Vaca,San Sebastian,2025-02-17 00:00:00,3.0,25035,H,,MN,Parto
+2511,1188,,Vaca,San Sebastian,2025-02-20 00:00:00,1.0,25036,M,,MN,Parto
+2512,4099,,Vaca,San Sebastian,2025-02-21 00:00:00,3.0,25037,H,,MN,Parto
+2513,1059,,Vaca,Caño Arena,2025-02-23 00:00:00,1.0,25038,M,,MN,Parto
+2514,0220,,Vaca,San Sebastian,2025-02-25 00:00:00,2.0,25039,M,,MN,Parto
+2515,5150,,Vaca,San Sebastian,2025-02-27 00:00:00,3.0,25040,M,,MN,Parto
+2516,0303,,Vaca,La Parcela,2025-02-07 00:00:00,2.0,25041,H,,MN,Parto
+2517,0314,,Vaca,La Parcela,2025-02-28 00:00:00,2.0,25042,M,,MN,Parto
+2518,9503,,Vaca,La Parcela,2025-03-01 00:00:00,2.0,25043,M,,MN,Parto
+2519,1043A,,Vaca,Caño Arena,2025-03-01 00:00:00,1.0,25044,M,,MN,Parto
+2520,1094,,Vaca,Caño Arena,2025-03-01 00:00:00,1.0,25045,H,,MN,Parto
+2521,2090A,guacharaca ,Vaca,San Sebastian,2025-03-05 00:00:00,3.0,25046,H,,MN,Parto
+2522,7076,uvita,Vaca,San Sebastian,2025-03-05 00:00:00,2.0,25047,H,,MN,Parto
+2523,6067,mariposa,Vaca,San Sebastian,2025-03-05 00:00:00,4.0,25048,M,,MN,Parto
+2524,J424,,Vaca,San Sebastian,2025-03-03 00:00:00,1.0,J25049,H,,MN,Parto
+2525,6035,mikaela,Vaca,San Sebastian,2025-03-07 00:00:00,3.0,25050,M,,MN,Parto
+2526,8014,,Vaca,San Sebastian,2025-03-07 00:00:00,3.0,25051,M,,MN,Parto
+2527,7007,,Vaca,San Sebastian,2025-03-11 00:00:00,2.0,25052,M,,MN,Parto
+2528,0226,,Vaca,San Sebastian,2025-03-14 00:00:00,2.0,25053,H,,MN,Parto
+2529,2062,fondo blanco,Vaca,San Sebastian,2025-03-16 00:00:00,3.0,25054,H,,MN,Parto
+2530,9099,,Vaca,San Sebastian,2025-03-20 00:00:00,2.0,25055,M,,MN,Parto
+2531,8037,,Vaca,San Sebastian,2025-03-20 00:00:00,2.0,25056,H,,MN,Parto
+2532,0233,,Vaca,San Sebastian,2025-03-24 00:00:00,2.0,25057,M,,MN,Mortinato
+2533,0201,,Vaca,San Sebastian,2025-03-25 00:00:00,2.0,25058,H,,MN,Parto
+2534,7083,margarita,Vaca,San Sebastian,2025-03-26 00:00:00,3.0,25059,M,,MN,Parto
+2535,40072,flor de mayo,Vaca,San Sebastian,2025-03-26 00:00:00,2.0,25060,H,,MN,Parto
+2536,8030,,Vaca,San Sebastian,2025-03-28 00:00:00,3.0,25061,H,,MN,Parto
+2537,4079,maniña,Vaca,San Sebastian,2025-03-30 00:00:00,3.0,25062,M,,MN,Parto
+2538,1168,pan de azucar,Vaca,San Sebastian,2025-03-31 00:00:00,4.0,25063,H,,MN,Parto
+2539,3043,punto fijo,Vaca,San Sebastian,2025-03-31 00:00:00,3.0,25064,H,,MN,Parto
+2540,3015,,Vaca,San Sebastian,2025-04-01 00:00:00,3.0,25065,H,,MN,Parto
+2541,8079,doña maria,Vaca,San Sebastian,2025-04-02 00:00:00,3.0,25066,H,,MN,Parto
+2542,1004,cara linda,Vaca,San Sebastian,2025-04-03 00:00:00,2.0,25067,M,,MN,Parto
+2543,2050,fabiola,Vaca,San Sebastian,2025-04-04 00:00:00,4.0,25068,H,,MN,Parto
+2544,8011,paraparo,Vaca,San Sebastian,2025-04-07 00:00:00,2.0,25069,M,,MN,Parto
+2545,1091,,Vaca,San Sebastian,2025-04-07 00:00:00,1.0,25070,M,,MN,Parto
+2546,2061,,Vaca,Caño Arena,2025-04-09 00:00:00,1.0,25071,H,,MN,Parto
+2547,1096,sufrida,Vaca,San Sebastian,2025-04-09 00:00:00,1.0,25072,H,,MN,Mortinato
+2548,8051,rata blanca,Vaca,San Sebastian,2025-04-10 00:00:00,3.0,25073,M,,MN,Parto
+2549,1100B,osito,Vaca,Caño Arena,2025-04-11 00:00:00,1.0,25074,M,,MN,Parto
+2550,5060,rebelde,Vaca,San Sebastian,2025-04-15 00:00:00,2.0,25075,H,,MN,Parto
+2551,1075,,Vaca,San Sebastian,2025-04-16 00:00:00,1.0,25076,H,,MN,Parto
+2552,2035A,,Vaca,San Sebastian,2025-04-13 00:00:00,1.0,25077,H,,MN,Parto
+2553,1056A,,Vaca,San Sebastian,2025-04-19 00:00:00,3.0,25078,M,,MN,Parto
+2554,2042,,Vaca,San Sebastian,2025-04-19 00:00:00,1.0,25079,M,,MN,Mortinato
+2555,6020,,Vaca,San Sebastian,2025-04-15 00:00:00,3.0,25080,H,,MN,Parto
+2556,20,,Vaca,San Sebastian,2025-04-22 00:00:00,1.0,25081,H,,MN,Parto
+2557,8028,,Vaca,San Sebastian,2025-04-23 00:00:00,3.0,25082,H,,MN,Parto
+2558,4141,,Vaca,San Sebastian,2025-04-24 00:00:00,3.0,25083,M,,MN,Parto
+2559,4A,,Vaca,San Sebastian,2025-04-24 00:00:00,3.0,25084,M,,MN,Parto
+2560,91091,,Vaca,San Sebastian,2025-04-24 00:00:00,2.0,25085,H,,MN,Parto
+2561,0326,,Vaca,San Sebastian,2025-04-24 00:00:00,2.0,25086,H,,MN,Parto
+2562,0240,,Vaca,San Sebastian,2025-04-28 00:00:00,1.0,25087,H,,MN,Parto
+2563,0299A,,Vaca,San Sebastian,2025-04-28 00:00:00,1.0,25088,M,,MN,Parto
+2564,6043,rosita,Vaca,San Sebastian,2025-04-28 00:00:00,3.0,25089,H,,MN,Parto
+2565,7033,mina de oro,Vaca,San Sebastian,2025-04-28 00:00:00,2.0,25090,H,,MN,Parto
+2566,9389,zamura,Vaca,San Sebastian,2025-04-28 00:00:00,2.0,25091,M,,MN,Parto
+2567,2500,,Vaca,La Parcela,2025-04-30 00:00:00,1.0,25092,H,,MN,Mortinato
+2568,6031,,Vaca,San Sebastian,2025-04-30 00:00:00,3.0,25093,M,,MN,Parto
+2569,0305,,Vaca,La Parcela,2025-04-30 00:00:00,2.0,25094,M,,MN,Mortinato
+2570,0202,berta,Vaca,San Sebastian,2025-04-30 00:00:00,2.0,25095,M,,MN,Parto
+2571,0350,,Vaca,San Sebastian,2025-04-30 00:00:00,1.0,25096,M,,MN,Parto
+2572,1132,,Vaca,San Sebastian,2025-05-01 00:00:00,1.0,25097,M,,MN,Parto
+2573,2146,,Vaca,San Sebastian,2025-04-26 00:00:00,1.0,25098,M,,MN,Parto
+2574,8050,rosa blanca,Vaca,San Sebastian,2025-05-03 00:00:00,3.0,25099,H,,MN,Parto
+2575,5052,manzanita,Vaca,San Sebastian,2025-05-04 00:00:00,3.0,25100,H,,MN,Parto
+2576,1005,,Vaca,San Sebastian,2025-05-04 00:00:00,2.0,25101,H,,MN,Parto
+2577,1015A,,Vaca,San Sebastian,2025-05-05 00:00:00,1.0,25102,H,,MN,Parto
+2578,10431,,Vaca,San Sebastian,2025-05-06 00:00:00,1.0,25103,H,,MN,Parto
+2579,1104A,,Vaca,San Sebastian,2025-05-11 00:00:00,1.0,25105,H,,MN,Parto
+2580,3027A,compotica,Vaca,San Sebastian,2025-05-08 00:00:00,3.0,25104,H,,MN,Parto
+2581,0338,domitila,Vaca,San Sebastian,2025-05-14 00:00:00,2.0,25106,H,,MN,Parto
+2582,3178,,Vaca,San Sebastian,2025-05-15 00:00:00,3.0,25108,H,,MN,Parto
+2583,2234,taparita,Vaca,San Sebastian,2025-05-15 00:00:00,4.0,25109,M,,MN,Parto
+2584,1109B,,Vaca,San Sebastian,2025-05-14 00:00:00,1.0,25110,M,,MN,Parto
+2585,2203,,Vaca,San Sebastian,2025-05-17 00:00:00,1.0,25111,M,,MN,Parto
+2586,0208A,embrion puro,Vaca,San Sebastian,2025-05-17 00:00:00,1.0,25112,H,,MN,Parto
+2587,2073,morena,Vaca,San Sebastian,2025-05-17 00:00:00,4.0,25113,M,,MN,Parto
+2588,1090A,,Vaca,San Sebastian,2025-05-19 00:00:00,3.0,25114,M,,MN,Parto
+2589,5098,,Vaca,San Sebastian,2025-05-19 00:00:00,3.0,25115,M,,MN,Parto
+2590,9011,,Vaca,San Sebastian,2025-05-19 00:00:00,2.0,25116,M,,MN,Parto
+2591,4033,,Vaca,San Sebastian,2025-05-20 00:00:00,3.0,25117,M,,MN,Parto
+2592,9014,,Vaca,San Sebastian,2025-05-20 00:00:00,2.0,25118,H,,MN,Parto
+2593,4008,,Vaca,San Sebastian,2025-05-20 00:00:00,2.0,25119,M,,MN,Parto
+2594,8085,,Vaca,San Sebastian,2025-05-20 00:00:00,2.0,25120,M,,MN,Parto
+2595,33,,Vaca,San Sebastian,2025-05-20 00:00:00,2.0,25121,M,,MN,Parto
+2596,0343,,Vaca,San Sebastian,2025-05-24 00:00:00,2.0,25122,H,,MN,Parto
+2597,0241,,Vaca,San Sebastian,2025-05-24 00:00:00,2.0,25123,M,,MN,Parto
+2598,8094,,Vaca,San Sebastian,2025-05-25 00:00:00,3.0,25124,M,,MN,Parto
+2599,12164,,Vaca,San Sebastian,2025-05-29 00:00:00,3.0,25125,M,,MN,Parto
+2600,2219,paraulata,Vaca,San Sebastian,2025-05-29 00:00:00,3.0,25126,H,,MN,Parto
+2601,9113,mireya,Vaca,San Sebastian,2025-05-30 00:00:00,2.0,25127,H,,MN,Parto
+2602,2133A,paso doble,Vaca,San Sebastian,2025-05-30 00:00:00,3.0,25128,H,,MN,Parto
+2603,EMB 2,josefa,Vaca,San Sebastian,2025-06-02 00:00:00,3.0,25129,M,,MN,Parto
+2604,5146,pata quebrada,Vaca,San Sebastian,2025-06-03 00:00:00,3.0,25130,M,,MN,Parto
+2605,J425,,Vaca,San Sebastian,2025-06-04 00:00:00,1.0,J25132,M,,MN,Parto
+2606,3003A,blanca nieves,Vaca,San Sebastian,2025-06-05 00:00:00,4.0,25133,M,,MN,Parto
+2607,4078,,Vaca,San Sebastian,2025-05-14 00:00:00,2.0,25107,M,,MN,Parto
+2608,5076,,Vaca,San Sebastian,2025-06-05 00:00:00,3.0,25134,M,,MN,Parto
+2609,9071,,Vaca,San Sebastian,2025-06-08 00:00:00,3.0,25135,M,,MN,Parto
+2610,9091,colorin,Vaca,San Sebastian,2025-06-03 00:00:00,2.0,25131,M,,MN,Parto
+2611,0291,,Vaca,San Sebastian,2025-06-09 00:00:00,2.0,25136,H,,MN,Parto
+2612,6028,,Vaca,San Sebastian,2025-06-12 00:00:00,2.0,25137,M,,MN,Parto
+2613,7080,,Vaca,San Sebastian,2025-06-14 00:00:00,3.0,25138,H,,MN,Parto
+2614,0329,,Vaca,San Sebastian,2025-06-16 00:00:00,2.0,25139,M,,MN,Parto
+2615,31,,Vaca,San Sebastian,2025-06-18 00:00:00,2.0,25140,M,,MN,Parto
+2616,2018,,Vaca,San Sebastian,2025-06-18 00:00:00,1.0,25141,H,,MN,Parto
+2617,5079,,Vaca,San Sebastian,2025-06-20 00:00:00,3.0,25142,H,,MN,Parto
+2618,7077,,Vaca,San Sebastian,2025-06-20 00:00:00,3.0,25143,M,,MN,Parto
+2619,SNA,cacho zurdo,Vaca,San Sebastian,2025-06-20 00:00:00,4.0,25144,M,,MN,Parto
+2620,8033,guariqueña,Vaca,San Sebastian,2025-06-19 00:00:00,3.0,25145,H,,MN,Parto
+2621,0128,,Vaca,San Sebastian,2022-07-15 00:00:00,1.0,2159,M,,,Parto
+2622,0132,carbon,Vaca,San Sebastian,2022-01-15 00:00:00,1.0,2010,M,,,Parto
+2623,0500,tiburona,Vaca,San Sebastian,2021-12-08 00:00:00,1.0,1069A,M,,MN,Parto
+2624,1015,la chinga,Vaca,San Sebastian,2022-07-15 00:00:00,1.0,2169,H,,MN,Parto
+2625,1066A,biscocho,Vaca,San Sebastian,2022-01-15 00:00:00,1.0,2066,H,,IA,Parto
+2626,1168,pan de azucar,Vaca,San Sebastian,2022-03-11 00:00:00,1.0,2021,H,,MN,Parto
+2627,2021,rabo podrido,Vaca,San Sebastian,2022-01-12 00:00:00,1.0,2002,H,,,Parto
+2628,2028A,cucaracho,Vaca,San Sebastian,2022-01-11 00:00:00,1.0,2001,M,,,Parto
+2629,2047,mal tiempo,Vaca,San Sebastian,2022-06-15 00:00:00,1.0,2173,M,,,Parto
+2630,2050,fabiola,Vaca,San Sebastian,2022-06-15 00:00:00,1.0,2140,H,,MN,Parto
+2631,2062,fondo blanco,Vaca,San Sebastian,2021-02-15 00:00:00,1.0,1043,M,,MN,Parto
+2632,2063A,cacho e gusano,Vaca,San Sebastian,2021-03-15 00:00:00,1.0,1059,H,,MN,Parto
+2633,2064A,,Vaca,San Sebastian,2021-11-19 00:00:00,1.0,1060,M,,MN,Parto
+2634,2073,morena,Vaca,San Sebastian,2021-12-26 00:00:00,1.0,1074,H,,MN,Parto
+2635,2080,blanquita1,Vaca,San Sebastian,2021-11-28 00:00:00,1.0,1063,H,,MN,Parto
+2636,2083,tesoro,Vaca,San Sebastian,2022-07-15 00:00:00,1.0,2144,H,,MN,Parto
+2637,2124A,luisa,Vaca,San Sebastian,2022-05-15 00:00:00,1.0,2138,H,,MN,Parto
+2638,2130,veratris,Vaca,San Sebastian,2021-12-17 00:00:00,1.0,1068,M,,MN,Parto
+2639,2143,catrina,Vaca,San Sebastian,2022-03-07 00:00:00,1.0,2018,H,,MN,Parto
+2640,2149A,camukenga,Vaca,San Sebastian,2022-03-29 00:00:00,1.0,2042,H,,MN,Parto
+2641,2150,cacho abierto,Vaca,San Sebastian,2021-12-22 00:00:00,1.0,1072,M,,,Parto
+2642,2169,topita,Vaca,San Sebastian,2021-09-26 00:00:00,1.0,1046,M,,MN,Parto
+2643,2180A,ceniza,Vaca,San Sebastian,2022-01-17 00:00:00,1.0,2005,M,,MN,Parto
+2644,2196A,peluche,Vaca,San Sebastian,2022-07-15 00:00:00,1.0,22168,M,,MN,Parto
+2645,2208A,manzanare 1,Vaca,San Sebastian,2022-07-15 00:00:00,1.0,22139,H,,MN,Parto
+2646,2219,paraulata,Vaca,San Sebastian,2022-07-15 00:00:00,1.0,22142,H,,MN,Parto
+2647,2220,blanquita,Vaca,San Sebastian,2021-10-20 00:00:00,1.0,1053,M,,MN,Parto
+2648,2226,San Cristobal,Vaca,San Sebastian,2021-10-22 00:00:00,1.0,1055,M,,MN,Parto
+2649,2234,taparita,Vaca,San Sebastian,2022-08-15 00:00:00,1.0,2170,M,,MN,Parto
+2650,2337,soy sola,Vaca,San Sebastian,2021-12-26 00:00:00,1.0,1075,H,,MN,Parto
+2651,3003A,blanca nieves,Vaca,San Sebastian,2022-07-15 00:00:00,1.0,2141,H,,MN,Parto
+2652,3021A,luna llena,Vaca,San Sebastian,2021-10-28 00:00:00,1.0,1058,H,,,Parto
+2653,3024A,sin nombre,Vaca,San Sebastian,2021-12-15 00:00:00,1.0,2007,H,,MN,Parto
+2654,3026A,sardina,Vaca,San Sebastian,2021-09-28 00:00:00,1.0,1047,M,,MN,Parto
+2655,3107,toldita,Vaca,San Sebastian,2022-03-08 00:00:00,1.0,2019,H,,MN,Parto
+2656,3119,campesina,Vaca,San Sebastian,2022-01-27 00:00:00,1.0,2012,H,,MN,Parto
+2657,3120,corotica,Vaca,San Sebastian,2021-11-30 00:00:00,1.0,1067,M,,MN,Parto
+2658,3750,eloiza,Vaca,San Sebastian,2022-01-26 00:00:00,1.0,2011,H,,MN,Parto
+2659,4018,bocanegra,Vaca,San Sebastian,2022-08-15 00:00:00,1.0,22161,H,,MN,Parto
+2660,4035,blanca flor,Vaca,San Sebastian,2021-11-29 00:00:00,1.0,1066,H,,IA,Parto
+2661,4048,marucha2,Vaca,San Sebastian,2022-02-20 00:00:00,1.0,2016,H,,MN,Parto
+2662,4055,campanita,Vaca,San Sebastian,2022-07-15 00:00:00,1.0,2155,M,,MN,Parto
+2663,4065,yoile,Vaca,San Sebastian,2022-01-24 00:00:00,1.0,2009,M,,,Parto
+2664,4087,negra fina,Vaca,San Sebastian,2022-07-15 00:00:00,1.0,2137,H,,MN,Parto
+2665,4095,cara sucia,Vaca,San Sebastian,2022-02-16 00:00:00,1.0,2014,H,,MN,Parto
+2666,4101,reina mora,Vaca,San Sebastian,2022-07-15 00:00:00,1.0,2174,M,,MN,Parto
+2667,4147,viejita,Vaca,San Sebastian,2021-07-15 00:00:00,1.0,2171,H,,MN,Parto
+2668,4151,la que amarro,Vaca,San Sebastian,2022-06-15 00:00:00,1.0,2154,M,,MN,Parto
+2669,5010,saco de hueso,Vaca,San Sebastian,2022-02-15 00:00:00,1.0,2029,M,,,Parto
+2670,5033,nieve,Vaca,San Sebastian,2022-08-15 00:00:00,1.0,2146,H,,MN,Parto
+2671,5679,redonda,Vaca,San Sebastian,2022-08-15 00:00:00,1.0,22158,M,,MN,Parto
+2672,6011,azuleja,Vaca,San Sebastian,2022-07-15 00:00:00,1.0,2145,H,,MN,Parto
+2673,6021,berenjena,Vaca,San Sebastian,2022-07-15 00:00:00,1.0,2153,H,,MN,Parto
+2674,60286,llena el pote,Vaca,San Sebastian,2022-08-15 00:00:00,1.0,22149,H,,MN,Parto
+2675,6043,rosita,Vaca,San Sebastian,2022-09-15 00:00:00,1.0,2172,H,,MN,Parto
+2676,9904,lucerito,Vaca,San Sebastian,2021-10-15 00:00:00,1.0,1051,H,,MN,Parto
+2677,S/NB,mariu,Vaca,San Sebastian,2021-12-24 00:00:00,1.0,1073,H,,MN,Parto
+2678,S/NC,lebron,Vaca,San Sebastian,2021-08-15 00:00:00,1.0,1131,M,,MN,Parto
+2679,SNA,cacho zurdo,Vaca,San Sebastian,2021-09-26 00:00:00,1.0,1045,H,,MN,Parto
+2680,0740,gisela,Vaca,San Sebastian,2022-03-15 00:00:00,1.0,22085,H,,MN,Parto
+2681,2094A,venaita,Vaca,San Sebastian,2021-12-29 00:00:00,1.0,1076,M,,MN,Parto
+2682,2171,mis amores,Vaca,San Sebastian,2021-10-23 00:00:00,1.0,1056,M,,MN,Parto
+2683,3066B,la mocha,Vaca,San Sebastian,2022-08-15 00:00:00,1.0,2162,H,,MN,Parto
+2684,6067,mariposa,Vaca,San Sebastian,2021-09-25 00:00:00,1.0,1044,M,,MN,Parto
+2685,7028,cigarrona,Vaca,San Sebastian,2022-03-25 00:00:00,1.0,2044,M,,,Parto
+2686,1053A,,Vaca,San Sebastian,2025-06-21 00:00:00,1.0,25146,H,,MN,Parto
+2687,J420,,Vaca,San Sebastian,2025-06-21 00:00:00,1.0,J25147,H,,MN,Parto
+2688,0284,,Vaca,San Sebastian,2025-06-25 00:00:00,1.0,25148,M,,MN,Parto
+2689,7072,,Vaca,San Sebastian,2025-06-30 00:00:00,3.0,25149,M,,MN,Parto
+2690,1063,,Vaca,San Sebastian,2025-06-30 00:00:00,1.0,25150,H,,MN,Parto
+2691,0311,,Vaca,La Parcela,2025-06-08 00:00:00,2.0,25151,M,,MN,Parto
+2692,0304,,Vaca,La Parcela,2025-04-15 00:00:00,2.0,25152,M,,MN,Parto
+2693,0018,,Vaca,San Sebastian,2025-07-01 00:00:00,2.0,25153,H,6020,MN,Parto
+2694,8063,,Vaca,San Sebastian,2025-07-02 00:00:00,4.0,25154,M,,MN,Parto
+2695,2201,,Vaca,San Sebastian,2025-07-02 00:00:00,1.0,25155,H,6020,MN,Parto
+2696,pend41,,Vaca,La Parcela,2025-03-15 00:00:00,1.0,pend49,M,,MN,Parto
+2697,pend35,,Vaca,La Parcela,2025-06-13 00:00:00,2.0,pend50,M,,MN,Parto
+2698,3021A,,Vaca,San Sebastian,2025-07-04 00:00:00,4.0,25156,H,6020,MN,Parto
+2699,BU316,,Bufala,Caño Arena,2025-07-03 00:00:00,2.0,BU2502,H,,MN,Parto
+2700,9051,garcita,Vaca,San Sebastian,2025-05-30 00:00:00,3.0,25160,M,,MN,Mortinato
+2701,0298A,almendron,Vaca,San Sebastian,2025-07-06 00:00:00,2.0,25157,M,,MN,Parto
+2702,0272,la guara,Vaca,San Sebastian,2025-07-08 00:00:00,2.0,25158,H,,MN,Parto
+2703,2014,,Vaca,San Sebastian,2025-07-08 00:00:00,1.0,25159,H,,MN,Parto
+2704,BU004,carmencita,Bufala,Caño Arena,2025-07-05 00:00:00,2.0,BU2503,H,,MN,Parto
+2705,BU048,,Bufala,Caño Arena,2025-07-09 00:00:00,1.0,BU2504,H,,MN,Parto
+2706,8062,cara de queso,Vaca,San Sebastian,2025-07-14 00:00:00,2.0,25162,H,,MN,Parto
+2707,0740,gisela,Vaca,San Sebastian,2025-07-14 00:00:00,3.0,25163,H,,MN,Parto
+2708,1102,,Vaca,San Sebastian,2025-07-10 00:00:00,1.0,25161,H,,MN,Parto
+2709,BU347,toldita bufala,Bufala,Caño Arena,2025-07-15 00:00:00,3.0,BU2505,M,,MN,Parto
+2710,BU335,vieja loca,Bufala,Caño Arena,2025-07-18 00:00:00,2.0,BU2506,M,,MN,Parto
+2711,BU082,siempre niña,Bufala,Caño Arena,2025-07-18 00:00:00,1.0,BU2507,H,,MN,Parto
+2712,BU351,cartagena,Bufala,Caño Arena,2025-07-19 00:00:00,3.0,BU2508,M,,MN,Parto
+2713,1097B,,Vaca,Caño Arena,2025-07-19 00:00:00,1.0,25164,H,,MN,Parto
+2714,BU106,zamura,Bufala,Caño Arena,2025-07-20 00:00:00,3.0,BU2509,H,,MN,Parto
+2715,BU332,sota de oro,Bufala,Caño Arena,2025-07-20 00:00:00,3.0,BU2510,H,,MN,Parto
+2716,BU344,tamborita,Bufala,Caño Arena,2025-07-22 00:00:00,3.0,BU2511,H,,MN,Parto
+2717,9006,pegazo,Vaca,San Sebastian,2025-07-22 00:00:00,2.0,25165,M,,MN,Parto
+2718,0297,,Vaca,San Sebastian,2025-07-22 00:00:00,1.0,25166,M,,MN,Parto
+2719,EMB 5,mama juana,Vaca,San Sebastian,2025-07-25 00:00:00,3.0,25167,H,,MN,Parto
+2720,2047,mal tiempo,Vaca,San Sebastian,2025-07-26 00:00:00,4.0,25168,H,,MN,Parto
+2721,2095,,Vaca,San Sebastian,2025-07-27 00:00:00,1.0,25169,H,,MN,Parto
+2722,9037,chilindrina,Vaca,San Sebastian,2025-07-27 00:00:00,2.0,25170,H,,MN,Parto
+2723,BU324,,Bufala,Caño Arena,2025-07-23 00:00:00,1.0,BU2512,H,,MN,Parto
+2724,BU346,palmasola,Bufala,Caño Arena,2025-07-28 00:00:00,2.0,BU2513,H,,MN,Parto
+2725,BU053,giorgina,Bufala,Caño Arena,2025-07-29 00:00:00,2.0,BU2514,M,,MN,Parto
+2726,BU340,negralinda,Bufala,Caño Arena,2025-07-30 00:00:00,2.0,BU2515,H,,MN,Parto
+2727,0313,,Vaca,San Sebastian,2025-08-02 00:00:00,1.0,25171,H,,MN,Parto
+2728,0310,,Vaca,La Parcela,2024-08-14 00:00:00,1.0,24078,H,,MN,Parto
+2729,BU320,taparita,Bufala,Caño Arena,2025-08-03 00:00:00,2.0,BU2516,H,,MN,Parto
+2730,BU333,lagunon,Bufala,Caño Arena,2025-08-06 00:00:00,3.0,BU2517,H,,MN,Parto
+2731,1112A,topa,Vaca,San Sebastian,2025-08-09 00:00:00,3.0,25172,H,,MN,Parto
+2732,2097,,Vaca,San Sebastian,2025-08-10 00:00:00,3.0,25173,M,,MN,Parto
+2733,5030,marisol,Vaca,San Sebastian,2025-08-10 00:00:00,2.0,25174,M,,MN,Parto
+2734,2107,,Vaca,San Sebastian,2025-08-11 00:00:00,1.0,25175,M,,MN,Parto
+2735,2064,,Vaca,Caño Arena,2025-08-12 00:00:00,1.0,25176,M,,MN,Parto
+2736,0252,,Vaca,San Sebastian,2025-08-13 00:00:00,1.0,25177,H,,MN,Parto
+2737,4101,reina mora,Vaca,San Sebastian,2025-08-13 00:00:00,4.0,25178,M,,MN,Parto
+2738,0128,plateada,Vaca,San Sebastian,2025-08-13 00:00:00,4.0,25179,H,,MN,Parto
+2739,8026,chispeada,Vaca,San Sebastian,2025-08-16 00:00:00,3.0,25180,H,,MN,Parto
+2740,2111,,Vaca,San Sebastian,2025-08-16 00:00:00,1.0,25181,H,,MN,Parto
+2741,BU035,tiempo de agua,Bufala,Caño Arena,2025-08-18 00:00:00,3.0,BU2518,M,,MN,Parto
+2742,2063A,cacho de gusano,Vaca,San Sebastian,2025-08-20 00:00:00,5.0,25182,M,,MN,Parto
+2743,50501,,Vaca,San Sebastian,2025-08-20 00:00:00,3.0,25183,H,,MN,Parto
+2744,2108,,Vaca,San Sebastian,2025-08-21 00:00:00,1.0,25184,H,,MN,Parto
+2745,9015,reina del sur,Vaca,San Sebastian,2025-08-22 00:00:00,2.0,25185,H,,MN,Parto
+2746,2148A,cara negra,Vaca,San Sebastian,2025-08-24 00:00:00,4.0,25186,M,,MN,Parto
+2747,7074,cacho tornillo,Vaca,San Sebastian,2025-08-24 00:00:00,3.0,25187,M,,MN,Parto
+2748,9501,,Vaca,San Sebastian,2025-08-24 00:00:00,3.0,25188,M,,MN,Parto
+2749,BU076,corokora,Bufala,Caño Arena,2025-08-20 00:00:00,1.0,BU2519,H,,MN,Parto
+2750,30212,diabla,Vaca,San Sebastian,2025-08-25 00:00:00,2.0,25189,M,,MN,Parto
+2751,7012,,Vaca,San Sebastian,2025-08-27 00:00:00,3.0,25190,M,,MN,Parto
+2752,9076,,Vaca,San Sebastian,2025-08-27 00:00:00,2.0,25191,M,,MN,Parto
+2753,8010,,Vaca,San Sebastian,2025-08-27 00:00:00,3.0,25192,H,,MN,Parto
+2754,6021,,Vaca,San Sebastian,2025-08-27 00:00:00,4.0,25193,M,,MN,Parto
+2755,8076,,Vaca,San Sebastian,2025-08-27 00:00:00,2.0,25194,M,,MN,Parto
+2756,8046,,Vaca,San Sebastian,2025-09-02 00:00:00,3.0,25195,H,,MN,Parto
+2757,7028,,Vaca,San Sebastian,2025-09-02 00:00:00,4.0,25196,H,,MN,Parto
+2758,0323,olga lucia,Vaca,San Sebastian,2025-09-02 00:00:00,2.0,25197,H,,MN,Parto
+2759,5082,,Vaca,San Sebastian,2025-09-02 00:00:00,3.0,25198,H,,MN,Parto
+2760,BU036,nube de agua,Bufala,Caño Arena,2025-09-02 00:00:00,3.0,BU2520,M,,MN,Parto
+2761,BU337,mercedita,Bufala,Caño Arena,2025-09-02 00:00:00,3.0,BU2521,H,,MN,Parto
+2762,2059,,Vaca,San Sebastian,2025-09-02 00:00:00,1.0,25199,H,,MN,Parto
+2763,0306,,Vaca,La Parcela,2024-08-15 00:00:00,1.0,0306P,M,,MN,Parto
+2764,0306,,Vaca,San Sebastian,2025-09-07 00:00:00,2.0,25200,H,,MN,Parto
+2765,80882,,Vaca,San Sebastian,2025-09-07 00:00:00,3.0,25201,M,,MN,Parto
+2766,8045,,Vaca,San Sebastian,2025-09-07 00:00:00,3.0,25202,H,,MN,Parto
+2767,BU062,chaparrita,Bufala,Caño Arena,2025-08-20 00:00:00,3.0,BU2522,H,,MN,Parto
+2768,8060,,Vaca,San Sebastian,2025-09-10 00:00:00,3.0,25203,H,,MN,Parto
+2769,2030,,Vaca,San Sebastian,2025-09-10 00:00:00,1.0,25204,M,,MN,Parto
+2770,22172,,Vaca,San Sebastian,2025-09-10 00:00:00,1.0,25205,M,,MN,Parto
+2771,4055,,Vaca,San Sebastian,2025-09-10 00:00:00,4.0,25206,M,,MN,Parto
+2772,BU318,pantera,Bufala,Caño Arena,2025-09-14 00:00:00,1.0,BU2523,H,,MN,Parto
+2773,2196A,,Vaca,San Sebastian,2025-09-10 00:00:00,4.0,25207,H,,MN,Parto
+2774,1095A,,Vaca,San Sebastian,2025-09-10 00:00:00,3.0,25208/25209,H/M,,MN,Parto
+2775,1077A,,Vaca,San Sebastian,2025-09-13 00:00:00,3.0,25210,M,,MN,Parto
+2776,0312,,Vaca,San Sebastian,2025-09-13 00:00:00,2.0,25211,H,,MN,Parto
+2777,4151,,Vaca,San Sebastian,2025-09-13 00:00:00,4.0,25212,H,,MN,Parto
+2778,19,,Vaca,San Sebastian,2025-09-14 00:00:00,2.0,25213,M,,MN,Parto
+2779,1015,,Vaca,San Sebastian,2025-09-14 00:00:00,4.0,25214,M,,MN,Parto
+2780,9500,,Vaca,San Sebastian,2025-09-16 00:00:00,2.0,25215,H,,MN,Parto
+2781,0231A,,Vaca,San Sebastian,2025-09-16 00:00:00,2.0,25216,M,,MN,Parto
+2782,5077,guanota,Vaca,San Sebastian,2025-09-16 00:00:00,3.0,25218,H,,MN,Parto
+2783,8017,,Vaca,San Sebastian,2025-09-16 00:00:00,3.0,25217,H,,MN,Parto
+2784,4018,bocanegra,Vaca,San Sebastian,2025-09-16 00:00:00,4.0,25219,M,,MN,Parto
+2785,9125,golondrina,Vaca,San Sebastian,2025-09-17 00:00:00,2.0,25220,M,,MN,Parto
+2786,8019,ropa sucia,Vaca,San Sebastian,2025-09-21 00:00:00,3.0,25221,M,,MN,Parto
+2787,0349,,Vaca,San Sebastian,2025-09-22 00:00:00,2.0,25223,M,,MN,Parto
+2788,9016,,Vaca,San Sebastian,2025-09-24 00:00:00,2.0,25224,H,,MN,Parto
+2789,9122,,Vaca,San Sebastian,2025-09-22 00:00:00,2.0,25222,M,,MN,Parto
+2790,10391,,Vaca,San Sebastian,2025-09-25 00:00:00,3.0,25225,H,,MN,Parto
+2791,4066,,Vaca,San Sebastian,2025-09-25 00:00:00,3.0,25226,M,,MN,Parto
+2792,2063B,,Vaca,San Sebastian,2025-09-26 00:00:00,1.0,25227,M,,MN,Parto
+2793,2153,,Vaca,San Sebastian,2025-09-27 00:00:00,1.0,25228,M,,MN,Mortinato
+2794,2037,paturra,Vaca,San Sebastian,2025-09-27 00:00:00,2.0,25229,H,,MN,Parto
+2795,9073,cocoemono,Vaca,San Sebastian,2025-09-27 00:00:00,2.0,25230,H,,MN,Parto
+2796,0312,,Vaca,La Parcela,2024-08-15 00:00:00,1.0,24206B,M,,MN,Parto
+2797,0327,,Vaca,San Sebastian,2025-09-29 00:00:00,2.0,25231,H,,MN,Parto
+2798,1032,,Vaca,San Sebastian,2025-09-30 00:00:00,1.0,25232,M,,MN,Parto
+2799,02331,,Vaca,San Sebastian,2025-10-03 00:00:00,2.0,25233,H,,MN,Parto
+2800,4007,,Vaca,San Sebastian,2025-10-06 00:00:00,4.0,25234,H,,MN,Parto
+2801,2048,,Vaca,San Sebastian,2025-10-06 00:00:00,1.0,25235,H,,MN,Parto
+2802,BU348,,Bufala,Caño Arena,2025-09-25 00:00:00,1.0,BU2524,M,,MN,Parto
+2803,BU343,,Bufala,Caño Arena,2025-09-26 00:00:00,3.0,BU2525,M,,MN,Parto
+2804,BU312,,Bufala,Caño Arena,2025-10-03 00:00:00,1.0,BU2526,H,,MN,Parto
+2805,20001,pepa,Vaca,San Sebastian,2025-09-28 00:00:00,1.0,25236,M,,MN,Parto
+2806,8041,,Vaca,San Sebastian,2025-10-07 00:00:00,2.0,25237,M,,MN,Parto
+2807,8006,metralleta,Vaca,San Sebastian,2025-10-10 00:00:00,2.0,25238,H,,MN,Parto
+2808,0246,,Vaca,San Sebastian,2025-10-10 00:00:00,2.0,25239,M,,MN,Parto
+2809,2023,,Vaca,San Sebastian,2025-10-14 00:00:00,1.0,25240,H,,MN,Parto
+2810,9053,uñaegato,Vaca,San Sebastian,2025-10-14 00:00:00,2.0,25241,H,,MN,Parto
+2811,0249,lula,Vaca,San Sebastian,2025-10-15 00:00:00,2.0,25242,M,,MN,Parto
+2812,0333,veronica,Vaca,San Sebastian,2025-10-15 00:00:00,2.0,25243,H,,MN,Parto
+2813,BU341,desengaño,Bufala,San Sebastian,2025-10-14 00:00:00,3.0,BU2527,M,,MN,Parto
+2814,34,,Vaca,San Sebastian,2025-10-16 00:00:00,2.0,25244,H,,MN,Parto
+2815,J422,,Vaca,San Sebastian,2025-10-16 00:00:00,1.0,25245,H,,MN,Mortinato
+2816,0278,,Vaca,San Sebastian,2025-10-16 00:00:00,2.0,25246,M,,MN,Parto
+2817,0258,,Vaca,San Sebastian,2025-10-19 00:00:00,2.0,25247,M,,MN,Parto
+2818,1088A,,Vaca,San Sebastian,2025-10-19 00:00:00,2.0,25248,H,,MN,Parto
+2819,0206A,,Vaca,San Sebastian,2025-10-21 00:00:00,2.0,25249,M,,MN,Parto
+2820,2103,,Vaca,San Sebastian,2025-10-24 00:00:00,1.0,25250,M,,MN,Parto
+2821,7022,,Vaca,San Sebastian,2025-10-26 00:00:00,2.0,25251,M,,MN,Parto
+2822,7017,,Vaca,San Sebastian,2025-10-26 00:00:00,3.0,25252,H,,MN,Parto
+2823,4072,,Vaca,San Sebastian,2025-10-29 00:00:00,3.0,25253,H,,MN,Parto
+2824,9020,,Vaca,San Sebastian,2025-10-29 00:00:00,3.0,25254,H,,MN,Parto
+2825,9116B,,Vaca,San Sebastian,2025-10-29 00:00:00,2.0,25255,H,,MN,Parto
+2826,3026A,,Vaca,San Sebastian,2025-10-29 00:00:00,4.0,25256,M,,MN,Parto
+2827,2052,,Vaca,San Sebastian,2025-10-29 00:00:00,1.0,25257,M,,MN,Parto
+2828,2080,,Vaca,San Sebastian,2025-10-30 00:00:00,4.0,25258,H,,MN,Parto
+2829,2007,,Vaca,San Sebastian,2025-10-30 00:00:00,1.0,25259,H,,MN,Parto
+2830,9126A,,Vaca,San Sebastian,2025-10-30 00:00:00,2.0,25260,H,,MN,Parto
+2831,0206B,,Vaca,San Sebastian,2025-10-31 00:00:00,2.0,25261,M,,MN,Parto
+2832,4109,,Vaca,San Sebastian,2025-10-31 00:00:00,3.0,25262,H,,MN,Parto
+2833,9104,,Vaca,San Sebastian,2025-10-31 00:00:00,2.0,25263,M,,MN,Parto
+2834,BU019,,Bufala,Caño Arena,2025-10-29 00:00:00,3.0,BU2528,H,,MN,Parto
+2835,0271,,Vaca,San Sebastian,2025-11-02 00:00:00,2.0,25264,M,,MN,Parto
+2836,BU349,raspicuin,Bufala,Caño Arena,2025-11-03 00:00:00,3.0,BU2529,H,,MN,Parto
+2837,BU334,alexa,Bufala,Caño Arena,2025-11-05 00:00:00,3.0,BU2530,H,,MN,Parto
+2838,0342,,Vaca,San Sebastian,2025-11-06 00:00:00,2.0,25265,M,,MN,Parto
+2839,8005,,Vaca,San Sebastian,2025-11-06 00:00:00,3.0,25266,H,,MN,Parto
+2840,0111,,Vaca,San Sebastian,2025-11-06 00:00:00,2.0,25267,M,,MN,Parto
+2841,0269,,Vaca,San Sebastian,2025-11-06 00:00:00,2.0,25268,M,,MN,Parto
+2842,0336,,Vaca,San Sebastian,2025-11-09 00:00:00,2.0,25269,H,,MN,Parto
+2843,91172,,Vaca,San Sebastian,2025-11-11 00:00:00,3.0,25270,H,,MN,Parto
+2844,0352,,Vaca,San Sebastian,2025-11-11 00:00:00,2.0,25271,H,,MN,Parto
+2845,4100,,Vaca,San Sebastian,2025-11-11 00:00:00,3.0,25272,M,,MN,Parto
+2846,9046,,Vaca,San Sebastian,2025-09-20 00:00:00,3.0,25273,H,,MN,Parto
+2847,BU339,,Bufala,Caño Arena,2025-11-11 00:00:00,3.0,BU2531,M,,MN,Parto
+2848,BU345,,Bufala,Caño Arena,2025-11-12 00:00:00,3.0,BU2532,H,,MN,Parto
+2849,1045,,Vaca,San Sebastian,2025-11-11 00:00:00,1.0,25274,M,,MN,Parto
+2850,0353,altagracia ,Vaca,San Sebastian,2025-11-14 00:00:00,2.0,25275,M,,MN,Parto
+2851,8077,chiquita,Vaca,San Sebastian,2025-11-14 00:00:00,3.0,25276,M,,MN,Parto
+2852,8061,abrana,Vaca,San Sebastian,2025-11-18 00:00:00,3.0,25277,M,,MN,Parto
+2853,5144,la mona,Vaca,San Sebastian,2025-11-19 00:00:00,4.0,25278,H,,MN,Parto
+2854,2039,claudia,Vaca,San Sebastian,2025-11-19 00:00:00,2.0,25279,M,,MN,Parto
+2855,7059,chinga dos,Vaca,San Sebastian,2025-11-20 00:00:00,3.0,25280,M,,MN,Parto
+2856,5090,chenchena,Vaca,San Sebastian,2025-11-20 00:00:00,4.0,25281,M,,MN,Parto
+2857,9100,,Vaca,San Sebastian,2025-11-20 00:00:00,3.0,25282,H,,MN,Parto
+2858,0107,doble cero,Vaca,San Sebastian,2025-11-21 00:00:00,2.0,25283,H,,MN,Parto
+2859,3066B,la mocha,Vaca,San Sebastian,2025-11-21 00:00:00,4.0,25284,H,,MN,Parto
+2860,22135,,Vaca,San Sebastian,2025-11-22 00:00:00,1.0,25285,H,,MN,Parto
+2861,6037,,Vaca,San Sebastian,2025-11-24 00:00:00,3.0,25286,M,,MN,Parto
+2862,2180A,ceniza,Vaca,San Sebastian,2025-11-12 00:00:00,4.0,25287,H,,MN,Parto
+2863,80272,,Vaca,San Sebastian,2025-11-24 00:00:00,3.0,25288,M,,MN,Parto
+2864,2143,,Vaca,San Sebastian,2025-11-24 00:00:00,4.0,25289,H,,MN,Parto
+2865,2036,,Vaca,San Sebastian,2025-11-24 00:00:00,1.0,25290,H,,MN,Parto
+2866,0330A,,Vaca,San Sebastian,2025-11-24 00:00:00,2.0,25291,M,,MN,Parto
+2867,22144,,Vaca,San Sebastian,2025-11-28 00:00:00,1.0,25292,H,,MN,Parto
+2868,20334,,Vaca,San Sebastian,2025-11-28 00:00:00,4.0,25293,M,,MN,Parto
+2869,0321,,Vaca,San Sebastian,2025-12-03 00:00:00,2.0,25294,M,,MN,Parto
+2870,2093,,Vaca,San Sebastian,2025-12-05 00:00:00,1.0,25295,H,,MN,Parto
+2871,0101,,Vaca,San Sebastian,2025-12-08 00:00:00,2.0,25296,M,,MN,Parto
+2872,3750,,Vaca,San Sebastian,2025-12-08 00:00:00,4.0,25297,M,,MN,Mortinato
+2873,2137,,Vaca,San Sebastian,2025-12-08 00:00:00,1.0,25298,H,,MN,Mortinato
+2874,2024,,Vaca,San Sebastian,2025-12-08 00:00:00,1.0,25299,M,,MN,Parto
+2875,2034,,Vaca,San Sebastian,2025-12-08 00:00:00,1.0,25300,M,,MN,Parto
+2876,3108,,Vaca,San Sebastian,2025-12-11 00:00:00,2.0,25301,M,,MN,Parto
+2877,4076,,Vaca,San Sebastian,2025-12-11 00:00:00,3.0,25302,H,,MN,Parto
+2878,9121,,Vaca,San Sebastian,2025-12-11 00:00:00,2.0,25303,M,,MN,Parto
+2879,0348,,Vaca,San Sebastian,2025-12-11 00:00:00,1.0,25304,M,,MN,Parto
+2880,4048,,Vaca,San Sebastian,2025-12-11 00:00:00,5.0,25305,M,,MN,Parto
+2881,1100A,,Vaca,San Sebastian,2025-12-14 00:00:00,1.0,25306,M,,MN,Parto
+2882,80121,,Vaca,San Sebastian,2025-12-15 00:00:00,3.0,25307,M,,MN,Parto
+2883,1078A,,Vaca,San Sebastian,2025-12-15 00:00:00,4.0,25308,M,,MN,Parto
+2884,4053,,Vaca,San Sebastian,2025-12-15 00:00:00,3.0,25309,H,,MN,Parto
+2885,2140,,Vaca,San Sebastian,2025-12-15 00:00:00,1.0,25310,H,,MN,Parto
+2886,9023,,Vaca,San Sebastian,2025-12-15 00:00:00,3.0,25311,M,,MN,Parto
+2887,0317A,,Vaca,San Sebastian,2025-12-29 00:00:00,1.0,25313,M,,MN,Parto
+2888,22161,,Vaca,San Sebastian,2025-12-29 00:00:00,1.0,25314,M,,MN,Parto
+2889,9115,,Vaca,San Sebastian,2025-12-29 00:00:00,1.0,25315,M,,MN,Parto
+2890,21391,,Vaca,San Sebastian,2025-12-29 00:00:00,1.0,25316,M,,MN,Parto
+2891,2102,,Vaca,San Sebastian,2025-12-29 00:00:00,1.0,25317,H,,MN,Parto
+2892,BU338,,Bufala,Caño Arena,2025-12-31 00:00:00,3.0,BU2533,M,,MN,Parto
+2893,9110A,,Vaca,San Sebastian,2025-12-22 00:00:00,2.0,25312,H,,MN,Mortinato
+2894,22098,,Vaca,San Sebastian,2026-01-02 00:00:00,1.0,26001,M,,MN,Parto
+2895,5679,,Vaca,San Sebastian,2026-01-02 00:00:00,4.0,26002,H,,MN,Mortinato
+2896,2094A,,Vaca,San Sebastian,2026-01-02 00:00:00,5.0,26003,H,,MN,Parto
+2897,22171,,Vaca,San Sebastian,2026-01-04 00:00:00,1.0,26004,M,,MN,Mortinato
+2898,0310,,Vaca,San Sebastian,2026-01-05 00:00:00,3.0,26005,M,,MN,Parto
+2899,0143,,Vaca,San Sebastian,2026-01-05 00:00:00,3.0,26006,H,,MN,Parto
+2900,8096,,Vaca,San Sebastian,2026-01-06 00:00:00,4.0,26007,H,,MN,Parto
+2901,5092,,Vaca,San Sebastian,2026-01-06 00:00:00,3.0,26008,M,,MN,Parto
+2902,4023,,Vaca,San Sebastian,2026-01-06 00:00:00,3.0,26009,H,,MN,Parto
+2903,6008,,Vaca,San Sebastian,2026-01-06 00:00:00,3.0,26010,M,,MN,Parto
+2904,PEND41,,Vaca,San Sebastian,2026-01-06 00:00:00,2.0,26011,M,,MN,Parto
+2905,0259,,Vaca,San Sebastian,2026-01-06 00:00:00,2.0,26012,H,,MN,Parto
+2906,1310,,Vaca,San Sebastian,2026-01-06 00:00:00,4.0,26013,H,,MN,Parto
+2907,4099,,Vaca,San Sebastian,2026-01-07 00:00:00,4.0,26014,H,,MN,Parto
+2908,0332,,Vaca,San Sebastian,2025-12-23 00:00:00,3.0,25318,H,,MN,Parto
+2909,1123,,Vaca,San Sebastian,2025-12-27 00:00:00,2.0,25319,M,,MN,Parto
+2910,9503,,Vaca,San Sebastian,2026-01-04 00:00:00,3.0,26015,H,,MN,Parto
+2911,8082,,Vaca,San Sebastian,2026-01-08 00:00:00,2.0,26016,M,,MN,Parto
+2912,1501,,Vaca,San Sebastian,2026-01-08 00:00:00,2.0,26017,M,,MN,Parto
+2913,1052A,,Vaca,San Sebastian,2026-01-15 00:00:00,1.0,26018,M,,MN,Parto
+2914,9007,,Vaca,San Sebastian,2026-01-15 00:00:00,3.0,26019,H,,MN,Parto
+2915,8048,,Vaca,San Sebastian,2026-01-17 00:00:00,3.0,26020,M,,MN,Parto
+2916,8087,,Vaca,San Sebastian,2026-01-17 00:00:00,3.0,26021,H,,MN,Parto
+2917,0500,tiburona,Vaca,San Sebastian,2026-01-17 00:00:00,4.0,26022,H,,MN,Parto
+2918,22049,,Vaca,San Sebastian,2026-01-19 00:00:00,1.0,26023,H,,MN,Parto
+2919,4172,,Vaca,San Sebastian,2026-01-17 00:00:00,3.0,26024,H,,MN,Parto
+2920,0229,,Vaca,San Sebastian,2026-01-18 00:00:00,3.0,26025,H,,MN,Parto
+2921,0303,,Vaca,San Sebastian,2026-01-18 00:00:00,3.0,26026,H,,MN,Parto
+2922,8093,,Vaca,San Sebastian,2026-01-18 00:00:00,3.0,26027,M,,MN,Parto
+2923,22186,,Vaca,San Sebastian,2026-01-20 00:00:00,1.0,26028,M,,MN,Parto
+2924,4034,,Vaca,San Sebastian,2026-01-20 00:00:00,4.0,26029,M,,MN,Parto
+2925,0298,,Vaca,San Sebastian,2026-01-20 00:00:00,2.0,26030,H,,MN,Parto
+2926,1079,,Vaca,San Sebastian,2026-01-25 00:00:00,2.0,26031,M,,MN,Parto
+2927,9040,,Vaca,San Sebastian,2026-01-26 00:00:00,3.0,26032,H,,MN,Parto
+2928,9024,,Vaca,San Sebastian,2026-01-27 00:00:00,2.0,26033,M,,MN,Parto
+2929,0314,,Vaca,San Sebastian,2026-01-28 00:00:00,3.0,26034,M,,MN,Parto
+2930,2040,,Vaca,San Sebastian,2026-01-29 00:00:00,2.0,26035,M,,MN,Parto
+2931,809,,Vaca,San Sebastian,2026-01-29 00:00:00,3.0,26036,M,,MN,Parto
+2932,J841,,Vaca,San Sebastian,2026-01-29 00:00:00,2.0,26037,M,,MN,Parto
+2933,1073,,Vaca,San Sebastian,2026-01-29 00:00:00,1.0,26038,H,,MN,Parto
+2934,9103,,Vaca,San Sebastian,2026-01-28 00:00:00,2.0,26039,M,,MN,Mortinato
+2935,2109,,Vaca,San Sebastian,2026-02-02 00:00:00,1.0,26040,M,,MN,Parto
+2936,91262,,Vaca,San Sebastian,2026-02-04 00:00:00,3.0,26041,H,,MN,Parto
+2937,0322,,Vaca,San Sebastian,2026-02-04 00:00:00,3.0,26042,H,,MN,Parto
+2938,2083,,Vaca,San Sebastian,2026-02-04 00:00:00,4.0,26043,H,,MN,Parto
+2939,2162,,Vaca,San Sebastian,2026-02-06 00:00:00,1.0,26044,H,,MN,Parto
+2940,2215,,Vaca,San Sebastian,2026-02-05 00:00:00,1.0,26045,H,,MN,Parto
+2941,8043,,Vaca,San Sebastian,2026-02-06 00:00:00,3.0,26046,H,,MN,Parto
+2942,5033,,Vaca,San Sebastian,2026-02-06 00:00:00,4.0,26047,M,,MN,Parto
+2943,0308,,Vaca,San Sebastian,2026-02-06 00:00:00,2.0,26048,H,,MN,Parto
+2944,2011,,Vaca,San Sebastian,2026-02-10 00:00:00,1.0,26049,M,,MN,Parto
+2945,1103,,Vaca,San Sebastian,2026-02-10 00:00:00,1.0,26050,H,,MN,Parto
+2946,22177,,Vaca,San Sebastian,2026-02-10 00:00:00,1.0,26051,H,,MN,Parto
+2947,22119,,Vaca,San Sebastian,2026-02-10 00:00:00,1.0,26052,H,,MN,Parto
+2948,2087,,Vaca,San Sebastian,2026-02-14 00:00:00,1.0,26053,M,,MN,Parto
+2949,2110,,Vaca,San Sebastian,2026-02-14 00:00:00,1.0,26054,H,,MN,Parto
+2950,0267,,Vaca,San Sebastian,2026-02-14 00:00:00,2.0,26055,H,,MN,Parto
+2951,3107,,Vaca,San Sebastian,2026-02-14 00:00:00,4.0,26056,M,,MN,Parto
+2952,j426,,Vaca,San Sebastian,2026-02-14 00:00:00,2.0,26057,M,,MN,Parto
+2953,22160,,Vaca,San Sebastian,2026-02-14 00:00:00,1.0,26058,H,,MN,Parto
+2954,2141,,Vaca,San Sebastian,2026-02-14 00:00:00,1.0,26059,M,,MN,Parto
+2955,8036,,Vaca,San Sebastian,2026-02-15 00:00:00,4.0,26060,H,,MN,Parto
+2956,2220,,Vaca,San Sebastian,2026-02-15 00:00:00,5.0,26061,H,,MN,Parto
+2957,2226,,Vaca,San Sebastian,2026-02-17 00:00:00,5.0,26062,H,,MN,Parto
+2958,2026,,Vaca,San Sebastian,2026-02-17 00:00:00,1.0,26063,H,,MN,Parto
+2959,BU057,entre 4,Bufala,Caño Arena,2026-02-20 00:00:00,3.0,BU26001,H,,MN,Parto
+2960,5007,,Vaca,San Sebastian,2026-02-19 00:00:00,3.0,26064,M,,MN,Parto
+2961,3119,,Vaca,San Sebastian,2025-09-10 00:00:00,,,,,,Aborto
+2962,8054,,Vaca,San Sebastian,2025-08-08 00:00:00,3.0,,,,,Aborto
+2963,J8705,,Vaca,San Sebastian,2025-07-26 00:00:00,,,,,,Aborto
+2964,BU329,peluda,Bufala,Caño Arena,2025-07-03 00:00:00,3.0,,,,MN,Aborto
+2965,9121,,Vaca,San Sebastian,2025-02-10 00:00:00,,,,,,Aborto
+2966,80841,,Vaca,San Sebastian,2025-01-15 00:00:00,,,,,,Aborto
+2967,2034,,Vaca,San Sebastian,2024-11-15 00:00:00,,,,,,Aborto
+2968,9073,,Vaca,San Sebastian,2024-11-01 00:00:00,,,,,,Aborto
+2969,0355,,Vaca,San Sebastian,2024-09-28 00:00:00,,,,,,Aborto
+2970,9018B,,Vaca,San Sebastian,2024-09-15 00:00:00,,,,,,Aborto
+2971,2023,,Vaca,San Sebastian,2024-08-18 00:00:00,,,,,,Aborto
+2972,406,,Vaca,San Sebastian,2024-08-15 00:00:00,,,,,,Aborto
+2973,BU340,,Vaca,Caño Arena,2024-08-08 00:00:00,,,,,,Aborto
+2974,9104,,Vaca,San Sebastian,2024-06-10 00:00:00,,,,,,Aborto
+2975,0215A,,Vaca,San Sebastian,2024-05-23 00:00:00,,,,,,Aborto
+2976,0340A,,Vaca,San Sebastian,2024-03-04 00:00:00,,,,,,Aborto
+2977,0284,,Vaca,San Sebastian,2024-02-17 00:00:00,,,,,,Aborto
+2978,5111,,Vaca,San Sebastian,2024-01-24 00:00:00,,,,,,Aborto
+2979,2028A,,Vaca,San Sebastian,2024-01-11 00:00:00,,,,,,Aborto
+2980,20,,Vaca,San Sebastian,2023-12-30 00:00:00,,,,,,Aborto
+2981,BU023,,Vaca,Caño Arena,2023-12-11 00:00:00,,,,,,Aborto
+2982,9082,,Vaca,San Sebastian,2023-10-31 00:00:00,,,,,,Aborto
+2983,0215A,,Vaca,San Sebastian,2023-10-24 00:00:00,,,,,,Aborto
+2984,4122,,Vaca,San Sebastian,2023-10-13 00:00:00,,,,,,Aborto
+2985,9110A,,Vaca,San Sebastian,2023-08-22 00:00:00,,,,,,Aborto
+2986,3026A,,Vaca,San Sebastian,2023-07-10 00:00:00,,,,,,Aborto
+2987,406,,Vaca,San Sebastian,2023-07-01 00:00:00,,,,,,Aborto
+2988,3108,,Vaca,San Sebastian,2023-06-28 00:00:00,,,,,,Aborto
+2989,3015,,Vaca,San Sebastian,2023-06-08 00:00:00,2.0,,,,,Aborto
+2990,BU023,,Vaca,Caño Arena,2023-05-05 00:00:00,,,,,,Aborto
+2991,7049,,Vaca,San Sebastian,2023-04-15 00:00:00,,,,,,Aborto
+2992,9037,,Vaca,San Sebastian,2023-03-31 00:00:00,,,,,,Aborto
+2993,1089,,Vaca,San Sebastian,2023-03-06 00:00:00,,,,,,Aborto
+2994,0307,,Vaca,San Sebastian,2026-02-20 00:00:00,2.0,26065,M,,MN,Parto
+2995,6067,,Vaca,San Sebastian,2026-02-20 00:00:00,5.0,26066,H,,MN,Parto
+2996,9128B,,Vaca,San Sebastian,2026-02-20 00:00:00,3.0,26067,H,,MN,Parto
+2997,5150,,Vaca,San Sebastian,2026-02-21 00:00:00,4.0,26068,M,,MN,Parto
+2998,2096A,,Vaca,San Sebastian,2026-02-22 00:00:00,1.0,26069,H,,MN,Parto
+2999,2200,,Vaca,San Sebastian,2026-02-23 00:00:00,1.0,26070,M,,MN,Mortinato
+3000,22112,,Vaca,San Sebastian,2026-02-25 00:00:00,1.0,26074,M,,MN,Parto
+3001,22117,,Vaca,San Sebastian,2026-02-26 00:00:00,1.0,26072,M,,MN,Parto
+3002,2088B,,Vaca,San Sebastian,2026-02-28 00:00:00,1.0,26075,H,,MN,Parto
+3003,4035,,Vaca,San Sebastian,2026-02-28 00:00:00,5.0,26076,H,,MN,Parto
+3004,2124A,,Vaca,San Sebastian,2026-02-28 00:00:00,4.0,26077,M,,MN,Parto
+3005,22085,,Vaca,San Sebastian,2026-02-25 00:00:00,1.0,26073,H,,MN,Parto
+3006,0304,,Vaca,San Sebastian,2026-03-06 00:00:00,3.0,26078,M,,MN,Mortinato
+3007,22193,,Vaca,San Sebastian,2026-03-10 00:00:00,1.0,26079,M,,MN,Parto
+3008,8014,,Vaca,San Sebastian,2026-02-25 00:00:00,4.0,26071,M,,MN,Parto
+3009,2500,,Vaca,San Sebastian,2026-03-12 00:00:00,2.0,26080,M,,MN,Parto
+3010,0226,,Vaca,San Sebastian,2026-03-15 00:00:00,3.0,26081,H,,MN,Parto
+3011,2208A,,Vaca,San Sebastian,2026-03-15 00:00:00,4.0,26082,H,,MN,Parto
+3012,8051,,Vaca,San Sebastian,2026-03-15 00:00:00,4.0,26083,H,,MN,Parto
+3013,0220,,Vaca,San Sebastian,2026-03-17 00:00:00,3.0,26084,H,,MN,Parto
+3014,31102,,Vaca,San Sebastian,2026-03-17 00:00:00,4.0,26085,H,,MN,Parto
+3015,50741,,Vaca,San Sebastian,2026-03-17 00:00:00,4.0,26086,H,,MN,Parto
+3016,91171,,Vaca,San Sebastian,2026-03-18 00:00:00,3.0,26087,H,,MN,Parto
+3017,20971,,Vaca,San Sebastian,2026-03-18 00:00:00,1.0,26088,M,,MN,Parto
+3018,22139,,Vaca,San Sebastian,2026-03-20 00:00:00,1.0,26090,M,,MN,Parto
+3019,2002,,Vaca,San Sebastian,2026-03-20 00:00:00,1.0,26091,H,,MN,Parto
+3020,2171,,Vaca,San Sebastian,2026-03-23 00:00:00,5.0,26092,H,,MN,Parto
+3021,2050,,Vaca,San Sebastian,2026-03-23 00:00:00,5.0,26093,H,,MN,Parto
+3022,0305,,Vaca,San Sebastian,2026-03-23 00:00:00,3.0,26094,H,,MN,Parto
+3023,8089,,Vaca,San Sebastian,2026-03-23 00:00:00,3.0,26095,H,,MN,Parto
+3024,22180,,Vaca,San Sebastian,2026-03-24 00:00:00,1.0,26096,M,,MN,Parto
+3025,0355,,Vaca,San Sebastian,2026-03-24 00:00:00,1.0,26097,H,,MN,Parto
+3026,2234,,Vaca,San Sebastian,2026-03-27 00:00:00,5.0,26098,M,,MN,Parto
+3027,pend24,,Vaca,San Sebastian,2026-03-30 00:00:00,1.0,26099,M,,MN,Mortinato
+3028,4141,,Vaca,San Sebastian,2026-04-01 00:00:00,4.0,26100,H,,MN,Parto
+3029,2202,,Vaca,San Sebastian,2026-04-03 00:00:00,1.0,26101,H,,MN,Parto
+3030,1066A,,Vaca,San Sebastian,2026-04-06 00:00:00,4.0,26102,H,,MN,Parto
+3031,2090A,,Vaca,San Sebastian,2026-04-06 00:00:00,4.0,26103,M,,MN,Parto
+3032,5052,,Vaca,San Sebastian,2026-04-07 00:00:00,4.0,26104,M,,MN,Parto
+3033,8030,,Vaca,San Sebastian,2026-04-07 00:00:00,4.0,26105,H,,MN,Parto
+3034,1004,,Vaca,San Sebastian,2026-04-07 00:00:00,3.0,26106,M,,MN,Parto
+3035,23017,,Vaca,San Sebastian,2026-04-08 00:00:00,,,,,MN,Aborto
+3036,2218,,Vaca,San Sebastian,2026-04-10 00:00:00,1.0,26107,H,,MN,Parto
+3037,2066,,Vaca,San Sebastian,2026-04-10 00:00:00,2.0,26108,M,,MN,Parto
+3038,80472,,Vaca,San Sebastian,2026-03-29 00:00:00,3.0,26111,H,,MN,Parto
+3039,91242,,Vaca,San Sebastian,2026-04-11 00:00:00,3.0,26109,M,,MN,Parto
+3040,8079,,Vaca,San Sebastian,2026-04-11 00:00:00,4.0,26110,M,,MN,Parto
+3041,6031,,Vaca,San Sebastian,2026-04-12 00:00:00,4.0,26112,M,,MN,Parto
+3042,0326,,Vaca,San Sebastian,2026-04-12 00:00:00,3.0,26113,H,,MN,Parto
+3043,91091,,Vaca,San Sebastian,2026-04-16 00:00:00,3.0,26114,M,,MN,Parto
+3044,22116,,Vaca,San Sebastian,2026-04-16 00:00:00,1.0,26115,M,,MN,Parto
+3045,22151,,Vaca,San Sebastian,2026-04-16 00:00:00,1.0,26116,H,,MN,Parto
+3046,5098,,Vaca,San Sebastian,2026-04-21 00:00:00,4.0,26117,H,,MN,Parto
+3047,1117,,Vaca,San Sebastian,2026-04-21 00:00:00,4.0,26118,M,,MN,Parto
+3048,1017A,,Vaca,San Sebastian,2026-04-21 00:00:00,2.0,26119,M,,MN,Parto
+3049,22142,,Vaca,San Sebastian,2026-04-21 00:00:00,1.0,26120,H,,MN,Parto
+3050,3027A,,Vaca,San Sebastian,2026-04-21 00:00:00,4.0,26121,M,,MN,Parto
+3051,7061,,Vaca,San Sebastian,2026-04-21 00:00:00,3.0,26122,H,,MN,Parto
+3052,2145,,Vaca,San Sebastian,2026-04-21 00:00:00,1.0,26123,M,,MN,Parto
+3053,4087,,Vaca,San Sebastian,2026-04-22 00:00:00,4.0,26124,M,,MN,Parto
+3054,0132,,Vaca,San Sebastian,2026-04-24 00:00:00,5.0,26125,M,,MN,Parto
+3055,8028,,Vaca,San Sebastian,2026-04-24 00:00:00,4.0,26126,H,,MN,Parto
+3056,22189,,Vaca,San Sebastian,2026-04-24 00:00:00,1.0,26127,M,,MN,Parto
+3057,0294,,Vaca,San Sebastian,2026-04-28 00:00:00,3.0,26128,H,,MN,Parto
+3058,3132,,Vaca,San Sebastian,2026-04-30 00:00:00,4.0,26129,M,,MN,Parto
+3059,35,,Vaca,San Sebastian,2026-05-02 00:00:00,2.0,26130,M,,MN,Parto
+3060,23001,,Vaca,San Sebastian,2026-05-02 00:00:00,1.0,26131,M,,MN,Parto
+3061,3024A,,Vaca,San Sebastian,2026-05-02 00:00:00,5.0,26132,M,,MN,Parto
+3062,8037,,Vaca,San Sebastian,2026-05-02 00:00:00,3.0,26133,M,,MN,Parto
+3063,23016,,Vaca,San Sebastian,2026-05-04 00:00:00,1.0,26134,M,,MN,Parto
+3064,0343,,Vaca,San Sebastian,2026-05-04 00:00:00,3.0,26135,H,,MN,Parto
+3065,1091A,,Vaca,San Sebastian,2026-05-04 00:00:00,3.0,26136,M,,MN,Parto
+3066,6070,,Vaca,San Sebastian,2026-05-04 00:00:00,3.0,26137,H,,MN,Parto
+3067,8033,guariqueña,Vaca,San Sebastian,2026-05-06 00:00:00,4.0,26138,M,,MN,Parto
+3069,0354,,Vaca,San Sebastian,2026-05-07 00:00:00,2.0,26139,H,,MN,Parto
+3070,0291,,Vaca,San Sebastian,2026-05-07 00:00:00,3.0,26140,M,,MN,Parto
+3071,0350,,Vaca,San Sebastian,2026-05-07 00:00:00,2.0,26141,H,,MN,Parto
+3072,23006,,Vaca,San Sebastian,2026-05-08 00:00:00,1.0,26142,H,,MN,Parto
+3073,2072,,Vaca,San Sebastian,2026-05-08 00:00:00,3.0,26143,M,,MN,Parto
+3074,8011,paraparo,Vaca,San Sebastian,2026-05-12 00:00:00,3.0,26144,H,,MN,Parto
+3075,J415,,Vaca,San Sebastian,2026-05-13 00:00:00,1.0,26145,H,,MN,Parto
+3076,9014,,Vaca,San Sebastian,2026-05-13 00:00:00,3.0,26146,H,,MN,Parto
+3077,0311,,Vaca,San Sebastian,2026-05-13 00:00:00,3.0,26147,M,,MN,Parto
+3078,22149,,Vaca,San Sebastian,2026-05-13 00:00:00,1.0,26148,H,,MN,Parto
+3079,2019,,Vaca,San Sebastian,2026-05-13 00:00:00,1.0,26149,H,,MN,Parto
+3080,2073,,Vaca,San Sebastian,2026-05-16 00:00:00,5.0,26150,H,,MN,Parto
+3081,23022,,Vaca,San Sebastian,2026-05-16 00:00:00,1.0,26151,H,,MN,Parto
+3082,22126,,Vaca,San Sebastian,2026-05-20 00:00:00,1.0,26152,H,,MN,Parto
+3083,8086,,Vaca,San Sebastian,2026-05-21 00:00:00,3.0,26153,M,,MN,Parto
+3084,10431,,Vaca,San Sebastian,2026-05-21 00:00:00,2.0,26154,M,,MN,Parto
+3085,0344,,Vaca,San Sebastian,2026-05-21 00:00:00,2.0,26155,M,,MN,Parto
+3086,0202,,Vaca,San Sebastian,2026-05-27 00:00:00,3.0,26156,M,,MN,Parto
+3087,23036,,Vaca,San Sebastian,2026-05-27 00:00:00,1.0,26157,H,,MN,Parto
+3088,7080,,Vaca,San Sebastian,2026-05-27 00:00:00,4.0,26158,M,,MN,Parto
+3089,7072,,Vaca,San Sebastian,2026-05-27 00:00:00,4.0,26159,M,,MN,Parto
+3090,9058,,Vaca,San Sebastian,2026-05-29 00:00:00,3.0,26160,H,,MN,Parto
+3091,7066,,Vaca,San Sebastian,2026-05-29 00:00:00,3.0,26161,H,,MN,Parto
+3092,22105,,Vaca,San Sebastian,2026-03-03 00:00:00,1.0,26089,M,,MN,Parto
+3093,7092,,Vaca,San Sebastian,2026-01-15 00:00:00,3.0,26018A,M,,MN,Mortinato
+3094,23033,,Vaca,San Sebastian,2026-05-31 00:00:00,1.0,26164,M,,MN,Parto
+3095,1053A,,Vaca,San Sebastian,2026-06-01 00:00:00,2.0,26162,H,,MN,Parto
+3096,0274,,Vaca,San Sebastian,2026-06-01 00:00:00,2.0,26163,M,,MN,Parto
+3097,9051,garcita,Vaca,San Sebastian,2026-06-03 00:00:00,4.0,26168,M,,MN,Parto
+3098,7087,,Vaca,San Sebastian,2026-06-03 00:00:00,4.0,26165,M,,MN,Parto
+3099,1074,,Vaca,San Sebastian,2026-06-03 00:00:00,1.0,26166,M,,MN,Parto
+3100,9011,,Vaca,San Sebastian,2026-06-03 00:00:00,3.0,26167,M,,MN,Parto
+3101,0299C,,Vaca,San Sebastian,2026-06-11 00:00:00,2.0,26174,M,,MN,Parto
+3102,9071,,Vaca,San Sebastian,2026-06-15 00:00:00,4.0,,,,MN,Aborto
+3103,22216,,Vaca,San Sebastian,2026-06-14 00:00:00,1.0,26169,H,,MN,Parto
+3104,2047,,Vaca,San Sebastian,2026-06-14 00:00:00,5.0,26170,H,,MN,Parto
+3105,5076,,Vaca,San Sebastian,2026-06-15 00:00:00,4.0,26171,M,,MN,Parto
+3106,0139,,Vaca,San Sebastian,2026-06-15 00:00:00,3.0,26172,H,,MN,Parto
+3107,5079,,Vaca,San Sebastian,2026-06-15 00:00:00,4.0,26173,M,,MN,Parto
+3108,0205,,Vaca,San Sebastian,2026-06-16 00:00:00,2.0,26175,M,,MN,Parto
+3110,2203,,Vaca,San Sebastian,2026-06-17 00:00:00,2.0,26176,H,,MN,Parto
+3111,6020,,Vaca,San Sebastian,2026-02-15 00:00:00,4.0,,,,MN,Aborto
+3112,BU006,,Bufala,Caño Arena,2026-06-22 00:00:00,2.0,BU26002,M,,MN,Parto
+3113,BU332,,Bufala,Caño Arena,2026-06-24 00:00:00,4.0,BU26003,H,,MN,Parto
+3114,BU324,,Bufala,Caño Arena,2026-06-28 00:00:00,2.0,BU26004,H,,MN,Parto
+3115,0299A,,Vaca,San Sebastian,2026-06-16 00:00:00,2.0,26177,M,,MN,Parto
+3116,8074,,Vaca,San Sebastian,2026-07-04 00:00:00,4.0,26178,H,,MN,Mortinato
+3117,8054,,Vaca,San Sebastian,2026-07-04 00:00:00,4.0,26179,H,,,
+3118,4033,,Vaca,San Sebastian,2026-06-30 00:00:00,4.0,26178,H,,MN,Parto
+3119,0329,,Vaca,San Sebastian,2026-07-20 00:00:00,3.0,26180,M,,MN,Parto
+3120,0201,,Vaca,San Sebastian,2026-07-20 00:00:00,3.0,26181,M,,MN,Parto
+3121,9099,,Vaca,San Sebastian,2026-07-22 00:00:00,3.0,26182,M,,MN,Parto
+3122,BU351,cartagena,Bufala,Caño Arena,2026-07-26 00:00:00,4.0,BU26005,H,,MN,Parto
+3123,BU70,,Bufala,Caño Arena,2026-07-29 00:00:00,1.0,BU26006,H,,MN,Parto
+3124,7007,,Vaca,San Sebastian,2026-07-29 00:00:00,3.0,26183,H,,MN,Parto
+3125,1005,,Vaca,San Sebastian,2026-07-29 00:00:00,3.0,26184,H,,MN,Parto
+3126,9500,,Vaca,San Sebastian,2026-07-30 00:00:00,3.0,26185,M,,MN,Parto
+3127,6021,,Vaca,San Sebastian,2026-07-31 00:00:00,5.0,26186,H,,MN,Parto
+3128,7077,topita dos,Vaca,San Sebastian,2026-08-09 00:00:00,4.0,26190,H,,MN,Parto
+3129,33,,Vaca,San Sebastian,2026-08-09 00:00:00,3.0,26187,H,,MN,Parto
+3130,J425,,Vaca,San Sebastian,2026-08-09 00:00:00,2.0,26188,H,,MN,Parto
+3131,BU048,,Bufala,Caño Arena,2026-08-01 00:00:00,2.0,BU26007,M,,MN,Parto
+3132,BU329,,Bufala,Caño Arena,2026-08-04 00:00:00,4.0,BU26008,M,,MN,Parto
+3133,BU348,,Bufala,Caño Arena,2026-08-05 00:00:00,2.0,BU26009,M,,MN,Parto
+3134,BU346,,Bufala,Caño Arena,2026-08-07 00:00:00,3.0,BU26010,H,,MN,Parto
+3135,J424,,Vaca,San Sebastian,2026-08-09 00:00:00,2.0,26189,M,,MN,Parto
+3136,2201,,Vaca,San Sebastian,2026-08-16 00:00:00,2.0,26191,M,,MN,Parto
+3137,1084A,,Vaca,San Sebastian,2026-08-18 00:00:00,2.0,26192,M,,MN,Parto
+3138,BU062,,Bufala,Caño Arena,2026-08-17 00:00:00,4.0,BU26011,H,,MN,Parto
+3139,BU342,,Bufala,Caño Arena,2026-08-17 00:00:00,3.0,BU26012,M,,MN,Parto
+3140,BU340,,Bufala,Caño Arena,2026-08-18 00:00:00,3.0,BU26013,H,,MN,Parto
+3141,BU333,,Bufala,Caño Arena,2026-08-21 00:00:00,4.0,BU26014,H,,MN,Parto
+3142,BU082,,Bufala,Caño Arena,2026-08-22 00:00:00,2.0,BU26015,H,,MN,Parto
+3143,BU344,,Bufala,Caño Arena,2026-08-22 00:00:00,4.0,BU26016,M,,MN,Parto
+3144,BU106,,Bufala,Caño Arena,2026-08-25 00:00:00,4.0,BU26017,M,,MN,Parto
+3145,BU053,,Bufala,Caño Arena,2026-08-28 00:00:00,3.0,BU26018,M,,MN,Parto
+3146,9006,,Vaca,San Sebastian,2026-08-26 00:00:00,3.0,,H,,MN,Aborto
+3147,8045,,Vaca,San Sebastian,2026-08-21 00:00:00,4.0,26193,H,,MN,Parto
+3148,12164,,Vaca,San Sebastian,2026-08-27 00:00:00,4.0,26194,H,,MN,Parto
+3149,2021,,Vaca,San Sebastian,2026-08-31 00:00:00,5.0,26195,H,,MN,Parto
+3150,9015,reina del sur,Vaca,San Sebastian,2026-09-02 00:00:00,3.0,26196,H,,MN,Parto
+3151,2148A,cara negra,Vaca,San Sebastian,2026-09-03 00:00:00,5.0,26197,H,,MN,Parto
+3152,j414,,Vaca,San Sebastian,2026-09-08 00:00:00,1.0,26198,M,,MN,Mortinato
+3153,5146,,Vaca,San Sebastian,2026-09-05 00:00:00,4.0,26199,H,,MN,Parto
+3154,2018,,Vaca,San Sebastian,2026-09-09 00:00:00,2.0,26200,M,,MN,Parto
+3155,1188,,Vaca,San Sebastian,2026-09-10 00:00:00,2.0,26203,H,,MN,Parto
+3156,j01415,,Vaca,San Sebastian,2026-09-09 00:00:00,2.0,26204,H,,MN,Parto
+3157,BU343,,Bufala,Caño Arena,2026-09-12 00:00:00,4.0,BU26019,H,,MN,Parto
+3158,0338,46274,Vaca,San Sebastian,2026-09-09 00:00:00,3.0,26201,M,,MN,Mortinato
+3159,2037,46274,Vaca,San Sebastian,2026-09-09 00:00:00,3.0,26202,M,,MN,Mortinato
+3160,9091,,Vaca,San Sebastian,2026-09-14 00:00:00,3.0,26205,M,,MN,Parto
+3161,1059,,Vaca,San Sebastian,2026-09-14 00:00:00,2.0,26206,H,,MN,Parto
+3162,1023,,Vaca,San Sebastian,2026-09-14 00:00:00,2.0,26207,H,,MN,Parto
+3163,9020,pato real,Vaca,San Sebastian,2026-09-16 00:00:00,4.0,26208,M,,MN,Parto
+3164,4100,,Vaca,San Sebastian,2026-09-17 00:00:00,4.0,26209,M,,MN,Parto
+3165,0327,,Vaca,San Sebastian,2026-09-19 00:00:00,3.0,26210,H,,MN,Parto
+3166,2063A,,Vaca,San Sebastian,2026-09-21 00:00:00,6.0,26211,M,,MN,Parto
+3167,7017,,Vaca,San Sebastian,2026-09-20 00:00:00,4.0,26212,H,,MN,Parto
