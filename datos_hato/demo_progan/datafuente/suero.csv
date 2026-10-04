@@ -1,0 +1,6 @@
+id,fecha,cantidad,hervido_completo,recibe
+1,2026-01-23 00:00:00,440,Completo,Vitico
+2,2026-01-24 00:00:00,520,Completo,Vitico
+3,2026-01-26 00:00:00,950,Completo,Vitico
+4,2026-01-27 00:00:00,100,Completo,Vitico
+5,2026-01-27 00:00:00,200,Hervido,Vitico
