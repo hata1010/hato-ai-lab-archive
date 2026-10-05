@@ -1,0 +1,227 @@
+﻿archivo,campo,filas,vacios,no_vacios,distintos,tipo_observado,ejemplos
+_4cuartos.csv,id,283,0,283,283,ENTERO,1 | 2 | 3 | 4 | 5
+_4cuartos.csv,idem_vaca,283,0,283,273,TEXTO,0128 | 0132 | 0138 | 0500 | 0740
+_4cuartos.csv,fecha,283,27,256,17,TEXTO,2023-09-15 00:00:00 | 2023-09-16 00:00:00 | 2023-09-29 00:00:00 | 2023-10-21 00:00:00 | 2023-11-18 00:00:00
+_4cuartos.csv,_4_cuartos,283,0,283,5,TEXTO,4/4 | -1/4 | -3/4 | -2/4 | -4/4
+abortos.csv,id,39,0,39,39,ENTERO,1 | 2 | 3 | 4 | 5
+abortos.csv,nro_animal,39,0,39,36,TEXTO,1089 | 3015 | 3026A | 3108 | 406
+abortos.csv,fecha_aborto,39,0,39,38,TEXTO,2023-03-06 00:00:00 | 2023-06-08 00:00:00 | 2023-07-10 00:00:00 | 2023-06-28 00:00:00 | 2023-07-01 00:00:00
+abortos.csv,obs,39,22,17,16,TEXTO,aborto a término | aborto en Caño Arenas | borto en Caño Arenas | en laguna SS/ x determinar madre | SE DETERMINO POR PRESENTAR RESTOS DE PLACENTA COLGANDO
+aretes_plasticos.csv,id,386,0,386,386,ENTERO,1 | 2 | 3 | 4 | 5
+aretes_plasticos.csv,idem_vaca,386,0,386,334,TEXTO,0205 | 0299C | 0348 | 1066 | 1075
+aretes_plasticos.csv,arete,386,0,386,324,TEXTO,0205 | C0299 | 0348 | 1066 | 1075
+aretes_plasticos.csv,fecha,386,0,386,34,TEXTO,2024-02-01 00:00:00 | 2024-01-23 00:00:00 | 2024-01-24 00:00:00 | 2024-04-17 00:00:00 | 2024-04-24 00:00:00
+clasificacion_animal.csv,id,260,0,260,260,ENTERO,1 | 2 | 3 | 4 | 5
+clasificacion_animal.csv,nro_animal,260,0,260,260,TEXTO,2196A | 6043 | 2171 | 3021A | 2021
+clasificacion_animal.csv,fecha,260,0,260,1,TEXTO,2023-05-10 00:00:00
+clasificacion_animal.csv,clasificación,260,0,260,8,TEXTO,E | B | R | PB | SPB
+clasificacion_potencial.csv,nro_animal,479,0,479,474,TEXTO,2196A | 6043 | 2171 | 3021A | 2021
+clasificacion_potencial.csv,fecha,479,0,479,3,TEXTO,2024-10-23 00:00:00 | 2025-03-05 00:00:00 | 2026-06-30 00:00:00
+clasificacion_potencial.csv,clasificación,479,0,479,11,TEXTO,Leche | leche y carne | Descarte | Carne | Preñar
+cowpro.csv,id_animal,387,0,387,248,TEXTO,1180 | 1190 | 1207 | 2060 | 0271
+cowpro.csv,fecha,387,0,387,61,TEXTO,2025-04-09 00:00:00 | 2025-04-15 00:00:00 | 2025-04-16 00:00:00 | 2025-05-02 00:00:00 | 2025-04-29 00:00:00
+cowpro.csv,id_cowpro,387,125,262,133,ENTERO,0411 | 0386 | 0358 | 0000 | 0157
+cowpro.csv,nro_chip,387,98,289,203,ENTERO,801098 | 801096 | 801036 | 801018 | 802487
+cowpro.csv,persona_que_coloca_arete,387,159,228,30,TEXTO,Marcel Añez | se le cayo arete | dispositivo dañado | retirado | retirado tenia miasis
+cowpro.csv,persona_que_coloca_chip,387,187,200,6,TEXTO,Sarahys Duran | Duran Sarahys | Alberto | Alberto Linares | Alberto Linarez
+descarte.csv,id_animal,62,0,62,62,TEXTO,0202 | 2037 | 2095 | 22216 | 23051
+descarte.csv,fecha,62,0,62,4,TEXTO,2026-09-29 00:00:00 | 2026-06-25 00:00:00 | 2026-06-20 00:00:00 | 2026-10-01 00:00:00
+descarte.csv,días_de_gracia,62,28,34,9,DECIMAL,0.0 | 150.0 | 30.0 | 60.0 | 45.0
+descarte.csv,obs,62,61,1,1,TEXTO,estaba con bec al pie
+descorne.csv,id,1012,0,1012,1012,ENTERO,1 | 2 | 3 | 4 | 5
+descorne.csv,nro_animal,1012,0,1012,983,TEXTO,1056 | 1109B | 2011A | 2019 | 2114
+descorne.csv,fecha_descorne,1012,0,1012,131,TEXTO,2022-11-28 00:00:00 | 2023-01-23 00:00:00 | 2022-11-30 00:00:00 | 2022-12-01 00:00:00 | 2022-12-14 00:00:00
+descorne.csv,responsable,1012,889,123,21,TEXTO,Sarahys/ Pozuelo | Jose | Pozuelo/ nixon / Sarahys | Juan/ Sarahys | Carlos / Pozuelo
+destetes.csv,id,880,0,880,880,ENTERO,1684 | 1685 | 1686 | 1687 | 1688
+destetes.csv,idem,880,0,880,880,TEXTO,34 | 35 | 0274 | 0343 | 1051
+destetes.csv,fecha__destete,880,0,880,161,TEXTO,2023-04-04 00:00:00 | 2023-04-03 00:00:00 | 2023-02-09 00:00:00 | 2023-05-04 00:00:00 | 2023-02-07 00:00:00
+destetes.csv,peso_destete,880,195,685,136,DECIMAL,293.0 | 273.0 | 214.0 | 126.0 | 135.0
+destetes.csv,ordeño__p_madre,880,192,688,7,TEXTO,p_Madre | ordeño | Ordeño | SUTE | ORDEÑO
+errores_de_pegado.csv,campo0,1,0,1,1,TEXTO,Id
+errores_de_pegado.csv,campo1,1,0,1,1,TEXTO,ID COW PRO:
+errores_de_pegado.csv,campo2,1,0,1,1,TEXTO,Fecha:
+errores_de_pegado.csv,campo3,1,0,1,1,TEXTO,Status:
+errores_de_pegado.csv,campo4,1,0,1,1,TEXTO,Obs:
+errores_de_pegado.csv,campo5,1,0,1,1,TEXTO,actualizado
+errores_de_pegado.csv,campo6,1,0,1,1,TEXTO,error al act
+evaluacion_ordeño.csv,id,6208,0,6208,6208,ENTERO,609 | 610 | 611 | 612 | 613
+evaluacion_ordeño.csv,nro_animal,6208,0,6208,373,TEXTO,80472 | 5077 | EMB 5 | 0128 | 8030
+evaluacion_ordeño.csv,fecha,6208,0,6208,39,TEXTO,2023-11-18 00:00:00 | 2023-11-07 00:00:00 | 2023-10-21 00:00:00 | 2023-09-29 00:00:00 | 2023-09-16 00:00:00
+evaluacion_ordeño.csv,nombre_animal,6208,453,5755,345,TEXTO,catalina | guanota | mama juana | plateada | flor de mayo
+evaluacion_ordeño.csv,peso_leche,6208,0,6208,95,DECIMAL,1.7 | 1.8 | 1.9 | 2.1 | 2.2
+evaluacion_ordeño.csv,ordeñador,6208,2,6206,43,TEXTO,junior | Manuel | Alberto | claudio | Junior
+evaluacion_ordeño.csv,am_pm,6208,0,6208,2,TEXTO,AM | PM
+finca_ubicacion.csv,id,5141,0,5141,5141,ENTERO,1602 | 1603 | 1604 | 1605 | 1606
+finca_ubicacion.csv,nro_animal,5141,0,5141,2363,TEXTO,23223 | 23224 | 23225 | 23226 | 23227
+finca_ubicacion.csv,fecha_ingreso_finca,5141,0,5141,526,TEXTO,2024-08-02 00:00:00 | 2024-07-31 00:00:00 | 2024-01-01 00:00:00 | 2024-01-15 00:00:00 | 2024-06-02 00:00:00
+finca_ubicacion.csv,finca_nombre,5141,0,5141,12,TEXTO,San Sebastian | Muerto | Caño Arena | La parcela | Finca Vecina
+grupo_etareo.csv,id,3552,0,3552,3552,ENTERO,1601 | 1602 | 1603 | 1604 | 1605
+grupo_etareo.csv,nro_animal,3552,0,3552,2358,TEXTO,23236 | 23221 | 23223 | 23224 | 23225
+grupo_etareo.csv,fecha,3552,0,3552,581,TEXTO,2024-07-18 00:00:00 | 2024-08-02 00:00:00 | 2024-01-19 00:00:00 | 2024-04-06 00:00:00 | 2024-05-16 00:00:00
+grupo_etareo.csv,grupo_etareo,3552,0,3552,19,TEXTO,Maute | Becerro | Mauta | Becerra | Novilla
+hierro.csv,nro_animal,1800,0,1800,1731,TEXTO,24119 | 24101 | 24025 | 24091 | 24047
+hierro.csv,fecha,1800,0,1800,58,TEXTO,2024-11-21 00:00:00 | 2024-11-06 00:00:00 | 2024-08-23 00:00:00 | 2023-09-12 00:00:00 | 2023-03-04 00:00:00
+hierro.csv,hierro,1800,0,1800,7,TEXTO,LA | LG | puro/LA | Juan | Osmel
+insumos_acces.csv,id,449,0,449,449,ENTERO,1 | 2 | 3 | 4 | 5
+insumos_acces.csv,fecha_de_ingreso,449,30,419,77,TEXTO,2023-10-16 00:00:00 | 2022-12-01 00:00:00 | 2022-12-16 00:00:00 | 2022-12-20 00:00:00 | 2023-01-15 00:00:00
+insumos_acces.csv,nombre_comercial,449,0,449,253,TEXTO,depar ovulos ginecologicos (10 OVULOS) | PLACENCAL | MARCADOR DE CERA  PARA ANIMAL | PROMOTOR 1 GALON | CIPER-VEEX  1 LTS
+insumos_acces.csv,presentacion,449,17,432,91,TEXTO,1 LTS | 160 gr | 250 CC | 2 ML | 100 gr
+insumos_acces.csv,principio_activo,449,55,394,130,TEXTO,tetraciclina clorhidrata | NO APLICA | VITAMINAS Y AMINOACIDOS | CIPERMETRINA 10% | FOSFATO DE LEVAMISOL
+insumos_acces.csv,fecha_venc,449,173,276,89,TEXTO,2025-05-01 00:00:00 | 2022-12-01 00:00:00 | 2024-10-26 00:00:00 | 2025-03-01 00:00:00 | 2023-01-01 00:00:00
+insumos_acces.csv,cant,449,8,441,43,DECIMAL,2.0 | 10.0 | 3.0 | 1.0 | 6.0
+insumos_acces.csv,lote,449,349,100,88,TEXTO,001-23 | 002-23 | 003-23 | 004-23 | 001-24
+lote.csv,id,7745,0,7745,7745,ENTERO,1616 | 1617 | 1618 | 1619 | 1620
+lote.csv,nro_animal,7745,2,7743,2372,TEXTO,24196 | 24197 | 24181 | 24180 | 24163
+lote.csv,fecha,7745,1,7744,586,TEXTO,2024-07-31 00:00:00 | 2024-08-02 00:00:00 | 2024-08-08 00:00:00 | 2024-02-07 00:00:00 | 2024-01-19 00:00:00
+lote.csv,lote,7745,142,7603,30,TEXTO,BEC ORDÑ | PM LSV | SUTE | MORTINATO | Maute PQ
+mortalidad.csv,id,730,0,730,730,ENTERO,1841 | 1842 | 1843 | 1844 | 1845
+mortalidad.csv,nro_animal,730,0,730,730,TEXTO,24304 | 9032 | 24017 | BU352 | 0223B
+mortalidad.csv,fecha_de_muerte,730,0,730,368,TEXTO,2025-01-19 00:00:00 | 2025-01-20 00:00:00 | 2024-11-02 00:00:00 | 2024-10-30 00:00:00 | 2024-10-22 00:00:00
+mortalidad.csv,causa_de_muerte,730,30,700,256,TEXTO,mal calostrado | quedo pegada en coso del corral | enteritis hemorragica | HEMATOZUARIOS | beneficio programado
+mortalidad.csv,lote,730,0,730,4,TEXTO,MTE | BEN2 | BEN1 | MORTINATO
+mortalidad.csv,grp_et,730,0,730,33,TEXTO,becerra | Vaca | Becerro | Bucerra ord | TORO
+mortalidad.csv,obs,730,333,397,308,TEXTO,el jefe de vaquera la dejo abandonada a su suerte en el coso del corral..  Y se descompenso | descuido de trabajadora Luisana no estar pendiente de ataque de piojos | TQM | murio en vaquera | murio en SS
+mortalidad.csv,prueba_comunidad,730,19,711,3,TEXTO,NO APLICA | SI | NO
+mortalidad.csv,tipo_de_muerte,730,1,729,13,TEXTO,Mal Calostrado | No Infecciosa | Infecciosa | Beneficio Programado | Desconocida
+mortinatos.csv,id,41,0,41,41,ENTERO,29 | 30 | 31 | 32 | 33
+mortinatos.csv,nro_animal,41,0,41,39,TEXTO,6037 | 2340 | 8066 | 8072 | 80921
+mortinatos.csv,fecha_mortinato,41,0,41,38,TEXTO,2024-12-30 00:00:00 | 2024-12-02 00:00:00 | 2024-11-26 00:00:00 | 2024-11-22 00:00:00 | 2024-10-15 00:00:00
+mortinatos.csv,cria_mortinato,41,0,41,41,TEXTO,24301 | 24293 | 24267 | 24257 | 24241
+nacimientos.csv,nro_animal,1866,1,1865,1865,TEXTO,9128B | 0101 | 0107 | 0111 | 0125
+nacimientos.csv,fecha_nac,1866,1,1865,797,TEXTO,2019-07-15 00:00:00 | 2020-07-15 00:00:00 | 2018-07-15 00:00:00 | 2013-07-15 00:00:00 | 2011-07-15 00:00:00
+nacimientos.csv,familia_animal,1866,1,1865,2,TEXTO,Bovinos | Bufalina
+nacimientos.csv,id_madre,1866,562,1304,596,TEXTO,J841 | 3084 | 1065 | 9058 | 1139A
+nacimientos.csv,lugar_de_nac,1866,33,1833,5,TEXTO,San Sebastian | Caño Arena | La Parcela | La parcela | Caño arena
+nacimientos.csv,sexo,1866,36,1830,2,TEXTO,H | M
+observaciones.csv,nro_animal,1888,0,1888,1876,TEXTO,24174 | 25146 | 25172 | 20001 | 24178
+observaciones.csv,observaciones,1888,7,1881,1581,TEXTO,luego de ser declarada muerta el 15/09/24  (muerte emponzoñamiento) reaparecio en La Parcela el 04 de ago 2025. horas de la noche. | criada por girasol | muerto recien nacido en mod 02 reportado por Abraham | vaca comprada a carlos ordeñador 280825/  dice tener 1 parto / esta preñada/ nacio 2020/ | ultimo nro difuso
+ordeño.csv,fecha,4454,0,4454,1369,TEXTO,2026-05-18 00:00:00 | 2026-05-19 00:00:00 | 2026-05-20 00:00:00 | 2026-05-21 00:00:00 | 2026-05-22 00:00:00
+ordeño.csv,lugar,4454,0,4454,2,TEXTO,C.A. | S.S.
+ordeño.csv,lote,4454,364,4090,6,TEXTO,1er_Lote | 2do_Lote | 3er_Lote | RP_Lote | RP_lote
+ordeño.csv,am_pm,4454,0,4454,4,TEXTO,AM | PM | pm | am
+ordeño.csv,cantidad_de_animales,4454,109,4345,103,DECIMAL,12.0 | 102.0 | 52.0 | 14.0 | 13.0
+ordeño.csv,litros,4454,9,4445,422,DECIMAL,38.0 | 290.0 | 158.0 | 266.0 | 48.0
+ordeño.csv,bucerros_ca__y_sutes_ltr,4454,704,3750,27,DECIMAL,0.0 | 2.0 | 1.0 | 4.0 | 3.0
+ordeño.csv,consumo_trabajadores_lts,4454,534,3920,13,DECIMAL,0.0 | 3.0 | 1.0 | 2.0 | 4.0
+ordeño.csv,potrero_origen,4454,271,4183,72,TEXTO,C4 | M10 | M3 | M1 | CA
+ordeño.csv,kg_guardados,4454,3692,762,32,DECIMAL,0.0 | 36.0 | 31.0 | 29.0 | 28.0
+ordeño.csv,kg_entregados,4454,27,4427,420,DECIMAL,38.0 | 290.0 | 158.0 | 266.0 | 48.0
+ordeño.csv,trab1,4454,4034,420,23,TEXTO,Enrique | Miguel | Jose | Florencio | fumigador
+ordeño.csv,trab2,4454,4369,85,12,TEXTO,Alfredo | Florencio | Mirian | Miguel | Alex
+ordeño.csv,trab3,4454,4429,25,7,TEXTO,Luisana | luisana | Miguel | mig/luisana | Josue
+ordeño.csv,obs,4454,4211,243,214,TEXTO,"tamborita y caracol no se ordeñaron/ mala maña bec al pie/ vieja loca destetando | mala maña bec el pie/ caracol no se dejo ordeñar | tamborita y caracol destetaron/ mala maña bec al pie | carcol y mantequilla no se dejaron ordeñ./ mala maña buc al pie | tamborita y caracol dsttndo, mala maña buc al pie"
+pago_personal_2026.csv,id,89,0,89,89,ENTERO,1 | 2 | 3 | 4 | 5
+pago_personal_2026.csv,codigo,89,0,89,23,TEXTO,Alberto | Alfredo CA | Anderson | Carlos | Claudio
+pago_personal_2026.csv,finca,89,0,89,2,TEXTO,SS | CA
+pago_personal_2026.csv,cargo,89,0,89,5,TEXTO,Jefe Vaq | Sup | Obrero | ordeñ | sup
+pago_personal_2026.csv,fecha,89,0,89,11,TEXTO,2026-01-15 00:00:00 | 2026-01-31 00:00:00 | 2026-02-15 00:00:00 | 2026-02-28 00:00:00 | 2026-03-15 00:00:00
+pago_personal_2026.csv,trabajador,89,1,88,25,TEXTO,Alberto Linares | ALFREDO QUINTANA | Anderson | Carlos Rodriguez | carlos Rodriguez
+pago_personal_2026.csv,cedula_nro,89,15,74,19,DECIMAL,18548376.0 | 18129858.0 | 22882274.0 | 22384262.0 | 19562642.0
+pago_personal_2026.csv,bono_p,89,0,89,10,DECIMAL,100.0 | 80.0 | 50.0 | 0.0 | 25.0
+pago_personal_2026.csv,apoyo_corr,89,0,89,6,DECIMAL,0.0 | 10.0 | 15.0 | 5.0 | 50.0
+pago_personal_2026.csv,amance,89,0,89,5,DECIMAL,0.0 | 60.0 | 15.0 | 45.0 | 30.0
+pago_personal_2026.csv,apoyo_plan_s,89,0,89,4,DECIMAL,0.0 | 35.0 | 15.0 | 10.0
+pago_personal_2026.csv,redoble,89,0,89,4,DECIMAL,0.0 | 20.0 | 40.0 | 30.0
+pago_personal_2026.csv,dia_festivo,89,0,89,5,DECIMAL,0.0 | 10.0 | 40.0 | 20.0 | 5.0
+pago_personal_2026.csv,préstamo_personal,89,0,89,1,DECIMAL,0.0
+pago_personal_2026.csv,labor_paralela,89,0,89,3,DECIMAL,0.0 | 10.0 | 20.0
+pago_personal_2026.csv,otro,89,0,89,8,DECIMAL,0.0 | 20.0 | 10.0 | 35.0 | 15.0
+pago_personal_2026.csv,dcto,89,0,89,5,DECIMAL,0.0 | -30.0 | -20.0 | -10.0 | -25.0
+pago_personal_2026.csv,moneda,89,89,0,0,TEXTO,
+pago_personal_2026.csv,en_letras,89,89,0,0,TEXTO,
+pago_personal_2026.csv,obs,89,0,89,31,TEXTO,- | (2137-2140-22161-9110) | (22186) | (22160-2087-22177) | (0307-22112)
+pagos_personal_23_25.csv,id,1171,0,1171,1171,ENTERO,1 | 2 | 3 | 4 | 5
+pagos_personal_23_25.csv,codigo,1171,0,1171,94,TEXTO,Junior | Marlyn | José | Claudio | Carlos
+pagos_personal_23_25.csv,fecha,1171,0,1171,117,TEXTO,2023-12-18 00:00:00 | 2023-12-15 00:00:00 | 2023-12-13 00:00:00 | 2023-11-30 00:00:00 | 2023-11-15 00:00:00
+pagos_personal_23_25.csv,nombre_receptor,1171,0,1171,91,TEXTO,Junior  Gregorio Rios Gonzalez | Moreno Yurma  Marlenny | Moreno Manuel | Claudio Rodriguez | Carlos Rodriguez
+pagos_personal_23_25.csv,cedula_nro,1171,4,1167,72,DECIMAL,23517535.0 | 22887969.0 | 25509266.0 | 0.0 | 22882274.0
+pagos_personal_23_25.csv,concepto,1171,0,1171,546,TEXTO,"bono nocturno guardia de pollos lote 03-23 | prestamo  pagadero enero 2024 | bono cierre de lote 03-23 de pollos | amance ""susana""  ""9007"" | amance ""tigresa""  ""1109A"""
+pagos_personal_23_25.csv,monto,1171,0,1171,46,DECIMAL,10.0 | 40.0 | 20.0 | 15.0 | 30.0
+pagos_personal_23_25.csv,moneda,1171,0,1171,3,TEXTO,USD | UD$ | US$
+pagos_personal_23_25.csv,en_letras,1171,0,1171,47,TEXTO,diez | cuarenta | veinte | quince | treinta
+palpaciones.csv,id,3979,0,3979,3979,ENTERO,1 | 2 | 3 | 4 | 5
+palpaciones.csv,nro_de_animal,3979,0,3979,789,TEXTO,9073 | 7067 | 31102 | 2090A | 5098
+palpaciones.csv,dxp_fecha,3979,0,3979,115,TEXTO,2026-06-25 00:00:00 | 2026-06-22 00:00:00 | 2026-06-09 00:00:00 | 2026-06-05 00:00:00 | 2026-05-27 00:00:00
+palpaciones.csv,tiempo_gestación,3979,2235,1744,11,ENTERO,5 | 3 | 2 | 6 | 10
+palpaciones.csv,cond_corpo,3979,3979,0,0,TEXTO,
+palpaciones.csv,diag_p,3979,0,3979,2,TEXTO,P | V
+palpaciones.csv,observación_dxp,3979,1746,2233,245,TEXTO,"vpp30 | vpp15 | vacia | 3,5 | V"
+palpaciones.csv,fecha_de_servicio,3979,2442,1537,622,TEXTO,2026-01-26 00:00:00 | 2026-04-05 00:00:00 | 2026-04-26 00:00:00 | 2026-04-06 00:00:00 | 2026-01-08 00:00:00
+palpaciones.csv,mes_de_servicio,3979,2240,1739,12,TEXTO,enero | abril | marzo | septiembre | diciembre
+palpaciones.csv,próximo_parto,3979,2442,1537,622,TEXTO,2026-11-07 00:00:00 | 2027-01-15 00:00:00 | 2027-02-05 00:00:00 | 2027-01-16 00:00:00 | 2026-10-20 00:00:00
+palpaciones.csv,mes_de_parto,3979,2240,1739,12,TEXTO,noviembre | enero | febrero | octubre | junio
+partos.csv,id,1385,0,1385,1385,ENTERO,1781 | 1782 | 1783 | 1784 | 1785
+partos.csv,nro_animal,1385,0,1385,607,TEXTO,4033 | 0327 | 9037 | 8063 | 0206B
+partos.csv,nombre,1385,800,585,248,TEXTO,eloiza | cacho abierto | yoile | manzanita | doña maria
+partos.csv,grupo_etario,1385,0,1385,3,TEXTO,Vaca | Bufala | BUFALA
+partos.csv,ubicación,1385,0,1385,6,TEXTO,San Sebastian | Caño Arena | La Parcela | la Parcela | la parcela
+partos.csv,fparto,1385,0,1385,773,TEXTO,2024-03-18 00:00:00 | 2024-03-23 00:00:00 | 2024-03-26 00:00:00 | 2024-03-29 00:00:00 | 2024-03-30 00:00:00
+partos.csv,nro_parto,1385,31,1354,6,DECIMAL,2.0 | 1.0 | 3.0 | 4.0 | 5.0
+partos.csv,cria,1385,37,1348,1347,TEXTO,24085 | 24087 | 24086 | 24088 | 24090
+partos.csv,sexo,1385,36,1349,3,TEXTO,H | M | H/M
+partos.csv,nombre_padre,1385,1355,30,6,TEXTO,MELVIN | CHARMOSO | charmoso | SUPER | 6042
+partos.csv,tipo_de_servicio,1385,362,1023,2,TEXTO,MN | IA
+partos.csv,evento,1385,1,1384,3,TEXTO,Parto | Mortinato | Aborto
+pesaje_de_leche.csv,id,6960,0,6960,6960,ENTERO,1 | 2 | 3 | 4 | 5
+pesaje_de_leche.csv,fecha,6960,0,6960,72,TEXTO,2022-12-01 00:00:00 | 2022-12-16 00:00:00 | 2022-12-17 00:00:00 | 2023-01-06 00:00:00 | 2023-01-13 00:00:00
+pesaje_de_leche.csv,idem,6960,0,6960,423,TEXTO,0128 | 0500 | 0740 | 1015 | 2021
+pesaje_de_leche.csv,lts_de_leche,6960,0,6960,149,DECIMAL,2.0 | 3.0 | 5.0 | 6.0 | 1.0
+pesaje_de_leche.csv,cc,6960,6960,0,0,TEXTO,
+pesaje_de_leche.csv,nro_parto,6960,250,6710,5,DECIMAL,2.0 | 1.0 | 3.0 | 4.0 | 5.0
+pesaje_de_leche.csv,fparto,6960,251,6709,546,TEXTO,2023-05-01 00:00:00 | 2022-11-14 00:00:00 | 2023-06-11 00:00:00 | 2023-05-08 00:00:00 | 2022-10-03 00:00:00
+pesaje_de_leche.csv,dias_en_lactancia,6960,292,6668,492,DECIMAL,17.0 | 59.0 | 24.0 | 52.0 | 56.0
+pesaje_de_leche.csv,tercio_lactancia,6960,292,6668,4,TEXTO,1er tercio lactancia | 4to tercio lactancia | 3er tercio lactancia | 2do tercio lactancia
+peso_romana_kg.csv,id,13176,0,13176,13176,ENTERO,16981 | 16982 | 16983 | 16984 | 16985
+peso_romana_kg.csv,idem,13176,0,13176,2147,TEXTO,26047 | 26049 | 26050 | 26053 | 26055
+peso_romana_kg.csv,fecha,13176,0,13176,525,TEXTO,2026-02-25 00:00:00 | 2026-02-21 00:00:00 | 2026-02-12 00:00:00 | 2026-02-09 00:00:00 | 2026-02-07 00:00:00
+peso_romana_kg.csv,nombre,13176,13176,0,0,TEXTO,
+peso_romana_kg.csv,peso,13176,1,13175,663,DECIMAL,33.0 | 32.0 | 35.0 | 26.0 | 29.0
+pia.csv,id,160,0,160,160,ENTERO,1 | 2 | 3 | 4 | 5
+pia.csv,nro_pia,160,77,83,3,TEXTO,01-23 | 02-23 | 001-24
+pia.csv,nro_de_animal,160,77,83,66,TEXTO,8061 | 9035 | 0233 | 0272 | 7032
+pia.csv,fecha_de_servicio,160,77,83,43,TEXTO,2023-03-08 00:00:00 | 2023-03-09 00:00:00 | 2023-03-10 00:00:00 | 2023-03-11 00:00:00 | 2023-03-14 00:00:00
+pia.csv,hora_de_servicio,160,77,83,56,TEXTO,1899-12-30 16:30:00 | 1899-12-30 05:00:00 | 1899-12-30 13:35:00 | 1899-12-30 13:30:00 | 1899-12-30 08:30:00
+pia.csv,toro__semen_,160,77,83,3,TEXTO,SUPER | MELVIN | CHARMOSO
+pia.csv,practicante,160,77,83,2,TEXTO,abraham | Abraham
+pia.csv,servicio,160,77,83,2,DECIMAL,1.0 | 2.0
+pia.csv,obs,160,158,2,2,TEXTO,cuello quebrado | limo sucio
+sangrado_ps2024.csv,id,422,0,422,422,ENTERO,1 | 2 | 3 | 4 | 5
+sangrado_ps2024.csv,nro_animal,422,0,422,404,TEXTO,1168 | 7076 | 9128B | SNA | TORO5
+sangrado_ps2024.csv,fecha_sangrado,422,0,422,7,TEXTO,2024-05-17 00:00:00 | 2024-05-16 00:00:00 | 2024-05-30 00:00:00 | 2024-06-01 00:00:00 | 2024-05-22 00:00:00
+sangrado_ps2024.csv,idem_muestra,422,0,422,347,TEXTO,24 | 22 | 21 | 25 | 23
+secado.csv,id,887,0,887,887,ENTERO,1 | 2 | 3 | 4 | 5
+secado.csv,nro_animal,887,0,887,467,TEXTO,0132 | 0138 | 0500 | 0740 | 1015
+secado.csv,fecha_secado,887,1,886,183,TEXTO,2022-11-23 00:00:00 | 2022-12-03 00:00:00 | 2022-11-28 00:00:00 | 2023-07-03 00:00:00 | 2023-05-24 00:00:00
+secado.csv,peso_kg_al_secar,887,699,188,129,DECIMAL,515.0 | 365.0 | 466.0 | 295.0 | 291.0
+suero.csv,id,5,0,5,5,ENTERO,1 | 2 | 3 | 4 | 5
+suero.csv,fecha,5,0,5,4,TEXTO,2026-01-23 00:00:00 | 2026-01-24 00:00:00 | 2026-01-26 00:00:00 | 2026-01-27 00:00:00
+suero.csv,cantidad,5,0,5,5,ENTERO,440 | 520 | 950 | 100 | 200
+suero.csv,hervido_completo,5,0,5,2,TEXTO,Completo | Hervido
+suero.csv,recibe,5,0,5,1,TEXTO,Vitico
+tatoo.csv,id,1131,0,1131,1131,ENTERO,415 | 416 | 417 | 418 | 419
+tatoo.csv,nro_animal,1131,0,1131,1109,TEXTO,24184 | 24182 | 24188 | 24185 | 24186
+tatoo.csv,fecha_de_tatuado,1131,107,1024,221,TEXTO,2024-08-07 00:00:00 | 2024-08-06 00:00:00 | 2024-08-03 00:00:00 | 2024-07-24 00:00:00 | 2024-07-22 00:00:00
+tatoo.csv,peso_al_nacer_kg,1131,6,1125,35,DECIMAL,26.0 | 27.0 | 33.0 | 25.0 | 24.0
+tatoo.csv,responsable,1131,1011,120,20,TEXTO,Carlos | sarahys/Jonier | Sarahys | Sarahys/ Nixon | Sarahys/ anderson
+traslados_ext.csv,id,2602,0,2602,2602,ENTERO,1830 | 1831 | 1832 | 1833 | 1834
+traslados_ext.csv,fecha,2602,0,2602,94,TEXTO,2024-07-25 00:00:00 | 2024-07-20 00:00:00 | 2024-04-15 00:00:00 | 2024-04-10 00:00:00 | 2024-07-13 00:00:00
+traslados_ext.csv,idem,2602,0,2602,1129,TEXTO,23227 | 23241 | 24008 | 24011 | 24016
+traslados_ext.csv,origen,2602,0,2602,9,TEXTO,CA | SS | LP | F.V.CA | SIL
+traslados_ext.csv,dest,2602,0,2602,10,TEXTO,SS | CA | LA | F.V.CA | SIL
+traslados_ext.csv,ge,2602,0,2602,30,TEXTO,Becerra | Becerro | Maute | Bec | Vaca
+traslados_ext.csv,raza,2602,198,2404,40,TEXTO,F1/H | GYR | GUZ | GYR/CAR | CAR
+traslados_ext.csv,sexo,2602,0,2602,2,TEXTO,H | M
+traslados_ext.csv,peso,2602,1440,1162,373,ENTERO,92 | 154 | 71 | 88 | 150
+tratamientos.csv,id,11377,0,11377,11377,ENTERO,5414 | 5415 | 5416 | 5417 | 5418
+tratamientos.csv,nro_de_animal,11377,0,11377,2197,TEXTO,24004 | 24007 | 24009 | 24014 | 24017
+tratamientos.csv,fecha,11377,0,11377,157,TEXTO,2024-06-19 00:00:00 | 2024-04-24 00:00:00 | 2024-05-18 00:00:00 | 2024-05-17 00:00:00 | 2024-05-15 00:00:00
+tratamientos.csv,tto,11377,1,11376,334,TEXTO,doramectina | CALBOMAX | ricobendazol/aftosa/rabia | aftosa/ravax/ricobendazol/ | activa- pendiente por Plan Sanitario 2024
+tratamientos.csv,obs,11377,10086,1291,18,TEXTO,"postrada, intenta ponerse de pie infructuosamente | se le practicó cirugía menor | retencion de placenta | cañoarenas ver video | hemotropicos"
+ubicacion_potrero.csv,id,22741,0,22741,22741,ENTERO,5752 | 5753 | 5754 | 5755 | 5756
+ubicacion_potrero.csv,idem,22741,1,22740,2450,TEXTO,23221 | 24024 | 23227 | 23241 | 24008
+ubicacion_potrero.csv,fecha,22741,0,22741,805,TEXTO,2024-07-01 00:00:00 | 2024-04-17 00:00:00 | 2024-04-23 00:00:00 | 2024-04-24 00:00:00 | 2024-04-26 00:00:00
+ubicacion_potrero.csv,modulo,22741,0,22741,49,TEXTO,CACH | C4 | MG | VAQ | MUERTO
+ventas.csv,id_animal,104,0,104,104,TEXTO,0211 | 0224 | 20 | 5013 | 7076
+ventas.csv,fecha,104,0,104,13,TEXTO,2025-08-21 00:00:00 | 2025-03-11 00:00:00 | 2025-03-10 00:00:00 | 2025-01-22 00:00:00 | 2025-01-19 00:00:00
+ventas.csv,tipo,104,0,104,2,TEXTO,En Pie | En Canales
+ventas.csv,obs,104,103,1,1,TEXTO,"se le entrego a Carlos ""quesero"" hijo de pepa"

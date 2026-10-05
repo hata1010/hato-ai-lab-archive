@@ -1,0 +1,73 @@
+import csv
+from pathlib import Path
+
+SALIDA = Path("analisis_37/paso_01_inventario")
+SALIDA.mkdir(parents=True, exist_ok=True)
+
+archivo_salida = SALIDA / "mapa_funcional_37.csv"
+
+mapa = [
+    # archivo, grupo_preliminar, evidencia
+    ("_4cuartos.csv", "Produccion_leche", "idem_vaca, fecha, _4_cuartos"),
+    ("abortos.csv", "Reproduccion", "nro_animal, fecha_aborto, obs"),
+    ("aretes_plasticos.csv", "Identificacion_animal", "idem_vaca, arete, fecha"),
+    ("clasificacion_animal.csv", "Clasificacion_animal", "nro_animal, fecha, clasificacion"),
+    ("clasificacion_potencial.csv", "Clasificacion_animal", "nro_animal, fecha, clasificacion"),
+    ("cowpro.csv", "Identificacion_animal", "id_animal, id_cowpro, nro_chip, fecha"),
+    ("descarte.csv", "Estado_animal", "id_animal, fecha, dias_de_gracia"),
+    ("descorne.csv", "Manejo_animal", "nro_animal, fecha_descorne, responsable"),
+    ("destetes.csv", "Crecimiento_animal", "idem, fecha_destete, peso_destete"),
+    ("errores_de_pegado.csv", "Auxiliar_calidad", "estructura de campos de control/error"),
+    ("evaluacion_ordeño.csv", "Produccion_leche", "nro_animal, fecha, peso_leche, am_pm"),
+    ("finca_ubicacion.csv", "Ubicacion_movimientos", "nro_animal, fecha_ingreso_finca, finca_nombre"),
+    ("grupo_etareo.csv", "Clasificacion_animal", "nro_animal, fecha, grupo_etareo"),
+    ("hierro.csv", "Identificacion_animal", "nro_animal, fecha, hierro"),
+    ("insumos_acces.csv", "Inventario_insumos", "nombre_comercial, presentacion, principio_activo, lote"),
+    ("inventario_cow_pro.csv", "Auxiliar_calidad", "id_cow_pro, status, obs, error_al_act"),
+    ("lote.csv", "Clasificacion_animal", "nro_animal, fecha, lote"),
+    ("mortalidad.csv", "Salud_estado_animal", "nro_animal, fecha_de_muerte, causa_de_muerte"),
+    ("mortinatos.csv", "Reproduccion", "nro_animal, fecha_mortinato, cria_mortinato"),
+    ("nacimientos.csv", "Reproduccion_identificacion", "nro_animal, fecha_nac, id_madre, sexo"),
+    ("observaciones.csv", "Observaciones_animal", "nro_animal, observaciones"),
+    ("ordeño.csv", "Produccion_leche", "fecha, lote, am_pm, cantidad_de_animales, litros"),
+    ("pago_personal_2026.csv", "Personal_pagos", "trabajador, cedula_nro, fecha, conceptos, montos"),
+    ("pagos_personal_23_25.csv", "Personal_pagos", "nombre_receptor, cedula_nro, fecha, concepto, monto"),
+    ("palpaciones.csv", "Reproduccion", "nro_de_animal, dxp_fecha, diag_p, fecha_de_servicio"),
+    ("partos.csv", "Reproduccion", "nro_animal, fparto, nro_parto, cria, tipo_de_servicio"),
+    ("pesaje_de_leche.csv", "Produccion_leche", "idem, fecha, lts_de_leche, nro_parto, dias_en_lactancia"),
+    ("peso_romana_kg.csv", "Peso_crecimiento", "idem, fecha, peso"),
+    ("pia.csv", "Reproduccion", "nro_de_animal, fecha_de_servicio, toro_semen, servicio"),
+    ("sangrado_ps2024.csv", "Salud_muestras", "nro_animal, fecha_sangrado, idem_muestra"),
+    ("secado.csv", "Produccion_leche", "nro_animal, fecha_secado, peso_kg_al_secar"),
+    ("suero.csv", "Produccion_subproducto", "fecha, cantidad, hervido_completo, recibe"),
+    ("tatoo.csv", "Identificacion_animal", "nro_animal, fecha_de_tatuado, peso_al_nacer_kg"),
+    ("traslados_ext.csv", "Ubicacion_movimientos", "idem, fecha, origen, dest, ge, raza, sexo, peso"),
+    ("tratamientos.csv", "Salud", "nro_de_animal, fecha, tto, obs"),
+    ("ubicacion_potrero.csv", "Ubicacion_movimientos", "idem, fecha, modulo"),
+    ("ventas.csv", "Salida_animal", "id_animal, fecha, tipo, obs"),
+]
+
+with open(
+    archivo_salida,
+    "w",
+    newline="",
+    encoding="utf-8-sig"
+) as f:
+
+    writer = csv.writer(f)
+
+    writer.writerow([
+        "archivo",
+        "grupo_preliminar",
+        "evidencia"
+    ])
+
+    writer.writerows(mapa)
+
+print()
+print("==============================================")
+print(" MAPA FUNCIONAL GENERADO")
+print("==============================================")
+print(f"Archivos clasificados: {len(mapa)}")
+print(f"Resultado: {archivo_salida}")
+print("==============================================")
